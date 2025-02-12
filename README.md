@@ -15,6 +15,8 @@
  **Package Version :** webkit2gtk 2.46.6-1~deb12u1
  **Type :** DSA
 
+------------------------------
+
 **2025-02-12** - **[DSA-5864-1](https://security-tracker.debian.org/tracker/DSA-5864-1)** - pam-pkcs11
 
 **CVE(s) :**
@@ -26,6 +28,8 @@
  **Package Version :** pam-pkcs11 0.6.12-1+deb12u1
  **Type :** DSA
 
+------------------------------
+
 **2025-02-11** - **[DLA-4050-1](https://security-tracker.debian.org/tracker/DLA-4050-1)** - bind9
 
 **CVE(s) :**
@@ -35,6 +39,8 @@
  **Package Version :** bind9 1:9.16.50-1~deb11u3
  **Type :** DLA
 
+------------------------------
+
 **2025-02-11** - **[DLA-4049-1](https://security-tracker.debian.org/tracker/DLA-4049-1)** - rust-openssl
 
 **CVE(s) :**
@@ -43,6 +49,8 @@
 **Debian Version :** bullseye
  **Package Version :** rust-openssl 0.10.29-1+deb11u1
  **Type :** DLA
+
+------------------------------
 
 **2025-02-10** - **[DLA-4048-1](https://security-tracker.debian.org/tracker/DLA-4048-1)** - cacti
 
@@ -73,6 +81,8 @@
  **Package Version :** cacti 1.2.16+ds1-2+deb11u5
  **Type :** DLA
 
+------------------------------
+
 **2025-02-10** - **[DSA-5863-1](https://security-tracker.debian.org/tracker/DSA-5863-1)** - libtasn1-6
 
 **CVE(s) :**
@@ -81,6 +91,8 @@
 **Debian Version :** bookworm
  **Package Version :** libtasn1-6 4.19.0-2+deb12u1
  **Type :** DSA
+
+------------------------------
 
 **2025-02-10** - **[DSA-5862-1](https://security-tracker.debian.org/tracker/DSA-5862-1)** - cacti
 
@@ -109,6 +121,8 @@
  **Package Version :** cacti 1.2.24+ds1-1+deb12u5
  **Type :** DSA
 
+------------------------------
+
 **2025-02-09** - **[DLA-4047-1](https://security-tracker.debian.org/tracker/DLA-4047-1)** - sssd
 
 **CVE(s) :**
@@ -120,6 +134,8 @@
  **Package Version :** sssd 2.4.1-2+deb11u1
  **Type :** DLA
 
+------------------------------
+
 **2025-02-08** - **[DLA-4046-1](https://security-tracker.debian.org/tracker/DLA-4046-1)** - ark
 
 **CVE(s) :**
@@ -128,6 +144,8 @@
 **Debian Version :** bullseye
  **Package Version :** ark 4:20.12.2-1+deb11u1
  **Type :** DLA
+
+------------------------------
 
 **2025-02-08** - **[DSA-5860-1](https://security-tracker.debian.org/tracker/DSA-5860-1)** - linux
 
@@ -260,6 +278,8 @@
  **Package Version :** linux 6.1.128-1
  **Type :** DSA
 
+------------------------------
+
 **2025-02-07** - **[DLA-4045-1](https://security-tracker.debian.org/tracker/DLA-4045-1)** - thunderbird
 
 **CVE(s) :**
@@ -289,6 +309,8 @@
  **Package Version :** thunderbird 1:128.7.0esr-1~deb11u1
  **Type :** DLA
 
+------------------------------
+
 **2025-02-07** - **[DLA-4044-1](https://security-tracker.debian.org/tracker/DLA-4044-1)** - firefox-esr
 
 **CVE(s) :**
@@ -314,6 +336,8 @@
  **Package Version :** firefox-esr 128.7.0esr-1~deb11u1
  **Type :** DLA
 
+------------------------------
+
 **2025-02-07** - **[DLA-4043-1](https://security-tracker.debian.org/tracker/DLA-4043-1)** - openjdk-17
 
 **CVE(s) :**
@@ -322,6 +346,8 @@
 **Debian Version :** bullseye
  **Package Version :** openjdk-17 17.0.14+7-1~deb11u1
  **Type :** DLA
+
+------------------------------
 
 **2025-02-07** - **[DSA-5861-1](https://security-tracker.debian.org/tracker/DSA-5861-1)** - thunderbird
 
@@ -352,6 +378,8 @@
  **Package Version :** thunderbird 1:128.7.0esr-1~deb12u1
  **Type :** DSA
 
+------------------------------
+
 **2025-02-06** - **[DLA-4042-1](https://security-tracker.debian.org/tracker/DLA-4042-1)** - asterisk
 
 **CVE(s) :**
@@ -360,6 +388,8 @@
 **Debian Version :** bullseye
  **Package Version :** asterisk 1:16.28.0~dfsg-0+deb11u6
  **Type :** DLA
+
+------------------------------
 
 **2025-02-05** - **[DSA-5859-1](https://security-tracker.debian.org/tracker/DSA-5859-1)** - chromium
 
@@ -373,6 +403,8 @@
 **Debian Version :** bookworm
  **Package Version :** chromium 133.0.6943.53-1~deb12u1
  **Type :** DSA
+
+------------------------------
 
 **2025-02-05** - **[DSA-5858-1](https://security-tracker.debian.org/tracker/DSA-5858-1)** - firefox-esr
 
@@ -399,6 +431,8 @@
  **Package Version :** firefox-esr 128.7.0esr-1~deb12u1
  **Type :** DSA
 
+------------------------------
+
 **2025-02-03** - **[DLA-4041-1](https://security-tracker.debian.org/tracker/DLA-4041-1)** - python-aiohttp
 
 **CVE(s) :**
@@ -424,6 +458,8 @@
  **Package Version :** python-aiohttp 3.7.4-1+deb11u1
  **Type :** DLA
 
+------------------------------
+
 **2025-02-03** - **[DLA-4040-1](https://security-tracker.debian.org/tracker/DLA-4040-1)** - pam-u2f
 
 **CVE(s) :**
@@ -433,6 +469,8 @@
  **Package Version :** pam-u2f 1.1.0-1.1+deb11u1
  **Type :** DLA
 
+------------------------------
+
 **2025-02-03** - **[DSA-5857-1](https://security-tracker.debian.org/tracker/DSA-5857-1)** - openjdk-17
 
 **CVE(s) :**
@@ -441,6 +479,8 @@
 **Debian Version :** bookworm
  **Package Version :** openjdk-17 17.0.14+7-1~deb12u1
  **Type :** DSA
+
+------------------------------
 
 **2025-02-01** - **[DLA-4039-1](https://security-tracker.debian.org/tracker/DLA-4039-1)** - ffmpeg
 
@@ -454,6 +494,8 @@
 **Debian Version :** bullseye
  **Package Version :** ffmpeg 7:4.3.8-0+deb11u2
  **Type :** DLA
+
+------------------------------
 
 **2025-01-31** - **[DLA-4038-1](https://security-tracker.debian.org/tracker/DLA-4038-1)** - dcmtk
 
@@ -484,6 +526,8 @@
  **Package Version :** dcmtk 3.6.5-1+deb11u1
  **Type :** DLA
 
+------------------------------
+
 **2025-01-31** - **[DLA-4037-1](https://security-tracker.debian.org/tracker/DLA-4037-1)** - openjdk-11
 
 **CVE(s) :**
@@ -492,6 +536,8 @@
 **Debian Version :** bullseye
  **Package Version :** openjdk-11 11.0.26+4-1~deb11u1
  **Type :** DLA
+
+------------------------------
 
 **2025-01-30** - **[DSA-5856-1](https://security-tracker.debian.org/tracker/DSA-5856-1)** - redis
 
@@ -504,6 +550,8 @@
  **Package Version :** redis 5:7.0.15-1~deb12u3
  **Type :** DSA
 
+------------------------------
+
 **2025-01-30** - **[DSA-5855-1](https://security-tracker.debian.org/tracker/DSA-5855-1)** - chromium
 
 **CVE(s) :**
@@ -512,4 +560,6 @@
 **Debian Version :** bookworm
  **Package Version :** chromium 132.0.6834.159-1~deb12u1
  **Type :** DSA
+
+------------------------------
 
