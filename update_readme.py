@@ -145,9 +145,9 @@ def fetch_cvss_scores(alerts):
 
 def generate_readme(alerts):
     """
-    Génère le contenu Markdown pour le fichier README.md.
+    Generates Markdown content for README.md file.
     """
-    readme_content = "# Debian Security Advisories (DSA & DLA) - 14 derniers jours\n\n"
+    readme_content = "# Debian Security Advisories (DSA & DLA) - for the last 14 days\n\n"
     if alerts:
         for alert in alerts:
             readme_content += f"**{alert['date']}** - **[{alert['id']}](https://security-tracker.debian.org/tracker/{alert['id']})** - {alert['package']}\n\n"
@@ -164,7 +164,7 @@ def generate_readme(alerts):
             readme_content += f"**Package Version :** {alert['version']}\n"
             readme_content += f"**Type :** {alert['type']}\n\n"
     else:
-        readme_content += "Aucune alerte trouvée pour les 14 derniers jours.\n"
+        readme_content += "No alerts found for the last 14 days.\n"
 
     return readme_content
 
