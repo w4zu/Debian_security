@@ -1,4 +1,4 @@
-# Debian Security Advisories (DSA & DLA) - 14 derniers jours
+# Debian Security Advisories (DSA & DLA) - for the last 14 days
 
 **2025-02-12** - **[DSA-5865-1](https://security-tracker.debian.org/tracker/DSA-5865-1)** - webkit2gtk
 
