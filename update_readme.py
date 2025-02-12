@@ -7,7 +7,7 @@ banner = """
 ***********************************************************
 * Debian Security Advisories Update Script                *
 * Author: w4zu                                            *
-* Version: 1.0                                            *
+* Version: 1.1                                            *
 * Description: This script fetches and updates the        *
 *              README.md with the latest 14 days          *
 *              DSA and DLA advisories from Debian.        *
@@ -159,12 +159,12 @@ def generate_readme(alerts):
                     severity = "🟠 **Severity: Medium**"
                 else:
                     severity = "**Severity: Unknown**"
-                readme_content += f"- **[{cve}](https://www.cve.org/CVERecord?id={cve})** : {severity} (Score: {score if score else 'N/A'})\n"
-            readme_content += f"**Debian Version :** {alert['suite']}\n"
-            readme_content += f"**Package Version :** {alert['version']}\n"
+                readme_content += f"- **[{cve}](https://www.cve.org/CVERecord?id={cve})** : {severity} (Score: {score if score else 'N/A'})\n\n"
+            readme_content += f"**Debian Version :** {alert['suite']}\n\n"
+            readme_content += f"**Package Version :** {alert['version']}\n\n"
             readme_content += f"**Type :** {alert['type']}\n\n"
     else:
-        readme_content += "No alerts found for the last 14 days.\n"
+        readme_content += "No alerts found for the last 14 days.\n\n"
 
     return readme_content
 
