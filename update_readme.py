@@ -163,6 +163,7 @@ def generate_readme(alerts):
             readme_content += f"**Debian Version :** {alert['suite']}\n "
             readme_content += f"**Package Version :** {alert['version']}\n "
             readme_content += f"**Type :** {alert['type']}\n\n"
+            readme_content += f"------------------------------\n\n"
     else:
         readme_content += "No alerts found for the last 14 days.\n\n"
 
