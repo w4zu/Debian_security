@@ -3,6 +3,19 @@ import re
 from datetime import datetime, timedelta
 from concurrent.futures import ThreadPoolExecutor
 
+banner = """
+***********************************************************
+* Debian Security Advisories Update Script                *
+* Author: w4zu                                            *
+* Version: 1.0                                            *
+* Description: This script fetches and updates the        *
+*              README.md with the latest 14 days          *
+*              DSA and DLA advisories from Debian.        *
+* License: Apache 2.0                                     *
+***********************************************************
+"""
+
+print(banner)
 # URLs pour les listes DLA et DSA
 DLA_LIST_URL = "https://salsa.debian.org/security-tracker-team/security-tracker/-/raw/master/data/DLA/list"
 DSA_LIST_URL = "https://salsa.debian.org/security-tracker-team/security-tracker/-/raw/master/data/DSA/list"
