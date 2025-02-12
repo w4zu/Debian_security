@@ -2,7 +2,7 @@ name: UPDATE DSA / DLA
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Exécute toutes les 6 heures
+    - cron: '0 */6 * * *'
   push:
     branches: [ "main" ]
 
