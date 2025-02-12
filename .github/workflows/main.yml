@@ -1,4 +1,4 @@
-name: UPDATE DSA DLA
+name: UPDATE DSA / DLA
 
 on:
   schedule:
