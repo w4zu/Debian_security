@@ -61,7 +61,7 @@
 **2025-02-11** - **[DLA-4049-1](https://security-tracker.debian.org/tracker/DLA-4049-1)** - rust-openssl
 
 **CVE(s) :**
-- **[CVE-2025-24898](https://www.cve.org/CVERecord?id=CVE-2025-24898)** : 🟠 **Severity: Medium** (Score: 6.3)
+- **[CVE-2025-24898](https://www.cve.org/CVERecord?id=CVE-2025-24898)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** rust-openssl 0.10.29-1+deb11u1
@@ -222,8 +222,6 @@
 - **[CVE-2024-57912](https://www.cve.org/CVERecord?id=CVE-2024-57912)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-57913](https://www.cve.org/CVERecord?id=CVE-2024-57913)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-57915](https://www.cve.org/CVERecord?id=CVE-2024-57915)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-57916](https://www.cve.org/CVERecord?id=CVE-2024-57916)** : **Severity: Unknown** (Score: N/A)
 
@@ -480,7 +478,7 @@
 **2025-02-03** - **[DLA-4040-1](https://security-tracker.debian.org/tracker/DLA-4040-1)** - pam-u2f
 
 **CVE(s) :**
-- **[CVE-2025-23013](https://www.cve.org/CVERecord?id=CVE-2025-23013)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-23013](https://www.cve.org/CVERecord?id=CVE-2025-23013)** : 🔥 **Severity: High** (Score: 7.3)
 
 **Debian Version :** bullseye
  **Package Version :** pam-u2f 1.1.0-1.1+deb11u1
