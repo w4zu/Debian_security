@@ -539,27 +539,3 @@
 
 ------------------------------
 
-**2025-01-30** - **[DSA-5856-1](https://security-tracker.debian.org/tracker/DSA-5856-1)** - redis
-
-**CVE(s) :**
-- **[CVE-2024-46981](https://www.cve.org/CVERecord?id=CVE-2024-46981)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-51741](https://www.cve.org/CVERecord?id=CVE-2024-51741)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** redis 5:7.0.15-1~deb12u3
- **Type :** DSA
-
-------------------------------
-
-**2025-01-30** - **[DSA-5855-1](https://security-tracker.debian.org/tracker/DSA-5855-1)** - chromium
-
-**CVE(s) :**
-- **[CVE-2025-0762](https://www.cve.org/CVERecord?id=CVE-2025-0762)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** chromium 132.0.6834.159-1~deb12u1
- **Type :** DSA
-
-------------------------------
-
