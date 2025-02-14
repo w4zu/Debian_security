@@ -489,7 +489,7 @@
 **2025-02-03** - **[DLA-4040-1](https://security-tracker.debian.org/tracker/DLA-4040-1)** - pam-u2f
 
 **CVE(s) :**
-- **[CVE-2025-23013](https://www.cve.org/CVERecord?id=CVE-2025-23013)** : 🔥 **Severity: High** (Score: 7.3)
+- **[CVE-2025-23013](https://www.cve.org/CVERecord?id=CVE-2025-23013)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** pam-u2f 1.1.0-1.1+deb11u1
