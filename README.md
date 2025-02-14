@@ -1,5 +1,22 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-02-14** - **[DSA-5866-1](https://security-tracker.debian.org/tracker/DSA-5866-1)** - chromium
+
+**CVE(s) :**
+- **[CVE-2025-0995](https://www.cve.org/CVERecord?id=CVE-2025-0995)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-0996](https://www.cve.org/CVERecord?id=CVE-2025-0996)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-0997](https://www.cve.org/CVERecord?id=CVE-2025-0997)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-0998](https://www.cve.org/CVERecord?id=CVE-2025-0998)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** chromium 133.0.6943.98-1~deb12u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-02-13** - **[DLA-4052-1](https://security-tracker.debian.org/tracker/DLA-4052-1)** - postgresql-13
 
 **CVE(s) :**
@@ -489,7 +506,7 @@
 **2025-02-03** - **[DLA-4040-1](https://security-tracker.debian.org/tracker/DLA-4040-1)** - pam-u2f
 
 **CVE(s) :**
-- **[CVE-2025-23013](https://www.cve.org/CVERecord?id=CVE-2025-23013)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-23013](https://www.cve.org/CVERecord?id=CVE-2025-23013)** : 🔥 **Severity: High** (Score: 7.3)
 
 **Debian Version :** bullseye
  **Package Version :** pam-u2f 1.1.0-1.1+deb11u1
