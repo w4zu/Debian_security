@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-02-13** - **[DLA-4052-1](https://security-tracker.debian.org/tracker/DLA-4052-1)** - postgresql-13
+
+**CVE(s) :**
+- **[CVE-2025-1094](https://www.cve.org/CVERecord?id=CVE-2025-1094)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** postgresql-13 13.19-0+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-02-13** - **[DLA-4051-1](https://security-tracker.debian.org/tracker/DLA-4051-1)** - webkit2gtk
 
 **CVE(s) :**
@@ -61,7 +72,7 @@
 **2025-02-11** - **[DLA-4049-1](https://security-tracker.debian.org/tracker/DLA-4049-1)** - rust-openssl
 
 **CVE(s) :**
-- **[CVE-2025-24898](https://www.cve.org/CVERecord?id=CVE-2025-24898)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-24898](https://www.cve.org/CVERecord?id=CVE-2025-24898)** : 🟠 **Severity: Medium** (Score: 6.3)
 
 **Debian Version :** bullseye
  **Package Version :** rust-openssl 0.10.29-1+deb11u1
@@ -508,48 +519,6 @@
 
 **Debian Version :** bullseye
  **Package Version :** ffmpeg 7:4.3.8-0+deb11u2
- **Type :** DLA
-
-------------------------------
-
-**2025-01-31** - **[DLA-4038-1](https://security-tracker.debian.org/tracker/DLA-4038-1)** - dcmtk
-
-**CVE(s) :**
-- **[CVE-2021-41687](https://www.cve.org/CVERecord?id=CVE-2021-41687)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2021-41688](https://www.cve.org/CVERecord?id=CVE-2021-41688)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2021-41689](https://www.cve.org/CVERecord?id=CVE-2021-41689)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2021-41690](https://www.cve.org/CVERecord?id=CVE-2021-41690)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2022-2121](https://www.cve.org/CVERecord?id=CVE-2022-2121)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2022-43272](https://www.cve.org/CVERecord?id=CVE-2022-43272)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-28130](https://www.cve.org/CVERecord?id=CVE-2024-28130)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-34508](https://www.cve.org/CVERecord?id=CVE-2024-34508)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-34509](https://www.cve.org/CVERecord?id=CVE-2024-34509)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-47796](https://www.cve.org/CVERecord?id=CVE-2024-47796)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-52333](https://www.cve.org/CVERecord?id=CVE-2024-52333)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** dcmtk 3.6.5-1+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-01-31** - **[DLA-4037-1](https://security-tracker.debian.org/tracker/DLA-4037-1)** - openjdk-11
-
-**CVE(s) :**
-- **[CVE-2025-21502](https://www.cve.org/CVERecord?id=CVE-2025-21502)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** openjdk-11 11.0.26+4-1~deb11u1
  **Type :** DLA
 
 ------------------------------
