@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-02-16** - **[DLA-4055-1](https://security-tracker.debian.org/tracker/DLA-4055-1)** - trafficserver
+
+**CVE(s) :**
+- **[CVE-2024-38479](https://www.cve.org/CVERecord?id=CVE-2024-38479)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-50306](https://www.cve.org/CVERecord?id=CVE-2024-50306)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** trafficserver 8.1.11+ds-0+deb11u2
+ **Type :** DLA
+
+------------------------------
+
 **2025-02-15** - **[DLA-4053-1](https://security-tracker.debian.org/tracker/DLA-4053-1)** - freerdp2
 
 **CVE(s) :**
