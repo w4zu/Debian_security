@@ -206,7 +206,7 @@
 
 - **[CVE-2025-24367](https://www.cve.org/CVERecord?id=CVE-2025-24367)** : 🔥 **Severity: High** (Score: 8.7)
 
-- **[CVE-2025-24368](https://www.cve.org/CVERecord?id=CVE-2025-24368)** : 🟠 **Severity: Medium** (Score: 6.9)
+- **[CVE-2025-24368](https://www.cve.org/CVERecord?id=CVE-2025-24368)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** cacti 1.2.16+ds1-2+deb11u5
@@ -246,7 +246,7 @@
 
 - **[CVE-2025-24367](https://www.cve.org/CVERecord?id=CVE-2025-24367)** : 🔥 **Severity: High** (Score: 8.7)
 
-- **[CVE-2025-24368](https://www.cve.org/CVERecord?id=CVE-2025-24368)** : 🟠 **Severity: Medium** (Score: 6.9)
+- **[CVE-2025-24368](https://www.cve.org/CVERecord?id=CVE-2025-24368)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** cacti 1.2.24+ds1-1+deb12u5
@@ -558,55 +558,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** firefox-esr 128.7.0esr-1~deb12u1
- **Type :** DSA
-
-------------------------------
-
-**2025-02-03** - **[DLA-4041-1](https://security-tracker.debian.org/tracker/DLA-4041-1)** - python-aiohttp
-
-**CVE(s) :**
-- **[CVE-2023-47627](https://www.cve.org/CVERecord?id=CVE-2023-47627)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2023-47641](https://www.cve.org/CVERecord?id=CVE-2023-47641)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2023-49081](https://www.cve.org/CVERecord?id=CVE-2023-49081)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2023-49082](https://www.cve.org/CVERecord?id=CVE-2023-49082)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-23334](https://www.cve.org/CVERecord?id=CVE-2024-23334)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-23829](https://www.cve.org/CVERecord?id=CVE-2024-23829)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-27306](https://www.cve.org/CVERecord?id=CVE-2024-27306)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-30251](https://www.cve.org/CVERecord?id=CVE-2024-30251)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-52304](https://www.cve.org/CVERecord?id=CVE-2024-52304)** : 🟠 **Severity: Medium** (Score: 6.3)
-
-**Debian Version :** bullseye
- **Package Version :** python-aiohttp 3.7.4-1+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-02-03** - **[DLA-4040-1](https://security-tracker.debian.org/tracker/DLA-4040-1)** - pam-u2f
-
-**CVE(s) :**
-- **[CVE-2025-23013](https://www.cve.org/CVERecord?id=CVE-2025-23013)** : 🔥 **Severity: High** (Score: 7.3)
-
-**Debian Version :** bullseye
- **Package Version :** pam-u2f 1.1.0-1.1+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-02-03** - **[DSA-5857-1](https://security-tracker.debian.org/tracker/DSA-5857-1)** - openjdk-17
-
-**CVE(s) :**
-- **[CVE-2025-21502](https://www.cve.org/CVERecord?id=CVE-2025-21502)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** openjdk-17 17.0.14+7-1~deb12u1
  **Type :** DSA
 
 ------------------------------
