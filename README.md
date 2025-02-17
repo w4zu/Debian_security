@@ -206,7 +206,7 @@
 
 - **[CVE-2025-24367](https://www.cve.org/CVERecord?id=CVE-2025-24367)** : 🔥 **Severity: High** (Score: 8.7)
 
-- **[CVE-2025-24368](https://www.cve.org/CVERecord?id=CVE-2025-24368)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-24368](https://www.cve.org/CVERecord?id=CVE-2025-24368)** : 🟠 **Severity: Medium** (Score: 6.9)
 
 **Debian Version :** bullseye
  **Package Version :** cacti 1.2.16+ds1-2+deb11u5
@@ -246,7 +246,7 @@
 
 - **[CVE-2025-24367](https://www.cve.org/CVERecord?id=CVE-2025-24367)** : 🔥 **Severity: High** (Score: 8.7)
 
-- **[CVE-2025-24368](https://www.cve.org/CVERecord?id=CVE-2025-24368)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-24368](https://www.cve.org/CVERecord?id=CVE-2025-24368)** : 🟠 **Severity: Medium** (Score: 6.9)
 
 **Debian Version :** bookworm
  **Package Version :** cacti 1.2.24+ds1-1+deb12u5
