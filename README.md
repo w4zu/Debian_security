@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-02-17** - **[DLA-4056-1](https://security-tracker.debian.org/tracker/DLA-4056-1)** - golang-glog
+
+**CVE(s) :**
+- **[CVE-2024-45339](https://www.cve.org/CVERecord?id=CVE-2024-45339)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** golang-glog 0.0~git20160126.23def4e-3+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-02-16** - **[DLA-4055-1](https://security-tracker.debian.org/tracker/DLA-4055-1)** - trafficserver
 
 **CVE(s) :**
