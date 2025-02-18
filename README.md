@@ -1,5 +1,38 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-02-18** - **[DLA-4058-1](https://security-tracker.debian.org/tracker/DLA-4058-1)** - pam-pkcs11
+
+**CVE(s) :**
+- **[CVE-2025-24032](https://www.cve.org/CVERecord?id=CVE-2025-24032)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** pam-pkcs11 0.6.11-4+deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2025-02-18** - **[DLA-4057-1](https://security-tracker.debian.org/tracker/DLA-4057-1)** - openssh
+
+**CVE(s) :**
+- **[CVE-2025-26465](https://www.cve.org/CVERecord?id=CVE-2025-26465)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** openssh 1:8.4p1-5+deb11u4
+ **Type :** DLA
+
+------------------------------
+
+**2025-02-18** - **[DSA-5868-1](https://security-tracker.debian.org/tracker/DSA-5868-1)** - openssh
+
+**CVE(s) :**
+- **[CVE-2025-26465](https://www.cve.org/CVERecord?id=CVE-2025-26465)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** openssh 1:9.2p1-2+deb12u5
+ **Type :** DSA
+
+------------------------------
+
 **2025-02-17** - **[DLA-4056-1](https://security-tracker.debian.org/tracker/DLA-4056-1)** - golang-glog
 
 **CVE(s) :**
@@ -173,7 +206,7 @@
 **2025-02-12** - **[DSA-5864-1](https://security-tracker.debian.org/tracker/DSA-5864-1)** - pam-pkcs11
 
 **CVE(s) :**
-- **[CVE-2025-24032](https://www.cve.org/CVERecord?id=CVE-2025-24032)** : 🔥 **Severity: High** (Score: 9.2)
+- **[CVE-2025-24032](https://www.cve.org/CVERecord?id=CVE-2025-24032)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-24531](https://www.cve.org/CVERecord?id=CVE-2025-24531)** : **Severity: Unknown** (Score: N/A)
 
@@ -197,7 +230,7 @@
 **2025-02-11** - **[DLA-4049-1](https://security-tracker.debian.org/tracker/DLA-4049-1)** - rust-openssl
 
 **CVE(s) :**
-- **[CVE-2025-24898](https://www.cve.org/CVERecord?id=CVE-2025-24898)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-24898](https://www.cve.org/CVERecord?id=CVE-2025-24898)** : 🟠 **Severity: Medium** (Score: 6.3)
 
 **Debian Version :** bullseye
  **Package Version :** rust-openssl 0.10.29-1+deb11u1
