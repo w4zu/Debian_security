@@ -11,6 +11,17 @@
 
 ------------------------------
 
+**2025-02-17** - **[DSA-5867-1](https://security-tracker.debian.org/tracker/DSA-5867-1)** - gnutls28
+
+**CVE(s) :**
+- **[CVE-2024-12243](https://www.cve.org/CVERecord?id=CVE-2024-12243)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** gnutls28 3.7.9-2+deb12u4
+ **Type :** DSA
+
+------------------------------
+
 **2025-02-16** - **[DLA-4055-1](https://security-tracker.debian.org/tracker/DLA-4055-1)** - trafficserver
 
 **CVE(s) :**
