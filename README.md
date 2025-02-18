@@ -197,7 +197,7 @@
 **2025-02-11** - **[DLA-4049-1](https://security-tracker.debian.org/tracker/DLA-4049-1)** - rust-openssl
 
 **CVE(s) :**
-- **[CVE-2025-24898](https://www.cve.org/CVERecord?id=CVE-2025-24898)** : 🟠 **Severity: Medium** (Score: 6.3)
+- **[CVE-2025-24898](https://www.cve.org/CVERecord?id=CVE-2025-24898)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** rust-openssl 0.10.29-1+deb11u1
