@@ -564,14 +564,3 @@
 
 ------------------------------
 
-**2025-02-06** - **[DLA-4042-1](https://security-tracker.debian.org/tracker/DLA-4042-1)** - asterisk
-
-**CVE(s) :**
-- **[CVE-2024-53566](https://www.cve.org/CVERecord?id=CVE-2024-53566)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** asterisk 1:16.28.0~dfsg-0+deb11u6
- **Type :** DLA
-
-------------------------------
-
