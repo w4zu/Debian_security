@@ -1,5 +1,27 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-02-21** - **[DLA-4061-1](https://security-tracker.debian.org/tracker/DLA-4061-1)** - libtasn1-6
+
+**CVE(s) :**
+- **[CVE-2024-12133](https://www.cve.org/CVERecord?id=CVE-2024-12133)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** libtasn1-6 4.16.0-2+deb11u2
+ **Type :** DLA
+
+------------------------------
+
+**2025-02-21** - **[DLA-4052-2](https://security-tracker.debian.org/tracker/DLA-4052-2)** - postgresql-13
+
+**CVE(s) :**
+- **[CVE-2025-1094](https://www.cve.org/CVERecord?id=CVE-2025-1094)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** postgresql-13 13.20-0+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-02-21** - **[DSA-5869-1](https://security-tracker.debian.org/tracker/DSA-5869-1)** - chromium
 
 **CVE(s) :**
