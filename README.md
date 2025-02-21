@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-02-21** - **[DLA-4062-1](https://security-tracker.debian.org/tracker/DLA-4062-1)** - python-werkzeug
+
+**CVE(s) :**
+- **[CVE-2024-34069](https://www.cve.org/CVERecord?id=CVE-2024-34069)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** python-werkzeug 1.0.1+dfsg1-2+deb11u2
+ **Type :** DLA
+
+------------------------------
+
 **2025-02-21** - **[DLA-4061-1](https://security-tracker.debian.org/tracker/DLA-4061-1)** - libtasn1-6
 
 **CVE(s) :**
@@ -40,7 +51,7 @@
 **2025-02-20** - **[DLA-4060-1](https://security-tracker.debian.org/tracker/DLA-4060-1)** - djoser
 
 **CVE(s) :**
-- **[CVE-2024-21543](https://www.cve.org/CVERecord?id=CVE-2024-21543)** : 🟠 **Severity: Medium** (Score: 5.7)
+- **[CVE-2024-21543](https://www.cve.org/CVERecord?id=CVE-2024-21543)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** djoser 2.1.0-1+deb11u1
