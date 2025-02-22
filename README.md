@@ -1,5 +1,28 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-02-22** - **[DLA-4064-1](https://security-tracker.debian.org/tracker/DLA-4064-1)** - libxml2
+
+**CVE(s) :**
+- **[CVE-2022-49043](https://www.cve.org/CVERecord?id=CVE-2022-49043)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2023-39615](https://www.cve.org/CVERecord?id=CVE-2023-39615)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2023-45322](https://www.cve.org/CVERecord?id=CVE-2023-45322)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-25062](https://www.cve.org/CVERecord?id=CVE-2024-25062)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-56171](https://www.cve.org/CVERecord?id=CVE-2024-56171)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-24928](https://www.cve.org/CVERecord?id=CVE-2025-24928)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-27113](https://www.cve.org/CVERecord?id=CVE-2025-27113)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** libxml2 2.9.10+dfsg-6.7+deb11u6
+ **Type :** DLA
+
+------------------------------
+
 **2025-02-21** - **[DLA-4063-1](https://security-tracker.debian.org/tracker/DLA-4063-1)** - gnutls28
 
 **CVE(s) :**
