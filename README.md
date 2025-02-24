@@ -1,5 +1,39 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-02-24** - **[DLA-4066-1](https://security-tracker.debian.org/tracker/DLA-4066-1)** - fort-validator
+
+**CVE(s) :**
+- **[CVE-2024-45234](https://www.cve.org/CVERecord?id=CVE-2024-45234)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-45235](https://www.cve.org/CVERecord?id=CVE-2024-45235)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-45236](https://www.cve.org/CVERecord?id=CVE-2024-45236)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-45237](https://www.cve.org/CVERecord?id=CVE-2024-45237)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-45238](https://www.cve.org/CVERecord?id=CVE-2024-45238)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-45239](https://www.cve.org/CVERecord?id=CVE-2024-45239)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-48943](https://www.cve.org/CVERecord?id=CVE-2024-48943)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** fort-validator 1.5.3-1~deb11u2
+ **Type :** DLA
+
+------------------------------
+
+**2025-02-23** - **[DLA-4065-1](https://security-tracker.debian.org/tracker/DLA-4065-1)** - krb5
+
+**CVE(s) :**
+- **[CVE-2025-24528](https://www.cve.org/CVERecord?id=CVE-2025-24528)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** krb5 1.18.3-6+deb11u6
+ **Type :** DLA
+
+------------------------------
+
 **2025-02-22** - **[DLA-4064-1](https://security-tracker.debian.org/tracker/DLA-4064-1)** - libxml2
 
 **CVE(s) :**
@@ -336,82 +370,11 @@
 **2025-02-11** - **[DLA-4049-1](https://security-tracker.debian.org/tracker/DLA-4049-1)** - rust-openssl
 
 **CVE(s) :**
-- **[CVE-2025-24898](https://www.cve.org/CVERecord?id=CVE-2025-24898)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-24898](https://www.cve.org/CVERecord?id=CVE-2025-24898)** : 🟠 **Severity: Medium** (Score: 6.3)
 
 **Debian Version :** bullseye
  **Package Version :** rust-openssl 0.10.29-1+deb11u1
  **Type :** DLA
-
-------------------------------
-
-**2025-02-10** - **[DLA-4048-1](https://security-tracker.debian.org/tracker/DLA-4048-1)** - cacti
-
-**CVE(s) :**
-- **[CVE-2024-43362](https://www.cve.org/CVERecord?id=CVE-2024-43362)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-43363](https://www.cve.org/CVERecord?id=CVE-2024-43363)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-43364](https://www.cve.org/CVERecord?id=CVE-2024-43364)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-43365](https://www.cve.org/CVERecord?id=CVE-2024-43365)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-45598](https://www.cve.org/CVERecord?id=CVE-2024-45598)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-47875](https://www.cve.org/CVERecord?id=CVE-2024-47875)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-48910](https://www.cve.org/CVERecord?id=CVE-2024-48910)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-54145](https://www.cve.org/CVERecord?id=CVE-2024-54145)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-22604](https://www.cve.org/CVERecord?id=CVE-2025-22604)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-24367](https://www.cve.org/CVERecord?id=CVE-2025-24367)** : 🔥 **Severity: High** (Score: 8.7)
-
-- **[CVE-2025-24368](https://www.cve.org/CVERecord?id=CVE-2025-24368)** : 🟠 **Severity: Medium** (Score: 6.9)
-
-**Debian Version :** bullseye
- **Package Version :** cacti 1.2.16+ds1-2+deb11u5
- **Type :** DLA
-
-------------------------------
-
-**2025-02-10** - **[DSA-5863-1](https://security-tracker.debian.org/tracker/DSA-5863-1)** - libtasn1-6
-
-**CVE(s) :**
-- **[CVE-2024-12133](https://www.cve.org/CVERecord?id=CVE-2024-12133)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** libtasn1-6 4.19.0-2+deb12u1
- **Type :** DSA
-
-------------------------------
-
-**2025-02-10** - **[DSA-5862-1](https://security-tracker.debian.org/tracker/DSA-5862-1)** - cacti
-
-**CVE(s) :**
-- **[CVE-2024-27082](https://www.cve.org/CVERecord?id=CVE-2024-27082)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-43362](https://www.cve.org/CVERecord?id=CVE-2024-43362)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-43363](https://www.cve.org/CVERecord?id=CVE-2024-43363)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-43364](https://www.cve.org/CVERecord?id=CVE-2024-43364)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-43365](https://www.cve.org/CVERecord?id=CVE-2024-43365)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-45598](https://www.cve.org/CVERecord?id=CVE-2024-45598)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-54145](https://www.cve.org/CVERecord?id=CVE-2024-54145)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-22604](https://www.cve.org/CVERecord?id=CVE-2025-22604)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-24367](https://www.cve.org/CVERecord?id=CVE-2025-24367)** : 🔥 **Severity: High** (Score: 8.7)
-
-- **[CVE-2025-24368](https://www.cve.org/CVERecord?id=CVE-2025-24368)** : 🟠 **Severity: Medium** (Score: 6.9)
-
-**Debian Version :** bookworm
- **Package Version :** cacti 1.2.24+ds1-1+deb12u5
- **Type :** DSA
 
 ------------------------------
 
