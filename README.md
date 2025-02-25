@@ -130,7 +130,7 @@
 **2025-02-20** - **[DLA-4059-1](https://security-tracker.debian.org/tracker/DLA-4059-1)** - mosquitto
 
 **CVE(s) :**
-- **[CVE-2024-3935](https://www.cve.org/CVERecord?id=CVE-2024-3935)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-3935](https://www.cve.org/CVERecord?id=CVE-2024-3935)** : 🟠 **Severity: Medium** (Score: 6)
 
 - **[CVE-2024-10525](https://www.cve.org/CVERecord?id=CVE-2024-10525)** : 🔥 **Severity: High** (Score: 7.2)
 
@@ -353,28 +353,6 @@
 **Debian Version :** bookworm
  **Package Version :** pam-pkcs11 0.6.12-1+deb12u1
  **Type :** DSA
-
-------------------------------
-
-**2025-02-11** - **[DLA-4050-1](https://security-tracker.debian.org/tracker/DLA-4050-1)** - bind9
-
-**CVE(s) :**
-- **[CVE-2024-11187](https://www.cve.org/CVERecord?id=CVE-2024-11187)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** bind9 1:9.16.50-1~deb11u3
- **Type :** DLA
-
-------------------------------
-
-**2025-02-11** - **[DLA-4049-1](https://security-tracker.debian.org/tracker/DLA-4049-1)** - rust-openssl
-
-**CVE(s) :**
-- **[CVE-2025-24898](https://www.cve.org/CVERecord?id=CVE-2025-24898)** : 🟠 **Severity: Medium** (Score: 6.3)
-
-**Debian Version :** bullseye
- **Package Version :** rust-openssl 0.10.29-1+deb11u1
- **Type :** DLA
 
 ------------------------------
 
