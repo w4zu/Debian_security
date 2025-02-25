@@ -1,5 +1,27 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-02-25** - **[DLA-4068-1](https://security-tracker.debian.org/tracker/DLA-4068-1)** - php-nesbot-carbon
+
+**CVE(s) :**
+- **[CVE-2025-22145](https://www.cve.org/CVERecord?id=CVE-2025-22145)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+**Debian Version :** bullseye
+ **Package Version :** php-nesbot-carbon 2.32.2-1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2025-02-25** - **[DLA-4067-1](https://security-tracker.debian.org/tracker/DLA-4067-1)** - nodejs
+
+**CVE(s) :**
+- **[CVE-2025-23085](https://www.cve.org/CVERecord?id=CVE-2025-23085)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** nodejs 12.22.12~dfsg-1~deb11u6
+ **Type :** DLA
+
+------------------------------
+
 **2025-02-24** - **[DLA-4066-1](https://security-tracker.debian.org/tracker/DLA-4066-1)** - fort-validator
 
 **CVE(s) :**
@@ -143,7 +165,7 @@
 **2025-02-18** - **[DLA-4058-1](https://security-tracker.debian.org/tracker/DLA-4058-1)** - pam-pkcs11
 
 **CVE(s) :**
-- **[CVE-2025-24032](https://www.cve.org/CVERecord?id=CVE-2025-24032)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-24032](https://www.cve.org/CVERecord?id=CVE-2025-24032)** : 🔥 **Severity: High** (Score: 9.2)
 
 **Debian Version :** bullseye
  **Package Version :** pam-pkcs11 0.6.11-4+deb11u1
@@ -346,7 +368,7 @@
 **2025-02-12** - **[DSA-5864-1](https://security-tracker.debian.org/tracker/DSA-5864-1)** - pam-pkcs11
 
 **CVE(s) :**
-- **[CVE-2025-24032](https://www.cve.org/CVERecord?id=CVE-2025-24032)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-24032](https://www.cve.org/CVERecord?id=CVE-2025-24032)** : 🔥 **Severity: High** (Score: 9.2)
 
 - **[CVE-2025-24531](https://www.cve.org/CVERecord?id=CVE-2025-24531)** : **Severity: Unknown** (Score: N/A)
 
