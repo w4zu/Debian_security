@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-02-26** - **[DSA-5870-1](https://security-tracker.debian.org/tracker/DSA-5870-1)** - openh264
+
+**CVE(s) :**
+- **[CVE-2025-27091](https://www.cve.org/CVERecord?id=CVE-2025-27091)** : 🔥 **Severity: High** (Score: 8.6)
+
+**Debian Version :** bookworm
+ **Package Version :** openh264 2.3.1+dfsg-3+deb12u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-02-25** - **[DLA-4068-1](https://security-tracker.debian.org/tracker/DLA-4068-1)** - php-nesbot-carbon
 
 **CVE(s) :**
@@ -317,34 +328,6 @@
 **Debian Version :** bookworm
  **Package Version :** chromium 133.0.6943.98-1~deb12u1
  **Type :** DSA
-
-------------------------------
-
-**2025-02-13** - **[DLA-4052-1](https://security-tracker.debian.org/tracker/DLA-4052-1)** - postgresql-13
-
-**CVE(s) :**
-- **[CVE-2025-1094](https://www.cve.org/CVERecord?id=CVE-2025-1094)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** postgresql-13 13.19-0+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-02-13** - **[DLA-4051-1](https://security-tracker.debian.org/tracker/DLA-4051-1)** - webkit2gtk
-
-**CVE(s) :**
-- **[CVE-2025-24143](https://www.cve.org/CVERecord?id=CVE-2025-24143)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-24150](https://www.cve.org/CVERecord?id=CVE-2025-24150)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-24158](https://www.cve.org/CVERecord?id=CVE-2025-24158)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-24162](https://www.cve.org/CVERecord?id=CVE-2025-24162)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** webkit2gtk 2.46.6-1~deb11u1
- **Type :** DLA
 
 ------------------------------
 
