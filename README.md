@@ -1,5 +1,20 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-02-27** - **[DLA-4069-1](https://security-tracker.debian.org/tracker/DLA-4069-1)** - emacs
+
+**CVE(s) :**
+- **[CVE-2023-28617](https://www.cve.org/CVERecord?id=CVE-2023-28617)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-53920](https://www.cve.org/CVERecord?id=CVE-2024-53920)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-1244](https://www.cve.org/CVERecord?id=CVE-2025-1244)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** emacs 1:27.1+1-3.1+deb11u6
+ **Type :** DLA
+
+------------------------------
+
 **2025-02-26** - **[DSA-5870-1](https://security-tracker.debian.org/tracker/DSA-5870-1)** - openh264
 
 **CVE(s) :**
@@ -176,7 +191,7 @@
 **2025-02-18** - **[DLA-4058-1](https://security-tracker.debian.org/tracker/DLA-4058-1)** - pam-pkcs11
 
 **CVE(s) :**
-- **[CVE-2025-24032](https://www.cve.org/CVERecord?id=CVE-2025-24032)** : 🔥 **Severity: High** (Score: 9.2)
+- **[CVE-2025-24032](https://www.cve.org/CVERecord?id=CVE-2025-24032)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** pam-pkcs11 0.6.11-4+deb11u1
