@@ -3,7 +3,7 @@
 **2025-02-27** - **[DLA-4071-1](https://security-tracker.debian.org/tracker/DLA-4071-1)** - gst-plugins-good1.0
 
 **CVE(s) :**
-- **[CVE-2024-47537](https://www.cve.org/CVERecord?id=CVE-2024-47537)** : 🔥 **Severity: High** (Score: 8.6)
+- **[CVE-2024-47537](https://www.cve.org/CVERecord?id=CVE-2024-47537)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-47539](https://www.cve.org/CVERecord?id=CVE-2024-47539)** : 🔥 **Severity: High** (Score: 8.6)
 
@@ -15,7 +15,7 @@
 
 - **[CVE-2024-47545](https://www.cve.org/CVERecord?id=CVE-2024-47545)** : 🟠 **Severity: Medium** (Score: 6.9)
 
-- **[CVE-2024-47546](https://www.cve.org/CVERecord?id=CVE-2024-47546)** : 🟠 **Severity: Medium** (Score: 6.9)
+- **[CVE-2024-47546](https://www.cve.org/CVERecord?id=CVE-2024-47546)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-47596](https://www.cve.org/CVERecord?id=CVE-2024-47596)** : 🟠 **Severity: Medium** (Score: 5.1)
 
@@ -35,7 +35,7 @@
 
 - **[CVE-2024-47613](https://www.cve.org/CVERecord?id=CVE-2024-47613)** : 🔥 **Severity: High** (Score: 8.6)
 
-- **[CVE-2024-47774](https://www.cve.org/CVERecord?id=CVE-2024-47774)** : 🟠 **Severity: Medium** (Score: 5.1)
+- **[CVE-2024-47774](https://www.cve.org/CVERecord?id=CVE-2024-47774)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-47775](https://www.cve.org/CVERecord?id=CVE-2024-47775)** : 🟠 **Severity: Medium** (Score: 5.1)
 
@@ -246,7 +246,7 @@
 **2025-02-20** - **[DLA-4060-1](https://security-tracker.debian.org/tracker/DLA-4060-1)** - djoser
 
 **CVE(s) :**
-- **[CVE-2024-21543](https://www.cve.org/CVERecord?id=CVE-2024-21543)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-21543](https://www.cve.org/CVERecord?id=CVE-2024-21543)** : 🟠 **Severity: Medium** (Score: 5.7)
 
 **Debian Version :** bullseye
  **Package Version :** djoser 2.1.0-1+deb11u1
@@ -257,7 +257,7 @@
 **2025-02-20** - **[DLA-4059-1](https://security-tracker.debian.org/tracker/DLA-4059-1)** - mosquitto
 
 **CVE(s) :**
-- **[CVE-2024-3935](https://www.cve.org/CVERecord?id=CVE-2024-3935)** : 🟠 **Severity: Medium** (Score: 6)
+- **[CVE-2024-3935](https://www.cve.org/CVERecord?id=CVE-2024-3935)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-10525](https://www.cve.org/CVERecord?id=CVE-2024-10525)** : 🔥 **Severity: High** (Score: 7.2)
 
@@ -270,7 +270,7 @@
 **2025-02-18** - **[DLA-4058-1](https://security-tracker.debian.org/tracker/DLA-4058-1)** - pam-pkcs11
 
 **CVE(s) :**
-- **[CVE-2025-24032](https://www.cve.org/CVERecord?id=CVE-2025-24032)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-24032](https://www.cve.org/CVERecord?id=CVE-2025-24032)** : 🔥 **Severity: High** (Score: 9.2)
 
 **Debian Version :** bullseye
  **Package Version :** pam-pkcs11 0.6.11-4+deb11u1
