@@ -23,7 +23,7 @@
 
 - **[CVE-2024-47598](https://www.cve.org/CVERecord?id=CVE-2024-47598)** : 🟠 **Severity: Medium** (Score: 5.1)
 
-- **[CVE-2024-47599](https://www.cve.org/CVERecord?id=CVE-2024-47599)** : 🟠 **Severity: Medium** (Score: 6.8)
+- **[CVE-2024-47599](https://www.cve.org/CVERecord?id=CVE-2024-47599)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-47601](https://www.cve.org/CVERecord?id=CVE-2024-47601)** : 🟠 **Severity: Medium** (Score: 6.8)
 
@@ -31,7 +31,7 @@
 
 - **[CVE-2024-47603](https://www.cve.org/CVERecord?id=CVE-2024-47603)** : 🟠 **Severity: Medium** (Score: 6.8)
 
-- **[CVE-2024-47606](https://www.cve.org/CVERecord?id=CVE-2024-47606)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47606](https://www.cve.org/CVERecord?id=CVE-2024-47606)** : 🔥 **Severity: High** (Score: 8.6)
 
 - **[CVE-2024-47613](https://www.cve.org/CVERecord?id=CVE-2024-47613)** : 🔥 **Severity: High** (Score: 8.6)
 
@@ -108,7 +108,7 @@
 **2025-02-25** - **[DLA-4068-1](https://security-tracker.debian.org/tracker/DLA-4068-1)** - php-nesbot-carbon
 
 **CVE(s) :**
-- **[CVE-2025-22145](https://www.cve.org/CVERecord?id=CVE-2025-22145)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-22145](https://www.cve.org/CVERecord?id=CVE-2025-22145)** : 🟠 **Severity: Medium** (Score: 6.3)
 
 **Debian Version :** bullseye
  **Package Version :** php-nesbot-carbon 2.32.2-1+deb11u1
@@ -257,7 +257,7 @@
 **2025-02-20** - **[DLA-4059-1](https://security-tracker.debian.org/tracker/DLA-4059-1)** - mosquitto
 
 **CVE(s) :**
-- **[CVE-2024-3935](https://www.cve.org/CVERecord?id=CVE-2024-3935)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-3935](https://www.cve.org/CVERecord?id=CVE-2024-3935)** : 🟠 **Severity: Medium** (Score: 6)
 
 - **[CVE-2024-10525](https://www.cve.org/CVERecord?id=CVE-2024-10525)** : 🔥 **Severity: High** (Score: 7.2)
 
@@ -270,7 +270,7 @@
 **2025-02-18** - **[DLA-4058-1](https://security-tracker.debian.org/tracker/DLA-4058-1)** - pam-pkcs11
 
 **CVE(s) :**
-- **[CVE-2025-24032](https://www.cve.org/CVERecord?id=CVE-2025-24032)** : 🔥 **Severity: High** (Score: 9.2)
+- **[CVE-2025-24032](https://www.cve.org/CVERecord?id=CVE-2025-24032)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** pam-pkcs11 0.6.11-4+deb11u1
