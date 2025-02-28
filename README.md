@@ -1,5 +1,71 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-02-27** - **[DLA-4071-1](https://security-tracker.debian.org/tracker/DLA-4071-1)** - gst-plugins-good1.0
+
+**CVE(s) :**
+- **[CVE-2024-47537](https://www.cve.org/CVERecord?id=CVE-2024-47537)** : 🔥 **Severity: High** (Score: 8.6)
+
+- **[CVE-2024-47539](https://www.cve.org/CVERecord?id=CVE-2024-47539)** : 🔥 **Severity: High** (Score: 8.6)
+
+- **[CVE-2024-47540](https://www.cve.org/CVERecord?id=CVE-2024-47540)** : 🔥 **Severity: High** (Score: 8.6)
+
+- **[CVE-2024-47543](https://www.cve.org/CVERecord?id=CVE-2024-47543)** : 🟠 **Severity: Medium** (Score: 5.1)
+
+- **[CVE-2024-47544](https://www.cve.org/CVERecord?id=CVE-2024-47544)** : 🟠 **Severity: Medium** (Score: 6.8)
+
+- **[CVE-2024-47545](https://www.cve.org/CVERecord?id=CVE-2024-47545)** : 🟠 **Severity: Medium** (Score: 6.9)
+
+- **[CVE-2024-47546](https://www.cve.org/CVERecord?id=CVE-2024-47546)** : 🟠 **Severity: Medium** (Score: 6.9)
+
+- **[CVE-2024-47596](https://www.cve.org/CVERecord?id=CVE-2024-47596)** : 🟠 **Severity: Medium** (Score: 5.1)
+
+- **[CVE-2024-47597](https://www.cve.org/CVERecord?id=CVE-2024-47597)** : 🟠 **Severity: Medium** (Score: 5.1)
+
+- **[CVE-2024-47598](https://www.cve.org/CVERecord?id=CVE-2024-47598)** : 🟠 **Severity: Medium** (Score: 5.1)
+
+- **[CVE-2024-47599](https://www.cve.org/CVERecord?id=CVE-2024-47599)** : 🟠 **Severity: Medium** (Score: 6.8)
+
+- **[CVE-2024-47601](https://www.cve.org/CVERecord?id=CVE-2024-47601)** : 🟠 **Severity: Medium** (Score: 6.8)
+
+- **[CVE-2024-47602](https://www.cve.org/CVERecord?id=CVE-2024-47602)** : 🟠 **Severity: Medium** (Score: 6.8)
+
+- **[CVE-2024-47603](https://www.cve.org/CVERecord?id=CVE-2024-47603)** : 🟠 **Severity: Medium** (Score: 6.8)
+
+- **[CVE-2024-47606](https://www.cve.org/CVERecord?id=CVE-2024-47606)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-47613](https://www.cve.org/CVERecord?id=CVE-2024-47613)** : 🔥 **Severity: High** (Score: 8.6)
+
+- **[CVE-2024-47774](https://www.cve.org/CVERecord?id=CVE-2024-47774)** : 🟠 **Severity: Medium** (Score: 5.1)
+
+- **[CVE-2024-47775](https://www.cve.org/CVERecord?id=CVE-2024-47775)** : 🟠 **Severity: Medium** (Score: 5.1)
+
+- **[CVE-2024-47776](https://www.cve.org/CVERecord?id=CVE-2024-47776)** : 🟠 **Severity: Medium** (Score: 5.1)
+
+- **[CVE-2024-47777](https://www.cve.org/CVERecord?id=CVE-2024-47777)** : 🟠 **Severity: Medium** (Score: 5.1)
+
+- **[CVE-2024-47778](https://www.cve.org/CVERecord?id=CVE-2024-47778)** : 🟠 **Severity: Medium** (Score: 5.1)
+
+- **[CVE-2024-47834](https://www.cve.org/CVERecord?id=CVE-2024-47834)** : 🟠 **Severity: Medium** (Score: 5.1)
+
+**Debian Version :** bullseye
+ **Package Version :** gst-plugins-good1.0 1.18.4-2+deb11u3
+ **Type :** DLA
+
+------------------------------
+
+**2025-02-27** - **[DLA-4070-1](https://security-tracker.debian.org/tracker/DLA-4070-1)** - freerdp2
+
+**CVE(s) :**
+- **[CVE-2022-24882](https://www.cve.org/CVERecord?id=CVE-2022-24882)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2022-39320](https://www.cve.org/CVERecord?id=CVE-2022-39320)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** freerdp2 2.3.0+dfsg1-2+deb11u3
+ **Type :** DLA
+
+------------------------------
+
 **2025-02-27** - **[DLA-4069-1](https://security-tracker.debian.org/tracker/DLA-4069-1)** - emacs
 
 **CVE(s) :**
@@ -12,6 +78,19 @@
 **Debian Version :** bullseye
  **Package Version :** emacs 1:27.1+1-3.1+deb11u6
  **Type :** DLA
+
+------------------------------
+
+**2025-02-27** - **[DSA-5871-1](https://security-tracker.debian.org/tracker/DSA-5871-1)** - emacs
+
+**CVE(s) :**
+- **[CVE-2024-53920](https://www.cve.org/CVERecord?id=CVE-2024-53920)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-1244](https://www.cve.org/CVERecord?id=CVE-2025-1244)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** emacs 1:28.2+1-15+deb12u4
+ **Type :** DSA
 
 ------------------------------
 
@@ -29,7 +108,7 @@
 **2025-02-25** - **[DLA-4068-1](https://security-tracker.debian.org/tracker/DLA-4068-1)** - php-nesbot-carbon
 
 **CVE(s) :**
-- **[CVE-2025-22145](https://www.cve.org/CVERecord?id=CVE-2025-22145)** : 🟠 **Severity: Medium** (Score: 6.3)
+- **[CVE-2025-22145](https://www.cve.org/CVERecord?id=CVE-2025-22145)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** php-nesbot-carbon 2.32.2-1+deb11u1
@@ -167,7 +246,7 @@
 **2025-02-20** - **[DLA-4060-1](https://security-tracker.debian.org/tracker/DLA-4060-1)** - djoser
 
 **CVE(s) :**
-- **[CVE-2024-21543](https://www.cve.org/CVERecord?id=CVE-2024-21543)** : 🟠 **Severity: Medium** (Score: 5.7)
+- **[CVE-2024-21543](https://www.cve.org/CVERecord?id=CVE-2024-21543)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** djoser 2.1.0-1+deb11u1
@@ -178,7 +257,7 @@
 **2025-02-20** - **[DLA-4059-1](https://security-tracker.debian.org/tracker/DLA-4059-1)** - mosquitto
 
 **CVE(s) :**
-- **[CVE-2024-3935](https://www.cve.org/CVERecord?id=CVE-2024-3935)** : 🟠 **Severity: Medium** (Score: 6)
+- **[CVE-2024-3935](https://www.cve.org/CVERecord?id=CVE-2024-3935)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-10525](https://www.cve.org/CVERecord?id=CVE-2024-10525)** : 🔥 **Severity: High** (Score: 7.2)
 
@@ -326,23 +405,6 @@
 **Debian Version :** bullseye
  **Package Version :** freerdp2 2.3.0+dfsg1-2+deb11u2
  **Type :** DLA
-
-------------------------------
-
-**2025-02-14** - **[DSA-5866-1](https://security-tracker.debian.org/tracker/DSA-5866-1)** - chromium
-
-**CVE(s) :**
-- **[CVE-2025-0995](https://www.cve.org/CVERecord?id=CVE-2025-0995)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-0996](https://www.cve.org/CVERecord?id=CVE-2025-0996)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-0997](https://www.cve.org/CVERecord?id=CVE-2025-0997)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-0998](https://www.cve.org/CVERecord?id=CVE-2025-0998)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** chromium 133.0.6943.98-1~deb12u1
- **Type :** DSA
 
 ------------------------------
 
