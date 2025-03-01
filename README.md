@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-03-01** - **[DLA-4074-1](https://security-tracker.debian.org/tracker/DLA-4074-1)** - mariadb-10.5
+
+**CVE(s) :**
+- **[CVE-2025-21490](https://www.cve.org/CVERecord?id=CVE-2025-21490)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** mariadb-10.5 1:10.5.28-0+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-03-01** - **[DLA-4073-1](https://security-tracker.debian.org/tracker/DLA-4073-1)** - ffmpeg
 
 **CVE(s) :**
@@ -80,7 +91,7 @@
 
 - **[CVE-2024-47545](https://www.cve.org/CVERecord?id=CVE-2024-47545)** : 🟠 **Severity: Medium** (Score: 6.9)
 
-- **[CVE-2024-47546](https://www.cve.org/CVERecord?id=CVE-2024-47546)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47546](https://www.cve.org/CVERecord?id=CVE-2024-47546)** : 🟠 **Severity: Medium** (Score: 6.9)
 
 - **[CVE-2024-47596](https://www.cve.org/CVERecord?id=CVE-2024-47596)** : 🟠 **Severity: Medium** (Score: 5.1)
 
@@ -102,7 +113,7 @@
 
 - **[CVE-2024-47774](https://www.cve.org/CVERecord?id=CVE-2024-47774)** : 🟠 **Severity: Medium** (Score: 5.1)
 
-- **[CVE-2024-47775](https://www.cve.org/CVERecord?id=CVE-2024-47775)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47775](https://www.cve.org/CVERecord?id=CVE-2024-47775)** : 🟠 **Severity: Medium** (Score: 5.1)
 
 - **[CVE-2024-47776](https://www.cve.org/CVERecord?id=CVE-2024-47776)** : 🟠 **Severity: Medium** (Score: 5.1)
 
