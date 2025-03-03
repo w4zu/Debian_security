@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-03-02** - **[DLA-4077-1](https://security-tracker.debian.org/tracker/DLA-4077-1)** - proftpd-dfsg
+
+**CVE(s) :**
+- **[CVE-2024-57392](https://www.cve.org/CVERecord?id=CVE-2024-57392)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** proftpd-dfsg 1.3.7a+dfsg-12+deb11u5
+ **Type :** DLA
+
+------------------------------
+
 **2025-03-01** - **[DLA-4076-1](https://security-tracker.debian.org/tracker/DLA-4076-1)** - linux-6.1
 
 **CVE(s) :**
@@ -1559,7 +1570,7 @@
 **2025-02-27** - **[DLA-4071-1](https://security-tracker.debian.org/tracker/DLA-4071-1)** - gst-plugins-good1.0
 
 **CVE(s) :**
-- **[CVE-2024-47537](https://www.cve.org/CVERecord?id=CVE-2024-47537)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47537](https://www.cve.org/CVERecord?id=CVE-2024-47537)** : 🔥 **Severity: High** (Score: 8.6)
 
 - **[CVE-2024-47539](https://www.cve.org/CVERecord?id=CVE-2024-47539)** : 🔥 **Severity: High** (Score: 8.6)
 
@@ -1571,7 +1582,7 @@
 
 - **[CVE-2024-47545](https://www.cve.org/CVERecord?id=CVE-2024-47545)** : 🟠 **Severity: Medium** (Score: 6.9)
 
-- **[CVE-2024-47546](https://www.cve.org/CVERecord?id=CVE-2024-47546)** : 🟠 **Severity: Medium** (Score: 6.9)
+- **[CVE-2024-47546](https://www.cve.org/CVERecord?id=CVE-2024-47546)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-47596](https://www.cve.org/CVERecord?id=CVE-2024-47596)** : 🟠 **Severity: Medium** (Score: 5.1)
 
@@ -1579,13 +1590,13 @@
 
 - **[CVE-2024-47598](https://www.cve.org/CVERecord?id=CVE-2024-47598)** : 🟠 **Severity: Medium** (Score: 5.1)
 
-- **[CVE-2024-47599](https://www.cve.org/CVERecord?id=CVE-2024-47599)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47599](https://www.cve.org/CVERecord?id=CVE-2024-47599)** : 🟠 **Severity: Medium** (Score: 6.8)
 
-- **[CVE-2024-47601](https://www.cve.org/CVERecord?id=CVE-2024-47601)** : 🟠 **Severity: Medium** (Score: 6.8)
+- **[CVE-2024-47601](https://www.cve.org/CVERecord?id=CVE-2024-47601)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-47602](https://www.cve.org/CVERecord?id=CVE-2024-47602)** : 🟠 **Severity: Medium** (Score: 6.8)
 
-- **[CVE-2024-47603](https://www.cve.org/CVERecord?id=CVE-2024-47603)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47603](https://www.cve.org/CVERecord?id=CVE-2024-47603)** : 🟠 **Severity: Medium** (Score: 6.8)
 
 - **[CVE-2024-47606](https://www.cve.org/CVERecord?id=CVE-2024-47606)** : 🔥 **Severity: High** (Score: 8.6)
 
@@ -1599,7 +1610,7 @@
 
 - **[CVE-2024-47777](https://www.cve.org/CVERecord?id=CVE-2024-47777)** : 🟠 **Severity: Medium** (Score: 5.1)
 
-- **[CVE-2024-47778](https://www.cve.org/CVERecord?id=CVE-2024-47778)** : 🟠 **Severity: Medium** (Score: 5.1)
+- **[CVE-2024-47778](https://www.cve.org/CVERecord?id=CVE-2024-47778)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-47834](https://www.cve.org/CVERecord?id=CVE-2024-47834)** : **Severity: Unknown** (Score: N/A)
 
@@ -1852,28 +1863,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** openssh 1:9.2p1-2+deb12u5
- **Type :** DSA
-
-------------------------------
-
-**2025-02-17** - **[DLA-4056-1](https://security-tracker.debian.org/tracker/DLA-4056-1)** - golang-glog
-
-**CVE(s) :**
-- **[CVE-2024-45339](https://www.cve.org/CVERecord?id=CVE-2024-45339)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** golang-glog 0.0~git20160126.23def4e-3+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-02-17** - **[DSA-5867-1](https://security-tracker.debian.org/tracker/DSA-5867-1)** - gnutls28
-
-**CVE(s) :**
-- **[CVE-2024-12243](https://www.cve.org/CVERecord?id=CVE-2024-12243)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** gnutls28 3.7.9-2+deb12u4
  **Type :** DSA
 
 ------------------------------
