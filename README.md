@@ -1564,13 +1564,13 @@
 
 - **[CVE-2024-47539](https://www.cve.org/CVERecord?id=CVE-2024-47539)** : 🔥 **Severity: High** (Score: 8.6)
 
-- **[CVE-2024-47540](https://www.cve.org/CVERecord?id=CVE-2024-47540)** : 🔥 **Severity: High** (Score: 8.6)
+- **[CVE-2024-47540](https://www.cve.org/CVERecord?id=CVE-2024-47540)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2024-47543](https://www.cve.org/CVERecord?id=CVE-2024-47543)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47543](https://www.cve.org/CVERecord?id=CVE-2024-47543)** : 🟠 **Severity: Medium** (Score: 5.1)
 
 - **[CVE-2024-47544](https://www.cve.org/CVERecord?id=CVE-2024-47544)** : 🟠 **Severity: Medium** (Score: 6.8)
 
-- **[CVE-2024-47545](https://www.cve.org/CVERecord?id=CVE-2024-47545)** : 🟠 **Severity: Medium** (Score: 6.9)
+- **[CVE-2024-47545](https://www.cve.org/CVERecord?id=CVE-2024-47545)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-47546](https://www.cve.org/CVERecord?id=CVE-2024-47546)** : 🟠 **Severity: Medium** (Score: 6.9)
 
@@ -1586,13 +1586,13 @@
 
 - **[CVE-2024-47602](https://www.cve.org/CVERecord?id=CVE-2024-47602)** : 🟠 **Severity: Medium** (Score: 6.8)
 
-- **[CVE-2024-47603](https://www.cve.org/CVERecord?id=CVE-2024-47603)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47603](https://www.cve.org/CVERecord?id=CVE-2024-47603)** : 🟠 **Severity: Medium** (Score: 6.8)
 
-- **[CVE-2024-47606](https://www.cve.org/CVERecord?id=CVE-2024-47606)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47606](https://www.cve.org/CVERecord?id=CVE-2024-47606)** : 🔥 **Severity: High** (Score: 8.6)
 
 - **[CVE-2024-47613](https://www.cve.org/CVERecord?id=CVE-2024-47613)** : 🔥 **Severity: High** (Score: 8.6)
 
-- **[CVE-2024-47774](https://www.cve.org/CVERecord?id=CVE-2024-47774)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47774](https://www.cve.org/CVERecord?id=CVE-2024-47774)** : 🟠 **Severity: Medium** (Score: 5.1)
 
 - **[CVE-2024-47775](https://www.cve.org/CVERecord?id=CVE-2024-47775)** : 🟠 **Severity: Medium** (Score: 5.1)
 
@@ -1602,7 +1602,7 @@
 
 - **[CVE-2024-47778](https://www.cve.org/CVERecord?id=CVE-2024-47778)** : 🟠 **Severity: Medium** (Score: 5.1)
 
-- **[CVE-2024-47834](https://www.cve.org/CVERecord?id=CVE-2024-47834)** : 🟠 **Severity: Medium** (Score: 5.1)
+- **[CVE-2024-47834](https://www.cve.org/CVERecord?id=CVE-2024-47834)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** gst-plugins-good1.0 1.18.4-2+deb11u3
@@ -1821,39 +1821,6 @@
 **Debian Version :** bullseye
  **Package Version :** mosquitto 2.0.11-1+deb11u2
  **Type :** DLA
-
-------------------------------
-
-**2025-02-18** - **[DLA-4058-1](https://security-tracker.debian.org/tracker/DLA-4058-1)** - pam-pkcs11
-
-**CVE(s) :**
-- **[CVE-2025-24032](https://www.cve.org/CVERecord?id=CVE-2025-24032)** : 🔥 **Severity: High** (Score: 9.2)
-
-**Debian Version :** bullseye
- **Package Version :** pam-pkcs11 0.6.11-4+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-02-18** - **[DLA-4057-1](https://security-tracker.debian.org/tracker/DLA-4057-1)** - openssh
-
-**CVE(s) :**
-- **[CVE-2025-26465](https://www.cve.org/CVERecord?id=CVE-2025-26465)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** openssh 1:8.4p1-5+deb11u4
- **Type :** DLA
-
-------------------------------
-
-**2025-02-18** - **[DSA-5868-1](https://security-tracker.debian.org/tracker/DSA-5868-1)** - openssh
-
-**CVE(s) :**
-- **[CVE-2025-26465](https://www.cve.org/CVERecord?id=CVE-2025-26465)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** openssh 1:9.2p1-2+deb12u5
- **Type :** DSA
 
 ------------------------------
 
