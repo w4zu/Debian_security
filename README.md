@@ -1562,47 +1562,47 @@
 **CVE(s) :**
 - **[CVE-2024-47537](https://www.cve.org/CVERecord?id=CVE-2024-47537)** : 🔥 **Severity: High** (Score: 8.6)
 
-- **[CVE-2024-47539](https://www.cve.org/CVERecord?id=CVE-2024-47539)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47539](https://www.cve.org/CVERecord?id=CVE-2024-47539)** : 🔥 **Severity: High** (Score: 8.6)
 
 - **[CVE-2024-47540](https://www.cve.org/CVERecord?id=CVE-2024-47540)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-47543](https://www.cve.org/CVERecord?id=CVE-2024-47543)** : 🟠 **Severity: Medium** (Score: 5.1)
 
-- **[CVE-2024-47544](https://www.cve.org/CVERecord?id=CVE-2024-47544)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47544](https://www.cve.org/CVERecord?id=CVE-2024-47544)** : 🟠 **Severity: Medium** (Score: 6.8)
 
 - **[CVE-2024-47545](https://www.cve.org/CVERecord?id=CVE-2024-47545)** : 🟠 **Severity: Medium** (Score: 6.9)
 
-- **[CVE-2024-47546](https://www.cve.org/CVERecord?id=CVE-2024-47546)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47546](https://www.cve.org/CVERecord?id=CVE-2024-47546)** : 🟠 **Severity: Medium** (Score: 6.9)
 
 - **[CVE-2024-47596](https://www.cve.org/CVERecord?id=CVE-2024-47596)** : 🟠 **Severity: Medium** (Score: 5.1)
 
-- **[CVE-2024-47597](https://www.cve.org/CVERecord?id=CVE-2024-47597)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47597](https://www.cve.org/CVERecord?id=CVE-2024-47597)** : 🟠 **Severity: Medium** (Score: 5.1)
 
-- **[CVE-2024-47598](https://www.cve.org/CVERecord?id=CVE-2024-47598)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47598](https://www.cve.org/CVERecord?id=CVE-2024-47598)** : 🟠 **Severity: Medium** (Score: 5.1)
 
 - **[CVE-2024-47599](https://www.cve.org/CVERecord?id=CVE-2024-47599)** : 🟠 **Severity: Medium** (Score: 6.8)
 
 - **[CVE-2024-47601](https://www.cve.org/CVERecord?id=CVE-2024-47601)** : 🟠 **Severity: Medium** (Score: 6.8)
 
-- **[CVE-2024-47602](https://www.cve.org/CVERecord?id=CVE-2024-47602)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47602](https://www.cve.org/CVERecord?id=CVE-2024-47602)** : 🟠 **Severity: Medium** (Score: 6.8)
 
-- **[CVE-2024-47603](https://www.cve.org/CVERecord?id=CVE-2024-47603)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47603](https://www.cve.org/CVERecord?id=CVE-2024-47603)** : 🟠 **Severity: Medium** (Score: 6.8)
 
 - **[CVE-2024-47606](https://www.cve.org/CVERecord?id=CVE-2024-47606)** : 🔥 **Severity: High** (Score: 8.6)
 
-- **[CVE-2024-47613](https://www.cve.org/CVERecord?id=CVE-2024-47613)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47613](https://www.cve.org/CVERecord?id=CVE-2024-47613)** : 🔥 **Severity: High** (Score: 8.6)
 
 - **[CVE-2024-47774](https://www.cve.org/CVERecord?id=CVE-2024-47774)** : 🟠 **Severity: Medium** (Score: 5.1)
 
 - **[CVE-2024-47775](https://www.cve.org/CVERecord?id=CVE-2024-47775)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2024-47776](https://www.cve.org/CVERecord?id=CVE-2024-47776)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47776](https://www.cve.org/CVERecord?id=CVE-2024-47776)** : 🟠 **Severity: Medium** (Score: 5.1)
 
 - **[CVE-2024-47777](https://www.cve.org/CVERecord?id=CVE-2024-47777)** : 🟠 **Severity: Medium** (Score: 5.1)
 
 - **[CVE-2024-47778](https://www.cve.org/CVERecord?id=CVE-2024-47778)** : 🟠 **Severity: Medium** (Score: 5.1)
 
-- **[CVE-2024-47834](https://www.cve.org/CVERecord?id=CVE-2024-47834)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47834](https://www.cve.org/CVERecord?id=CVE-2024-47834)** : 🟠 **Severity: Medium** (Score: 5.1)
 
 **Debian Version :** bullseye
  **Package Version :** gst-plugins-good1.0 1.18.4-2+deb11u3
@@ -1654,7 +1654,7 @@
 **2025-02-26** - **[DSA-5870-1](https://security-tracker.debian.org/tracker/DSA-5870-1)** - openh264
 
 **CVE(s) :**
-- **[CVE-2025-27091](https://www.cve.org/CVERecord?id=CVE-2025-27091)** : 🔥 **Severity: High** (Score: 8.6)
+- **[CVE-2025-27091](https://www.cve.org/CVERecord?id=CVE-2025-27091)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** openh264 2.3.1+dfsg-3+deb12u1
@@ -1803,7 +1803,7 @@
 **2025-02-20** - **[DLA-4060-1](https://security-tracker.debian.org/tracker/DLA-4060-1)** - djoser
 
 **CVE(s) :**
-- **[CVE-2024-21543](https://www.cve.org/CVERecord?id=CVE-2024-21543)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-21543](https://www.cve.org/CVERecord?id=CVE-2024-21543)** : 🟠 **Severity: Medium** (Score: 5.7)
 
 **Debian Version :** bullseye
  **Package Version :** djoser 2.1.0-1+deb11u1
@@ -1816,7 +1816,7 @@
 **CVE(s) :**
 - **[CVE-2024-3935](https://www.cve.org/CVERecord?id=CVE-2024-3935)** : 🟠 **Severity: Medium** (Score: 6)
 
-- **[CVE-2024-10525](https://www.cve.org/CVERecord?id=CVE-2024-10525)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-10525](https://www.cve.org/CVERecord?id=CVE-2024-10525)** : 🔥 **Severity: High** (Score: 7.2)
 
 **Debian Version :** bullseye
  **Package Version :** mosquitto 2.0.11-1+deb11u2
