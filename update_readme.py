@@ -8,7 +8,7 @@ banner = """
 ***********************************************************
 * Debian Security Advisories Update Script                *
 * Author: w4zu                                            *
-* Version: 1.2                                            *
+* Version: 1.3                                            *
 * Description: This script fetches and updates the        *
 *              README.md with the latest 14 days          *
 *              DSA and DLA advisories from Debian.        *
