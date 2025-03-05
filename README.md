@@ -3,7 +3,7 @@
 **2025-03-04** - **[DSA-5873-1](https://security-tracker.debian.org/tracker/DSA-5873-1)** - libreoffice
 
 **CVE(s) :**
-- **[CVE-2025-1080](https://www.cve.org/CVERecord?id=CVE-2025-1080)** : 🔥 **Severity: High** (Score: 7.2)
+- **[CVE-2025-1080](https://www.cve.org/CVERecord?id=CVE-2025-1080)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** libreoffice 4:7.4.7-1+deb12u7
@@ -1581,7 +1581,7 @@
 
 - **[CVE-2024-47544](https://www.cve.org/CVERecord?id=CVE-2024-47544)** : 🟠 **Severity: Medium** (Score: 6.8)
 
-- **[CVE-2024-47545](https://www.cve.org/CVERecord?id=CVE-2024-47545)** : 🟠 **Severity: Medium** (Score: 6.9)
+- **[CVE-2024-47545](https://www.cve.org/CVERecord?id=CVE-2024-47545)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-47546](https://www.cve.org/CVERecord?id=CVE-2024-47546)** : 🟠 **Severity: Medium** (Score: 6.9)
 
@@ -1591,7 +1591,7 @@
 
 - **[CVE-2024-47598](https://www.cve.org/CVERecord?id=CVE-2024-47598)** : 🟠 **Severity: Medium** (Score: 5.1)
 
-- **[CVE-2024-47599](https://www.cve.org/CVERecord?id=CVE-2024-47599)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47599](https://www.cve.org/CVERecord?id=CVE-2024-47599)** : 🟠 **Severity: Medium** (Score: 6.8)
 
 - **[CVE-2024-47601](https://www.cve.org/CVERecord?id=CVE-2024-47601)** : 🟠 **Severity: Medium** (Score: 6.8)
 
@@ -1825,7 +1825,7 @@
 **2025-02-20** - **[DLA-4059-1](https://security-tracker.debian.org/tracker/DLA-4059-1)** - mosquitto
 
 **CVE(s) :**
-- **[CVE-2024-3935](https://www.cve.org/CVERecord?id=CVE-2024-3935)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-3935](https://www.cve.org/CVERecord?id=CVE-2024-3935)** : 🟠 **Severity: Medium** (Score: 6)
 
 - **[CVE-2024-10525](https://www.cve.org/CVERecord?id=CVE-2024-10525)** : 🔥 **Severity: High** (Score: 7.2)
 
