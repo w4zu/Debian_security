@@ -1533,7 +1533,7 @@
 **2025-03-01** - **[DLA-4073-1](https://security-tracker.debian.org/tracker/DLA-4073-1)** - ffmpeg
 
 **CVE(s) :**
-- **[CVE-2025-0518](https://www.cve.org/CVERecord?id=CVE-2025-0518)** : 🟠 **Severity: Medium** (Score: 4.8)
+- **[CVE-2025-0518](https://www.cve.org/CVERecord?id=CVE-2025-0518)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-22919](https://www.cve.org/CVERecord?id=CVE-2025-22919)** : **Severity: Unknown** (Score: N/A)
 
@@ -1602,13 +1602,13 @@
 
 - **[CVE-2024-47539](https://www.cve.org/CVERecord?id=CVE-2024-47539)** : 🔥 **Severity: High** (Score: 8.6)
 
-- **[CVE-2024-47540](https://www.cve.org/CVERecord?id=CVE-2024-47540)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47540](https://www.cve.org/CVERecord?id=CVE-2024-47540)** : 🔥 **Severity: High** (Score: 8.6)
 
 - **[CVE-2024-47543](https://www.cve.org/CVERecord?id=CVE-2024-47543)** : 🟠 **Severity: Medium** (Score: 5.1)
 
-- **[CVE-2024-47544](https://www.cve.org/CVERecord?id=CVE-2024-47544)** : 🟠 **Severity: Medium** (Score: 6.8)
+- **[CVE-2024-47544](https://www.cve.org/CVERecord?id=CVE-2024-47544)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2024-47545](https://www.cve.org/CVERecord?id=CVE-2024-47545)** : 🟠 **Severity: Medium** (Score: 6.9)
+- **[CVE-2024-47545](https://www.cve.org/CVERecord?id=CVE-2024-47545)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-47546](https://www.cve.org/CVERecord?id=CVE-2024-47546)** : 🟠 **Severity: Medium** (Score: 6.9)
 
@@ -1628,9 +1628,9 @@
 
 - **[CVE-2024-47606](https://www.cve.org/CVERecord?id=CVE-2024-47606)** : 🔥 **Severity: High** (Score: 8.6)
 
-- **[CVE-2024-47613](https://www.cve.org/CVERecord?id=CVE-2024-47613)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47613](https://www.cve.org/CVERecord?id=CVE-2024-47613)** : 🔥 **Severity: High** (Score: 8.6)
 
-- **[CVE-2024-47774](https://www.cve.org/CVERecord?id=CVE-2024-47774)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47774](https://www.cve.org/CVERecord?id=CVE-2024-47774)** : 🟠 **Severity: Medium** (Score: 5.1)
 
 - **[CVE-2024-47775](https://www.cve.org/CVERecord?id=CVE-2024-47775)** : 🟠 **Severity: Medium** (Score: 5.1)
 
