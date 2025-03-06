@@ -27,6 +27,33 @@
 
 ------------------------------
 
+**2025-03-06** - **[DSA-5875-1](https://security-tracker.debian.org/tracker/DSA-5875-1)** - chromium
+
+**CVE(s) :**
+- **[CVE-2025-1914](https://www.cve.org/CVERecord?id=CVE-2025-1914)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-1915](https://www.cve.org/CVERecord?id=CVE-2025-1915)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-1916](https://www.cve.org/CVERecord?id=CVE-2025-1916)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-1917](https://www.cve.org/CVERecord?id=CVE-2025-1917)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-1918](https://www.cve.org/CVERecord?id=CVE-2025-1918)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-1919](https://www.cve.org/CVERecord?id=CVE-2025-1919)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-1921](https://www.cve.org/CVERecord?id=CVE-2025-1921)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-1922](https://www.cve.org/CVERecord?id=CVE-2025-1922)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-1923](https://www.cve.org/CVERecord?id=CVE-2025-1923)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** chromium 134.0.6998.35-1~deb12u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-03-05** - **[DSA-5874-1](https://security-tracker.debian.org/tracker/DSA-5874-1)** - firefox-esr
 
 **CVE(s) :**
@@ -1625,13 +1652,13 @@
 **2025-02-27** - **[DLA-4071-1](https://security-tracker.debian.org/tracker/DLA-4071-1)** - gst-plugins-good1.0
 
 **CVE(s) :**
-- **[CVE-2024-47537](https://www.cve.org/CVERecord?id=CVE-2024-47537)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47537](https://www.cve.org/CVERecord?id=CVE-2024-47537)** : 🔥 **Severity: High** (Score: 8.6)
 
 - **[CVE-2024-47539](https://www.cve.org/CVERecord?id=CVE-2024-47539)** : 🔥 **Severity: High** (Score: 8.6)
 
 - **[CVE-2024-47540](https://www.cve.org/CVERecord?id=CVE-2024-47540)** : 🔥 **Severity: High** (Score: 8.6)
 
-- **[CVE-2024-47543](https://www.cve.org/CVERecord?id=CVE-2024-47543)** : 🟠 **Severity: Medium** (Score: 5.1)
+- **[CVE-2024-47543](https://www.cve.org/CVERecord?id=CVE-2024-47543)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-47544](https://www.cve.org/CVERecord?id=CVE-2024-47544)** : 🟠 **Severity: Medium** (Score: 6.8)
 
@@ -1643,9 +1670,9 @@
 
 - **[CVE-2024-47597](https://www.cve.org/CVERecord?id=CVE-2024-47597)** : 🟠 **Severity: Medium** (Score: 5.1)
 
-- **[CVE-2024-47598](https://www.cve.org/CVERecord?id=CVE-2024-47598)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47598](https://www.cve.org/CVERecord?id=CVE-2024-47598)** : 🟠 **Severity: Medium** (Score: 5.1)
 
-- **[CVE-2024-47599](https://www.cve.org/CVERecord?id=CVE-2024-47599)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47599](https://www.cve.org/CVERecord?id=CVE-2024-47599)** : 🟠 **Severity: Medium** (Score: 6.8)
 
 - **[CVE-2024-47601](https://www.cve.org/CVERecord?id=CVE-2024-47601)** : 🟠 **Severity: Medium** (Score: 6.8)
 
@@ -1653,15 +1680,15 @@
 
 - **[CVE-2024-47603](https://www.cve.org/CVERecord?id=CVE-2024-47603)** : 🟠 **Severity: Medium** (Score: 6.8)
 
-- **[CVE-2024-47606](https://www.cve.org/CVERecord?id=CVE-2024-47606)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47606](https://www.cve.org/CVERecord?id=CVE-2024-47606)** : 🔥 **Severity: High** (Score: 8.6)
 
 - **[CVE-2024-47613](https://www.cve.org/CVERecord?id=CVE-2024-47613)** : 🔥 **Severity: High** (Score: 8.6)
 
 - **[CVE-2024-47774](https://www.cve.org/CVERecord?id=CVE-2024-47774)** : 🟠 **Severity: Medium** (Score: 5.1)
 
-- **[CVE-2024-47775](https://www.cve.org/CVERecord?id=CVE-2024-47775)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47775](https://www.cve.org/CVERecord?id=CVE-2024-47775)** : 🟠 **Severity: Medium** (Score: 5.1)
 
-- **[CVE-2024-47776](https://www.cve.org/CVERecord?id=CVE-2024-47776)** : 🟠 **Severity: Medium** (Score: 5.1)
+- **[CVE-2024-47776](https://www.cve.org/CVERecord?id=CVE-2024-47776)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-47777](https://www.cve.org/CVERecord?id=CVE-2024-47777)** : 🟠 **Severity: Medium** (Score: 5.1)
 
