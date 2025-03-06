@@ -1,5 +1,32 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-03-05** - **[DSA-5874-1](https://security-tracker.debian.org/tracker/DSA-5874-1)** - firefox-esr
+
+**CVE(s) :**
+- **[CVE-2024-43097](https://www.cve.org/CVERecord?id=CVE-2024-43097)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-1931](https://www.cve.org/CVERecord?id=CVE-2025-1931)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-1932](https://www.cve.org/CVERecord?id=CVE-2025-1932)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-1933](https://www.cve.org/CVERecord?id=CVE-2025-1933)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-1934](https://www.cve.org/CVERecord?id=CVE-2025-1934)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-1935](https://www.cve.org/CVERecord?id=CVE-2025-1935)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-1936](https://www.cve.org/CVERecord?id=CVE-2025-1936)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-1937](https://www.cve.org/CVERecord?id=CVE-2025-1937)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-1938](https://www.cve.org/CVERecord?id=CVE-2025-1938)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** firefox-esr 128.8.0esr-1~deb12u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-03-04** - **[DSA-5873-1](https://security-tracker.debian.org/tracker/DSA-5873-1)** - libreoffice
 
 **CVE(s) :**
@@ -1575,7 +1602,7 @@
 
 - **[CVE-2024-47539](https://www.cve.org/CVERecord?id=CVE-2024-47539)** : 🔥 **Severity: High** (Score: 8.6)
 
-- **[CVE-2024-47540](https://www.cve.org/CVERecord?id=CVE-2024-47540)** : 🔥 **Severity: High** (Score: 8.6)
+- **[CVE-2024-47540](https://www.cve.org/CVERecord?id=CVE-2024-47540)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-47543](https://www.cve.org/CVERecord?id=CVE-2024-47543)** : 🟠 **Severity: Medium** (Score: 5.1)
 
@@ -1599,11 +1626,11 @@
 
 - **[CVE-2024-47603](https://www.cve.org/CVERecord?id=CVE-2024-47603)** : 🟠 **Severity: Medium** (Score: 6.8)
 
-- **[CVE-2024-47606](https://www.cve.org/CVERecord?id=CVE-2024-47606)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47606](https://www.cve.org/CVERecord?id=CVE-2024-47606)** : 🔥 **Severity: High** (Score: 8.6)
 
-- **[CVE-2024-47613](https://www.cve.org/CVERecord?id=CVE-2024-47613)** : 🔥 **Severity: High** (Score: 8.6)
+- **[CVE-2024-47613](https://www.cve.org/CVERecord?id=CVE-2024-47613)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2024-47774](https://www.cve.org/CVERecord?id=CVE-2024-47774)** : 🟠 **Severity: Medium** (Score: 5.1)
+- **[CVE-2024-47774](https://www.cve.org/CVERecord?id=CVE-2024-47774)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-47775](https://www.cve.org/CVERecord?id=CVE-2024-47775)** : 🟠 **Severity: Medium** (Score: 5.1)
 
@@ -1676,7 +1703,7 @@
 **2025-02-25** - **[DLA-4068-1](https://security-tracker.debian.org/tracker/DLA-4068-1)** - php-nesbot-carbon
 
 **CVE(s) :**
-- **[CVE-2025-22145](https://www.cve.org/CVERecord?id=CVE-2025-22145)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-22145](https://www.cve.org/CVERecord?id=CVE-2025-22145)** : 🟠 **Severity: Medium** (Score: 6.3)
 
 **Debian Version :** bullseye
  **Package Version :** php-nesbot-carbon 2.32.2-1+deb11u1
@@ -1808,30 +1835,6 @@
 **Debian Version :** bookworm
  **Package Version :** chromium 133.0.6943.126-1~deb12u1
  **Type :** DSA
-
-------------------------------
-
-**2025-02-20** - **[DLA-4060-1](https://security-tracker.debian.org/tracker/DLA-4060-1)** - djoser
-
-**CVE(s) :**
-- **[CVE-2024-21543](https://www.cve.org/CVERecord?id=CVE-2024-21543)** : 🟠 **Severity: Medium** (Score: 5.7)
-
-**Debian Version :** bullseye
- **Package Version :** djoser 2.1.0-1+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-02-20** - **[DLA-4059-1](https://security-tracker.debian.org/tracker/DLA-4059-1)** - mosquitto
-
-**CVE(s) :**
-- **[CVE-2024-3935](https://www.cve.org/CVERecord?id=CVE-2024-3935)** : 🟠 **Severity: Medium** (Score: 6)
-
-- **[CVE-2024-10525](https://www.cve.org/CVERecord?id=CVE-2024-10525)** : 🔥 **Severity: High** (Score: 7.2)
-
-**Debian Version :** bullseye
- **Package Version :** mosquitto 2.0.11-1+deb11u2
- **Type :** DLA
 
 ------------------------------
 
