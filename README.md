@@ -1654,11 +1654,11 @@
 **CVE(s) :**
 - **[CVE-2024-47537](https://www.cve.org/CVERecord?id=CVE-2024-47537)** : 🔥 **Severity: High** (Score: 8.6)
 
-- **[CVE-2024-47539](https://www.cve.org/CVERecord?id=CVE-2024-47539)** : 🔥 **Severity: High** (Score: 8.6)
+- **[CVE-2024-47539](https://www.cve.org/CVERecord?id=CVE-2024-47539)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-47540](https://www.cve.org/CVERecord?id=CVE-2024-47540)** : 🔥 **Severity: High** (Score: 8.6)
 
-- **[CVE-2024-47543](https://www.cve.org/CVERecord?id=CVE-2024-47543)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47543](https://www.cve.org/CVERecord?id=CVE-2024-47543)** : 🟠 **Severity: Medium** (Score: 5.1)
 
 - **[CVE-2024-47544](https://www.cve.org/CVERecord?id=CVE-2024-47544)** : 🟠 **Severity: Medium** (Score: 6.8)
 
@@ -1688,7 +1688,7 @@
 
 - **[CVE-2024-47775](https://www.cve.org/CVERecord?id=CVE-2024-47775)** : 🟠 **Severity: Medium** (Score: 5.1)
 
-- **[CVE-2024-47776](https://www.cve.org/CVERecord?id=CVE-2024-47776)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47776](https://www.cve.org/CVERecord?id=CVE-2024-47776)** : 🟠 **Severity: Medium** (Score: 5.1)
 
 - **[CVE-2024-47777](https://www.cve.org/CVERecord?id=CVE-2024-47777)** : 🟠 **Severity: Medium** (Score: 5.1)
 
@@ -1757,7 +1757,7 @@
 **2025-02-25** - **[DLA-4068-1](https://security-tracker.debian.org/tracker/DLA-4068-1)** - php-nesbot-carbon
 
 **CVE(s) :**
-- **[CVE-2025-22145](https://www.cve.org/CVERecord?id=CVE-2025-22145)** : 🟠 **Severity: Medium** (Score: 6.3)
+- **[CVE-2025-22145](https://www.cve.org/CVERecord?id=CVE-2025-22145)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** php-nesbot-carbon 2.32.2-1+deb11u1
@@ -1830,65 +1830,6 @@
 **Debian Version :** bullseye
  **Package Version :** libxml2 2.9.10+dfsg-6.7+deb11u6
  **Type :** DLA
-
-------------------------------
-
-**2025-02-21** - **[DLA-4063-1](https://security-tracker.debian.org/tracker/DLA-4063-1)** - gnutls28
-
-**CVE(s) :**
-- **[CVE-2024-12243](https://www.cve.org/CVERecord?id=CVE-2024-12243)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** gnutls28 3.7.1-5+deb11u7
- **Type :** DLA
-
-------------------------------
-
-**2025-02-21** - **[DLA-4062-1](https://security-tracker.debian.org/tracker/DLA-4062-1)** - python-werkzeug
-
-**CVE(s) :**
-- **[CVE-2024-34069](https://www.cve.org/CVERecord?id=CVE-2024-34069)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** python-werkzeug 1.0.1+dfsg1-2+deb11u2
- **Type :** DLA
-
-------------------------------
-
-**2025-02-21** - **[DLA-4061-1](https://security-tracker.debian.org/tracker/DLA-4061-1)** - libtasn1-6
-
-**CVE(s) :**
-- **[CVE-2024-12133](https://www.cve.org/CVERecord?id=CVE-2024-12133)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** libtasn1-6 4.16.0-2+deb11u2
- **Type :** DLA
-
-------------------------------
-
-**2025-02-21** - **[DLA-4052-2](https://security-tracker.debian.org/tracker/DLA-4052-2)** - postgresql-13
-
-**CVE(s) :**
-- **[CVE-2025-1094](https://www.cve.org/CVERecord?id=CVE-2025-1094)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** postgresql-13 13.20-0+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-02-21** - **[DSA-5869-1](https://security-tracker.debian.org/tracker/DSA-5869-1)** - chromium
-
-**CVE(s) :**
-- **[CVE-2025-0999](https://www.cve.org/CVERecord?id=CVE-2025-0999)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-1006](https://www.cve.org/CVERecord?id=CVE-2025-1006)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-1426](https://www.cve.org/CVERecord?id=CVE-2025-1426)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** chromium 133.0.6943.126-1~deb12u1
- **Type :** DSA
 
 ------------------------------
 
