@@ -1587,7 +1587,7 @@
 **2025-03-01** - **[DLA-4073-1](https://security-tracker.debian.org/tracker/DLA-4073-1)** - ffmpeg
 
 **CVE(s) :**
-- **[CVE-2025-0518](https://www.cve.org/CVERecord?id=CVE-2025-0518)** : 🟠 **Severity: Medium** (Score: 4.8)
+- **[CVE-2025-0518](https://www.cve.org/CVERecord?id=CVE-2025-0518)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-22919](https://www.cve.org/CVERecord?id=CVE-2025-22919)** : **Severity: Unknown** (Score: N/A)
 
@@ -1654,7 +1654,7 @@
 **CVE(s) :**
 - **[CVE-2024-47537](https://www.cve.org/CVERecord?id=CVE-2024-47537)** : 🔥 **Severity: High** (Score: 8.6)
 
-- **[CVE-2024-47539](https://www.cve.org/CVERecord?id=CVE-2024-47539)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47539](https://www.cve.org/CVERecord?id=CVE-2024-47539)** : 🔥 **Severity: High** (Score: 8.6)
 
 - **[CVE-2024-47540](https://www.cve.org/CVERecord?id=CVE-2024-47540)** : 🔥 **Severity: High** (Score: 8.6)
 
@@ -1757,7 +1757,7 @@
 **2025-02-25** - **[DLA-4068-1](https://security-tracker.debian.org/tracker/DLA-4068-1)** - php-nesbot-carbon
 
 **CVE(s) :**
-- **[CVE-2025-22145](https://www.cve.org/CVERecord?id=CVE-2025-22145)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-22145](https://www.cve.org/CVERecord?id=CVE-2025-22145)** : 🟠 **Severity: Medium** (Score: 6.3)
 
 **Debian Version :** bullseye
  **Package Version :** php-nesbot-carbon 2.32.2-1+deb11u1
