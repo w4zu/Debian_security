@@ -84,7 +84,7 @@
 **2025-03-04** - **[DSA-5873-1](https://security-tracker.debian.org/tracker/DSA-5873-1)** - libreoffice
 
 **CVE(s) :**
-- **[CVE-2025-1080](https://www.cve.org/CVERecord?id=CVE-2025-1080)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-1080](https://www.cve.org/CVERecord?id=CVE-2025-1080)** : 🔥 **Severity: High** (Score: 7.2)
 
 **Debian Version :** bookworm
  **Package Version :** libreoffice 4:7.4.7-1+deb12u7
@@ -1652,9 +1652,9 @@
 **2025-02-27** - **[DLA-4071-1](https://security-tracker.debian.org/tracker/DLA-4071-1)** - gst-plugins-good1.0
 
 **CVE(s) :**
-- **[CVE-2024-47537](https://www.cve.org/CVERecord?id=CVE-2024-47537)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47537](https://www.cve.org/CVERecord?id=CVE-2024-47537)** : 🔥 **Severity: High** (Score: 8.6)
 
-- **[CVE-2024-47539](https://www.cve.org/CVERecord?id=CVE-2024-47539)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47539](https://www.cve.org/CVERecord?id=CVE-2024-47539)** : 🔥 **Severity: High** (Score: 8.6)
 
 - **[CVE-2024-47540](https://www.cve.org/CVERecord?id=CVE-2024-47540)** : 🔥 **Severity: High** (Score: 8.6)
 
@@ -1668,15 +1668,15 @@
 
 - **[CVE-2024-47596](https://www.cve.org/CVERecord?id=CVE-2024-47596)** : 🟠 **Severity: Medium** (Score: 5.1)
 
-- **[CVE-2024-47597](https://www.cve.org/CVERecord?id=CVE-2024-47597)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47597](https://www.cve.org/CVERecord?id=CVE-2024-47597)** : 🟠 **Severity: Medium** (Score: 5.1)
 
 - **[CVE-2024-47598](https://www.cve.org/CVERecord?id=CVE-2024-47598)** : 🟠 **Severity: Medium** (Score: 5.1)
 
 - **[CVE-2024-47599](https://www.cve.org/CVERecord?id=CVE-2024-47599)** : 🟠 **Severity: Medium** (Score: 6.8)
 
-- **[CVE-2024-47601](https://www.cve.org/CVERecord?id=CVE-2024-47601)** : 🟠 **Severity: Medium** (Score: 6.8)
+- **[CVE-2024-47601](https://www.cve.org/CVERecord?id=CVE-2024-47601)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2024-47602](https://www.cve.org/CVERecord?id=CVE-2024-47602)** : 🟠 **Severity: Medium** (Score: 6.8)
+- **[CVE-2024-47602](https://www.cve.org/CVERecord?id=CVE-2024-47602)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-47603](https://www.cve.org/CVERecord?id=CVE-2024-47603)** : 🟠 **Severity: Medium** (Score: 6.8)
 
@@ -1684,9 +1684,9 @@
 
 - **[CVE-2024-47613](https://www.cve.org/CVERecord?id=CVE-2024-47613)** : 🔥 **Severity: High** (Score: 8.6)
 
-- **[CVE-2024-47774](https://www.cve.org/CVERecord?id=CVE-2024-47774)** : 🟠 **Severity: Medium** (Score: 5.1)
+- **[CVE-2024-47774](https://www.cve.org/CVERecord?id=CVE-2024-47774)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2024-47775](https://www.cve.org/CVERecord?id=CVE-2024-47775)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47775](https://www.cve.org/CVERecord?id=CVE-2024-47775)** : 🟠 **Severity: Medium** (Score: 5.1)
 
 - **[CVE-2024-47776](https://www.cve.org/CVERecord?id=CVE-2024-47776)** : **Severity: Unknown** (Score: N/A)
 
@@ -1694,7 +1694,7 @@
 
 - **[CVE-2024-47778](https://www.cve.org/CVERecord?id=CVE-2024-47778)** : 🟠 **Severity: Medium** (Score: 5.1)
 
-- **[CVE-2024-47834](https://www.cve.org/CVERecord?id=CVE-2024-47834)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47834](https://www.cve.org/CVERecord?id=CVE-2024-47834)** : 🟠 **Severity: Medium** (Score: 5.1)
 
 **Debian Version :** bullseye
  **Package Version :** gst-plugins-good1.0 1.18.4-2+deb11u3
@@ -1757,7 +1757,7 @@
 **2025-02-25** - **[DLA-4068-1](https://security-tracker.debian.org/tracker/DLA-4068-1)** - php-nesbot-carbon
 
 **CVE(s) :**
-- **[CVE-2025-22145](https://www.cve.org/CVERecord?id=CVE-2025-22145)** : 🟠 **Severity: Medium** (Score: 6.3)
+- **[CVE-2025-22145](https://www.cve.org/CVERecord?id=CVE-2025-22145)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** php-nesbot-carbon 2.32.2-1+deb11u1
