@@ -1627,7 +1627,7 @@
 **2025-03-01** - **[DLA-4073-1](https://security-tracker.debian.org/tracker/DLA-4073-1)** - ffmpeg
 
 **CVE(s) :**
-- **[CVE-2025-0518](https://www.cve.org/CVERecord?id=CVE-2025-0518)** : 🟠 **Severity: Medium** (Score: 4.8)
+- **[CVE-2025-0518](https://www.cve.org/CVERecord?id=CVE-2025-0518)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-22919](https://www.cve.org/CVERecord?id=CVE-2025-22919)** : **Severity: Unknown** (Score: N/A)
 
@@ -1696,7 +1696,7 @@
 
 - **[CVE-2024-47539](https://www.cve.org/CVERecord?id=CVE-2024-47539)** : 🔥 **Severity: High** (Score: 8.6)
 
-- **[CVE-2024-47540](https://www.cve.org/CVERecord?id=CVE-2024-47540)** : 🔥 **Severity: High** (Score: 8.6)
+- **[CVE-2024-47540](https://www.cve.org/CVERecord?id=CVE-2024-47540)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-47543](https://www.cve.org/CVERecord?id=CVE-2024-47543)** : 🟠 **Severity: Medium** (Score: 5.1)
 
@@ -1712,9 +1712,9 @@
 
 - **[CVE-2024-47598](https://www.cve.org/CVERecord?id=CVE-2024-47598)** : 🟠 **Severity: Medium** (Score: 5.1)
 
-- **[CVE-2024-47599](https://www.cve.org/CVERecord?id=CVE-2024-47599)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47599](https://www.cve.org/CVERecord?id=CVE-2024-47599)** : 🟠 **Severity: Medium** (Score: 6.8)
 
-- **[CVE-2024-47601](https://www.cve.org/CVERecord?id=CVE-2024-47601)** : 🟠 **Severity: Medium** (Score: 6.8)
+- **[CVE-2024-47601](https://www.cve.org/CVERecord?id=CVE-2024-47601)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-47602](https://www.cve.org/CVERecord?id=CVE-2024-47602)** : 🟠 **Severity: Medium** (Score: 6.8)
 
@@ -1722,7 +1722,7 @@
 
 - **[CVE-2024-47606](https://www.cve.org/CVERecord?id=CVE-2024-47606)** : 🔥 **Severity: High** (Score: 8.6)
 
-- **[CVE-2024-47613](https://www.cve.org/CVERecord?id=CVE-2024-47613)** : 🔥 **Severity: High** (Score: 8.6)
+- **[CVE-2024-47613](https://www.cve.org/CVERecord?id=CVE-2024-47613)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-47774](https://www.cve.org/CVERecord?id=CVE-2024-47774)** : 🟠 **Severity: Medium** (Score: 5.1)
 
@@ -1730,9 +1730,9 @@
 
 - **[CVE-2024-47776](https://www.cve.org/CVERecord?id=CVE-2024-47776)** : 🟠 **Severity: Medium** (Score: 5.1)
 
-- **[CVE-2024-47777](https://www.cve.org/CVERecord?id=CVE-2024-47777)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47777](https://www.cve.org/CVERecord?id=CVE-2024-47777)** : 🟠 **Severity: Medium** (Score: 5.1)
 
-- **[CVE-2024-47778](https://www.cve.org/CVERecord?id=CVE-2024-47778)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47778](https://www.cve.org/CVERecord?id=CVE-2024-47778)** : 🟠 **Severity: Medium** (Score: 5.1)
 
 - **[CVE-2024-47834](https://www.cve.org/CVERecord?id=CVE-2024-47834)** : 🟠 **Severity: Medium** (Score: 5.1)
 
@@ -1835,17 +1835,6 @@
 
 **Debian Version :** bullseye
  **Package Version :** fort-validator 1.5.3-1~deb11u2
- **Type :** DLA
-
-------------------------------
-
-**2025-02-23** - **[DLA-4065-1](https://security-tracker.debian.org/tracker/DLA-4065-1)** - krb5
-
-**CVE(s) :**
-- **[CVE-2025-24528](https://www.cve.org/CVERecord?id=CVE-2025-24528)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** krb5 1.18.3-6+deb11u6
  **Type :** DLA
 
 ------------------------------
