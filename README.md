@@ -1,5 +1,32 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-03-10** - **[DLA-4081-1](https://security-tracker.debian.org/tracker/DLA-4081-1)** - thunderbird
+
+**CVE(s) :**
+- **[CVE-2024-43097](https://www.cve.org/CVERecord?id=CVE-2024-43097)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-1931](https://www.cve.org/CVERecord?id=CVE-2025-1931)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-1932](https://www.cve.org/CVERecord?id=CVE-2025-1932)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-1933](https://www.cve.org/CVERecord?id=CVE-2025-1933)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-1934](https://www.cve.org/CVERecord?id=CVE-2025-1934)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-1935](https://www.cve.org/CVERecord?id=CVE-2025-1935)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-1936](https://www.cve.org/CVERecord?id=CVE-2025-1936)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-1937](https://www.cve.org/CVERecord?id=CVE-2025-1937)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-1938](https://www.cve.org/CVERecord?id=CVE-2025-1938)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** thunderbird 1:128.8.0esr-1~deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-03-09** - **[DLA-4080-1](https://security-tracker.debian.org/tracker/DLA-4080-1)** - libaws
 
 **CVE(s) :**
@@ -1715,7 +1742,7 @@
 
 - **[CVE-2024-47545](https://www.cve.org/CVERecord?id=CVE-2024-47545)** : 🟠 **Severity: Medium** (Score: 6.9)
 
-- **[CVE-2024-47546](https://www.cve.org/CVERecord?id=CVE-2024-47546)** : 🟠 **Severity: Medium** (Score: 6.9)
+- **[CVE-2024-47546](https://www.cve.org/CVERecord?id=CVE-2024-47546)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-47596](https://www.cve.org/CVERecord?id=CVE-2024-47596)** : 🟠 **Severity: Medium** (Score: 5.1)
 
@@ -1723,17 +1750,17 @@
 
 - **[CVE-2024-47598](https://www.cve.org/CVERecord?id=CVE-2024-47598)** : 🟠 **Severity: Medium** (Score: 5.1)
 
-- **[CVE-2024-47599](https://www.cve.org/CVERecord?id=CVE-2024-47599)** : 🟠 **Severity: Medium** (Score: 6.8)
+- **[CVE-2024-47599](https://www.cve.org/CVERecord?id=CVE-2024-47599)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2024-47601](https://www.cve.org/CVERecord?id=CVE-2024-47601)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47601](https://www.cve.org/CVERecord?id=CVE-2024-47601)** : 🟠 **Severity: Medium** (Score: 6.8)
 
-- **[CVE-2024-47602](https://www.cve.org/CVERecord?id=CVE-2024-47602)** : 🟠 **Severity: Medium** (Score: 6.8)
+- **[CVE-2024-47602](https://www.cve.org/CVERecord?id=CVE-2024-47602)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2024-47603](https://www.cve.org/CVERecord?id=CVE-2024-47603)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47603](https://www.cve.org/CVERecord?id=CVE-2024-47603)** : 🟠 **Severity: Medium** (Score: 6.8)
 
 - **[CVE-2024-47606](https://www.cve.org/CVERecord?id=CVE-2024-47606)** : 🔥 **Severity: High** (Score: 8.6)
 
-- **[CVE-2024-47613](https://www.cve.org/CVERecord?id=CVE-2024-47613)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47613](https://www.cve.org/CVERecord?id=CVE-2024-47613)** : 🔥 **Severity: High** (Score: 8.6)
 
 - **[CVE-2024-47774](https://www.cve.org/CVERecord?id=CVE-2024-47774)** : 🟠 **Severity: Medium** (Score: 5.1)
 
@@ -1741,9 +1768,9 @@
 
 - **[CVE-2024-47776](https://www.cve.org/CVERecord?id=CVE-2024-47776)** : 🟠 **Severity: Medium** (Score: 5.1)
 
-- **[CVE-2024-47777](https://www.cve.org/CVERecord?id=CVE-2024-47777)** : 🟠 **Severity: Medium** (Score: 5.1)
+- **[CVE-2024-47777](https://www.cve.org/CVERecord?id=CVE-2024-47777)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2024-47778](https://www.cve.org/CVERecord?id=CVE-2024-47778)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47778](https://www.cve.org/CVERecord?id=CVE-2024-47778)** : 🟠 **Severity: Medium** (Score: 5.1)
 
 - **[CVE-2024-47834](https://www.cve.org/CVERecord?id=CVE-2024-47834)** : 🟠 **Severity: Medium** (Score: 5.1)
 
