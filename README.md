@@ -1,5 +1,24 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-03-11** - **[DLA-4084-1](https://security-tracker.debian.org/tracker/DLA-4084-1)** - libmodbus
+
+**CVE(s) :**
+- **[CVE-2022-0367](https://www.cve.org/CVERecord?id=CVE-2022-0367)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-10918](https://www.cve.org/CVERecord?id=CVE-2024-10918)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-36843](https://www.cve.org/CVERecord?id=CVE-2024-36843)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-36844](https://www.cve.org/CVERecord?id=CVE-2024-36844)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-36845](https://www.cve.org/CVERecord?id=CVE-2024-36845)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** libmodbus 3.1.6-2+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-03-11** - **[DLA-4083-1](https://security-tracker.debian.org/tracker/DLA-4083-1)** - squid
 
 **CVE(s) :**
@@ -200,7 +219,7 @@
 **2025-03-04** - **[DSA-5873-1](https://security-tracker.debian.org/tracker/DSA-5873-1)** - libreoffice
 
 **CVE(s) :**
-- **[CVE-2025-1080](https://www.cve.org/CVERecord?id=CVE-2025-1080)** : 🔥 **Severity: High** (Score: 7.2)
+- **[CVE-2025-1080](https://www.cve.org/CVERecord?id=CVE-2025-1080)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** libreoffice 4:7.4.7-1+deb12u7
@@ -1774,7 +1793,7 @@
 
 - **[CVE-2024-47540](https://www.cve.org/CVERecord?id=CVE-2024-47540)** : 🔥 **Severity: High** (Score: 8.6)
 
-- **[CVE-2024-47543](https://www.cve.org/CVERecord?id=CVE-2024-47543)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47543](https://www.cve.org/CVERecord?id=CVE-2024-47543)** : 🟠 **Severity: Medium** (Score: 5.1)
 
 - **[CVE-2024-47544](https://www.cve.org/CVERecord?id=CVE-2024-47544)** : 🟠 **Severity: Medium** (Score: 6.8)
 
@@ -1796,7 +1815,7 @@
 
 - **[CVE-2024-47603](https://www.cve.org/CVERecord?id=CVE-2024-47603)** : 🟠 **Severity: Medium** (Score: 6.8)
 
-- **[CVE-2024-47606](https://www.cve.org/CVERecord?id=CVE-2024-47606)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47606](https://www.cve.org/CVERecord?id=CVE-2024-47606)** : 🔥 **Severity: High** (Score: 8.6)
 
 - **[CVE-2024-47613](https://www.cve.org/CVERecord?id=CVE-2024-47613)** : 🔥 **Severity: High** (Score: 8.6)
 
@@ -1862,7 +1881,7 @@
 **2025-02-26** - **[DSA-5870-1](https://security-tracker.debian.org/tracker/DSA-5870-1)** - openh264
 
 **CVE(s) :**
-- **[CVE-2025-27091](https://www.cve.org/CVERecord?id=CVE-2025-27091)** : 🔥 **Severity: High** (Score: 8.6)
+- **[CVE-2025-27091](https://www.cve.org/CVERecord?id=CVE-2025-27091)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** openh264 2.3.1+dfsg-3+deb12u1
