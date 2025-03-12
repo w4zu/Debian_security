@@ -219,7 +219,7 @@
 **2025-03-04** - **[DSA-5873-1](https://security-tracker.debian.org/tracker/DSA-5873-1)** - libreoffice
 
 **CVE(s) :**
-- **[CVE-2025-1080](https://www.cve.org/CVERecord?id=CVE-2025-1080)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-1080](https://www.cve.org/CVERecord?id=CVE-2025-1080)** : 🔥 **Severity: High** (Score: 7.2)
 
 **Debian Version :** bookworm
  **Package Version :** libreoffice 4:7.4.7-1+deb12u7
@@ -1787,7 +1787,7 @@
 **2025-02-27** - **[DLA-4071-1](https://security-tracker.debian.org/tracker/DLA-4071-1)** - gst-plugins-good1.0
 
 **CVE(s) :**
-- **[CVE-2024-47537](https://www.cve.org/CVERecord?id=CVE-2024-47537)** : 🔥 **Severity: High** (Score: 8.6)
+- **[CVE-2024-47537](https://www.cve.org/CVERecord?id=CVE-2024-47537)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-47539](https://www.cve.org/CVERecord?id=CVE-2024-47539)** : 🔥 **Severity: High** (Score: 8.6)
 
@@ -1811,7 +1811,7 @@
 
 - **[CVE-2024-47601](https://www.cve.org/CVERecord?id=CVE-2024-47601)** : 🟠 **Severity: Medium** (Score: 6.8)
 
-- **[CVE-2024-47602](https://www.cve.org/CVERecord?id=CVE-2024-47602)** : 🟠 **Severity: Medium** (Score: 6.8)
+- **[CVE-2024-47602](https://www.cve.org/CVERecord?id=CVE-2024-47602)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-47603](https://www.cve.org/CVERecord?id=CVE-2024-47603)** : 🟠 **Severity: Medium** (Score: 6.8)
 
@@ -1874,17 +1874,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** emacs 1:28.2+1-15+deb12u4
- **Type :** DSA
-
-------------------------------
-
-**2025-02-26** - **[DSA-5870-1](https://security-tracker.debian.org/tracker/DSA-5870-1)** - openh264
-
-**CVE(s) :**
-- **[CVE-2025-27091](https://www.cve.org/CVERecord?id=CVE-2025-27091)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** openh264 2.3.1+dfsg-3+deb12u1
  **Type :** DSA
 
 ------------------------------
