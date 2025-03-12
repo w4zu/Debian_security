@@ -1,5 +1,24 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-03-12** - **[DSA-5877-1](https://security-tracker.debian.org/tracker/DSA-5877-1)** - chromium
+
+**CVE(s) :**
+- **[CVE-2025-1920](https://www.cve.org/CVERecord?id=CVE-2025-1920)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-2135](https://www.cve.org/CVERecord?id=CVE-2025-2135)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-2136](https://www.cve.org/CVERecord?id=CVE-2025-2136)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-2137](https://www.cve.org/CVERecord?id=CVE-2025-2137)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-24201](https://www.cve.org/CVERecord?id=CVE-2025-24201)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** chromium 134.0.6998.88-1~deb12u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-03-11** - **[DLA-4084-1](https://security-tracker.debian.org/tracker/DLA-4084-1)** - libmodbus
 
 **CVE(s) :**
@@ -1805,7 +1824,7 @@
 
 - **[CVE-2024-47597](https://www.cve.org/CVERecord?id=CVE-2024-47597)** : 🟠 **Severity: Medium** (Score: 5.1)
 
-- **[CVE-2024-47598](https://www.cve.org/CVERecord?id=CVE-2024-47598)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47598](https://www.cve.org/CVERecord?id=CVE-2024-47598)** : 🟠 **Severity: Medium** (Score: 5.1)
 
 - **[CVE-2024-47599](https://www.cve.org/CVERecord?id=CVE-2024-47599)** : 🟠 **Severity: Medium** (Score: 6.8)
 
@@ -1817,9 +1836,9 @@
 
 - **[CVE-2024-47606](https://www.cve.org/CVERecord?id=CVE-2024-47606)** : 🔥 **Severity: High** (Score: 8.6)
 
-- **[CVE-2024-47613](https://www.cve.org/CVERecord?id=CVE-2024-47613)** : 🔥 **Severity: High** (Score: 8.6)
+- **[CVE-2024-47613](https://www.cve.org/CVERecord?id=CVE-2024-47613)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2024-47774](https://www.cve.org/CVERecord?id=CVE-2024-47774)** : 🟠 **Severity: Medium** (Score: 5.1)
+- **[CVE-2024-47774](https://www.cve.org/CVERecord?id=CVE-2024-47774)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-47775](https://www.cve.org/CVERecord?id=CVE-2024-47775)** : 🟠 **Severity: Medium** (Score: 5.1)
 
@@ -1829,7 +1848,7 @@
 
 - **[CVE-2024-47778](https://www.cve.org/CVERecord?id=CVE-2024-47778)** : 🟠 **Severity: Medium** (Score: 5.1)
 
-- **[CVE-2024-47834](https://www.cve.org/CVERecord?id=CVE-2024-47834)** : 🟠 **Severity: Medium** (Score: 5.1)
+- **[CVE-2024-47834](https://www.cve.org/CVERecord?id=CVE-2024-47834)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** gst-plugins-good1.0 1.18.4-2+deb11u3
