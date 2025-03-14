@@ -1741,7 +1741,7 @@
 **2025-03-01** - **[DLA-4073-1](https://security-tracker.debian.org/tracker/DLA-4073-1)** - ffmpeg
 
 **CVE(s) :**
-- **[CVE-2025-0518](https://www.cve.org/CVERecord?id=CVE-2025-0518)** : 🟠 **Severity: Medium** (Score: 4.8)
+- **[CVE-2025-0518](https://www.cve.org/CVERecord?id=CVE-2025-0518)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-22919](https://www.cve.org/CVERecord?id=CVE-2025-22919)** : **Severity: Unknown** (Score: N/A)
 
@@ -1775,31 +1775,6 @@
 **Debian Version :** bullseye
  **Package Version :** xorg-server 2:1.20.11-1+deb11u15
  **Type :** DLA
-
-------------------------------
-
-**2025-02-28** - **[DSA-5872-1](https://security-tracker.debian.org/tracker/DSA-5872-1)** - xorg-server
-
-**CVE(s) :**
-- **[CVE-2025-26594](https://www.cve.org/CVERecord?id=CVE-2025-26594)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-26595](https://www.cve.org/CVERecord?id=CVE-2025-26595)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-26596](https://www.cve.org/CVERecord?id=CVE-2025-26596)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-26597](https://www.cve.org/CVERecord?id=CVE-2025-26597)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-26598](https://www.cve.org/CVERecord?id=CVE-2025-26598)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-26599](https://www.cve.org/CVERecord?id=CVE-2025-26599)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-26600](https://www.cve.org/CVERecord?id=CVE-2025-26600)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-26601](https://www.cve.org/CVERecord?id=CVE-2025-26601)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** xorg-server 2:21.1.7-3+deb12u9
- **Type :** DSA
 
 ------------------------------
 
