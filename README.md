@@ -1741,7 +1741,7 @@
 **2025-03-01** - **[DLA-4073-1](https://security-tracker.debian.org/tracker/DLA-4073-1)** - ffmpeg
 
 **CVE(s) :**
-- **[CVE-2025-0518](https://www.cve.org/CVERecord?id=CVE-2025-0518)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-0518](https://www.cve.org/CVERecord?id=CVE-2025-0518)** : 🟠 **Severity: Medium** (Score: 4.8)
 
 - **[CVE-2025-22919](https://www.cve.org/CVERecord?id=CVE-2025-22919)** : **Severity: Unknown** (Score: N/A)
 
