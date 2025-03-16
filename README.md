@@ -265,14 +265,3 @@
 
 ------------------------------
 
-**2025-03-02** - **[DLA-4077-1](https://security-tracker.debian.org/tracker/DLA-4077-1)** - proftpd-dfsg
-
-**CVE(s) :**
-- **[CVE-2024-57392](https://www.cve.org/CVERecord?id=CVE-2024-57392)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** proftpd-dfsg 1.3.7a+dfsg-12+deb11u5
- **Type :** DLA
-
-------------------------------
-
