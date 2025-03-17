@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-03-17** - **[DSA-5880-1](https://security-tracker.debian.org/tracker/DSA-5880-1)** - freetype
+
+**CVE(s) :**
+- **[CVE-2025-27363](https://www.cve.org/CVERecord?id=CVE-2025-27363)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** freetype 2.12.1+dfsg-5+deb12u4
+ **Type :** DSA
+
+------------------------------
+
 **2025-03-14** - **[DSA-5878-1](https://security-tracker.debian.org/tracker/DSA-5878-1)** - php8.2
 
 **CVE(s) :**
