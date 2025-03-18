@@ -1,5 +1,32 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-03-17** - **[DSA-5881-1](https://security-tracker.debian.org/tracker/DSA-5881-1)** - rails
+
+**CVE(s) :**
+- **[CVE-2023-28362](https://www.cve.org/CVERecord?id=CVE-2023-28362)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2023-38037](https://www.cve.org/CVERecord?id=CVE-2023-38037)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-26144](https://www.cve.org/CVERecord?id=CVE-2024-26144)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-28103](https://www.cve.org/CVERecord?id=CVE-2024-28103)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-41128](https://www.cve.org/CVERecord?id=CVE-2024-41128)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-47887](https://www.cve.org/CVERecord?id=CVE-2024-47887)** : 🟠 **Severity: Medium** (Score: 6.6)
+
+- **[CVE-2024-47888](https://www.cve.org/CVERecord?id=CVE-2024-47888)** : 🟠 **Severity: Medium** (Score: 6.6)
+
+- **[CVE-2024-47889](https://www.cve.org/CVERecord?id=CVE-2024-47889)** : 🟠 **Severity: Medium** (Score: 6.6)
+
+- **[CVE-2024-54133](https://www.cve.org/CVERecord?id=CVE-2024-54133)** : 🟠 **Severity: Medium** (Score: 2.3)
+
+**Debian Version :** bookworm
+ **Package Version :** rails 2:6.1.7.10+dfsg-1~deb12u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-03-17** - **[DSA-5880-1](https://security-tracker.debian.org/tracker/DSA-5880-1)** - freetype
 
 **CVE(s) :**
@@ -261,17 +288,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** firefox-esr 128.8.0esr-1~deb12u1
- **Type :** DSA
-
-------------------------------
-
-**2025-03-04** - **[DSA-5873-1](https://security-tracker.debian.org/tracker/DSA-5873-1)** - libreoffice
-
-**CVE(s) :**
-- **[CVE-2025-1080](https://www.cve.org/CVERecord?id=CVE-2025-1080)** : 🔥 **Severity: High** (Score: 7.2)
-
-**Debian Version :** bookworm
- **Package Version :** libreoffice 4:7.4.7-1+deb12u7
  **Type :** DSA
 
 ------------------------------
