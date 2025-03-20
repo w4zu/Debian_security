@@ -1,5 +1,20 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-03-20** - **[DLA-4087-1](https://security-tracker.debian.org/tracker/DLA-4087-1)** - python3.9
+
+**CVE(s) :**
+- **[CVE-2022-0391](https://www.cve.org/CVERecord?id=CVE-2022-0391)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-0938](https://www.cve.org/CVERecord?id=CVE-2025-0938)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+- **[CVE-2025-1795](https://www.cve.org/CVERecord?id=CVE-2025-1795)** : 🟠 **Severity: Medium** (Score: 2.3)
+
+**Debian Version :** bullseye
+ **Package Version :** python3.9 3.9.2-1+deb11u3
+ **Type :** DLA
+
+------------------------------
+
 **2025-03-19** - **[DLA-4086-1](https://security-tracker.debian.org/tracker/DLA-4086-1)** - python-django
 
 **CVE(s) :**
@@ -22,7 +37,7 @@
 
 - **[CVE-2024-28103](https://www.cve.org/CVERecord?id=CVE-2024-28103)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2024-41128](https://www.cve.org/CVERecord?id=CVE-2024-41128)** : 🟠 **Severity: Medium** (Score: 6.6)
+- **[CVE-2024-41128](https://www.cve.org/CVERecord?id=CVE-2024-41128)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-47887](https://www.cve.org/CVERecord?id=CVE-2024-47887)** : 🟠 **Severity: Medium** (Score: 6.6)
 
