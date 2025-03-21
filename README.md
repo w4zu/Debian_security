@@ -34,6 +34,17 @@
 
 ------------------------------
 
+**2025-03-20** - **[DSA-5882-1](https://security-tracker.debian.org/tracker/DSA-5882-1)** - chromium
+
+**CVE(s) :**
+- **[CVE-2025-2476](https://www.cve.org/CVERecord?id=CVE-2025-2476)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** chromium 134.0.6998.117-1~deb12u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-03-19** - **[DLA-4086-1](https://security-tracker.debian.org/tracker/DLA-4086-1)** - python-django
 
 **CVE(s) :**
