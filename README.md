@@ -26,7 +26,7 @@
 
 - **[CVE-2025-0938](https://www.cve.org/CVERecord?id=CVE-2025-0938)** : 🟠 **Severity: Medium** (Score: 6.3)
 
-- **[CVE-2025-1795](https://www.cve.org/CVERecord?id=CVE-2025-1795)** : 🟠 **Severity: Medium** (Score: 2.3)
+- **[CVE-2025-1795](https://www.cve.org/CVERecord?id=CVE-2025-1795)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** python3.9 3.9.2-1+deb11u3
@@ -73,7 +73,7 @@
 
 - **[CVE-2024-47888](https://www.cve.org/CVERecord?id=CVE-2024-47888)** : 🟠 **Severity: Medium** (Score: 6.6)
 
-- **[CVE-2024-47889](https://www.cve.org/CVERecord?id=CVE-2024-47889)** : 🟠 **Severity: Medium** (Score: 6.6)
+- **[CVE-2024-47889](https://www.cve.org/CVERecord?id=CVE-2024-47889)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-54133](https://www.cve.org/CVERecord?id=CVE-2024-54133)** : 🟠 **Severity: Medium** (Score: 2.3)
 
@@ -220,50 +220,6 @@
 **Debian Version :** bullseye
  **Package Version :** libaws 20.2-2+deb11u1
  **Type :** DLA
-
-------------------------------
-
-**2025-03-08** - **[DLA-4079-1](https://security-tracker.debian.org/tracker/DLA-4079-1)** - openvpn
-
-**CVE(s) :**
-- **[CVE-2022-0547](https://www.cve.org/CVERecord?id=CVE-2022-0547)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-5594](https://www.cve.org/CVERecord?id=CVE-2024-5594)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** openvpn 2.5.1-3+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-03-08** - **[DSA-5876-1](https://security-tracker.debian.org/tracker/DSA-5876-1)** - thunderbird
-
-**CVE(s) :**
-- **[CVE-2024-43097](https://www.cve.org/CVERecord?id=CVE-2024-43097)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-1931](https://www.cve.org/CVERecord?id=CVE-2025-1931)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-1932](https://www.cve.org/CVERecord?id=CVE-2025-1932)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-1933](https://www.cve.org/CVERecord?id=CVE-2025-1933)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-1934](https://www.cve.org/CVERecord?id=CVE-2025-1934)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-1935](https://www.cve.org/CVERecord?id=CVE-2025-1935)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-1936](https://www.cve.org/CVERecord?id=CVE-2025-1936)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-1937](https://www.cve.org/CVERecord?id=CVE-2025-1937)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-1938](https://www.cve.org/CVERecord?id=CVE-2025-1938)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-26695](https://www.cve.org/CVERecord?id=CVE-2025-26695)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-26696](https://www.cve.org/CVERecord?id=CVE-2025-26696)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** thunderbird 1:128.8.0esr-1~deb12u1
- **Type :** DSA
 
 ------------------------------
 
