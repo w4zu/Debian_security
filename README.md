@@ -86,7 +86,7 @@
 
 - **[CVE-2024-47889](https://www.cve.org/CVERecord?id=CVE-2024-47889)** : 🟠 **Severity: Medium** (Score: 6.6)
 
-- **[CVE-2024-54133](https://www.cve.org/CVERecord?id=CVE-2024-54133)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-54133](https://www.cve.org/CVERecord?id=CVE-2024-54133)** : 🟠 **Severity: Medium** (Score: 2.3)
 
 **Debian Version :** bookworm
  **Package Version :** rails 2:6.1.7.10+dfsg-1~deb12u1
@@ -219,17 +219,6 @@
 
 **Debian Version :** bullseye
  **Package Version :** thunderbird 1:128.8.0esr-1~deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-03-09** - **[DLA-4080-1](https://security-tracker.debian.org/tracker/DLA-4080-1)** - libaws
-
-**CVE(s) :**
-- **[CVE-2024-55581](https://www.cve.org/CVERecord?id=CVE-2024-55581)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** libaws 20.2-2+deb11u1
  **Type :** DLA
 
 ------------------------------
