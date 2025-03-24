@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-03-24** - **[DLA-4089-1](https://security-tracker.debian.org/tracker/DLA-4089-1)** - libxslt
+
+**CVE(s) :**
+- **[CVE-2024-55549](https://www.cve.org/CVERecord?id=CVE-2024-55549)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-24855](https://www.cve.org/CVERecord?id=CVE-2025-24855)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** libxslt 1.1.34-4+deb11u2
+ **Type :** DLA
+
+------------------------------
+
 **2025-03-23** - **[DSA-5885-1](https://security-tracker.debian.org/tracker/DSA-5885-1)** - webkit2gtk
 
 **CVE(s) :**
@@ -106,13 +119,13 @@
 
 - **[CVE-2024-28103](https://www.cve.org/CVERecord?id=CVE-2024-28103)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2024-41128](https://www.cve.org/CVERecord?id=CVE-2024-41128)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-41128](https://www.cve.org/CVERecord?id=CVE-2024-41128)** : 🟠 **Severity: Medium** (Score: 6.6)
 
 - **[CVE-2024-47887](https://www.cve.org/CVERecord?id=CVE-2024-47887)** : 🟠 **Severity: Medium** (Score: 6.6)
 
-- **[CVE-2024-47888](https://www.cve.org/CVERecord?id=CVE-2024-47888)** : 🟠 **Severity: Medium** (Score: 6.6)
+- **[CVE-2024-47888](https://www.cve.org/CVERecord?id=CVE-2024-47888)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2024-47889](https://www.cve.org/CVERecord?id=CVE-2024-47889)** : 🟠 **Severity: Medium** (Score: 6.6)
+- **[CVE-2024-47889](https://www.cve.org/CVERecord?id=CVE-2024-47889)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-54133](https://www.cve.org/CVERecord?id=CVE-2024-54133)** : 🟠 **Severity: Medium** (Score: 2.3)
 
