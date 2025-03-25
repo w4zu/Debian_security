@@ -1,5 +1,20 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-03-24** - **[DLA-4090-1](https://security-tracker.debian.org/tracker/DLA-4090-1)** - ruby-rack
+
+**CVE(s) :**
+- **[CVE-2025-25184](https://www.cve.org/CVERecord?id=CVE-2025-25184)** : 🟠 **Severity: Medium** (Score: 5.7)
+
+- **[CVE-2025-27111](https://www.cve.org/CVERecord?id=CVE-2025-27111)** : 🟠 **Severity: Medium** (Score: 6.9)
+
+- **[CVE-2025-27610](https://www.cve.org/CVERecord?id=CVE-2025-27610)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** ruby-rack 2.1.4-3+deb11u3
+ **Type :** DLA
+
+------------------------------
+
 **2025-03-24** - **[DLA-4089-1](https://security-tracker.debian.org/tracker/DLA-4089-1)** - libxslt
 
 **CVE(s) :**
@@ -123,7 +138,7 @@
 
 - **[CVE-2024-47887](https://www.cve.org/CVERecord?id=CVE-2024-47887)** : 🟠 **Severity: Medium** (Score: 6.6)
 
-- **[CVE-2024-47888](https://www.cve.org/CVERecord?id=CVE-2024-47888)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47888](https://www.cve.org/CVERecord?id=CVE-2024-47888)** : 🟠 **Severity: Medium** (Score: 6.6)
 
 - **[CVE-2024-47889](https://www.cve.org/CVERecord?id=CVE-2024-47889)** : 🟠 **Severity: Medium** (Score: 6.6)
 
@@ -181,40 +196,6 @@
 **Debian Version :** bookworm
  **Package Version :** chromium 134.0.6998.88-1~deb12u1
  **Type :** DSA
-
-------------------------------
-
-**2025-03-11** - **[DLA-4084-1](https://security-tracker.debian.org/tracker/DLA-4084-1)** - libmodbus
-
-**CVE(s) :**
-- **[CVE-2022-0367](https://www.cve.org/CVERecord?id=CVE-2022-0367)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-10918](https://www.cve.org/CVERecord?id=CVE-2024-10918)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-36843](https://www.cve.org/CVERecord?id=CVE-2024-36843)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-36844](https://www.cve.org/CVERecord?id=CVE-2024-36844)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-36845](https://www.cve.org/CVERecord?id=CVE-2024-36845)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** libmodbus 3.1.6-2+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-03-11** - **[DLA-4083-1](https://security-tracker.debian.org/tracker/DLA-4083-1)** - squid
-
-**CVE(s) :**
-- **[CVE-2024-25111](https://www.cve.org/CVERecord?id=CVE-2024-25111)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-37894](https://www.cve.org/CVERecord?id=CVE-2024-37894)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-45802](https://www.cve.org/CVERecord?id=CVE-2024-45802)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** squid 4.13-10+deb11u4
- **Type :** DLA
 
 ------------------------------
 
