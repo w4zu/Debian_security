@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-03-25** - **[DLA-4091-1](https://security-tracker.debian.org/tracker/DLA-4091-1)** - nginx
+
+**CVE(s) :**
+- **[CVE-2024-7347](https://www.cve.org/CVERecord?id=CVE-2024-7347)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-23419](https://www.cve.org/CVERecord?id=CVE-2025-23419)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** nginx 1.18.0-6.1+deb11u4
+ **Type :** DLA
+
+------------------------------
+
 **2025-03-24** - **[DLA-4090-1](https://security-tracker.debian.org/tracker/DLA-4090-1)** - ruby-rack
 
 **CVE(s) :**
@@ -138,7 +151,7 @@
 
 - **[CVE-2024-47887](https://www.cve.org/CVERecord?id=CVE-2024-47887)** : 🟠 **Severity: Medium** (Score: 6.6)
 
-- **[CVE-2024-47888](https://www.cve.org/CVERecord?id=CVE-2024-47888)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47888](https://www.cve.org/CVERecord?id=CVE-2024-47888)** : 🟠 **Severity: Medium** (Score: 6.6)
 
 - **[CVE-2024-47889](https://www.cve.org/CVERecord?id=CVE-2024-47889)** : 🟠 **Severity: Medium** (Score: 6.6)
 
