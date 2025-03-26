@@ -1,5 +1,31 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-03-26** - **[DLA-4092-1](https://security-tracker.debian.org/tracker/DLA-4092-1)** - libcap2
+
+**CVE(s) :**
+- **[CVE-2023-2602](https://www.cve.org/CVERecord?id=CVE-2023-2602)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2023-2603](https://www.cve.org/CVERecord?id=CVE-2023-2603)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-1390](https://www.cve.org/CVERecord?id=CVE-2025-1390)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** libcap2 1:2.44-1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2025-03-26** - **[DSA-5887-1](https://security-tracker.debian.org/tracker/DSA-5887-1)** - exim4
+
+**CVE(s) :**
+- **[CVE-2025-30232](https://www.cve.org/CVERecord?id=CVE-2025-30232)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** exim4 4.96-15+deb12u7
+ **Type :** DSA
+
+------------------------------
+
 **2025-03-25** - **[DLA-4091-1](https://security-tracker.debian.org/tracker/DLA-4091-1)** - nginx
 
 **CVE(s) :**
