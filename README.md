@@ -13,6 +13,21 @@
 
 ------------------------------
 
+**2025-03-25** - **[DSA-5886-1](https://security-tracker.debian.org/tracker/DSA-5886-1)** - ruby-rack
+
+**CVE(s) :**
+- **[CVE-2025-25184](https://www.cve.org/CVERecord?id=CVE-2025-25184)** : 🟠 **Severity: Medium** (Score: 5.7)
+
+- **[CVE-2025-27111](https://www.cve.org/CVERecord?id=CVE-2025-27111)** : 🟠 **Severity: Medium** (Score: 6.9)
+
+- **[CVE-2025-27610](https://www.cve.org/CVERecord?id=CVE-2025-27610)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** ruby-rack 2.2.13-1~deb12u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-03-24** - **[DLA-4090-1](https://security-tracker.debian.org/tracker/DLA-4090-1)** - ruby-rack
 
 **CVE(s) :**
@@ -189,25 +204,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** php8.2 8.2.28-1~deb12u1
- **Type :** DSA
-
-------------------------------
-
-**2025-03-12** - **[DSA-5877-1](https://security-tracker.debian.org/tracker/DSA-5877-1)** - chromium
-
-**CVE(s) :**
-- **[CVE-2025-1920](https://www.cve.org/CVERecord?id=CVE-2025-1920)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-2135](https://www.cve.org/CVERecord?id=CVE-2025-2135)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-2136](https://www.cve.org/CVERecord?id=CVE-2025-2136)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-2137](https://www.cve.org/CVERecord?id=CVE-2025-2137)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-24201](https://www.cve.org/CVERecord?id=CVE-2025-24201)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** chromium 134.0.6998.88-1~deb12u1
  **Type :** DSA
 
 ------------------------------
