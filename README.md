@@ -15,6 +15,29 @@
 
 ------------------------------
 
+**2025-03-26** - **[DSA-5888-1](https://security-tracker.debian.org/tracker/DSA-5888-1)** - ghostscript
+
+**CVE(s) :**
+- **[CVE-2025-27830](https://www.cve.org/CVERecord?id=CVE-2025-27830)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-27831](https://www.cve.org/CVERecord?id=CVE-2025-27831)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-27832](https://www.cve.org/CVERecord?id=CVE-2025-27832)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-27833](https://www.cve.org/CVERecord?id=CVE-2025-27833)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-27834](https://www.cve.org/CVERecord?id=CVE-2025-27834)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-27835](https://www.cve.org/CVERecord?id=CVE-2025-27835)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-27836](https://www.cve.org/CVERecord?id=CVE-2025-27836)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** ghostscript 10.0.0~dfsg-11+deb12u7
+ **Type :** DSA
+
+------------------------------
+
 **2025-03-26** - **[DSA-5887-1](https://security-tracker.debian.org/tracker/DSA-5887-1)** - exim4
 
 **CVE(s) :**
@@ -145,7 +168,7 @@
 **CVE(s) :**
 - **[CVE-2022-0391](https://www.cve.org/CVERecord?id=CVE-2022-0391)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-0938](https://www.cve.org/CVERecord?id=CVE-2025-0938)** : 🟠 **Severity: Medium** (Score: 6.3)
+- **[CVE-2025-0938](https://www.cve.org/CVERecord?id=CVE-2025-0938)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-1795](https://www.cve.org/CVERecord?id=CVE-2025-1795)** : 🟠 **Severity: Medium** (Score: 2.3)
 
