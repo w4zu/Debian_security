@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-03-27** - **[DLA-4094-1](https://security-tracker.debian.org/tracker/DLA-4094-1)** - mercurial
+
+**CVE(s) :**
+- **[CVE-2025-2361](https://www.cve.org/CVERecord?id=CVE-2025-2361)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** mercurial 5.6.1-4+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-03-26** - **[DLA-4092-1](https://security-tracker.debian.org/tracker/DLA-4092-1)** - libcap2
 
 **CVE(s) :**
@@ -136,7 +147,7 @@
 **2025-03-22** - **[DSA-5883-1](https://security-tracker.debian.org/tracker/DSA-5883-1)** - mercurial
 
 **CVE(s) :**
-- **[CVE-2025-2361](https://www.cve.org/CVERecord?id=CVE-2025-2361)** : 🟠 **Severity: Medium** (Score: 5.3)
+- **[CVE-2025-2361](https://www.cve.org/CVERecord?id=CVE-2025-2361)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** mercurial 6.3.2-1+deb12u1
@@ -211,7 +222,7 @@
 
 - **[CVE-2024-28103](https://www.cve.org/CVERecord?id=CVE-2024-28103)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2024-41128](https://www.cve.org/CVERecord?id=CVE-2024-41128)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-41128](https://www.cve.org/CVERecord?id=CVE-2024-41128)** : 🟠 **Severity: Medium** (Score: 6.6)
 
 - **[CVE-2024-47887](https://www.cve.org/CVERecord?id=CVE-2024-47887)** : 🟠 **Severity: Medium** (Score: 6.6)
 
@@ -234,25 +245,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** freetype 2.12.1+dfsg-5+deb12u4
- **Type :** DSA
-
-------------------------------
-
-**2025-03-14** - **[DSA-5878-1](https://security-tracker.debian.org/tracker/DSA-5878-1)** - php8.2
-
-**CVE(s) :**
-- **[CVE-2025-1217](https://www.cve.org/CVERecord?id=CVE-2025-1217)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-1219](https://www.cve.org/CVERecord?id=CVE-2025-1219)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-1734](https://www.cve.org/CVERecord?id=CVE-2025-1734)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-1736](https://www.cve.org/CVERecord?id=CVE-2025-1736)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-1861](https://www.cve.org/CVERecord?id=CVE-2025-1861)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** php8.2 8.2.28-1~deb12u1
  **Type :** DSA
 
 ------------------------------
