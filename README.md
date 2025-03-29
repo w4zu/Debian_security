@@ -169,7 +169,7 @@
 **2025-03-20** - **[DLA-4088-1](https://security-tracker.debian.org/tracker/DLA-4088-1)** - php7.4
 
 **CVE(s) :**
-- **[CVE-2025-1217](https://www.cve.org/CVERecord?id=CVE-2025-1217)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-1217](https://www.cve.org/CVERecord?id=CVE-2025-1217)** : 🟠 **Severity: Medium** (Score: 6.3)
 
 - **[CVE-2025-1219](https://www.cve.org/CVERecord?id=CVE-2025-1219)** : **Severity: Unknown** (Score: N/A)
 
@@ -237,7 +237,7 @@
 
 - **[CVE-2024-47887](https://www.cve.org/CVERecord?id=CVE-2024-47887)** : 🟠 **Severity: Medium** (Score: 6.6)
 
-- **[CVE-2024-47888](https://www.cve.org/CVERecord?id=CVE-2024-47888)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47888](https://www.cve.org/CVERecord?id=CVE-2024-47888)** : 🟠 **Severity: Medium** (Score: 6.6)
 
 - **[CVE-2024-47889](https://www.cve.org/CVERecord?id=CVE-2024-47889)** : 🟠 **Severity: Medium** (Score: 6.6)
 
