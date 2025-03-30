@@ -97,9 +97,9 @@
 
 - **[CVE-2024-28127](https://www.cve.org/CVERecord?id=CVE-2024-28127)** : 🔥 **Severity: High** (Score: 8.7)
 
-- **[CVE-2024-29214](https://www.cve.org/CVERecord?id=CVE-2024-29214)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-29214](https://www.cve.org/CVERecord?id=CVE-2024-29214)** : 🔥 **Severity: High** (Score: 8.7)
 
-- **[CVE-2024-31068](https://www.cve.org/CVERecord?id=CVE-2024-31068)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-31068](https://www.cve.org/CVERecord?id=CVE-2024-31068)** : 🟠 **Severity: Medium** (Score: 5.6)
 
 - **[CVE-2024-31157](https://www.cve.org/CVERecord?id=CVE-2024-31157)** : 🟠 **Severity: Medium** (Score: 6.8)
 
@@ -204,7 +204,7 @@
 **2025-03-25** - **[DSA-5886-1](https://security-tracker.debian.org/tracker/DSA-5886-1)** - ruby-rack
 
 **CVE(s) :**
-- **[CVE-2025-25184](https://www.cve.org/CVERecord?id=CVE-2025-25184)** : 🟠 **Severity: Medium** (Score: 5.7)
+- **[CVE-2025-25184](https://www.cve.org/CVERecord?id=CVE-2025-25184)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-27111](https://www.cve.org/CVERecord?id=CVE-2025-27111)** : 🟠 **Severity: Medium** (Score: 6.9)
 
@@ -219,7 +219,7 @@
 **2025-03-24** - **[DLA-4090-1](https://security-tracker.debian.org/tracker/DLA-4090-1)** - ruby-rack
 
 **CVE(s) :**
-- **[CVE-2025-25184](https://www.cve.org/CVERecord?id=CVE-2025-25184)** : 🟠 **Severity: Medium** (Score: 5.7)
+- **[CVE-2025-25184](https://www.cve.org/CVERecord?id=CVE-2025-25184)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-27111](https://www.cve.org/CVERecord?id=CVE-2025-27111)** : 🟠 **Severity: Medium** (Score: 6.9)
 
@@ -288,7 +288,7 @@
 **CVE(s) :**
 - **[CVE-2025-1217](https://www.cve.org/CVERecord?id=CVE-2025-1217)** : 🟠 **Severity: Medium** (Score: 6.3)
 
-- **[CVE-2025-1219](https://www.cve.org/CVERecord?id=CVE-2025-1219)** : 🟠 **Severity: Medium** (Score: 6.3)
+- **[CVE-2025-1219](https://www.cve.org/CVERecord?id=CVE-2025-1219)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-1734](https://www.cve.org/CVERecord?id=CVE-2025-1734)** : 🟠 **Severity: Medium** (Score: 6.3)
 
