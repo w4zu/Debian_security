@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-03-30** - **[DLA-4096-1](https://security-tracker.debian.org/tracker/DLA-4096-1)** - librabbitmq
+
+**CVE(s) :**
+- **[CVE-2023-35789](https://www.cve.org/CVERecord?id=CVE-2023-35789)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** librabbitmq 0.10.0-1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-03-29** - **[DLA-4095-1](https://security-tracker.debian.org/tracker/DLA-4095-1)** - intel-microcode
 
 **CVE(s) :**
@@ -36,7 +47,7 @@
 **2025-03-27** - **[DLA-4094-1](https://security-tracker.debian.org/tracker/DLA-4094-1)** - mercurial
 
 **CVE(s) :**
-- **[CVE-2025-2361](https://www.cve.org/CVERecord?id=CVE-2025-2361)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-2361](https://www.cve.org/CVERecord?id=CVE-2025-2361)** : 🟠 **Severity: Medium** (Score: 5.3)
 
 **Debian Version :** bullseye
  **Package Version :** mercurial 5.6.1-4+deb11u1
@@ -191,7 +202,7 @@
 **2025-03-22** - **[DSA-5883-1](https://security-tracker.debian.org/tracker/DSA-5883-1)** - mercurial
 
 **CVE(s) :**
-- **[CVE-2025-2361](https://www.cve.org/CVERecord?id=CVE-2025-2361)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-2361](https://www.cve.org/CVERecord?id=CVE-2025-2361)** : 🟠 **Severity: Medium** (Score: 5.3)
 
 **Debian Version :** bookworm
  **Package Version :** mercurial 6.3.2-1+deb12u1
@@ -202,7 +213,7 @@
 **2025-03-20** - **[DLA-4088-1](https://security-tracker.debian.org/tracker/DLA-4088-1)** - php7.4
 
 **CVE(s) :**
-- **[CVE-2025-1217](https://www.cve.org/CVERecord?id=CVE-2025-1217)** : 🟠 **Severity: Medium** (Score: 6.3)
+- **[CVE-2025-1217](https://www.cve.org/CVERecord?id=CVE-2025-1217)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-1219](https://www.cve.org/CVERecord?id=CVE-2025-1219)** : **Severity: Unknown** (Score: N/A)
 
@@ -266,15 +277,15 @@
 
 - **[CVE-2024-28103](https://www.cve.org/CVERecord?id=CVE-2024-28103)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2024-41128](https://www.cve.org/CVERecord?id=CVE-2024-41128)** : 🟠 **Severity: Medium** (Score: 6.6)
+- **[CVE-2024-41128](https://www.cve.org/CVERecord?id=CVE-2024-41128)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2024-47887](https://www.cve.org/CVERecord?id=CVE-2024-47887)** : 🟠 **Severity: Medium** (Score: 6.6)
+- **[CVE-2024-47887](https://www.cve.org/CVERecord?id=CVE-2024-47887)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-47888](https://www.cve.org/CVERecord?id=CVE-2024-47888)** : 🟠 **Severity: Medium** (Score: 6.6)
 
 - **[CVE-2024-47889](https://www.cve.org/CVERecord?id=CVE-2024-47889)** : 🟠 **Severity: Medium** (Score: 6.6)
 
-- **[CVE-2024-54133](https://www.cve.org/CVERecord?id=CVE-2024-54133)** : 🟠 **Severity: Medium** (Score: 2.3)
+- **[CVE-2024-54133](https://www.cve.org/CVERecord?id=CVE-2024-54133)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** rails 2:6.1.7.10+dfsg-1~deb12u1
@@ -289,17 +300,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** freetype 2.12.1+dfsg-5+deb12u4
- **Type :** DSA
-
-------------------------------
-
-**2025-03-16** - **[DSA-5879-1](https://security-tracker.debian.org/tracker/DSA-5879-1)** - opensaml
-
-**CVE(s) :**
-- **[CVE-2025-31335](https://www.cve.org/CVERecord?id=CVE-2025-31335)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** opensaml 3.2.1-3+deb12u1
  **Type :** DSA
 
 ------------------------------
