@@ -136,7 +136,7 @@
 
 - **[CVE-2024-31157](https://www.cve.org/CVERecord?id=CVE-2024-31157)** : 🟠 **Severity: Medium** (Score: 6.8)
 
-- **[CVE-2024-36293](https://www.cve.org/CVERecord?id=CVE-2024-36293)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-36293](https://www.cve.org/CVERecord?id=CVE-2024-36293)** : 🟠 **Severity: Medium** (Score: 6.8)
 
 - **[CVE-2024-37020](https://www.cve.org/CVERecord?id=CVE-2024-37020)** : 🟠 **Severity: Medium** (Score: 4.9)
 
@@ -319,9 +319,9 @@
 **2025-03-20** - **[DLA-4088-1](https://security-tracker.debian.org/tracker/DLA-4088-1)** - php7.4
 
 **CVE(s) :**
-- **[CVE-2025-1217](https://www.cve.org/CVERecord?id=CVE-2025-1217)** : 🟠 **Severity: Medium** (Score: 6.3)
+- **[CVE-2025-1217](https://www.cve.org/CVERecord?id=CVE-2025-1217)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-1219](https://www.cve.org/CVERecord?id=CVE-2025-1219)** : 🟠 **Severity: Medium** (Score: 6.3)
+- **[CVE-2025-1219](https://www.cve.org/CVERecord?id=CVE-2025-1219)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-1734](https://www.cve.org/CVERecord?id=CVE-2025-1734)** : 🟠 **Severity: Medium** (Score: 6.3)
 
@@ -340,9 +340,9 @@
 **CVE(s) :**
 - **[CVE-2022-0391](https://www.cve.org/CVERecord?id=CVE-2022-0391)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-0938](https://www.cve.org/CVERecord?id=CVE-2025-0938)** : 🟠 **Severity: Medium** (Score: 6.3)
+- **[CVE-2025-0938](https://www.cve.org/CVERecord?id=CVE-2025-0938)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-1795](https://www.cve.org/CVERecord?id=CVE-2025-1795)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-1795](https://www.cve.org/CVERecord?id=CVE-2025-1795)** : 🟠 **Severity: Medium** (Score: 2.3)
 
 **Debian Version :** bullseye
  **Package Version :** python3.9 3.9.2-1+deb11u3
