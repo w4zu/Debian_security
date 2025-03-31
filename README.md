@@ -1,5 +1,38 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-03-31** - **[DLA-4100-1](https://security-tracker.debian.org/tracker/DLA-4100-1)** - libdata-entropy-perl
+
+**CVE(s) :**
+- **[CVE-2025-1860](https://www.cve.org/CVERecord?id=CVE-2025-1860)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** libdata-entropy-perl 0.007-3.1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2025-03-31** - **[DLA-4099-1](https://security-tracker.debian.org/tracker/DLA-4099-1)** - flatpak
+
+**CVE(s) :**
+- **[CVE-2024-42472](https://www.cve.org/CVERecord?id=CVE-2024-42472)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** flatpak 1.10.8-0+deb11u3
+ **Type :** DLA
+
+------------------------------
+
+**2025-03-31** - **[DLA-4098-1](https://security-tracker.debian.org/tracker/DLA-4098-1)** - amd64-microcode
+
+**CVE(s) :**
+- **[CVE-2024-56161](https://www.cve.org/CVERecord?id=CVE-2024-56161)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** amd64-microcode 3.20250311.1~deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-03-30** - **[DLA-4097-1](https://security-tracker.debian.org/tracker/DLA-4097-1)** - vim
 
 **CVE(s) :**
@@ -103,7 +136,7 @@
 
 - **[CVE-2024-31157](https://www.cve.org/CVERecord?id=CVE-2024-31157)** : 🟠 **Severity: Medium** (Score: 6.8)
 
-- **[CVE-2024-36293](https://www.cve.org/CVERecord?id=CVE-2024-36293)** : 🟠 **Severity: Medium** (Score: 6.8)
+- **[CVE-2024-36293](https://www.cve.org/CVERecord?id=CVE-2024-36293)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-37020](https://www.cve.org/CVERecord?id=CVE-2024-37020)** : 🟠 **Severity: Medium** (Score: 4.9)
 
@@ -292,7 +325,7 @@
 
 - **[CVE-2025-1734](https://www.cve.org/CVERecord?id=CVE-2025-1734)** : 🟠 **Severity: Medium** (Score: 6.3)
 
-- **[CVE-2025-1736](https://www.cve.org/CVERecord?id=CVE-2025-1736)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-1736](https://www.cve.org/CVERecord?id=CVE-2025-1736)** : 🟠 **Severity: Medium** (Score: 6.3)
 
 - **[CVE-2025-1861](https://www.cve.org/CVERecord?id=CVE-2025-1861)** : 🟠 **Severity: Medium** (Score: 6.3)
 
@@ -309,7 +342,7 @@
 
 - **[CVE-2025-0938](https://www.cve.org/CVERecord?id=CVE-2025-0938)** : 🟠 **Severity: Medium** (Score: 6.3)
 
-- **[CVE-2025-1795](https://www.cve.org/CVERecord?id=CVE-2025-1795)** : 🟠 **Severity: Medium** (Score: 2.3)
+- **[CVE-2025-1795](https://www.cve.org/CVERecord?id=CVE-2025-1795)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** python3.9 3.9.2-1+deb11u3
