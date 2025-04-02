@@ -1,5 +1,50 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-04-01** - **[DLA-4108-1](https://security-tracker.debian.org/tracker/DLA-4108-1)** - tomcat9
+
+**CVE(s) :**
+- **[CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** tomcat9 9.0.43-2~deb11u12
+ **Type :** DLA
+
+------------------------------
+
+**2025-04-01** - **[DLA-4107-1](https://security-tracker.debian.org/tracker/DLA-4107-1)** - openjpeg2
+
+**CVE(s) :**
+- **[CVE-2021-3575](https://www.cve.org/CVERecord?id=CVE-2021-3575)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2021-29338](https://www.cve.org/CVERecord?id=CVE-2021-29338)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2022-1122](https://www.cve.org/CVERecord?id=CVE-2022-1122)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-56826](https://www.cve.org/CVERecord?id=CVE-2024-56826)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-56827](https://www.cve.org/CVERecord?id=CVE-2024-56827)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** openjpeg2 2.4.0-3+deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2025-04-01** - **[DLA-4106-1](https://security-tracker.debian.org/tracker/DLA-4106-1)** - jetty9
+
+**CVE(s) :**
+- **[CVE-2024-6762](https://www.cve.org/CVERecord?id=CVE-2024-6762)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-8184](https://www.cve.org/CVERecord?id=CVE-2024-8184)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-9823](https://www.cve.org/CVERecord?id=CVE-2024-9823)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** jetty9 9.4.57-0+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-04-01** - **[DLA-4104-1](https://security-tracker.debian.org/tracker/DLA-4104-1)** - freetype
 
 **CVE(s) :**
@@ -434,11 +479,11 @@
 
 - **[CVE-2024-36293](https://www.cve.org/CVERecord?id=CVE-2024-36293)** : 🟠 **Severity: Medium** (Score: 6.8)
 
-- **[CVE-2024-37020](https://www.cve.org/CVERecord?id=CVE-2024-37020)** : 🟠 **Severity: Medium** (Score: 4.9)
+- **[CVE-2024-37020](https://www.cve.org/CVERecord?id=CVE-2024-37020)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-39279](https://www.cve.org/CVERecord?id=CVE-2024-39279)** : 🟠 **Severity: Medium** (Score: 6.8)
 
-- **[CVE-2024-39355](https://www.cve.org/CVERecord?id=CVE-2024-39355)** : 🟠 **Severity: Medium** (Score: 5.7)
+- **[CVE-2024-39355](https://www.cve.org/CVERecord?id=CVE-2024-39355)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** intel-microcode 3.20250211.1~deb11u1
@@ -535,7 +580,7 @@
 **CVE(s) :**
 - **[CVE-2025-25184](https://www.cve.org/CVERecord?id=CVE-2025-25184)** : 🟠 **Severity: Medium** (Score: 5.7)
 
-- **[CVE-2025-27111](https://www.cve.org/CVERecord?id=CVE-2025-27111)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-27111](https://www.cve.org/CVERecord?id=CVE-2025-27111)** : 🟠 **Severity: Medium** (Score: 6.9)
 
 - **[CVE-2025-27610](https://www.cve.org/CVERecord?id=CVE-2025-27610)** : **Severity: Unknown** (Score: N/A)
 
@@ -550,7 +595,7 @@
 **CVE(s) :**
 - **[CVE-2025-25184](https://www.cve.org/CVERecord?id=CVE-2025-25184)** : 🟠 **Severity: Medium** (Score: 5.7)
 
-- **[CVE-2025-27111](https://www.cve.org/CVERecord?id=CVE-2025-27111)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-27111](https://www.cve.org/CVERecord?id=CVE-2025-27111)** : 🟠 **Severity: Medium** (Score: 6.9)
 
 - **[CVE-2025-27610](https://www.cve.org/CVERecord?id=CVE-2025-27610)** : **Severity: Unknown** (Score: N/A)
 
@@ -638,7 +683,7 @@
 
 - **[CVE-2025-0938](https://www.cve.org/CVERecord?id=CVE-2025-0938)** : 🟠 **Severity: Medium** (Score: 6.3)
 
-- **[CVE-2025-1795](https://www.cve.org/CVERecord?id=CVE-2025-1795)** : 🟠 **Severity: Medium** (Score: 2.3)
+- **[CVE-2025-1795](https://www.cve.org/CVERecord?id=CVE-2025-1795)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** python3.9 3.9.2-1+deb11u3
@@ -654,17 +699,6 @@
 **Debian Version :** bookworm
  **Package Version :** chromium 134.0.6998.117-1~deb12u1
  **Type :** DSA
-
-------------------------------
-
-**2025-03-19** - **[DLA-4086-1](https://security-tracker.debian.org/tracker/DLA-4086-1)** - python-django
-
-**CVE(s) :**
-- **[CVE-2025-26699](https://www.cve.org/CVERecord?id=CVE-2025-26699)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** python-django 2:2.2.28-1~deb11u6
- **Type :** DLA
 
 ------------------------------
 
