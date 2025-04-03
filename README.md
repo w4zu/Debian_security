@@ -11,6 +11,21 @@
 
 ------------------------------
 
+**2025-04-03** - **[DSA-5891-1](https://security-tracker.debian.org/tracker/DSA-5891-1)** - thunderbird
+
+**CVE(s) :**
+- **[CVE-2025-3028](https://www.cve.org/CVERecord?id=CVE-2025-3028)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-3029](https://www.cve.org/CVERecord?id=CVE-2025-3029)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-3030](https://www.cve.org/CVERecord?id=CVE-2025-3030)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** thunderbird 1:128.9.0esr-1~deb12u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-04-03** - **[DSA-5890-1](https://security-tracker.debian.org/tracker/DSA-5890-1)** - chromium
 
 **CVE(s) :**
@@ -571,7 +586,7 @@
 
 - **[CVE-2024-31157](https://www.cve.org/CVERecord?id=CVE-2024-31157)** : 🟠 **Severity: Medium** (Score: 6.8)
 
-- **[CVE-2024-36293](https://www.cve.org/CVERecord?id=CVE-2024-36293)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-36293](https://www.cve.org/CVERecord?id=CVE-2024-36293)** : 🟠 **Severity: Medium** (Score: 6.8)
 
 - **[CVE-2024-37020](https://www.cve.org/CVERecord?id=CVE-2024-37020)** : 🟠 **Severity: Medium** (Score: 4.9)
 
