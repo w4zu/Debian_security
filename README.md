@@ -1,5 +1,43 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-04-03** - **[DLA-4113-1](https://security-tracker.debian.org/tracker/DLA-4113-1)** - php-horde-imp
+
+**CVE(s) :**
+- **[CVE-2025-30349](https://www.cve.org/CVERecord?id=CVE-2025-30349)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** php-horde-imp 6.2.27-2+deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2025-04-03** - **[DSA-5890-1](https://security-tracker.debian.org/tracker/DSA-5890-1)** - chromium
+
+**CVE(s) :**
+- **[CVE-2025-3066](https://www.cve.org/CVERecord?id=CVE-2025-3066)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-3067](https://www.cve.org/CVERecord?id=CVE-2025-3067)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-3068](https://www.cve.org/CVERecord?id=CVE-2025-3068)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-3069](https://www.cve.org/CVERecord?id=CVE-2025-3069)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-3070](https://www.cve.org/CVERecord?id=CVE-2025-3070)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-3071](https://www.cve.org/CVERecord?id=CVE-2025-3071)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-3072](https://www.cve.org/CVERecord?id=CVE-2025-3072)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-3073](https://www.cve.org/CVERecord?id=CVE-2025-3073)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-3074](https://www.cve.org/CVERecord?id=CVE-2025-3074)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** chromium 135.0.7049.52-1~deb12u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-04-02** - **[DLA-4111-1](https://security-tracker.debian.org/tracker/DLA-4111-1)** - commons-vfs
 
 **CVE(s) :**
@@ -529,11 +567,11 @@
 
 - **[CVE-2024-29214](https://www.cve.org/CVERecord?id=CVE-2024-29214)** : 🔥 **Severity: High** (Score: 8.7)
 
-- **[CVE-2024-31068](https://www.cve.org/CVERecord?id=CVE-2024-31068)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-31068](https://www.cve.org/CVERecord?id=CVE-2024-31068)** : 🟠 **Severity: Medium** (Score: 5.6)
 
 - **[CVE-2024-31157](https://www.cve.org/CVERecord?id=CVE-2024-31157)** : 🟠 **Severity: Medium** (Score: 6.8)
 
-- **[CVE-2024-36293](https://www.cve.org/CVERecord?id=CVE-2024-36293)** : 🟠 **Severity: Medium** (Score: 6.8)
+- **[CVE-2024-36293](https://www.cve.org/CVERecord?id=CVE-2024-36293)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-37020](https://www.cve.org/CVERecord?id=CVE-2024-37020)** : 🟠 **Severity: Medium** (Score: 4.9)
 
