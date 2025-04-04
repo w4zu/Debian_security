@@ -581,11 +581,11 @@
 **2025-03-29** - **[DLA-4095-1](https://security-tracker.debian.org/tracker/DLA-4095-1)** - intel-microcode
 
 **CVE(s) :**
-- **[CVE-2023-34440](https://www.cve.org/CVERecord?id=CVE-2023-34440)** : 🔥 **Severity: High** (Score: 8.7)
+- **[CVE-2023-34440](https://www.cve.org/CVERecord?id=CVE-2023-34440)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2023-43758](https://www.cve.org/CVERecord?id=CVE-2023-43758)** : 🔥 **Severity: High** (Score: 8.7)
 
-- **[CVE-2024-24582](https://www.cve.org/CVERecord?id=CVE-2024-24582)** : 🔥 **Severity: High** (Score: 8.7)
+- **[CVE-2024-24582](https://www.cve.org/CVERecord?id=CVE-2024-24582)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-28047](https://www.cve.org/CVERecord?id=CVE-2024-28047)** : 🟠 **Severity: Medium** (Score: 6.8)
 
@@ -700,7 +700,7 @@
 **CVE(s) :**
 - **[CVE-2025-25184](https://www.cve.org/CVERecord?id=CVE-2025-25184)** : 🟠 **Severity: Medium** (Score: 5.7)
 
-- **[CVE-2025-27111](https://www.cve.org/CVERecord?id=CVE-2025-27111)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-27111](https://www.cve.org/CVERecord?id=CVE-2025-27111)** : 🟠 **Severity: Medium** (Score: 6.9)
 
 - **[CVE-2025-27610](https://www.cve.org/CVERecord?id=CVE-2025-27610)** : **Severity: Unknown** (Score: N/A)
 
@@ -715,7 +715,7 @@
 **CVE(s) :**
 - **[CVE-2025-25184](https://www.cve.org/CVERecord?id=CVE-2025-25184)** : 🟠 **Severity: Medium** (Score: 5.7)
 
-- **[CVE-2025-27111](https://www.cve.org/CVERecord?id=CVE-2025-27111)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-27111](https://www.cve.org/CVERecord?id=CVE-2025-27111)** : 🟠 **Severity: Medium** (Score: 6.9)
 
 - **[CVE-2025-27610](https://www.cve.org/CVERecord?id=CVE-2025-27610)** : **Severity: Unknown** (Score: N/A)
 
