@@ -11,6 +11,17 @@
 
 ------------------------------
 
+**2025-04-03** - **[DSA-5892-1](https://security-tracker.debian.org/tracker/DSA-5892-1)** - atop
+
+**CVE(s) :**
+- **[CVE-2025-31160](https://www.cve.org/CVERecord?id=CVE-2025-31160)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** atop 2.8.1-1+deb12u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-04-03** - **[DSA-5891-1](https://security-tracker.debian.org/tracker/DSA-5891-1)** - thunderbird
 
 **CVE(s) :**
@@ -574,7 +585,7 @@
 
 - **[CVE-2023-43758](https://www.cve.org/CVERecord?id=CVE-2023-43758)** : 🔥 **Severity: High** (Score: 8.7)
 
-- **[CVE-2024-24582](https://www.cve.org/CVERecord?id=CVE-2024-24582)** : 🔥 **Severity: High** (Score: 8.7)
+- **[CVE-2024-24582](https://www.cve.org/CVERecord?id=CVE-2024-24582)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-28047](https://www.cve.org/CVERecord?id=CVE-2024-28047)** : 🟠 **Severity: Medium** (Score: 6.8)
 
