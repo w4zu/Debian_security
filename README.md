@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-04-05** - **[DLA-4116-1](https://security-tracker.debian.org/tracker/DLA-4116-1)** - abseil
+
+**CVE(s) :**
+- **[CVE-2025-0838](https://www.cve.org/CVERecord?id=CVE-2025-0838)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** abseil 0~20200923.3-2+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-04-05** - **[DLA-4115-1](https://security-tracker.debian.org/tracker/DLA-4115-1)** - ruby-saml
 
 **CVE(s) :**
@@ -28,10 +39,31 @@
 
 ------------------------------
 
+**2025-04-05** - **[DSA-5896-1](https://security-tracker.debian.org/tracker/DSA-5896-1)** - trafficserver
+
+**CVE(s) :**
+- **[CVE-2024-38311](https://www.cve.org/CVERecord?id=CVE-2024-38311)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-38479](https://www.cve.org/CVERecord?id=CVE-2024-38479)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-50305](https://www.cve.org/CVERecord?id=CVE-2024-50305)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-50306](https://www.cve.org/CVERecord?id=CVE-2024-50306)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-56195](https://www.cve.org/CVERecord?id=CVE-2024-56195)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-56202](https://www.cve.org/CVERecord?id=CVE-2024-56202)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** trafficserver 9.2.5+ds-0+deb12u2
+ **Type :** DSA
+
+------------------------------
+
 **2025-04-05** - **[DSA-5895-1](https://security-tracker.debian.org/tracker/DSA-5895-1)** - xz-utils
 
 **CVE(s) :**
-- **[CVE-2025-31115](https://www.cve.org/CVERecord?id=CVE-2025-31115)** : 🔥 **Severity: High** (Score: 8.7)
+- **[CVE-2025-31115](https://www.cve.org/CVERecord?id=CVE-2025-31115)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** xz-utils 5.4.1-1
@@ -654,7 +686,7 @@
 
 - **[CVE-2024-28047](https://www.cve.org/CVERecord?id=CVE-2024-28047)** : 🟠 **Severity: Medium** (Score: 6.8)
 
-- **[CVE-2024-28127](https://www.cve.org/CVERecord?id=CVE-2024-28127)** : 🔥 **Severity: High** (Score: 8.7)
+- **[CVE-2024-28127](https://www.cve.org/CVERecord?id=CVE-2024-28127)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-29214](https://www.cve.org/CVERecord?id=CVE-2024-29214)** : 🔥 **Severity: High** (Score: 8.7)
 
