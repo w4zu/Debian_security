@@ -28,6 +28,17 @@
 
 ------------------------------
 
+**2025-04-05** - **[DSA-5895-1](https://security-tracker.debian.org/tracker/DSA-5895-1)** - xz-utils
+
+**CVE(s) :**
+- **[CVE-2025-31115](https://www.cve.org/CVERecord?id=CVE-2025-31115)** : 🔥 **Severity: High** (Score: 8.7)
+
+**Debian Version :** bookworm
+ **Package Version :** xz-utils 5.4.1-1
+ **Type :** DSA
+
+------------------------------
+
 **2025-04-05** - **[DSA-5894-1](https://security-tracker.debian.org/tracker/DSA-5894-1)** - jetty9
 
 **CVE(s) :**
@@ -649,7 +660,7 @@
 
 - **[CVE-2024-31068](https://www.cve.org/CVERecord?id=CVE-2024-31068)** : 🟠 **Severity: Medium** (Score: 5.6)
 
-- **[CVE-2024-31157](https://www.cve.org/CVERecord?id=CVE-2024-31157)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-31157](https://www.cve.org/CVERecord?id=CVE-2024-31157)** : 🟠 **Severity: Medium** (Score: 6.8)
 
 - **[CVE-2024-36293](https://www.cve.org/CVERecord?id=CVE-2024-36293)** : 🟠 **Severity: Medium** (Score: 6.8)
 
