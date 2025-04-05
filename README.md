@@ -1,5 +1,59 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-04-05** - **[DLA-4115-1](https://security-tracker.debian.org/tracker/DLA-4115-1)** - ruby-saml
+
+**CVE(s) :**
+- **[CVE-2025-25291](https://www.cve.org/CVERecord?id=CVE-2025-25291)** : 🔥 **Severity: High** (Score: 9.3)
+
+- **[CVE-2025-25292](https://www.cve.org/CVERecord?id=CVE-2025-25292)** : 🔥 **Severity: High** (Score: 9.3)
+
+- **[CVE-2025-25293](https://www.cve.org/CVERecord?id=CVE-2025-25293)** : 🔥 **Severity: High** (Score: 7.7)
+
+**Debian Version :** bullseye
+ **Package Version :** ruby-saml 1.11.0-1+deb11u2
+ **Type :** DLA
+
+------------------------------
+
+**2025-04-05** - **[DLA-4114-1](https://security-tracker.debian.org/tracker/DLA-4114-1)** - zfs-linux
+
+**CVE(s) :**
+- **[CVE-2013-20001](https://www.cve.org/CVERecord?id=CVE-2013-20001)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2023-49298](https://www.cve.org/CVERecord?id=CVE-2023-49298)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** zfs-linux 2.0.3-9+deb11u2
+ **Type :** DLA
+
+------------------------------
+
+**2025-04-05** - **[DSA-5894-1](https://security-tracker.debian.org/tracker/DSA-5894-1)** - jetty9
+
+**CVE(s) :**
+- **[CVE-2024-6762](https://www.cve.org/CVERecord?id=CVE-2024-6762)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-8184](https://www.cve.org/CVERecord?id=CVE-2024-8184)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-9823](https://www.cve.org/CVERecord?id=CVE-2024-9823)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** jetty9 9.4.57-0+deb12u1
+ **Type :** DSA
+
+------------------------------
+
+**2025-04-05** - **[DSA-5893-1](https://security-tracker.debian.org/tracker/DSA-5893-1)** - tomcat10
+
+**CVE(s) :**
+- **[CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** tomcat10 10.1.34-0+deb12u2
+ **Type :** DSA
+
+------------------------------
+
 **2025-04-03** - **[DLA-4113-1](https://security-tracker.debian.org/tracker/DLA-4113-1)** - php-horde-imp
 
 **CVE(s) :**
@@ -581,13 +635,13 @@
 **2025-03-29** - **[DLA-4095-1](https://security-tracker.debian.org/tracker/DLA-4095-1)** - intel-microcode
 
 **CVE(s) :**
-- **[CVE-2023-34440](https://www.cve.org/CVERecord?id=CVE-2023-34440)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2023-34440](https://www.cve.org/CVERecord?id=CVE-2023-34440)** : 🔥 **Severity: High** (Score: 8.7)
 
 - **[CVE-2023-43758](https://www.cve.org/CVERecord?id=CVE-2023-43758)** : 🔥 **Severity: High** (Score: 8.7)
 
-- **[CVE-2024-24582](https://www.cve.org/CVERecord?id=CVE-2024-24582)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-24582](https://www.cve.org/CVERecord?id=CVE-2024-24582)** : 🔥 **Severity: High** (Score: 8.7)
 
-- **[CVE-2024-28047](https://www.cve.org/CVERecord?id=CVE-2024-28047)** : 🟠 **Severity: Medium** (Score: 6.8)
+- **[CVE-2024-28047](https://www.cve.org/CVERecord?id=CVE-2024-28047)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-28127](https://www.cve.org/CVERecord?id=CVE-2024-28127)** : 🔥 **Severity: High** (Score: 8.7)
 
@@ -597,7 +651,7 @@
 
 - **[CVE-2024-31157](https://www.cve.org/CVERecord?id=CVE-2024-31157)** : 🟠 **Severity: Medium** (Score: 6.8)
 
-- **[CVE-2024-36293](https://www.cve.org/CVERecord?id=CVE-2024-36293)** : 🟠 **Severity: Medium** (Score: 6.8)
+- **[CVE-2024-36293](https://www.cve.org/CVERecord?id=CVE-2024-36293)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-37020](https://www.cve.org/CVERecord?id=CVE-2024-37020)** : 🟠 **Severity: Medium** (Score: 4.9)
 
@@ -762,17 +816,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** libxslt 1.1.35-1+deb12u1
- **Type :** DSA
-
-------------------------------
-
-**2025-03-22** - **[DSA-5883-1](https://security-tracker.debian.org/tracker/DSA-5883-1)** - mercurial
-
-**CVE(s) :**
-- **[CVE-2025-2361](https://www.cve.org/CVERecord?id=CVE-2025-2361)** : 🟠 **Severity: Medium** (Score: 5.3)
-
-**Debian Version :** bookworm
- **Package Version :** mercurial 6.3.2-1+deb12u1
  **Type :** DSA
 
 ------------------------------
