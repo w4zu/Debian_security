@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-04-06** - **[DLA-4117-1](https://security-tracker.debian.org/tracker/DLA-4117-1)** - atop
+
+**CVE(s) :**
+- **[CVE-2025-31160](https://www.cve.org/CVERecord?id=CVE-2025-31160)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** atop 2.6.0-2+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-04-05** - **[DLA-4116-1](https://security-tracker.debian.org/tracker/DLA-4116-1)** - abseil
 
 **CVE(s) :**
@@ -18,7 +29,7 @@
 
 - **[CVE-2025-25292](https://www.cve.org/CVERecord?id=CVE-2025-25292)** : 🔥 **Severity: High** (Score: 9.3)
 
-- **[CVE-2025-25293](https://www.cve.org/CVERecord?id=CVE-2025-25293)** : 🔥 **Severity: High** (Score: 7.7)
+- **[CVE-2025-25293](https://www.cve.org/CVERecord?id=CVE-2025-25293)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** ruby-saml 1.11.0-1+deb11u2
@@ -698,9 +709,9 @@
 
 - **[CVE-2024-37020](https://www.cve.org/CVERecord?id=CVE-2024-37020)** : 🟠 **Severity: Medium** (Score: 4.9)
 
-- **[CVE-2024-39279](https://www.cve.org/CVERecord?id=CVE-2024-39279)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-39279](https://www.cve.org/CVERecord?id=CVE-2024-39279)** : 🟠 **Severity: Medium** (Score: 6.8)
 
-- **[CVE-2024-39355](https://www.cve.org/CVERecord?id=CVE-2024-39355)** : 🟠 **Severity: Medium** (Score: 5.7)
+- **[CVE-2024-39355](https://www.cve.org/CVERecord?id=CVE-2024-39355)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** intel-microcode 3.20250211.1~deb11u1
@@ -711,7 +722,7 @@
 **2025-03-27** - **[DLA-4094-1](https://security-tracker.debian.org/tracker/DLA-4094-1)** - mercurial
 
 **CVE(s) :**
-- **[CVE-2025-2361](https://www.cve.org/CVERecord?id=CVE-2025-2361)** : 🟠 **Severity: Medium** (Score: 5.3)
+- **[CVE-2025-2361](https://www.cve.org/CVERecord?id=CVE-2025-2361)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** mercurial 5.6.1-4+deb11u1
@@ -804,34 +815,6 @@
 **Debian Version :** bookworm
  **Package Version :** ruby-rack 2.2.13-1~deb12u1
  **Type :** DSA
-
-------------------------------
-
-**2025-03-24** - **[DLA-4090-1](https://security-tracker.debian.org/tracker/DLA-4090-1)** - ruby-rack
-
-**CVE(s) :**
-- **[CVE-2025-25184](https://www.cve.org/CVERecord?id=CVE-2025-25184)** : 🟠 **Severity: Medium** (Score: 5.7)
-
-- **[CVE-2025-27111](https://www.cve.org/CVERecord?id=CVE-2025-27111)** : 🟠 **Severity: Medium** (Score: 6.9)
-
-- **[CVE-2025-27610](https://www.cve.org/CVERecord?id=CVE-2025-27610)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** ruby-rack 2.1.4-3+deb11u3
- **Type :** DLA
-
-------------------------------
-
-**2025-03-24** - **[DLA-4089-1](https://security-tracker.debian.org/tracker/DLA-4089-1)** - libxslt
-
-**CVE(s) :**
-- **[CVE-2024-55549](https://www.cve.org/CVERecord?id=CVE-2024-55549)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-24855](https://www.cve.org/CVERecord?id=CVE-2025-24855)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** libxslt 1.1.34-4+deb11u2
- **Type :** DLA
 
 ------------------------------
 
