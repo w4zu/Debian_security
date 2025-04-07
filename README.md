@@ -29,7 +29,7 @@
 
 - **[CVE-2025-25292](https://www.cve.org/CVERecord?id=CVE-2025-25292)** : 🔥 **Severity: High** (Score: 9.3)
 
-- **[CVE-2025-25293](https://www.cve.org/CVERecord?id=CVE-2025-25293)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-25293](https://www.cve.org/CVERecord?id=CVE-2025-25293)** : 🔥 **Severity: High** (Score: 7.7)
 
 **Debian Version :** bullseye
  **Package Version :** ruby-saml 1.11.0-1+deb11u2
@@ -711,7 +711,7 @@
 
 - **[CVE-2024-39279](https://www.cve.org/CVERecord?id=CVE-2024-39279)** : 🟠 **Severity: Medium** (Score: 6.8)
 
-- **[CVE-2024-39355](https://www.cve.org/CVERecord?id=CVE-2024-39355)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-39355](https://www.cve.org/CVERecord?id=CVE-2024-39355)** : 🟠 **Severity: Medium** (Score: 5.7)
 
 **Debian Version :** bullseye
  **Package Version :** intel-microcode 3.20250211.1~deb11u1
