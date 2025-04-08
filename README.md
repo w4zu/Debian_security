@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-04-08** - **[DLA-4120-1](https://security-tracker.debian.org/tracker/DLA-4120-1)** - libnet-easytcp-perl
+
+**CVE(s) :**
+- **[CVE-2024-56830](https://www.cve.org/CVERecord?id=CVE-2024-56830)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** libnet-easytcp-perl 0.26-6+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-04-08** - **[DLA-4119-1](https://security-tracker.debian.org/tracker/DLA-4119-1)** - lemonldap-ng
 
 **CVE(s) :**
@@ -725,7 +736,7 @@
 
 - **[CVE-2024-24582](https://www.cve.org/CVERecord?id=CVE-2024-24582)** : 🔥 **Severity: High** (Score: 8.7)
 
-- **[CVE-2024-28047](https://www.cve.org/CVERecord?id=CVE-2024-28047)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-28047](https://www.cve.org/CVERecord?id=CVE-2024-28047)** : 🟠 **Severity: Medium** (Score: 6.8)
 
 - **[CVE-2024-28127](https://www.cve.org/CVERecord?id=CVE-2024-28127)** : **Severity: Unknown** (Score: N/A)
 
@@ -752,7 +763,7 @@
 **2025-03-27** - **[DLA-4094-1](https://security-tracker.debian.org/tracker/DLA-4094-1)** - mercurial
 
 **CVE(s) :**
-- **[CVE-2025-2361](https://www.cve.org/CVERecord?id=CVE-2025-2361)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-2361](https://www.cve.org/CVERecord?id=CVE-2025-2361)** : 🟠 **Severity: Medium** (Score: 5.3)
 
 **Debian Version :** bullseye
  **Package Version :** mercurial 5.6.1-4+deb11u1
