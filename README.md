@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-04-08** - **[DLA-4119-1](https://security-tracker.debian.org/tracker/DLA-4119-1)** - lemonldap-ng
+
+**CVE(s) :**
+- **[CVE-2025-31510](https://www.cve.org/CVERecord?id=CVE-2025-31510)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** lemonldap-ng 2.0.11+ds-4+deb11u7
+ **Type :** DLA
+
+------------------------------
+
 **2025-04-07** - **[DLA-4118-1](https://security-tracker.debian.org/tracker/DLA-4118-1)** - ghostscript
 
 **CVE(s) :**
@@ -44,11 +55,11 @@
 **2025-04-05** - **[DLA-4115-1](https://security-tracker.debian.org/tracker/DLA-4115-1)** - ruby-saml
 
 **CVE(s) :**
-- **[CVE-2025-25291](https://www.cve.org/CVERecord?id=CVE-2025-25291)** : 🔥 **Severity: High** (Score: 9.3)
+- **[CVE-2025-25291](https://www.cve.org/CVERecord?id=CVE-2025-25291)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-25292](https://www.cve.org/CVERecord?id=CVE-2025-25292)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-25292](https://www.cve.org/CVERecord?id=CVE-2025-25292)** : 🔥 **Severity: High** (Score: 9.3)
 
-- **[CVE-2025-25293](https://www.cve.org/CVERecord?id=CVE-2025-25293)** : 🔥 **Severity: High** (Score: 7.7)
+- **[CVE-2025-25293](https://www.cve.org/CVERecord?id=CVE-2025-25293)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** ruby-saml 1.11.0-1+deb11u2
@@ -710,13 +721,13 @@
 **CVE(s) :**
 - **[CVE-2023-34440](https://www.cve.org/CVERecord?id=CVE-2023-34440)** : 🔥 **Severity: High** (Score: 8.7)
 
-- **[CVE-2023-43758](https://www.cve.org/CVERecord?id=CVE-2023-43758)** : 🔥 **Severity: High** (Score: 8.7)
+- **[CVE-2023-43758](https://www.cve.org/CVERecord?id=CVE-2023-43758)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-24582](https://www.cve.org/CVERecord?id=CVE-2024-24582)** : 🔥 **Severity: High** (Score: 8.7)
 
-- **[CVE-2024-28047](https://www.cve.org/CVERecord?id=CVE-2024-28047)** : 🟠 **Severity: Medium** (Score: 6.8)
+- **[CVE-2024-28047](https://www.cve.org/CVERecord?id=CVE-2024-28047)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2024-28127](https://www.cve.org/CVERecord?id=CVE-2024-28127)** : 🔥 **Severity: High** (Score: 8.7)
+- **[CVE-2024-28127](https://www.cve.org/CVERecord?id=CVE-2024-28127)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-29214](https://www.cve.org/CVERecord?id=CVE-2024-29214)** : 🔥 **Severity: High** (Score: 8.7)
 
@@ -741,7 +752,7 @@
 **2025-03-27** - **[DLA-4094-1](https://security-tracker.debian.org/tracker/DLA-4094-1)** - mercurial
 
 **CVE(s) :**
-- **[CVE-2025-2361](https://www.cve.org/CVERecord?id=CVE-2025-2361)** : 🟠 **Severity: Medium** (Score: 5.3)
+- **[CVE-2025-2361](https://www.cve.org/CVERecord?id=CVE-2025-2361)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** mercurial 5.6.1-4+deb11u1
