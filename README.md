@@ -1,5 +1,20 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-04-08** - **[DLA-4121-1](https://security-tracker.debian.org/tracker/DLA-4121-1)** - phpmyadmin
+
+**CVE(s) :**
+- **[CVE-2023-25727](https://www.cve.org/CVERecord?id=CVE-2023-25727)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-24529](https://www.cve.org/CVERecord?id=CVE-2025-24529)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-24530](https://www.cve.org/CVERecord?id=CVE-2025-24530)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** phpmyadmin 4:5.0.4+dfsg2-2+deb11u2
+ **Type :** DLA
+
+------------------------------
+
 **2025-04-08** - **[DLA-4120-1](https://security-tracker.debian.org/tracker/DLA-4120-1)** - libnet-easytcp-perl
 
 **CVE(s) :**
@@ -19,6 +34,17 @@
 **Debian Version :** bullseye
  **Package Version :** lemonldap-ng 2.0.11+ds-4+deb11u7
  **Type :** DLA
+
+------------------------------
+
+**2025-04-08** - **[DSA-5897-1](https://security-tracker.debian.org/tracker/DSA-5897-1)** - lemonldap-ng
+
+**CVE(s) :**
+- **[CVE-2025-31510](https://www.cve.org/CVERecord?id=CVE-2025-31510)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** lemonldap-ng 2.16.1+ds-deb12u6
+ **Type :** DSA
 
 ------------------------------
 
@@ -66,11 +92,11 @@
 **2025-04-05** - **[DLA-4115-1](https://security-tracker.debian.org/tracker/DLA-4115-1)** - ruby-saml
 
 **CVE(s) :**
-- **[CVE-2025-25291](https://www.cve.org/CVERecord?id=CVE-2025-25291)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-25291](https://www.cve.org/CVERecord?id=CVE-2025-25291)** : 🔥 **Severity: High** (Score: 9.3)
 
 - **[CVE-2025-25292](https://www.cve.org/CVERecord?id=CVE-2025-25292)** : 🔥 **Severity: High** (Score: 9.3)
 
-- **[CVE-2025-25293](https://www.cve.org/CVERecord?id=CVE-2025-25293)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-25293](https://www.cve.org/CVERecord?id=CVE-2025-25293)** : 🔥 **Severity: High** (Score: 7.7)
 
 **Debian Version :** bullseye
  **Package Version :** ruby-saml 1.11.0-1+deb11u2
@@ -738,7 +764,7 @@
 
 - **[CVE-2024-28047](https://www.cve.org/CVERecord?id=CVE-2024-28047)** : 🟠 **Severity: Medium** (Score: 6.8)
 
-- **[CVE-2024-28127](https://www.cve.org/CVERecord?id=CVE-2024-28127)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-28127](https://www.cve.org/CVERecord?id=CVE-2024-28127)** : 🔥 **Severity: High** (Score: 8.7)
 
 - **[CVE-2024-29214](https://www.cve.org/CVERecord?id=CVE-2024-29214)** : 🔥 **Severity: High** (Score: 8.7)
 
