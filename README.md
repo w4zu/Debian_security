@@ -1,5 +1,28 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-04-10** - **[DSA-5899-1](https://security-tracker.debian.org/tracker/DSA-5899-1)** - webkit2gtk
+
+**CVE(s) :**
+- **[CVE-2024-54551](https://www.cve.org/CVERecord?id=CVE-2024-54551)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-24208](https://www.cve.org/CVERecord?id=CVE-2025-24208)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-24209](https://www.cve.org/CVERecord?id=CVE-2025-24209)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-24213](https://www.cve.org/CVERecord?id=CVE-2025-24213)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-24216](https://www.cve.org/CVERecord?id=CVE-2025-24216)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-24264](https://www.cve.org/CVERecord?id=CVE-2025-24264)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-30427](https://www.cve.org/CVERecord?id=CVE-2025-30427)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** webkit2gtk 2.48.1-2~deb12u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-04-09** - **[DSA-5898-1](https://security-tracker.debian.org/tracker/DSA-5898-1)** - chromium
 
 **CVE(s) :**
@@ -769,7 +792,7 @@
 
 - **[CVE-2023-43758](https://www.cve.org/CVERecord?id=CVE-2023-43758)** : 🔥 **Severity: High** (Score: 8.7)
 
-- **[CVE-2024-24582](https://www.cve.org/CVERecord?id=CVE-2024-24582)** : 🔥 **Severity: High** (Score: 8.7)
+- **[CVE-2024-24582](https://www.cve.org/CVERecord?id=CVE-2024-24582)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-28047](https://www.cve.org/CVERecord?id=CVE-2024-28047)** : 🟠 **Severity: Medium** (Score: 6.8)
 
