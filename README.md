@@ -1,5 +1,39 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-04-13** - **[DLA-4124-1](https://security-tracker.debian.org/tracker/DLA-4124-1)** - twitter-bootstrap3
+
+**CVE(s) :**
+- **[CVE-2024-6484](https://www.cve.org/CVERecord?id=CVE-2024-6484)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-6485](https://www.cve.org/CVERecord?id=CVE-2024-6485)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** twitter-bootstrap3 3.4.1+dfsg-2+deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2025-04-13** - **[DSA-5901-1](https://security-tracker.debian.org/tracker/DSA-5901-1)** - mediawiki
+
+**CVE(s) :**
+- **[CVE-2025-3469](https://www.cve.org/CVERecord?id=CVE-2025-3469)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-32696](https://www.cve.org/CVERecord?id=CVE-2025-32696)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-32697](https://www.cve.org/CVERecord?id=CVE-2025-32697)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-32698](https://www.cve.org/CVERecord?id=CVE-2025-32698)** : 🟠 **Severity: Medium** (Score: 2.1)
+
+- **[CVE-2025-32699](https://www.cve.org/CVERecord?id=CVE-2025-32699)** : 🟠 **Severity: Medium** (Score: 2.1)
+
+- **[CVE-2025-32700](https://www.cve.org/CVERecord?id=CVE-2025-32700)** : 🟠 **Severity: Medium** (Score: 2.3)
+
+**Debian Version :** bookworm
+ **Package Version :** mediawiki 1:1.39.12-1~deb12u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-04-12** - **[DLA-4123-1](https://security-tracker.debian.org/tracker/DLA-4123-1)** - wpa
 
 **CVE(s) :**
