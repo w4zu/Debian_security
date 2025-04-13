@@ -1,5 +1,20 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-04-12** - **[DLA-4123-1](https://security-tracker.debian.org/tracker/DLA-4123-1)** - wpa
+
+**CVE(s) :**
+- **[CVE-2022-23303](https://www.cve.org/CVERecord?id=CVE-2022-23303)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2022-23304](https://www.cve.org/CVERecord?id=CVE-2022-23304)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2022-37660](https://www.cve.org/CVERecord?id=CVE-2022-37660)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** wpa 2:2.9.0-21+deb11u3
+ **Type :** DLA
+
+------------------------------
+
 **2025-04-12** - **[DSA-5900-1](https://security-tracker.debian.org/tracker/DSA-5900-1)** - linux
 
 **CVE(s) :**
@@ -340,7 +355,7 @@
 **2025-04-05** - **[DLA-4116-1](https://security-tracker.debian.org/tracker/DLA-4116-1)** - abseil
 
 **CVE(s) :**
-- **[CVE-2025-0838](https://www.cve.org/CVERecord?id=CVE-2025-0838)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-0838](https://www.cve.org/CVERecord?id=CVE-2025-0838)** : 🟠 **Severity: Medium** (Score: 5.9)
 
 **Debian Version :** bullseye
  **Package Version :** abseil 0~20200923.3-2+deb11u1
@@ -922,90 +937,6 @@
 
 **Debian Version :** bullseye
  **Package Version :** amd64-microcode 3.20250311.1~deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-03-30** - **[DLA-4097-1](https://security-tracker.debian.org/tracker/DLA-4097-1)** - vim
-
-**CVE(s) :**
-- **[CVE-2021-3872](https://www.cve.org/CVERecord?id=CVE-2021-3872)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2021-4019](https://www.cve.org/CVERecord?id=CVE-2021-4019)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2021-4173](https://www.cve.org/CVERecord?id=CVE-2021-4173)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2021-4187](https://www.cve.org/CVERecord?id=CVE-2021-4187)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2022-0261](https://www.cve.org/CVERecord?id=CVE-2022-0261)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2022-0351](https://www.cve.org/CVERecord?id=CVE-2022-0351)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2022-0359](https://www.cve.org/CVERecord?id=CVE-2022-0359)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2022-0361](https://www.cve.org/CVERecord?id=CVE-2022-0361)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2022-0392](https://www.cve.org/CVERecord?id=CVE-2022-0392)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2022-0417](https://www.cve.org/CVERecord?id=CVE-2022-0417)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2022-0572](https://www.cve.org/CVERecord?id=CVE-2022-0572)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2022-1616](https://www.cve.org/CVERecord?id=CVE-2022-1616)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2022-1785](https://www.cve.org/CVERecord?id=CVE-2022-1785)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2022-1897](https://www.cve.org/CVERecord?id=CVE-2022-1897)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2022-1942](https://www.cve.org/CVERecord?id=CVE-2022-1942)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2022-2000](https://www.cve.org/CVERecord?id=CVE-2022-2000)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2022-2129](https://www.cve.org/CVERecord?id=CVE-2022-2129)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2022-2304](https://www.cve.org/CVERecord?id=CVE-2022-2304)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2022-3099](https://www.cve.org/CVERecord?id=CVE-2022-3099)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2022-3134](https://www.cve.org/CVERecord?id=CVE-2022-3134)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2022-3324](https://www.cve.org/CVERecord?id=CVE-2022-3324)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2022-4141](https://www.cve.org/CVERecord?id=CVE-2022-4141)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2023-0054](https://www.cve.org/CVERecord?id=CVE-2023-0054)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2023-1175](https://www.cve.org/CVERecord?id=CVE-2023-1175)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2023-2610](https://www.cve.org/CVERecord?id=CVE-2023-2610)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2023-4738](https://www.cve.org/CVERecord?id=CVE-2023-4738)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2023-4752](https://www.cve.org/CVERecord?id=CVE-2023-4752)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2023-4781](https://www.cve.org/CVERecord?id=CVE-2023-4781)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2023-5344](https://www.cve.org/CVERecord?id=CVE-2023-5344)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-22667](https://www.cve.org/CVERecord?id=CVE-2024-22667)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-43802](https://www.cve.org/CVERecord?id=CVE-2024-43802)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-47814](https://www.cve.org/CVERecord?id=CVE-2024-47814)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** vim 2:8.2.2434-3+deb11u2
- **Type :** DLA
-
-------------------------------
-
-**2025-03-30** - **[DLA-4096-1](https://security-tracker.debian.org/tracker/DLA-4096-1)** - librabbitmq
-
-**CVE(s) :**
-- **[CVE-2023-35789](https://www.cve.org/CVERecord?id=CVE-2023-35789)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** librabbitmq 0.10.0-1+deb11u1
  **Type :** DLA
 
 ------------------------------
