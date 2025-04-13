@@ -1,5 +1,29 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-04-13** - **[DLA-4126-1](https://security-tracker.debian.org/tracker/DLA-4126-1)** - jinja2
+
+**CVE(s) :**
+- **[CVE-2024-56326](https://www.cve.org/CVERecord?id=CVE-2024-56326)** : 🟠 **Severity: Medium** (Score: 5.4)
+
+- **[CVE-2025-27516](https://www.cve.org/CVERecord?id=CVE-2025-27516)** : 🟠 **Severity: Medium** (Score: 5.4)
+
+**Debian Version :** bullseye
+ **Package Version :** jinja2 2.11.3-1+deb11u3
+ **Type :** DLA
+
+------------------------------
+
+**2025-04-13** - **[DLA-4125-1](https://security-tracker.debian.org/tracker/DLA-4125-1)** - twitter-bootstrap4
+
+**CVE(s) :**
+- **[CVE-2024-6531](https://www.cve.org/CVERecord?id=CVE-2024-6531)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** twitter-bootstrap4 4.5.2+dfsg1-8~deb11u2
+ **Type :** DLA
+
+------------------------------
+
 **2025-04-13** - **[DLA-4124-1](https://security-tracker.debian.org/tracker/DLA-4124-1)** - twitter-bootstrap3
 
 **CVE(s) :**
@@ -10,6 +34,17 @@
 **Debian Version :** bullseye
  **Package Version :** twitter-bootstrap3 3.4.1+dfsg-2+deb11u1
  **Type :** DLA
+
+------------------------------
+
+**2025-04-13** - **[DSA-5902-1](https://security-tracker.debian.org/tracker/DSA-5902-1)** - perl
+
+**CVE(s) :**
+- **[CVE-2024-56406](https://www.cve.org/CVERecord?id=CVE-2024-56406)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** perl 5.36.0-7+deb12u2
+ **Type :** DSA
 
 ------------------------------
 
@@ -26,7 +61,7 @@
 
 - **[CVE-2025-32699](https://www.cve.org/CVERecord?id=CVE-2025-32699)** : 🟠 **Severity: Medium** (Score: 2.1)
 
-- **[CVE-2025-32700](https://www.cve.org/CVERecord?id=CVE-2025-32700)** : 🟠 **Severity: Medium** (Score: 2.3)
+- **[CVE-2025-32700](https://www.cve.org/CVERecord?id=CVE-2025-32700)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** mediawiki 1:1.39.12-1~deb12u1
@@ -402,7 +437,7 @@
 **CVE(s) :**
 - **[CVE-2025-25291](https://www.cve.org/CVERecord?id=CVE-2025-25291)** : 🔥 **Severity: High** (Score: 9.3)
 
-- **[CVE-2025-25292](https://www.cve.org/CVERecord?id=CVE-2025-25292)** : 🔥 **Severity: High** (Score: 9.3)
+- **[CVE-2025-25292](https://www.cve.org/CVERecord?id=CVE-2025-25292)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-25293](https://www.cve.org/CVERecord?id=CVE-2025-25293)** : 🔥 **Severity: High** (Score: 7.7)
 
