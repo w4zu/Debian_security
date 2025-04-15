@@ -81,9 +81,9 @@
 
 - **[CVE-2025-32698](https://www.cve.org/CVERecord?id=CVE-2025-32698)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-32699](https://www.cve.org/CVERecord?id=CVE-2025-32699)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-32699](https://www.cve.org/CVERecord?id=CVE-2025-32699)** : 🟠 **Severity: Medium** (Score: 2.1)
 
-- **[CVE-2025-32700](https://www.cve.org/CVERecord?id=CVE-2025-32700)** : 🟠 **Severity: Medium** (Score: 2.3)
+- **[CVE-2025-32700](https://www.cve.org/CVERecord?id=CVE-2025-32700)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** mediawiki 1:1.39.12-1~deb12u1
@@ -506,7 +506,7 @@
 **2025-04-05** - **[DSA-5895-1](https://security-tracker.debian.org/tracker/DSA-5895-1)** - xz-utils
 
 **CVE(s) :**
-- **[CVE-2025-31115](https://www.cve.org/CVERecord?id=CVE-2025-31115)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-31115](https://www.cve.org/CVERecord?id=CVE-2025-31115)** : 🔥 **Severity: High** (Score: 8.7)
 
 **Debian Version :** bookworm
  **Package Version :** xz-utils 5.4.1-1
