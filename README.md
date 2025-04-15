@@ -79,11 +79,11 @@
 
 - **[CVE-2025-32697](https://www.cve.org/CVERecord?id=CVE-2025-32697)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-32698](https://www.cve.org/CVERecord?id=CVE-2025-32698)** : 🟠 **Severity: Medium** (Score: 2.1)
+- **[CVE-2025-32698](https://www.cve.org/CVERecord?id=CVE-2025-32698)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-32699](https://www.cve.org/CVERecord?id=CVE-2025-32699)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-32700](https://www.cve.org/CVERecord?id=CVE-2025-32700)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-32700](https://www.cve.org/CVERecord?id=CVE-2025-32700)** : 🟠 **Severity: Medium** (Score: 2.3)
 
 **Debian Version :** bookworm
  **Package Version :** mediawiki 1:1.39.12-1~deb12u1
@@ -446,7 +446,7 @@
 **2025-04-05** - **[DLA-4116-1](https://security-tracker.debian.org/tracker/DLA-4116-1)** - abseil
 
 **CVE(s) :**
-- **[CVE-2025-0838](https://www.cve.org/CVERecord?id=CVE-2025-0838)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-0838](https://www.cve.org/CVERecord?id=CVE-2025-0838)** : 🟠 **Severity: Medium** (Score: 5.9)
 
 **Debian Version :** bullseye
  **Package Version :** abseil 0~20200923.3-2+deb11u1
@@ -461,7 +461,7 @@
 
 - **[CVE-2025-25292](https://www.cve.org/CVERecord?id=CVE-2025-25292)** : 🔥 **Severity: High** (Score: 9.3)
 
-- **[CVE-2025-25293](https://www.cve.org/CVERecord?id=CVE-2025-25293)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-25293](https://www.cve.org/CVERecord?id=CVE-2025-25293)** : 🔥 **Severity: High** (Score: 7.7)
 
 **Debian Version :** bullseye
  **Package Version :** ruby-saml 1.11.0-1+deb11u2
@@ -506,7 +506,7 @@
 **2025-04-05** - **[DSA-5895-1](https://security-tracker.debian.org/tracker/DSA-5895-1)** - xz-utils
 
 **CVE(s) :**
-- **[CVE-2025-31115](https://www.cve.org/CVERecord?id=CVE-2025-31115)** : 🔥 **Severity: High** (Score: 8.7)
+- **[CVE-2025-31115](https://www.cve.org/CVERecord?id=CVE-2025-31115)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** xz-utils 5.4.1-1
@@ -655,62 +655,6 @@
 **Debian Version :** bookworm
  **Package Version :** firefox-esr 128.9.0esr-1~deb12u1
  **Type :** DSA
-
-------------------------------
-
-**2025-04-01** - **[DLA-4108-1](https://security-tracker.debian.org/tracker/DLA-4108-1)** - tomcat9
-
-**CVE(s) :**
-- **[CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** tomcat9 9.0.43-2~deb11u12
- **Type :** DLA
-
-------------------------------
-
-**2025-04-01** - **[DLA-4107-1](https://security-tracker.debian.org/tracker/DLA-4107-1)** - openjpeg2
-
-**CVE(s) :**
-- **[CVE-2021-3575](https://www.cve.org/CVERecord?id=CVE-2021-3575)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2021-29338](https://www.cve.org/CVERecord?id=CVE-2021-29338)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2022-1122](https://www.cve.org/CVERecord?id=CVE-2022-1122)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-56826](https://www.cve.org/CVERecord?id=CVE-2024-56826)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-56827](https://www.cve.org/CVERecord?id=CVE-2024-56827)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** openjpeg2 2.4.0-3+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-04-01** - **[DLA-4106-1](https://security-tracker.debian.org/tracker/DLA-4106-1)** - jetty9
-
-**CVE(s) :**
-- **[CVE-2024-6762](https://www.cve.org/CVERecord?id=CVE-2024-6762)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-8184](https://www.cve.org/CVERecord?id=CVE-2024-8184)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-9823](https://www.cve.org/CVERecord?id=CVE-2024-9823)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** jetty9 9.4.57-0+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-04-01** - **[DLA-4104-1](https://security-tracker.debian.org/tracker/DLA-4104-1)** - freetype
-
-**CVE(s) :**
-- **[CVE-2025-27363](https://www.cve.org/CVERecord?id=CVE-2025-27363)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** freetype 2.10.4+dfsg-1+deb11u2
- **Type :** DLA
 
 ------------------------------
 
