@@ -25,9 +25,9 @@
 **2025-04-13** - **[DLA-4126-1](https://security-tracker.debian.org/tracker/DLA-4126-1)** - jinja2
 
 **CVE(s) :**
-- **[CVE-2024-56326](https://www.cve.org/CVERecord?id=CVE-2024-56326)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-56326](https://www.cve.org/CVERecord?id=CVE-2024-56326)** : 🟠 **Severity: Medium** (Score: 5.4)
 
-- **[CVE-2025-27516](https://www.cve.org/CVERecord?id=CVE-2025-27516)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-27516](https://www.cve.org/CVERecord?id=CVE-2025-27516)** : 🟠 **Severity: Medium** (Score: 5.4)
 
 **Debian Version :** bullseye
  **Package Version :** jinja2 2.11.3-1+deb11u3
@@ -457,7 +457,7 @@
 **2025-04-05** - **[DLA-4115-1](https://security-tracker.debian.org/tracker/DLA-4115-1)** - ruby-saml
 
 **CVE(s) :**
-- **[CVE-2025-25291](https://www.cve.org/CVERecord?id=CVE-2025-25291)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-25291](https://www.cve.org/CVERecord?id=CVE-2025-25291)** : 🔥 **Severity: High** (Score: 9.3)
 
 - **[CVE-2025-25292](https://www.cve.org/CVERecord?id=CVE-2025-25292)** : 🔥 **Severity: High** (Score: 9.3)
 
