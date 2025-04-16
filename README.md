@@ -25,7 +25,7 @@
 **2025-04-13** - **[DLA-4126-1](https://security-tracker.debian.org/tracker/DLA-4126-1)** - jinja2
 
 **CVE(s) :**
-- **[CVE-2024-56326](https://www.cve.org/CVERecord?id=CVE-2024-56326)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-56326](https://www.cve.org/CVERecord?id=CVE-2024-56326)** : 🟠 **Severity: Medium** (Score: 5.4)
 
 - **[CVE-2025-27516](https://www.cve.org/CVERecord?id=CVE-2025-27516)** : 🟠 **Severity: Medium** (Score: 5.4)
 
@@ -598,62 +598,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** chromium 135.0.7049.52-1~deb12u1
- **Type :** DSA
-
-------------------------------
-
-**2025-04-02** - **[DLA-4111-1](https://security-tracker.debian.org/tracker/DLA-4111-1)** - commons-vfs
-
-**CVE(s) :**
-- **[CVE-2025-27553](https://www.cve.org/CVERecord?id=CVE-2025-27553)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** commons-vfs 2.1-2+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-04-02** - **[DLA-4110-1](https://security-tracker.debian.org/tracker/DLA-4110-1)** - thunderbird
-
-**CVE(s) :**
-- **[CVE-2025-3028](https://www.cve.org/CVERecord?id=CVE-2025-3028)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-3029](https://www.cve.org/CVERecord?id=CVE-2025-3029)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-3030](https://www.cve.org/CVERecord?id=CVE-2025-3030)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** thunderbird 1:128.9.0esr-1~deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-04-02** - **[DLA-4109-1](https://security-tracker.debian.org/tracker/DLA-4109-1)** - firefox-esr
-
-**CVE(s) :**
-- **[CVE-2025-3028](https://www.cve.org/CVERecord?id=CVE-2025-3028)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-3029](https://www.cve.org/CVERecord?id=CVE-2025-3029)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-3030](https://www.cve.org/CVERecord?id=CVE-2025-3030)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** firefox-esr 128.9.0esr-1~deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-04-02** - **[DSA-5889-1](https://security-tracker.debian.org/tracker/DSA-5889-1)** - firefox-esr
-
-**CVE(s) :**
-- **[CVE-2025-3028](https://www.cve.org/CVERecord?id=CVE-2025-3028)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-3029](https://www.cve.org/CVERecord?id=CVE-2025-3029)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-3030](https://www.cve.org/CVERecord?id=CVE-2025-3030)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** firefox-esr 128.9.0esr-1~deb12u1
  **Type :** DSA
 
 ------------------------------
