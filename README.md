@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-04-17** - **[DLA-4129-1](https://security-tracker.debian.org/tracker/DLA-4129-1)** - libapache2-mod-auth-openidc
+
+**CVE(s) :**
+- **[CVE-2025-31492](https://www.cve.org/CVERecord?id=CVE-2025-31492)** : 🔥 **Severity: High** (Score: 8.2)
+
+**Debian Version :** bullseye
+ **Package Version :** libapache2-mod-auth-openidc 2.4.9.4-0+deb11u5
+ **Type :** DLA
+
+------------------------------
+
 **2025-04-17** - **[DSA-5903-1](https://security-tracker.debian.org/tracker/DSA-5903-1)** - chromium
 
 **CVE(s) :**
@@ -96,7 +107,7 @@
 
 - **[CVE-2025-32699](https://www.cve.org/CVERecord?id=CVE-2025-32699)** : 🟠 **Severity: Medium** (Score: 2.1)
 
-- **[CVE-2025-32700](https://www.cve.org/CVERecord?id=CVE-2025-32700)** : 🟠 **Severity: Medium** (Score: 2.3)
+- **[CVE-2025-32700](https://www.cve.org/CVERecord?id=CVE-2025-32700)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** mediawiki 1:1.39.12-1~deb12u1
