@@ -457,11 +457,11 @@
 **2025-04-05** - **[DLA-4115-1](https://security-tracker.debian.org/tracker/DLA-4115-1)** - ruby-saml
 
 **CVE(s) :**
-- **[CVE-2025-25291](https://www.cve.org/CVERecord?id=CVE-2025-25291)** : 🔥 **Severity: High** (Score: 9.3)
+- **[CVE-2025-25291](https://www.cve.org/CVERecord?id=CVE-2025-25291)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-25292](https://www.cve.org/CVERecord?id=CVE-2025-25292)** : 🔥 **Severity: High** (Score: 9.3)
 
-- **[CVE-2025-25293](https://www.cve.org/CVERecord?id=CVE-2025-25293)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-25293](https://www.cve.org/CVERecord?id=CVE-2025-25293)** : 🔥 **Severity: High** (Score: 7.7)
 
 **Debian Version :** bullseye
  **Package Version :** ruby-saml 1.11.0-1+deb11u2
@@ -536,68 +536,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** tomcat10 10.1.34-0+deb12u2
- **Type :** DSA
-
-------------------------------
-
-**2025-04-03** - **[DLA-4113-1](https://security-tracker.debian.org/tracker/DLA-4113-1)** - php-horde-imp
-
-**CVE(s) :**
-- **[CVE-2025-30349](https://www.cve.org/CVERecord?id=CVE-2025-30349)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** php-horde-imp 6.2.27-2+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-04-03** - **[DSA-5892-1](https://security-tracker.debian.org/tracker/DSA-5892-1)** - atop
-
-**CVE(s) :**
-- **[CVE-2025-31160](https://www.cve.org/CVERecord?id=CVE-2025-31160)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** atop 2.8.1-1+deb12u1
- **Type :** DSA
-
-------------------------------
-
-**2025-04-03** - **[DSA-5891-1](https://security-tracker.debian.org/tracker/DSA-5891-1)** - thunderbird
-
-**CVE(s) :**
-- **[CVE-2025-3028](https://www.cve.org/CVERecord?id=CVE-2025-3028)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-3029](https://www.cve.org/CVERecord?id=CVE-2025-3029)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-3030](https://www.cve.org/CVERecord?id=CVE-2025-3030)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** thunderbird 1:128.9.0esr-1~deb12u1
- **Type :** DSA
-
-------------------------------
-
-**2025-04-03** - **[DSA-5890-1](https://security-tracker.debian.org/tracker/DSA-5890-1)** - chromium
-
-**CVE(s) :**
-- **[CVE-2025-3067](https://www.cve.org/CVERecord?id=CVE-2025-3067)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-3068](https://www.cve.org/CVERecord?id=CVE-2025-3068)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-3069](https://www.cve.org/CVERecord?id=CVE-2025-3069)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-3070](https://www.cve.org/CVERecord?id=CVE-2025-3070)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-3071](https://www.cve.org/CVERecord?id=CVE-2025-3071)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-3072](https://www.cve.org/CVERecord?id=CVE-2025-3072)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-3073](https://www.cve.org/CVERecord?id=CVE-2025-3073)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-3074](https://www.cve.org/CVERecord?id=CVE-2025-3074)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** chromium 135.0.7049.52-1~deb12u1
  **Type :** DSA
 
 ------------------------------
