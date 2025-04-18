@@ -11,6 +11,30 @@
 
 ------------------------------
 
+**2025-04-17** - **[DSA-5905-1](https://security-tracker.debian.org/tracker/DSA-5905-1)** - graphicsmagick
+
+**CVE(s) :**
+- **[CVE-2025-27795](https://www.cve.org/CVERecord?id=CVE-2025-27795)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-32460](https://www.cve.org/CVERecord?id=CVE-2025-32460)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** graphicsmagick 1.4+really1.3.40-4+deb12u1
+ **Type :** DSA
+
+------------------------------
+
+**2025-04-17** - **[DSA-5904-1](https://security-tracker.debian.org/tracker/DSA-5904-1)** - libapache2-mod-auth-openidc
+
+**CVE(s) :**
+- **[CVE-2025-31492](https://www.cve.org/CVERecord?id=CVE-2025-31492)** : 🔥 **Severity: High** (Score: 8.2)
+
+**Debian Version :** bookworm
+ **Package Version :** libapache2-mod-auth-openidc 2.4.12.3-2+deb12u3
+ **Type :** DSA
+
+------------------------------
+
 **2025-04-17** - **[DSA-5903-1](https://security-tracker.debian.org/tracker/DSA-5903-1)** - chromium
 
 **CVE(s) :**
