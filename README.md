@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-04-18** - **[DLA-4130-1](https://security-tracker.debian.org/tracker/DLA-4130-1)** - shadow
+
+**CVE(s) :**
+- **[CVE-2023-4641](https://www.cve.org/CVERecord?id=CVE-2023-4641)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2023-29383](https://www.cve.org/CVERecord?id=CVE-2023-29383)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** shadow 1:4.8.1-1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-04-17** - **[DLA-4129-1](https://security-tracker.debian.org/tracker/DLA-4129-1)** - libapache2-mod-auth-openidc
 
 **CVE(s) :**
@@ -73,9 +86,9 @@
 **2025-04-13** - **[DLA-4126-1](https://security-tracker.debian.org/tracker/DLA-4126-1)** - jinja2
 
 **CVE(s) :**
-- **[CVE-2024-56326](https://www.cve.org/CVERecord?id=CVE-2024-56326)** : 🟠 **Severity: Medium** (Score: 5.4)
+- **[CVE-2024-56326](https://www.cve.org/CVERecord?id=CVE-2024-56326)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-27516](https://www.cve.org/CVERecord?id=CVE-2025-27516)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-27516](https://www.cve.org/CVERecord?id=CVE-2025-27516)** : 🟠 **Severity: Medium** (Score: 5.4)
 
 **Debian Version :** bullseye
  **Package Version :** jinja2 2.11.3-1+deb11u3
@@ -129,7 +142,7 @@
 
 - **[CVE-2025-32698](https://www.cve.org/CVERecord?id=CVE-2025-32698)** : 🟠 **Severity: Medium** (Score: 2.1)
 
-- **[CVE-2025-32699](https://www.cve.org/CVERecord?id=CVE-2025-32699)** : 🟠 **Severity: Medium** (Score: 2.1)
+- **[CVE-2025-32699](https://www.cve.org/CVERecord?id=CVE-2025-32699)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-32700](https://www.cve.org/CVERecord?id=CVE-2025-32700)** : 🟠 **Severity: Medium** (Score: 2.3)
 
@@ -488,103 +501,6 @@
 **Debian Version :** bullseye
  **Package Version :** atop 2.6.0-2+deb11u1
  **Type :** DLA
-
-------------------------------
-
-**2025-04-05** - **[DLA-4116-1](https://security-tracker.debian.org/tracker/DLA-4116-1)** - abseil
-
-**CVE(s) :**
-- **[CVE-2025-0838](https://www.cve.org/CVERecord?id=CVE-2025-0838)** : 🟠 **Severity: Medium** (Score: 5.9)
-
-**Debian Version :** bullseye
- **Package Version :** abseil 0~20200923.3-2+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-04-05** - **[DLA-4115-1](https://security-tracker.debian.org/tracker/DLA-4115-1)** - ruby-saml
-
-**CVE(s) :**
-- **[CVE-2025-25291](https://www.cve.org/CVERecord?id=CVE-2025-25291)** : 🔥 **Severity: High** (Score: 9.3)
-
-- **[CVE-2025-25292](https://www.cve.org/CVERecord?id=CVE-2025-25292)** : 🔥 **Severity: High** (Score: 9.3)
-
-- **[CVE-2025-25293](https://www.cve.org/CVERecord?id=CVE-2025-25293)** : 🔥 **Severity: High** (Score: 7.7)
-
-**Debian Version :** bullseye
- **Package Version :** ruby-saml 1.11.0-1+deb11u2
- **Type :** DLA
-
-------------------------------
-
-**2025-04-05** - **[DLA-4114-1](https://security-tracker.debian.org/tracker/DLA-4114-1)** - zfs-linux
-
-**CVE(s) :**
-- **[CVE-2013-20001](https://www.cve.org/CVERecord?id=CVE-2013-20001)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2023-49298](https://www.cve.org/CVERecord?id=CVE-2023-49298)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** zfs-linux 2.0.3-9+deb11u2
- **Type :** DLA
-
-------------------------------
-
-**2025-04-05** - **[DSA-5896-1](https://security-tracker.debian.org/tracker/DSA-5896-1)** - trafficserver
-
-**CVE(s) :**
-- **[CVE-2024-38311](https://www.cve.org/CVERecord?id=CVE-2024-38311)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-38479](https://www.cve.org/CVERecord?id=CVE-2024-38479)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-50305](https://www.cve.org/CVERecord?id=CVE-2024-50305)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-50306](https://www.cve.org/CVERecord?id=CVE-2024-50306)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-56195](https://www.cve.org/CVERecord?id=CVE-2024-56195)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-56202](https://www.cve.org/CVERecord?id=CVE-2024-56202)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** trafficserver 9.2.5+ds-0+deb12u2
- **Type :** DSA
-
-------------------------------
-
-**2025-04-05** - **[DSA-5895-1](https://security-tracker.debian.org/tracker/DSA-5895-1)** - xz-utils
-
-**CVE(s) :**
-- **[CVE-2025-31115](https://www.cve.org/CVERecord?id=CVE-2025-31115)** : 🔥 **Severity: High** (Score: 8.7)
-
-**Debian Version :** bookworm
- **Package Version :** xz-utils 5.4.1-1
- **Type :** DSA
-
-------------------------------
-
-**2025-04-05** - **[DSA-5894-1](https://security-tracker.debian.org/tracker/DSA-5894-1)** - jetty9
-
-**CVE(s) :**
-- **[CVE-2024-6762](https://www.cve.org/CVERecord?id=CVE-2024-6762)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-8184](https://www.cve.org/CVERecord?id=CVE-2024-8184)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-9823](https://www.cve.org/CVERecord?id=CVE-2024-9823)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** jetty9 9.4.57-0+deb12u1
- **Type :** DSA
-
-------------------------------
-
-**2025-04-05** - **[DSA-5893-1](https://security-tracker.debian.org/tracker/DSA-5893-1)** - tomcat10
-
-**CVE(s) :**
-- **[CVE-2025-24813](https://www.cve.org/CVERecord?id=CVE-2025-24813)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** tomcat10 10.1.34-0+deb12u2
- **Type :** DSA
 
 ------------------------------
 
