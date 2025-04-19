@@ -1,5 +1,22 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-04-19** - **[DLA-4131-1](https://security-tracker.debian.org/tracker/DLA-4131-1)** - zabbix
+
+**CVE(s) :**
+- **[CVE-2024-36469](https://www.cve.org/CVERecord?id=CVE-2024-36469)** : 🟠 **Severity: Medium** (Score: 2.3)
+
+- **[CVE-2024-42325](https://www.cve.org/CVERecord?id=CVE-2024-42325)** : 🟠 **Severity: Medium** (Score: 2.1)
+
+- **[CVE-2024-45699](https://www.cve.org/CVERecord?id=CVE-2024-45699)** : 🔥 **Severity: High** (Score: 7.5)
+
+- **[CVE-2024-45700](https://www.cve.org/CVERecord?id=CVE-2024-45700)** : 🟠 **Severity: Medium** (Score: 6)
+
+**Debian Version :** bullseye
+ **Package Version :** zabbix 1:5.0.46+dfsg-1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-04-18** - **[DLA-4130-1](https://security-tracker.debian.org/tracker/DLA-4130-1)** - shadow
 
 **CVE(s) :**
@@ -86,9 +103,9 @@
 **2025-04-13** - **[DLA-4126-1](https://security-tracker.debian.org/tracker/DLA-4126-1)** - jinja2
 
 **CVE(s) :**
-- **[CVE-2024-56326](https://www.cve.org/CVERecord?id=CVE-2024-56326)** : 🟠 **Severity: Medium** (Score: 5.4)
+- **[CVE-2024-56326](https://www.cve.org/CVERecord?id=CVE-2024-56326)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-27516](https://www.cve.org/CVERecord?id=CVE-2025-27516)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-27516](https://www.cve.org/CVERecord?id=CVE-2025-27516)** : 🟠 **Severity: Medium** (Score: 5.4)
 
 **Debian Version :** bullseye
  **Package Version :** jinja2 2.11.3-1+deb11u3
@@ -142,7 +159,7 @@
 
 - **[CVE-2025-32698](https://www.cve.org/CVERecord?id=CVE-2025-32698)** : 🟠 **Severity: Medium** (Score: 2.1)
 
-- **[CVE-2025-32699](https://www.cve.org/CVERecord?id=CVE-2025-32699)** : 🟠 **Severity: Medium** (Score: 2.1)
+- **[CVE-2025-32699](https://www.cve.org/CVERecord?id=CVE-2025-32699)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-32700](https://www.cve.org/CVERecord?id=CVE-2025-32700)** : 🟠 **Severity: Medium** (Score: 2.3)
 
