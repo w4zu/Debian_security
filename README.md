@@ -5,7 +5,7 @@
 **CVE(s) :**
 - **[CVE-2023-48795](https://www.cve.org/CVERecord?id=CVE-2023-48795)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-26618](https://www.cve.org/CVERecord?id=CVE-2025-26618)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-26618](https://www.cve.org/CVERecord?id=CVE-2025-26618)** : 🔥 **Severity: High** (Score: 7)
 
 - **[CVE-2025-30211](https://www.cve.org/CVERecord?id=CVE-2025-30211)** : **Severity: Unknown** (Score: N/A)
 
@@ -22,7 +22,7 @@
 **CVE(s) :**
 - **[CVE-2023-48795](https://www.cve.org/CVERecord?id=CVE-2023-48795)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-26618](https://www.cve.org/CVERecord?id=CVE-2025-26618)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-26618](https://www.cve.org/CVERecord?id=CVE-2025-26618)** : 🔥 **Severity: High** (Score: 7)
 
 - **[CVE-2025-30211](https://www.cve.org/CVERecord?id=CVE-2025-30211)** : **Severity: Unknown** (Score: N/A)
 
@@ -195,7 +195,7 @@
 
 - **[CVE-2025-32699](https://www.cve.org/CVERecord?id=CVE-2025-32699)** : 🟠 **Severity: Medium** (Score: 2.1)
 
-- **[CVE-2025-32700](https://www.cve.org/CVERecord?id=CVE-2025-32700)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-32700](https://www.cve.org/CVERecord?id=CVE-2025-32700)** : 🟠 **Severity: Medium** (Score: 2.3)
 
 **Debian Version :** bookworm
  **Package Version :** mediawiki 1:1.39.12-1~deb12u1
