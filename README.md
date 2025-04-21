@@ -1,5 +1,31 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-04-21** - **[DLA-4134-1](https://security-tracker.debian.org/tracker/DLA-4134-1)** - fig2dev
+
+**CVE(s) :**
+- **[CVE-2025-31162](https://www.cve.org/CVERecord?id=CVE-2025-31162)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-31163](https://www.cve.org/CVERecord?id=CVE-2025-31163)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-31164](https://www.cve.org/CVERecord?id=CVE-2025-31164)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** fig2dev 1:3.2.8-3+deb11u2
+ **Type :** DLA
+
+------------------------------
+
+**2025-04-21** - **[DLA-4133-1](https://security-tracker.debian.org/tracker/DLA-4133-1)** - wget
+
+**CVE(s) :**
+- **[CVE-2024-38428](https://www.cve.org/CVERecord?id=CVE-2024-38428)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** wget 1.21-1+deb11u2
+ **Type :** DLA
+
+------------------------------
+
 **2025-04-21** - **[DLA-4132-1](https://security-tracker.debian.org/tracker/DLA-4132-1)** - erlang
 
 **CVE(s) :**
