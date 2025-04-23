@@ -69,7 +69,7 @@
 
 - **[CVE-2024-45699](https://www.cve.org/CVERecord?id=CVE-2024-45699)** : 🔥 **Severity: High** (Score: 7.5)
 
-- **[CVE-2024-45700](https://www.cve.org/CVERecord?id=CVE-2024-45700)** : 🟠 **Severity: Medium** (Score: 6)
+- **[CVE-2024-45700](https://www.cve.org/CVERecord?id=CVE-2024-45700)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** zabbix 1:5.0.46+dfsg-1+deb11u1
@@ -217,11 +217,11 @@
 
 - **[CVE-2025-32697](https://www.cve.org/CVERecord?id=CVE-2025-32697)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-32698](https://www.cve.org/CVERecord?id=CVE-2025-32698)** : 🟠 **Severity: Medium** (Score: 2.1)
+- **[CVE-2025-32698](https://www.cve.org/CVERecord?id=CVE-2025-32698)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-32699](https://www.cve.org/CVERecord?id=CVE-2025-32699)** : 🟠 **Severity: Medium** (Score: 2.1)
 
-- **[CVE-2025-32700](https://www.cve.org/CVERecord?id=CVE-2025-32700)** : 🟠 **Severity: Medium** (Score: 2.3)
+- **[CVE-2025-32700](https://www.cve.org/CVERecord?id=CVE-2025-32700)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** mediawiki 1:1.39.12-1~deb12u1
