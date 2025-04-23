@@ -163,9 +163,9 @@
 **2025-04-13** - **[DLA-4126-1](https://security-tracker.debian.org/tracker/DLA-4126-1)** - jinja2
 
 **CVE(s) :**
-- **[CVE-2024-56326](https://www.cve.org/CVERecord?id=CVE-2024-56326)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-56326](https://www.cve.org/CVERecord?id=CVE-2024-56326)** : 🟠 **Severity: Medium** (Score: 5.4)
 
-- **[CVE-2025-27516](https://www.cve.org/CVERecord?id=CVE-2025-27516)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-27516](https://www.cve.org/CVERecord?id=CVE-2025-27516)** : 🟠 **Severity: Medium** (Score: 5.4)
 
 **Debian Version :** bullseye
  **Package Version :** jinja2 2.11.3-1+deb11u3
@@ -488,17 +488,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** webkit2gtk 2.48.1-2~deb12u1
- **Type :** DSA
-
-------------------------------
-
-**2025-04-09** - **[DSA-5898-1](https://security-tracker.debian.org/tracker/DSA-5898-1)** - chromium
-
-**CVE(s) :**
-- **[CVE-2025-3066](https://www.cve.org/CVERecord?id=CVE-2025-3066)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** chromium 135.0.7049.84-1~deb12u1
  **Type :** DSA
 
 ------------------------------
