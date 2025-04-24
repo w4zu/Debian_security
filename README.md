@@ -1,5 +1,35 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-04-24** - **[DLA-4136-1](https://security-tracker.debian.org/tracker/DLA-4136-1)** - openrazer
+
+**CVE(s) :**
+- **[CVE-2022-23467](https://www.cve.org/CVERecord?id=CVE-2022-23467)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2022-29021](https://www.cve.org/CVERecord?id=CVE-2022-29021)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2022-29022](https://www.cve.org/CVERecord?id=CVE-2022-29022)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2022-29023](https://www.cve.org/CVERecord?id=CVE-2022-29023)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-32776](https://www.cve.org/CVERecord?id=CVE-2025-32776)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** openrazer 2.9.0+dfsg-1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2025-04-23** - **[DLA-4135-1](https://security-tracker.debian.org/tracker/DLA-4135-1)** - haproxy
+
+**CVE(s) :**
+- **[CVE-2025-32464](https://www.cve.org/CVERecord?id=CVE-2025-32464)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** haproxy 2.2.9-2+deb11u7
+ **Type :** DLA
+
+------------------------------
+
 **2025-04-21** - **[DLA-4134-1](https://security-tracker.debian.org/tracker/DLA-4134-1)** - fig2dev
 
 **CVE(s) :**
@@ -65,7 +95,7 @@
 **CVE(s) :**
 - **[CVE-2024-36469](https://www.cve.org/CVERecord?id=CVE-2024-36469)** : 🟠 **Severity: Medium** (Score: 2.3)
 
-- **[CVE-2024-42325](https://www.cve.org/CVERecord?id=CVE-2024-42325)** : 🟠 **Severity: Medium** (Score: 2.1)
+- **[CVE-2024-42325](https://www.cve.org/CVERecord?id=CVE-2024-42325)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-45699](https://www.cve.org/CVERecord?id=CVE-2024-45699)** : 🔥 **Severity: High** (Score: 7.5)
 
@@ -217,7 +247,7 @@
 
 - **[CVE-2025-32697](https://www.cve.org/CVERecord?id=CVE-2025-32697)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-32698](https://www.cve.org/CVERecord?id=CVE-2025-32698)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-32698](https://www.cve.org/CVERecord?id=CVE-2025-32698)** : 🟠 **Severity: Medium** (Score: 2.1)
 
 - **[CVE-2025-32699](https://www.cve.org/CVERecord?id=CVE-2025-32699)** : 🟠 **Severity: Medium** (Score: 2.1)
 
@@ -465,29 +495,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** linux 6.1.133-1
- **Type :** DSA
-
-------------------------------
-
-**2025-04-10** - **[DSA-5899-1](https://security-tracker.debian.org/tracker/DSA-5899-1)** - webkit2gtk
-
-**CVE(s) :**
-- **[CVE-2024-54551](https://www.cve.org/CVERecord?id=CVE-2024-54551)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-24208](https://www.cve.org/CVERecord?id=CVE-2025-24208)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-24209](https://www.cve.org/CVERecord?id=CVE-2025-24209)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-24213](https://www.cve.org/CVERecord?id=CVE-2025-24213)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-24216](https://www.cve.org/CVERecord?id=CVE-2025-24216)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-24264](https://www.cve.org/CVERecord?id=CVE-2025-24264)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-30427](https://www.cve.org/CVERecord?id=CVE-2025-30427)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** webkit2gtk 2.48.1-2~deb12u1
  **Type :** DSA
 
 ------------------------------
