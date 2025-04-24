@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-04-24** - **[DLA-4137-1](https://security-tracker.debian.org/tracker/DLA-4137-1)** - libbpf
+
+**CVE(s) :**
+- **[CVE-2022-3534](https://www.cve.org/CVERecord?id=CVE-2022-3534)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2022-3606](https://www.cve.org/CVERecord?id=CVE-2022-3606)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** libbpf 0.3-2+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-04-24** - **[DLA-4136-1](https://security-tracker.debian.org/tracker/DLA-4136-1)** - openrazer
 
 **CVE(s) :**
@@ -247,11 +260,11 @@
 
 - **[CVE-2025-32697](https://www.cve.org/CVERecord?id=CVE-2025-32697)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-32698](https://www.cve.org/CVERecord?id=CVE-2025-32698)** : 🟠 **Severity: Medium** (Score: 2.1)
+- **[CVE-2025-32698](https://www.cve.org/CVERecord?id=CVE-2025-32698)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-32699](https://www.cve.org/CVERecord?id=CVE-2025-32699)** : 🟠 **Severity: Medium** (Score: 2.1)
 
-- **[CVE-2025-32700](https://www.cve.org/CVERecord?id=CVE-2025-32700)** : 🟠 **Severity: Medium** (Score: 2.3)
+- **[CVE-2025-32700](https://www.cve.org/CVERecord?id=CVE-2025-32700)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** mediawiki 1:1.39.12-1~deb12u1
