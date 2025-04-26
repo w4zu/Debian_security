@@ -106,7 +106,7 @@
 **2025-04-19** - **[DLA-4131-1](https://security-tracker.debian.org/tracker/DLA-4131-1)** - zabbix
 
 **CVE(s) :**
-- **[CVE-2024-36469](https://www.cve.org/CVERecord?id=CVE-2024-36469)** : 🟠 **Severity: Medium** (Score: 2.3)
+- **[CVE-2024-36469](https://www.cve.org/CVERecord?id=CVE-2024-36469)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-42325](https://www.cve.org/CVERecord?id=CVE-2024-42325)** : 🟠 **Severity: Medium** (Score: 2.1)
 
@@ -208,7 +208,7 @@
 **CVE(s) :**
 - **[CVE-2024-56326](https://www.cve.org/CVERecord?id=CVE-2024-56326)** : 🟠 **Severity: Medium** (Score: 5.4)
 
-- **[CVE-2025-27516](https://www.cve.org/CVERecord?id=CVE-2025-27516)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-27516](https://www.cve.org/CVERecord?id=CVE-2025-27516)** : 🟠 **Severity: Medium** (Score: 5.4)
 
 **Debian Version :** bullseye
  **Package Version :** jinja2 2.11.3-1+deb11u3
