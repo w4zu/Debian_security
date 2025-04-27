@@ -147,7 +147,7 @@
 **2025-04-17** - **[DLA-4129-1](https://security-tracker.debian.org/tracker/DLA-4129-1)** - libapache2-mod-auth-openidc
 
 **CVE(s) :**
-- **[CVE-2025-31492](https://www.cve.org/CVERecord?id=CVE-2025-31492)** : 🔥 **Severity: High** (Score: 8.2)
+- **[CVE-2025-31492](https://www.cve.org/CVERecord?id=CVE-2025-31492)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** libapache2-mod-auth-openidc 2.4.9.4-0+deb11u5
@@ -171,7 +171,7 @@
 **2025-04-17** - **[DSA-5904-1](https://security-tracker.debian.org/tracker/DSA-5904-1)** - libapache2-mod-auth-openidc
 
 **CVE(s) :**
-- **[CVE-2025-31492](https://www.cve.org/CVERecord?id=CVE-2025-31492)** : 🔥 **Severity: High** (Score: 8.2)
+- **[CVE-2025-31492](https://www.cve.org/CVERecord?id=CVE-2025-31492)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** libapache2-mod-auth-openidc 2.4.12.3-2+deb12u3
