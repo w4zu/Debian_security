@@ -299,7 +299,7 @@
 **CVE(s) :**
 - **[CVE-2024-36469](https://www.cve.org/CVERecord?id=CVE-2024-36469)** : 🟠 **Severity: Medium** (Score: 2.3)
 
-- **[CVE-2024-42325](https://www.cve.org/CVERecord?id=CVE-2024-42325)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-42325](https://www.cve.org/CVERecord?id=CVE-2024-42325)** : 🟠 **Severity: Medium** (Score: 2.1)
 
 - **[CVE-2024-45699](https://www.cve.org/CVERecord?id=CVE-2024-45699)** : 🔥 **Severity: High** (Score: 7.5)
 
