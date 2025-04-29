@@ -1,5 +1,22 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-04-29** - **[DLA-4142-1](https://security-tracker.debian.org/tracker/DLA-4142-1)** - libraw
+
+**CVE(s) :**
+- **[CVE-2025-43961](https://www.cve.org/CVERecord?id=CVE-2025-43961)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43962](https://www.cve.org/CVERecord?id=CVE-2025-43962)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43963](https://www.cve.org/CVERecord?id=CVE-2025-43963)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43964](https://www.cve.org/CVERecord?id=CVE-2025-43964)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** libraw 0.20.2-1+deb11u2
+ **Type :** DLA
+
+------------------------------
+
 **2025-04-28** - **[DLA-4141-1](https://security-tracker.debian.org/tracker/DLA-4141-1)** - poppler
 
 **CVE(s) :**
@@ -297,13 +314,13 @@
 **2025-04-19** - **[DLA-4131-1](https://security-tracker.debian.org/tracker/DLA-4131-1)** - zabbix
 
 **CVE(s) :**
-- **[CVE-2024-36469](https://www.cve.org/CVERecord?id=CVE-2024-36469)** : 🟠 **Severity: Medium** (Score: 2.3)
+- **[CVE-2024-36469](https://www.cve.org/CVERecord?id=CVE-2024-36469)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-42325](https://www.cve.org/CVERecord?id=CVE-2024-42325)** : 🟠 **Severity: Medium** (Score: 2.1)
 
-- **[CVE-2024-45699](https://www.cve.org/CVERecord?id=CVE-2024-45699)** : 🔥 **Severity: High** (Score: 7.5)
+- **[CVE-2024-45699](https://www.cve.org/CVERecord?id=CVE-2024-45699)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2024-45700](https://www.cve.org/CVERecord?id=CVE-2024-45700)** : 🟠 **Severity: Medium** (Score: 6)
+- **[CVE-2024-45700](https://www.cve.org/CVERecord?id=CVE-2024-45700)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** zabbix 1:5.0.46+dfsg-1+deb11u1
