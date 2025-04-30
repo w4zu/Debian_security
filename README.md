@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-04-30** - **[DLA-4143-1](https://security-tracker.debian.org/tracker/DLA-4143-1)** - glibc
+
+**CVE(s) :**
+- **[CVE-2025-0395](https://www.cve.org/CVERecord?id=CVE-2025-0395)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** glibc 2.31-13+deb11u12
+ **Type :** DLA
+
+------------------------------
+
 **2025-04-29** - **[DLA-4142-1](https://security-tracker.debian.org/tracker/DLA-4142-1)** - libraw
 
 **CVE(s) :**
@@ -316,7 +327,7 @@
 **CVE(s) :**
 - **[CVE-2024-36469](https://www.cve.org/CVERecord?id=CVE-2024-36469)** : 🟠 **Severity: Medium** (Score: 2.3)
 
-- **[CVE-2024-42325](https://www.cve.org/CVERecord?id=CVE-2024-42325)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-42325](https://www.cve.org/CVERecord?id=CVE-2024-42325)** : 🟠 **Severity: Medium** (Score: 2.1)
 
 - **[CVE-2024-45699](https://www.cve.org/CVERecord?id=CVE-2024-45699)** : 🔥 **Severity: High** (Score: 7.5)
 
