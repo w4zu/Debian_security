@@ -1,5 +1,48 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-04-30** - **[DLA-4146-1](https://security-tracker.debian.org/tracker/DLA-4146-1)** - libxml2
+
+**CVE(s) :**
+- **[CVE-2025-32414](https://www.cve.org/CVERecord?id=CVE-2025-32414)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-32415](https://www.cve.org/CVERecord?id=CVE-2025-32415)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** libxml2 2.9.10+dfsg-6.7+deb11u7
+ **Type :** DLA
+
+------------------------------
+
+**2025-04-30** - **[DLA-4145-1](https://security-tracker.debian.org/tracker/DLA-4145-1)** - expat
+
+**CVE(s) :**
+- **[CVE-2024-50602](https://www.cve.org/CVERecord?id=CVE-2024-50602)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** expat 2.2.10-2+deb11u7
+ **Type :** DLA
+
+------------------------------
+
+**2025-04-30** - **[DLA-4144-1](https://security-tracker.debian.org/tracker/DLA-4144-1)** - qemu
+
+**CVE(s) :**
+- **[CVE-2023-1544](https://www.cve.org/CVERecord?id=CVE-2023-1544)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2023-3019](https://www.cve.org/CVERecord?id=CVE-2023-3019)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2023-5088](https://www.cve.org/CVERecord?id=CVE-2023-5088)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2023-6693](https://www.cve.org/CVERecord?id=CVE-2023-6693)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-3447](https://www.cve.org/CVERecord?id=CVE-2024-3447)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** qemu 1:5.2+dfsg-11+deb11u4
+ **Type :** DLA
+
+------------------------------
+
 **2025-04-30** - **[DLA-4143-1](https://security-tracker.debian.org/tracker/DLA-4143-1)** - glibc
 
 **CVE(s) :**
@@ -293,7 +336,7 @@
 **CVE(s) :**
 - **[CVE-2023-48795](https://www.cve.org/CVERecord?id=CVE-2023-48795)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-26618](https://www.cve.org/CVERecord?id=CVE-2025-26618)** : 🔥 **Severity: High** (Score: 7)
+- **[CVE-2025-26618](https://www.cve.org/CVERecord?id=CVE-2025-26618)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-30211](https://www.cve.org/CVERecord?id=CVE-2025-30211)** : **Severity: Unknown** (Score: N/A)
 
@@ -310,7 +353,7 @@
 **CVE(s) :**
 - **[CVE-2023-48795](https://www.cve.org/CVERecord?id=CVE-2023-48795)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-26618](https://www.cve.org/CVERecord?id=CVE-2025-26618)** : 🔥 **Severity: High** (Score: 7)
+- **[CVE-2025-26618](https://www.cve.org/CVERecord?id=CVE-2025-26618)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-30211](https://www.cve.org/CVERecord?id=CVE-2025-30211)** : **Severity: Unknown** (Score: N/A)
 
@@ -325,7 +368,7 @@
 **2025-04-19** - **[DLA-4131-1](https://security-tracker.debian.org/tracker/DLA-4131-1)** - zabbix
 
 **CVE(s) :**
-- **[CVE-2024-36469](https://www.cve.org/CVERecord?id=CVE-2024-36469)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-36469](https://www.cve.org/CVERecord?id=CVE-2024-36469)** : 🟠 **Severity: Medium** (Score: 2.3)
 
 - **[CVE-2024-42325](https://www.cve.org/CVERecord?id=CVE-2024-42325)** : 🟠 **Severity: Medium** (Score: 2.1)
 
