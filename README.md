@@ -325,7 +325,7 @@
 **2025-04-19** - **[DLA-4131-1](https://security-tracker.debian.org/tracker/DLA-4131-1)** - zabbix
 
 **CVE(s) :**
-- **[CVE-2024-36469](https://www.cve.org/CVERecord?id=CVE-2024-36469)** : 🟠 **Severity: Medium** (Score: 2.3)
+- **[CVE-2024-36469](https://www.cve.org/CVERecord?id=CVE-2024-36469)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-42325](https://www.cve.org/CVERecord?id=CVE-2024-42325)** : 🟠 **Severity: Medium** (Score: 2.1)
 
