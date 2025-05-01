@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-05-01** - **[DLA-4151-1](https://security-tracker.debian.org/tracker/DLA-4151-1)** - golang-github-gorilla-csrf
+
+**CVE(s) :**
+- **[CVE-2025-24358](https://www.cve.org/CVERecord?id=CVE-2025-24358)** : 🟠 **Severity: Medium** (Score: 5.4)
+
+**Debian Version :** bullseye
+ **Package Version :** golang-github-gorilla-csrf 1.6.2-2+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-05-01** - **[DLA-4150-1](https://security-tracker.debian.org/tracker/DLA-4150-1)** - u-boot
 
 **CVE(s) :**
@@ -490,11 +501,11 @@
 **2025-04-19** - **[DLA-4131-1](https://security-tracker.debian.org/tracker/DLA-4131-1)** - zabbix
 
 **CVE(s) :**
-- **[CVE-2024-36469](https://www.cve.org/CVERecord?id=CVE-2024-36469)** : 🟠 **Severity: Medium** (Score: 2.3)
+- **[CVE-2024-36469](https://www.cve.org/CVERecord?id=CVE-2024-36469)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-42325](https://www.cve.org/CVERecord?id=CVE-2024-42325)** : 🟠 **Severity: Medium** (Score: 2.1)
 
-- **[CVE-2024-45699](https://www.cve.org/CVERecord?id=CVE-2024-45699)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-45699](https://www.cve.org/CVERecord?id=CVE-2024-45699)** : 🔥 **Severity: High** (Score: 7.5)
 
 - **[CVE-2024-45700](https://www.cve.org/CVERecord?id=CVE-2024-45700)** : 🟠 **Severity: Medium** (Score: 6)
 
