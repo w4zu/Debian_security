@@ -71,6 +71,29 @@
 
 ------------------------------
 
+**2025-05-01** - **[DSA-5912-1](https://security-tracker.debian.org/tracker/DSA-5912-1)** - thunderbird
+
+**CVE(s) :**
+- **[CVE-2025-2830](https://www.cve.org/CVERecord?id=CVE-2025-2830)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-3522](https://www.cve.org/CVERecord?id=CVE-2025-3522)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-3523](https://www.cve.org/CVERecord?id=CVE-2025-3523)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-4083](https://www.cve.org/CVERecord?id=CVE-2025-4083)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-4087](https://www.cve.org/CVERecord?id=CVE-2025-4087)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-4091](https://www.cve.org/CVERecord?id=CVE-2025-4091)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-4093](https://www.cve.org/CVERecord?id=CVE-2025-4093)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** thunderbird 1:128.10.0esr-1~deb12u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-04-30** - **[DLA-4148-1](https://security-tracker.debian.org/tracker/DLA-4148-1)** - vips
 
 **CVE(s) :**
@@ -469,7 +492,7 @@
 **CVE(s) :**
 - **[CVE-2023-48795](https://www.cve.org/CVERecord?id=CVE-2023-48795)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-26618](https://www.cve.org/CVERecord?id=CVE-2025-26618)** : 🔥 **Severity: High** (Score: 7)
+- **[CVE-2025-26618](https://www.cve.org/CVERecord?id=CVE-2025-26618)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-30211](https://www.cve.org/CVERecord?id=CVE-2025-30211)** : **Severity: Unknown** (Score: N/A)
 
@@ -486,7 +509,7 @@
 **CVE(s) :**
 - **[CVE-2023-48795](https://www.cve.org/CVERecord?id=CVE-2023-48795)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-26618](https://www.cve.org/CVERecord?id=CVE-2025-26618)** : 🔥 **Severity: High** (Score: 7)
+- **[CVE-2025-26618](https://www.cve.org/CVERecord?id=CVE-2025-26618)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-30211](https://www.cve.org/CVERecord?id=CVE-2025-30211)** : **Severity: Unknown** (Score: N/A)
 
@@ -501,7 +524,7 @@
 **2025-04-19** - **[DLA-4131-1](https://security-tracker.debian.org/tracker/DLA-4131-1)** - zabbix
 
 **CVE(s) :**
-- **[CVE-2024-36469](https://www.cve.org/CVERecord?id=CVE-2024-36469)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-36469](https://www.cve.org/CVERecord?id=CVE-2024-36469)** : 🟠 **Severity: Medium** (Score: 2.3)
 
 - **[CVE-2024-42325](https://www.cve.org/CVERecord?id=CVE-2024-42325)** : 🟠 **Severity: Medium** (Score: 2.1)
 
