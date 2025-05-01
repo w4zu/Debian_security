@@ -1,5 +1,39 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-05-01** - **[DLA-4149-1](https://security-tracker.debian.org/tracker/DLA-4149-1)** - nagvis
+
+**CVE(s) :**
+- **[CVE-2021-33178](https://www.cve.org/CVERecord?id=CVE-2021-33178)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2022-3979](https://www.cve.org/CVERecord?id=CVE-2022-3979)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2022-46945](https://www.cve.org/CVERecord?id=CVE-2022-46945)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2023-46287](https://www.cve.org/CVERecord?id=CVE-2023-46287)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-13722](https://www.cve.org/CVERecord?id=CVE-2024-13722)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-13723](https://www.cve.org/CVERecord?id=CVE-2024-13723)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-47093](https://www.cve.org/CVERecord?id=CVE-2024-47093)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** nagvis 1:1.9.25-2+deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2025-04-30** - **[DLA-4148-1](https://security-tracker.debian.org/tracker/DLA-4148-1)** - vips
+
+**CVE(s) :**
+- **[CVE-2025-29769](https://www.cve.org/CVERecord?id=CVE-2025-29769)** : 🔥 **Severity: High** (Score: 8.5)
+
+**Debian Version :** bullseye
+ **Package Version :** vips 8.10.5-2+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-04-30** - **[DLA-4146-1](https://security-tracker.debian.org/tracker/DLA-4146-1)** - libxml2
 
 **CVE(s) :**
@@ -51,6 +85,57 @@
 **Debian Version :** bullseye
  **Package Version :** glibc 2.31-13+deb11u12
  **Type :** DLA
+
+------------------------------
+
+**2025-04-30** - **[DSA-5911-1](https://security-tracker.debian.org/tracker/DSA-5911-1)** - request-tracker4
+
+**CVE(s) :**
+- **[CVE-2024-3262](https://www.cve.org/CVERecord?id=CVE-2024-3262)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-2545](https://www.cve.org/CVERecord?id=CVE-2025-2545)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-30087](https://www.cve.org/CVERecord?id=CVE-2025-30087)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** request-tracker4 4.4.6+dfsg-1.1+deb12u2
+ **Type :** DSA
+
+------------------------------
+
+**2025-04-30** - **[DSA-5910-1](https://security-tracker.debian.org/tracker/DSA-5910-1)** - firefox-esr
+
+**CVE(s) :**
+- **[CVE-2025-4083](https://www.cve.org/CVERecord?id=CVE-2025-4083)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-4087](https://www.cve.org/CVERecord?id=CVE-2025-4087)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-4091](https://www.cve.org/CVERecord?id=CVE-2025-4091)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-4093](https://www.cve.org/CVERecord?id=CVE-2025-4093)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** firefox-esr 128.10.0esr-1~deb12u1
+ **Type :** DSA
+
+------------------------------
+
+**2025-04-30** - **[DSA-5909-1](https://security-tracker.debian.org/tracker/DSA-5909-1)** - request-tracker5
+
+**CVE(s) :**
+- **[CVE-2024-3262](https://www.cve.org/CVERecord?id=CVE-2024-3262)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-2545](https://www.cve.org/CVERecord?id=CVE-2025-2545)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-30087](https://www.cve.org/CVERecord?id=CVE-2025-30087)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-31500](https://www.cve.org/CVERecord?id=CVE-2025-31500)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-31501](https://www.cve.org/CVERecord?id=CVE-2025-31501)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** request-tracker5 5.0.3+dfsg-3~deb12u3
+ **Type :** DSA
 
 ------------------------------
 
@@ -392,54 +477,6 @@
 **Debian Version :** bullseye
  **Package Version :** shadow 1:4.8.1-1+deb11u1
  **Type :** DLA
-
-------------------------------
-
-**2025-04-17** - **[DLA-4129-1](https://security-tracker.debian.org/tracker/DLA-4129-1)** - libapache2-mod-auth-openidc
-
-**CVE(s) :**
-- **[CVE-2025-31492](https://www.cve.org/CVERecord?id=CVE-2025-31492)** : 🔥 **Severity: High** (Score: 8.2)
-
-**Debian Version :** bullseye
- **Package Version :** libapache2-mod-auth-openidc 2.4.9.4-0+deb11u5
- **Type :** DLA
-
-------------------------------
-
-**2025-04-17** - **[DSA-5905-1](https://security-tracker.debian.org/tracker/DSA-5905-1)** - graphicsmagick
-
-**CVE(s) :**
-- **[CVE-2025-27795](https://www.cve.org/CVERecord?id=CVE-2025-27795)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-32460](https://www.cve.org/CVERecord?id=CVE-2025-32460)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** graphicsmagick 1.4+really1.3.40-4+deb12u1
- **Type :** DSA
-
-------------------------------
-
-**2025-04-17** - **[DSA-5904-1](https://security-tracker.debian.org/tracker/DSA-5904-1)** - libapache2-mod-auth-openidc
-
-**CVE(s) :**
-- **[CVE-2025-31492](https://www.cve.org/CVERecord?id=CVE-2025-31492)** : 🔥 **Severity: High** (Score: 8.2)
-
-**Debian Version :** bookworm
- **Package Version :** libapache2-mod-auth-openidc 2.4.12.3-2+deb12u3
- **Type :** DSA
-
-------------------------------
-
-**2025-04-17** - **[DSA-5903-1](https://security-tracker.debian.org/tracker/DSA-5903-1)** - chromium
-
-**CVE(s) :**
-- **[CVE-2025-3619](https://www.cve.org/CVERecord?id=CVE-2025-3619)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-3620](https://www.cve.org/CVERecord?id=CVE-2025-3620)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** chromium 135.0.7049.95-1~deb12u1
- **Type :** DSA
 
 ------------------------------
 
