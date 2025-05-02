@@ -14,7 +14,7 @@
 **2025-05-01** - **[DLA-4151-1](https://security-tracker.debian.org/tracker/DLA-4151-1)** - golang-github-gorilla-csrf
 
 **CVE(s) :**
-- **[CVE-2025-24358](https://www.cve.org/CVERecord?id=CVE-2025-24358)** : 🟠 **Severity: Medium** (Score: 5.4)
+- **[CVE-2025-24358](https://www.cve.org/CVERecord?id=CVE-2025-24358)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** golang-github-gorilla-csrf 1.6.2-2+deb11u1
@@ -300,7 +300,7 @@
 **2025-04-28** - **[DSA-5908-1](https://security-tracker.debian.org/tracker/DSA-5908-1)** - libreoffice
 
 **CVE(s) :**
-- **[CVE-2025-2866](https://www.cve.org/CVERecord?id=CVE-2025-2866)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-2866](https://www.cve.org/CVERecord?id=CVE-2025-2866)** : 🟠 **Severity: Medium** (Score: 2.4)
 
 **Debian Version :** bookworm
  **Package Version :** libreoffice 4:7.4.7-1+deb12u8
@@ -571,7 +571,7 @@
 
 - **[CVE-2024-42325](https://www.cve.org/CVERecord?id=CVE-2024-42325)** : 🟠 **Severity: Medium** (Score: 2.1)
 
-- **[CVE-2024-45699](https://www.cve.org/CVERecord?id=CVE-2024-45699)** : 🔥 **Severity: High** (Score: 7.5)
+- **[CVE-2024-45699](https://www.cve.org/CVERecord?id=CVE-2024-45699)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-45700](https://www.cve.org/CVERecord?id=CVE-2024-45700)** : 🟠 **Severity: Medium** (Score: 6)
 
