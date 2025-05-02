@@ -300,7 +300,7 @@
 **2025-04-28** - **[DSA-5908-1](https://security-tracker.debian.org/tracker/DSA-5908-1)** - libreoffice
 
 **CVE(s) :**
-- **[CVE-2025-2866](https://www.cve.org/CVERecord?id=CVE-2025-2866)** : 🟠 **Severity: Medium** (Score: 2.4)
+- **[CVE-2025-2866](https://www.cve.org/CVERecord?id=CVE-2025-2866)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** libreoffice 4:7.4.7-1+deb12u8
@@ -569,7 +569,7 @@
 **CVE(s) :**
 - **[CVE-2024-36469](https://www.cve.org/CVERecord?id=CVE-2024-36469)** : 🟠 **Severity: Medium** (Score: 2.3)
 
-- **[CVE-2024-42325](https://www.cve.org/CVERecord?id=CVE-2024-42325)** : 🟠 **Severity: Medium** (Score: 2.1)
+- **[CVE-2024-42325](https://www.cve.org/CVERecord?id=CVE-2024-42325)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-45699](https://www.cve.org/CVERecord?id=CVE-2024-45699)** : **Severity: Unknown** (Score: N/A)
 
