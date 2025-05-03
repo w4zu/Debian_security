@@ -3,7 +3,7 @@
 **2025-05-03** - **[DSA-5915-1](https://security-tracker.debian.org/tracker/DSA-5915-1)** - vips
 
 **CVE(s) :**
-- **[CVE-2025-29769](https://www.cve.org/CVERecord?id=CVE-2025-29769)** : 🔥 **Severity: High** (Score: 8.5)
+- **[CVE-2025-29769](https://www.cve.org/CVERecord?id=CVE-2025-29769)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** vips 8.14.1-3+deb12u2
@@ -151,7 +151,7 @@
 **2025-04-30** - **[DLA-4148-1](https://security-tracker.debian.org/tracker/DLA-4148-1)** - vips
 
 **CVE(s) :**
-- **[CVE-2025-29769](https://www.cve.org/CVERecord?id=CVE-2025-29769)** : 🔥 **Severity: High** (Score: 8.5)
+- **[CVE-2025-29769](https://www.cve.org/CVERecord?id=CVE-2025-29769)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** vips 8.10.5-2+deb11u1
