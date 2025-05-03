@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-05-03** - **[DSA-5915-1](https://security-tracker.debian.org/tracker/DSA-5915-1)** - vips
+
+**CVE(s) :**
+- **[CVE-2025-29769](https://www.cve.org/CVERecord?id=CVE-2025-29769)** : 🔥 **Severity: High** (Score: 8.5)
+
+**Debian Version :** bookworm
+ **Package Version :** vips 8.14.1-3+deb12u2
+ **Type :** DSA
+
+------------------------------
+
 **2025-05-02** - **[DLA-4152-1](https://security-tracker.debian.org/tracker/DLA-4152-1)** - nodejs
 
 **CVE(s) :**
