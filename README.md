@@ -25,7 +25,7 @@
 **2025-05-01** - **[DLA-4151-1](https://security-tracker.debian.org/tracker/DLA-4151-1)** - golang-github-gorilla-csrf
 
 **CVE(s) :**
-- **[CVE-2025-24358](https://www.cve.org/CVERecord?id=CVE-2025-24358)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-24358](https://www.cve.org/CVERecord?id=CVE-2025-24358)** : 🟠 **Severity: Medium** (Score: 5.4)
 
 **Debian Version :** bullseye
  **Package Version :** golang-github-gorilla-csrf 1.6.2-2+deb11u1
@@ -555,23 +555,6 @@
 **Debian Version :** bullseye
  **Package Version :** erlang 1:23.2.6+dfsg-1+deb11u2
  **Type :** DLA
-
-------------------------------
-
-**2025-04-20** - **[DSA-5906-1](https://security-tracker.debian.org/tracker/DSA-5906-1)** - erlang
-
-**CVE(s) :**
-- **[CVE-2023-48795](https://www.cve.org/CVERecord?id=CVE-2023-48795)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-26618](https://www.cve.org/CVERecord?id=CVE-2025-26618)** : 🔥 **Severity: High** (Score: 7)
-
-- **[CVE-2025-30211](https://www.cve.org/CVERecord?id=CVE-2025-30211)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-32433](https://www.cve.org/CVERecord?id=CVE-2025-32433)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** erlang 1:25.2.3+dfsg-1+deb12u1
- **Type :** DSA
 
 ------------------------------
 
