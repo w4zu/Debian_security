@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-05-04** - **[DLA-4153-1](https://security-tracker.debian.org/tracker/DLA-4153-1)** - containerd
+
+**CVE(s) :**
+- **[CVE-2024-40635](https://www.cve.org/CVERecord?id=CVE-2024-40635)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** containerd 1.4.13~ds1-1~deb11u5
+ **Type :** DLA
+
+------------------------------
+
 **2025-05-03** - **[DSA-5915-1](https://security-tracker.debian.org/tracker/DSA-5915-1)** - vips
 
 **CVE(s) :**
@@ -25,7 +36,7 @@
 **2025-05-01** - **[DLA-4151-1](https://security-tracker.debian.org/tracker/DLA-4151-1)** - golang-github-gorilla-csrf
 
 **CVE(s) :**
-- **[CVE-2025-24358](https://www.cve.org/CVERecord?id=CVE-2025-24358)** : 🟠 **Severity: Medium** (Score: 5.4)
+- **[CVE-2025-24358](https://www.cve.org/CVERecord?id=CVE-2025-24358)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** golang-github-gorilla-csrf 1.6.2-2+deb11u1
