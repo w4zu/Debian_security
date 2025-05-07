@@ -1,5 +1,29 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-05-07** - **[DLA-4154-1](https://security-tracker.debian.org/tracker/DLA-4154-1)** - mariadb-10.5
+
+**CVE(s) :**
+- **[CVE-2023-52969](https://www.cve.org/CVERecord?id=CVE-2023-52969)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2023-52970](https://www.cve.org/CVERecord?id=CVE-2023-52970)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** mariadb-10.5 1:10.5.28-0+deb11u2
+ **Type :** DLA
+
+------------------------------
+
+**2025-05-07** - **[DSA-5916-1](https://security-tracker.debian.org/tracker/DSA-5916-1)** - chromium
+
+**CVE(s) :**
+- **[CVE-2025-4372](https://www.cve.org/CVERecord?id=CVE-2025-4372)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** chromium 136.0.7103.92-1~deb12u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-05-04** - **[DLA-4153-1](https://security-tracker.debian.org/tracker/DLA-4153-1)** - containerd
 
 **CVE(s) :**
@@ -14,7 +38,7 @@
 **2025-05-03** - **[DSA-5915-1](https://security-tracker.debian.org/tracker/DSA-5915-1)** - vips
 
 **CVE(s) :**
-- **[CVE-2025-29769](https://www.cve.org/CVERecord?id=CVE-2025-29769)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-29769](https://www.cve.org/CVERecord?id=CVE-2025-29769)** : 🔥 **Severity: High** (Score: 8.5)
 
 **Debian Version :** bookworm
  **Package Version :** vips 8.14.1-3+deb12u2
@@ -162,7 +186,7 @@
 **2025-04-30** - **[DLA-4148-1](https://security-tracker.debian.org/tracker/DLA-4148-1)** - vips
 
 **CVE(s) :**
-- **[CVE-2025-29769](https://www.cve.org/CVERecord?id=CVE-2025-29769)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-29769](https://www.cve.org/CVERecord?id=CVE-2025-29769)** : 🔥 **Severity: High** (Score: 8.5)
 
 **Debian Version :** bullseye
  **Package Version :** vips 8.10.5-2+deb11u1
