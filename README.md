@@ -14,7 +14,7 @@
 **2025-05-03** - **[DSA-5915-1](https://security-tracker.debian.org/tracker/DSA-5915-1)** - vips
 
 **CVE(s) :**
-- **[CVE-2025-29769](https://www.cve.org/CVERecord?id=CVE-2025-29769)** : 🔥 **Severity: High** (Score: 8.5)
+- **[CVE-2025-29769](https://www.cve.org/CVERecord?id=CVE-2025-29769)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** vips 8.14.1-3+deb12u2
@@ -36,7 +36,7 @@
 **2025-05-01** - **[DLA-4151-1](https://security-tracker.debian.org/tracker/DLA-4151-1)** - golang-github-gorilla-csrf
 
 **CVE(s) :**
-- **[CVE-2025-24358](https://www.cve.org/CVERecord?id=CVE-2025-24358)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-24358](https://www.cve.org/CVERecord?id=CVE-2025-24358)** : 🟠 **Severity: Medium** (Score: 5.4)
 
 **Debian Version :** bullseye
  **Package Version :** golang-github-gorilla-csrf 1.6.2-2+deb11u1
@@ -162,7 +162,7 @@
 **2025-04-30** - **[DLA-4148-1](https://security-tracker.debian.org/tracker/DLA-4148-1)** - vips
 
 **CVE(s) :**
-- **[CVE-2025-29769](https://www.cve.org/CVERecord?id=CVE-2025-29769)** : 🔥 **Severity: High** (Score: 8.5)
+- **[CVE-2025-29769](https://www.cve.org/CVERecord?id=CVE-2025-29769)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** vips 8.10.5-2+deb11u1
@@ -511,17 +511,6 @@
 
 **Debian Version :** bullseye
  **Package Version :** openrazer 2.9.0+dfsg-1+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-04-23** - **[DLA-4135-1](https://security-tracker.debian.org/tracker/DLA-4135-1)** - haproxy
-
-**CVE(s) :**
-- **[CVE-2025-32464](https://www.cve.org/CVERecord?id=CVE-2025-32464)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** haproxy 2.2.9-2+deb11u7
  **Type :** DLA
 
 ------------------------------
