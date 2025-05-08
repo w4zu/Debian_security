@@ -1,5 +1,20 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-05-08** - **[DLA-4157-1](https://security-tracker.debian.org/tracker/DLA-4157-1)** - request-tracker4
+
+**CVE(s) :**
+- **[CVE-2024-3262](https://www.cve.org/CVERecord?id=CVE-2024-3262)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-2545](https://www.cve.org/CVERecord?id=CVE-2025-2545)** : 🟠 **Severity: Medium** (Score: 2.3)
+
+- **[CVE-2025-30087](https://www.cve.org/CVERecord?id=CVE-2025-30087)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** request-tracker4 4.4.4+dfsg-2+deb11u4
+ **Type :** DLA
+
+------------------------------
+
 **2025-05-08** - **[DLA-4156-1](https://security-tracker.debian.org/tracker/DLA-4156-1)** - openssh
 
 **CVE(s) :**
@@ -368,7 +383,7 @@
 **2025-04-28** - **[DSA-5908-1](https://security-tracker.debian.org/tracker/DSA-5908-1)** - libreoffice
 
 **CVE(s) :**
-- **[CVE-2025-2866](https://www.cve.org/CVERecord?id=CVE-2025-2866)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-2866](https://www.cve.org/CVERecord?id=CVE-2025-2866)** : 🟠 **Severity: Medium** (Score: 2.4)
 
 **Debian Version :** bookworm
  **Package Version :** libreoffice 4:7.4.7-1+deb12u8
