@@ -1,5 +1,27 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-05-08** - **[DLA-4156-1](https://security-tracker.debian.org/tracker/DLA-4156-1)** - openssh
+
+**CVE(s) :**
+- **[CVE-2025-32728](https://www.cve.org/CVERecord?id=CVE-2025-32728)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** openssh 1:8.4p1-5+deb11u5
+ **Type :** DLA
+
+------------------------------
+
+**2025-05-08** - **[DLA-4155-1](https://security-tracker.debian.org/tracker/DLA-4155-1)** - libapache2-mod-auth-openidc
+
+**CVE(s) :**
+- **[CVE-2025-3891](https://www.cve.org/CVERecord?id=CVE-2025-3891)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** libapache2-mod-auth-openidc 2.4.9.4-0+deb11u6
+ **Type :** DLA
+
+------------------------------
+
 **2025-05-07** - **[DLA-4154-1](https://security-tracker.debian.org/tracker/DLA-4154-1)** - mariadb-10.5
 
 **CVE(s) :**
@@ -346,7 +368,7 @@
 **2025-04-28** - **[DSA-5908-1](https://security-tracker.debian.org/tracker/DSA-5908-1)** - libreoffice
 
 **CVE(s) :**
-- **[CVE-2025-2866](https://www.cve.org/CVERecord?id=CVE-2025-2866)** : 🟠 **Severity: Medium** (Score: 2.4)
+- **[CVE-2025-2866](https://www.cve.org/CVERecord?id=CVE-2025-2866)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** libreoffice 4:7.4.7-1+deb12u8
