@@ -37,6 +37,17 @@
 
 ------------------------------
 
+**2025-05-08** - **[DSA-5917-1](https://security-tracker.debian.org/tracker/DSA-5917-1)** - libapache2-mod-auth-openidc
+
+**CVE(s) :**
+- **[CVE-2025-3891](https://www.cve.org/CVERecord?id=CVE-2025-3891)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** libapache2-mod-auth-openidc 2.4.12.3-2+deb12u4
+ **Type :** DSA
+
+------------------------------
+
 **2025-05-07** - **[DLA-4154-1](https://security-tracker.debian.org/tracker/DLA-4154-1)** - mariadb-10.5
 
 **CVE(s) :**
