@@ -437,7 +437,7 @@
 **2025-04-28** - **[DSA-5908-1](https://security-tracker.debian.org/tracker/DSA-5908-1)** - libreoffice
 
 **CVE(s) :**
-- **[CVE-2025-2866](https://www.cve.org/CVERecord?id=CVE-2025-2866)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-2866](https://www.cve.org/CVERecord?id=CVE-2025-2866)** : 🟠 **Severity: Medium** (Score: 2.4)
 
 **Debian Version :** bookworm
  **Package Version :** libreoffice 4:7.4.7-1+deb12u8
@@ -584,17 +584,6 @@
 **Debian Version :** bookworm
  **Package Version :** linux 6.1.135-1
  **Type :** DSA
-
-------------------------------
-
-**2025-04-26** - **[DLA-4139-1](https://security-tracker.debian.org/tracker/DLA-4139-1)** - imagemagick
-
-**CVE(s) :**
-- **[CVE-2025-43965](https://www.cve.org/CVERecord?id=CVE-2025-43965)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** imagemagick 8:6.9.11.60+dfsg-1.3+deb11u5
- **Type :** DLA
 
 ------------------------------
 
