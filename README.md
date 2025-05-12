@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-05-12** - **[DLA-4162-1](https://security-tracker.debian.org/tracker/DLA-4162-1)** - redis
+
+**CVE(s) :**
+- **[CVE-2025-21605](https://www.cve.org/CVERecord?id=CVE-2025-21605)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** redis 5:6.0.16-1+deb11u6
+ **Type :** DLA
+
+------------------------------
+
 **2025-05-09** - **[DLA-4161-1](https://security-tracker.debian.org/tracker/DLA-4161-1)** - simplesamlphp
 
 **CVE(s) :**
@@ -48,7 +59,7 @@
 **CVE(s) :**
 - **[CVE-2024-3262](https://www.cve.org/CVERecord?id=CVE-2024-3262)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-2545](https://www.cve.org/CVERecord?id=CVE-2025-2545)** : 🟠 **Severity: Medium** (Score: 2.3)
+- **[CVE-2025-2545](https://www.cve.org/CVERecord?id=CVE-2025-2545)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-30087](https://www.cve.org/CVERecord?id=CVE-2025-30087)** : **Severity: Unknown** (Score: N/A)
 
@@ -344,7 +355,7 @@
 **CVE(s) :**
 - **[CVE-2024-3262](https://www.cve.org/CVERecord?id=CVE-2024-3262)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-2545](https://www.cve.org/CVERecord?id=CVE-2025-2545)** : 🟠 **Severity: Medium** (Score: 2.3)
+- **[CVE-2025-2545](https://www.cve.org/CVERecord?id=CVE-2025-2545)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-30087](https://www.cve.org/CVERecord?id=CVE-2025-30087)** : **Severity: Unknown** (Score: N/A)
 
@@ -376,7 +387,7 @@
 **CVE(s) :**
 - **[CVE-2024-3262](https://www.cve.org/CVERecord?id=CVE-2024-3262)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-2545](https://www.cve.org/CVERecord?id=CVE-2025-2545)** : 🟠 **Severity: Medium** (Score: 2.3)
+- **[CVE-2025-2545](https://www.cve.org/CVERecord?id=CVE-2025-2545)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-30087](https://www.cve.org/CVERecord?id=CVE-2025-30087)** : **Severity: Unknown** (Score: N/A)
 
