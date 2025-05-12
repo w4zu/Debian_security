@@ -151,7 +151,7 @@
 **2025-05-01** - **[DLA-4151-1](https://security-tracker.debian.org/tracker/DLA-4151-1)** - golang-github-gorilla-csrf
 
 **CVE(s) :**
-- **[CVE-2025-24358](https://www.cve.org/CVERecord?id=CVE-2025-24358)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-24358](https://www.cve.org/CVERecord?id=CVE-2025-24358)** : 🟠 **Severity: Medium** (Score: 5.4)
 
 **Debian Version :** bullseye
  **Package Version :** golang-github-gorilla-csrf 1.6.2-2+deb11u1
