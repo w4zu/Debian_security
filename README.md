@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-05-13** - **[DSA-5918-1](https://security-tracker.debian.org/tracker/DSA-5918-1)** - varnish
+
+**CVE(s) :**
+- **[CVE-2025-47905](https://www.cve.org/CVERecord?id=CVE-2025-47905)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** varnish 7.1.1-2+deb12u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-05-12** - **[DLA-4164-1](https://security-tracker.debian.org/tracker/DLA-4164-1)** - libeconf
 
 **CVE(s) :**
