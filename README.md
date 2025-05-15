@@ -11,6 +11,17 @@
 
 ------------------------------
 
+**2025-05-14** - **[DSA-5919-1](https://security-tracker.debian.org/tracker/DSA-5919-1)** - open-vm-tools
+
+**CVE(s) :**
+- **[CVE-2025-22247](https://www.cve.org/CVERecord?id=CVE-2025-22247)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** open-vm-tools 2:12.2.0-1+deb12u3
+ **Type :** DSA
+
+------------------------------
+
 **2025-05-13** - **[DSA-5918-1](https://security-tracker.debian.org/tracker/DSA-5918-1)** - varnish
 
 **CVE(s) :**
@@ -107,7 +118,7 @@
 **CVE(s) :**
 - **[CVE-2024-3262](https://www.cve.org/CVERecord?id=CVE-2024-3262)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-2545](https://www.cve.org/CVERecord?id=CVE-2025-2545)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-2545](https://www.cve.org/CVERecord?id=CVE-2025-2545)** : 🟠 **Severity: Medium** (Score: 2.3)
 
 - **[CVE-2025-30087](https://www.cve.org/CVERecord?id=CVE-2025-30087)** : **Severity: Unknown** (Score: N/A)
 
@@ -204,132 +215,6 @@
 **Debian Version :** bullseye
  **Package Version :** nodejs 12.22.12~dfsg-1~deb11u7
  **Type :** DLA
-
-------------------------------
-
-**2025-05-01** - **[DLA-4151-1](https://security-tracker.debian.org/tracker/DLA-4151-1)** - golang-github-gorilla-csrf
-
-**CVE(s) :**
-- **[CVE-2025-24358](https://www.cve.org/CVERecord?id=CVE-2025-24358)** : 🟠 **Severity: Medium** (Score: 5.4)
-
-**Debian Version :** bullseye
- **Package Version :** golang-github-gorilla-csrf 1.6.2-2+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-05-01** - **[DLA-4150-1](https://security-tracker.debian.org/tracker/DLA-4150-1)** - u-boot
-
-**CVE(s) :**
-- **[CVE-2019-14196](https://www.cve.org/CVERecord?id=CVE-2019-14196)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2022-2347](https://www.cve.org/CVERecord?id=CVE-2022-2347)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2022-30552](https://www.cve.org/CVERecord?id=CVE-2022-30552)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2022-30767](https://www.cve.org/CVERecord?id=CVE-2022-30767)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2022-30790](https://www.cve.org/CVERecord?id=CVE-2022-30790)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2022-33103](https://www.cve.org/CVERecord?id=CVE-2022-33103)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2022-33967](https://www.cve.org/CVERecord?id=CVE-2022-33967)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2022-34835](https://www.cve.org/CVERecord?id=CVE-2022-34835)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-57254](https://www.cve.org/CVERecord?id=CVE-2024-57254)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-57255](https://www.cve.org/CVERecord?id=CVE-2024-57255)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-57256](https://www.cve.org/CVERecord?id=CVE-2024-57256)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-57257](https://www.cve.org/CVERecord?id=CVE-2024-57257)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-57258](https://www.cve.org/CVERecord?id=CVE-2024-57258)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-57259](https://www.cve.org/CVERecord?id=CVE-2024-57259)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** u-boot 2021.01+dfsg-5+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-05-01** - **[DLA-4149-1](https://security-tracker.debian.org/tracker/DLA-4149-1)** - nagvis
-
-**CVE(s) :**
-- **[CVE-2021-33178](https://www.cve.org/CVERecord?id=CVE-2021-33178)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2022-3979](https://www.cve.org/CVERecord?id=CVE-2022-3979)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2022-46945](https://www.cve.org/CVERecord?id=CVE-2022-46945)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2023-46287](https://www.cve.org/CVERecord?id=CVE-2023-46287)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-13722](https://www.cve.org/CVERecord?id=CVE-2024-13722)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-13723](https://www.cve.org/CVERecord?id=CVE-2024-13723)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-47093](https://www.cve.org/CVERecord?id=CVE-2024-47093)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** nagvis 1:1.9.25-2+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-05-01** - **[DSA-5914-1](https://security-tracker.debian.org/tracker/DSA-5914-1)** - chromium
-
-**CVE(s) :**
-- **[CVE-2025-4050](https://www.cve.org/CVERecord?id=CVE-2025-4050)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-4051](https://www.cve.org/CVERecord?id=CVE-2025-4051)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-4052](https://www.cve.org/CVERecord?id=CVE-2025-4052)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-4096](https://www.cve.org/CVERecord?id=CVE-2025-4096)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** chromium 136.0.7103.59-2~deb12u2
- **Type :** DSA
-
-------------------------------
-
-**2025-05-01** - **[DSA-5913-1](https://security-tracker.debian.org/tracker/DSA-5913-1)** - openjdk-17
-
-**CVE(s) :**
-- **[CVE-2025-21587](https://www.cve.org/CVERecord?id=CVE-2025-21587)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-30691](https://www.cve.org/CVERecord?id=CVE-2025-30691)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-30698](https://www.cve.org/CVERecord?id=CVE-2025-30698)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** openjdk-17 17.0.15+6-1~deb12u1
- **Type :** DSA
-
-------------------------------
-
-**2025-05-01** - **[DSA-5912-1](https://security-tracker.debian.org/tracker/DSA-5912-1)** - thunderbird
-
-**CVE(s) :**
-- **[CVE-2025-2830](https://www.cve.org/CVERecord?id=CVE-2025-2830)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-3522](https://www.cve.org/CVERecord?id=CVE-2025-3522)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-3523](https://www.cve.org/CVERecord?id=CVE-2025-3523)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-4083](https://www.cve.org/CVERecord?id=CVE-2025-4083)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-4087](https://www.cve.org/CVERecord?id=CVE-2025-4087)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-4091](https://www.cve.org/CVERecord?id=CVE-2025-4091)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-4093](https://www.cve.org/CVERecord?id=CVE-2025-4093)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** thunderbird 1:128.10.0esr-1~deb12u1
- **Type :** DSA
 
 ------------------------------
 
