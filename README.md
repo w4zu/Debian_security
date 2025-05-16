@@ -1,5 +1,20 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-05-16** - **[DLA-4166-1](https://security-tracker.debian.org/tracker/DLA-4166-1)** - xrdp
+
+**CVE(s) :**
+- **[CVE-2023-40184](https://www.cve.org/CVERecord?id=CVE-2023-40184)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2023-42822](https://www.cve.org/CVERecord?id=CVE-2023-42822)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-39917](https://www.cve.org/CVERecord?id=CVE-2024-39917)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** xrdp 0.9.21.1-1~deb11u2
+ **Type :** DLA
+
+------------------------------
+
 **2025-05-15** - **[DSA-5920-1](https://security-tracker.debian.org/tracker/DSA-5920-1)** - chromium
 
 **CVE(s) :**
