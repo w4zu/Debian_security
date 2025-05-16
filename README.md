@@ -38,6 +38,8 @@
 **2025-05-13** - **[DSA-5918-1](https://security-tracker.debian.org/tracker/DSA-5918-1)** - varnish
 
 **CVE(s) :**
+- **[CVE-2025-30346](https://www.cve.org/CVERecord?id=CVE-2025-30346)** : **Severity: Unknown** (Score: N/A)
+
 - **[CVE-2025-47905](https://www.cve.org/CVERecord?id=CVE-2025-47905)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
@@ -217,17 +219,6 @@
 **Debian Version :** bookworm
  **Package Version :** vips 8.14.1-3+deb12u2
  **Type :** DSA
-
-------------------------------
-
-**2025-05-02** - **[DLA-4152-1](https://security-tracker.debian.org/tracker/DLA-4152-1)** - nodejs
-
-**CVE(s) :**
-- **[CVE-2025-47153](https://www.cve.org/CVERecord?id=CVE-2025-47153)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** nodejs 12.22.12~dfsg-1~deb11u7
- **Type :** DLA
 
 ------------------------------
 
