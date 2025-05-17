@@ -1,5 +1,36 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-05-16** - **[DLA-4167-1](https://security-tracker.debian.org/tracker/DLA-4167-1)** - thunderbird
+
+**CVE(s) :**
+- **[CVE-2025-2830](https://www.cve.org/CVERecord?id=CVE-2025-2830)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-3522](https://www.cve.org/CVERecord?id=CVE-2025-3522)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-3523](https://www.cve.org/CVERecord?id=CVE-2025-3523)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-4083](https://www.cve.org/CVERecord?id=CVE-2025-4083)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-4087](https://www.cve.org/CVERecord?id=CVE-2025-4087)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-4091](https://www.cve.org/CVERecord?id=CVE-2025-4091)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-4093](https://www.cve.org/CVERecord?id=CVE-2025-4093)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-3875](https://www.cve.org/CVERecord?id=CVE-2025-3875)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-3877](https://www.cve.org/CVERecord?id=CVE-2025-3877)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-3909](https://www.cve.org/CVERecord?id=CVE-2025-3909)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-3932](https://www.cve.org/CVERecord?id=CVE-2025-3932)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** thunderbird 1:128.10.1esr-1~deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-05-16** - **[DLA-4166-1](https://security-tracker.debian.org/tracker/DLA-4166-1)** - xrdp
 
 **CVE(s) :**
@@ -12,6 +43,23 @@
 **Debian Version :** bullseye
  **Package Version :** xrdp 0.9.21.1-1~deb11u2
  **Type :** DLA
+
+------------------------------
+
+**2025-05-16** - **[DSA-5921-1](https://security-tracker.debian.org/tracker/DSA-5921-1)** - thunderbird
+
+**CVE(s) :**
+- **[CVE-2025-3875](https://www.cve.org/CVERecord?id=CVE-2025-3875)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-3877](https://www.cve.org/CVERecord?id=CVE-2025-3877)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-3909](https://www.cve.org/CVERecord?id=CVE-2025-3909)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-3932](https://www.cve.org/CVERecord?id=CVE-2025-3932)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** thunderbird 1:128.10.1esr-1~deb12u1
+ **Type :** DSA
 
 ------------------------------
 
@@ -223,17 +271,6 @@
 **Debian Version :** bullseye
  **Package Version :** containerd 1.4.13~ds1-1~deb11u5
  **Type :** DLA
-
-------------------------------
-
-**2025-05-03** - **[DSA-5915-1](https://security-tracker.debian.org/tracker/DSA-5915-1)** - vips
-
-**CVE(s) :**
-- **[CVE-2025-29769](https://www.cve.org/CVERecord?id=CVE-2025-29769)** : 🔥 **Severity: High** (Score: 8.5)
-
-**Debian Version :** bookworm
- **Package Version :** vips 8.14.1-3+deb12u2
- **Type :** DSA
 
 ------------------------------
 
