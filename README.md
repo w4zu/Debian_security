@@ -1,5 +1,20 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-05-17** - **[DLA-4168-1](https://security-tracker.debian.org/tracker/DLA-4168-1)** - openafs
+
+**CVE(s) :**
+- **[CVE-2024-10394](https://www.cve.org/CVERecord?id=CVE-2024-10394)** : 🔥 **Severity: High** (Score: 8.4)
+
+- **[CVE-2024-10396](https://www.cve.org/CVERecord?id=CVE-2024-10396)** : 🔥 **Severity: High** (Score: 7.1)
+
+- **[CVE-2024-10397](https://www.cve.org/CVERecord?id=CVE-2024-10397)** : 🔥 **Severity: High** (Score: 7.7)
+
+**Debian Version :** bullseye
+ **Package Version :** openafs 1.8.6-5+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-05-16** - **[DLA-4167-1](https://security-tracker.debian.org/tracker/DLA-4167-1)** - thunderbird
 
 **CVE(s) :**
