@@ -1,5 +1,29 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-05-18** - **[DSA-5923-1](https://security-tracker.debian.org/tracker/DSA-5923-1)** - net-tools
+
+**CVE(s) :**
+- **[CVE-2025-46836](https://www.cve.org/CVERecord?id=CVE-2025-46836)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** net-tools 2.10-0.1+deb12u1
+ **Type :** DSA
+
+------------------------------
+
+**2025-05-18** - **[DSA-5922-1](https://security-tracker.debian.org/tracker/DSA-5922-1)** - firefox-esr
+
+**CVE(s) :**
+- **[CVE-2025-4920](https://www.cve.org/CVERecord?id=CVE-2025-4920)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-4921](https://www.cve.org/CVERecord?id=CVE-2025-4921)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** firefox-esr 128.10.1esr-1~deb12u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-05-17** - **[DLA-4169-1](https://security-tracker.debian.org/tracker/DLA-4169-1)** - dropbear
 
 **CVE(s) :**
