@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-05-17** - **[DLA-4169-1](https://security-tracker.debian.org/tracker/DLA-4169-1)** - dropbear
+
+**CVE(s) :**
+- **[CVE-2025-47203](https://www.cve.org/CVERecord?id=CVE-2025-47203)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** dropbear 2020.81-3+deb11u3
+ **Type :** DLA
+
+------------------------------
+
 **2025-05-17** - **[DLA-4168-1](https://security-tracker.debian.org/tracker/DLA-4168-1)** - openafs
 
 **CVE(s) :**
@@ -275,17 +286,6 @@
 **Debian Version :** bookworm
  **Package Version :** chromium 136.0.7103.92-1~deb12u1
  **Type :** DSA
-
-------------------------------
-
-**2025-05-04** - **[DLA-4153-1](https://security-tracker.debian.org/tracker/DLA-4153-1)** - containerd
-
-**CVE(s) :**
-- **[CVE-2024-40635](https://www.cve.org/CVERecord?id=CVE-2024-40635)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** containerd 1.4.13~ds1-1~deb11u5
- **Type :** DLA
 
 ------------------------------
 
