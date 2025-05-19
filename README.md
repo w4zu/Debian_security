@@ -39,9 +39,9 @@
 **2025-05-18** - **[DSA-5922-1](https://security-tracker.debian.org/tracker/DSA-5922-1)** - firefox-esr
 
 **CVE(s) :**
-- **[CVE-2025-4920](https://www.cve.org/CVERecord?id=CVE-2025-4920)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-4918](https://www.cve.org/CVERecord?id=CVE-2025-4918)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-4921](https://www.cve.org/CVERecord?id=CVE-2025-4921)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-4919](https://www.cve.org/CVERecord?id=CVE-2025-4919)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** firefox-esr 128.10.1esr-1~deb12u1
