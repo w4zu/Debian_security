@@ -3,7 +3,7 @@
 **2025-05-18** - **[DLA-4170-1](https://security-tracker.debian.org/tracker/DLA-4170-1)** - intel-microcode
 
 **CVE(s) :**
-- **[CVE-2024-28956](https://www.cve.org/CVERecord?id=CVE-2024-28956)** : 🟠 **Severity: Medium** (Score: 5.7)
+- **[CVE-2024-28956](https://www.cve.org/CVERecord?id=CVE-2024-28956)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-43420](https://www.cve.org/CVERecord?id=CVE-2024-43420)** : 🟠 **Severity: Medium** (Score: 5.7)
 
