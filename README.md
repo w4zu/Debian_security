@@ -1,9 +1,60 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-05-20** - **[DLA-4174-1](https://security-tracker.debian.org/tracker/DLA-4174-1)** - openjdk-11
+
+**CVE(s) :**
+- **[CVE-2025-21587](https://www.cve.org/CVERecord?id=CVE-2025-21587)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-30691](https://www.cve.org/CVERecord?id=CVE-2025-30691)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-30698](https://www.cve.org/CVERecord?id=CVE-2025-30698)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** openjdk-11 11.0.27+6-1~deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2025-05-20** - **[DLA-4173-1](https://security-tracker.debian.org/tracker/DLA-4173-1)** - openjdk-17
+
+**CVE(s) :**
+- **[CVE-2025-21587](https://www.cve.org/CVERecord?id=CVE-2025-21587)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-30691](https://www.cve.org/CVERecord?id=CVE-2025-30691)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-30698](https://www.cve.org/CVERecord?id=CVE-2025-30698)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** openjdk-17 17.0.15+6-1~deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2025-05-20** - **[DLA-4172-1](https://security-tracker.debian.org/tracker/DLA-4172-1)** - firefox-esr
+
+**CVE(s) :**
+- **[CVE-2025-4083](https://www.cve.org/CVERecord?id=CVE-2025-4083)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-4087](https://www.cve.org/CVERecord?id=CVE-2025-4087)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-4091](https://www.cve.org/CVERecord?id=CVE-2025-4091)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-4093](https://www.cve.org/CVERecord?id=CVE-2025-4093)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-4918](https://www.cve.org/CVERecord?id=CVE-2025-4918)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-4919](https://www.cve.org/CVERecord?id=CVE-2025-4919)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** firefox-esr 128.10.1esr-1~deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-05-18** - **[DLA-4170-1](https://security-tracker.debian.org/tracker/DLA-4170-1)** - intel-microcode
 
 **CVE(s) :**
-- **[CVE-2024-28956](https://www.cve.org/CVERecord?id=CVE-2024-28956)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-28956](https://www.cve.org/CVERecord?id=CVE-2024-28956)** : 🟠 **Severity: Medium** (Score: 5.7)
 
 - **[CVE-2024-43420](https://www.cve.org/CVERecord?id=CVE-2024-43420)** : 🟠 **Severity: Medium** (Score: 5.7)
 
@@ -17,7 +68,7 @@
 
 - **[CVE-2025-20623](https://www.cve.org/CVERecord?id=CVE-2025-20623)** : 🟠 **Severity: Medium** (Score: 5.7)
 
-- **[CVE-2025-24495](https://www.cve.org/CVERecord?id=CVE-2025-24495)** : 🟠 **Severity: Medium** (Score: 6.8)
+- **[CVE-2025-24495](https://www.cve.org/CVERecord?id=CVE-2025-24495)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** intel-microcode 3.20250512.1~deb11u1
