@@ -1,5 +1,24 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-05-20** - **[DLA-4175-1](https://security-tracker.debian.org/tracker/DLA-4175-1)** - mongo-c-driver
+
+**CVE(s) :**
+- **[CVE-2021-32050](https://www.cve.org/CVERecord?id=CVE-2021-32050)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2023-0437](https://www.cve.org/CVERecord?id=CVE-2023-0437)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-6381](https://www.cve.org/CVERecord?id=CVE-2024-6381)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-6383](https://www.cve.org/CVERecord?id=CVE-2024-6383)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-0755](https://www.cve.org/CVERecord?id=CVE-2025-0755)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** mongo-c-driver 1.17.6-1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-05-20** - **[DLA-4174-1](https://security-tracker.debian.org/tracker/DLA-4174-1)** - openjdk-11
 
 **CVE(s) :**
@@ -54,9 +73,9 @@
 **2025-05-18** - **[DLA-4170-1](https://security-tracker.debian.org/tracker/DLA-4170-1)** - intel-microcode
 
 **CVE(s) :**
-- **[CVE-2024-28956](https://www.cve.org/CVERecord?id=CVE-2024-28956)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-28956](https://www.cve.org/CVERecord?id=CVE-2024-28956)** : 🟠 **Severity: Medium** (Score: 5.7)
 
-- **[CVE-2024-43420](https://www.cve.org/CVERecord?id=CVE-2024-43420)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-43420](https://www.cve.org/CVERecord?id=CVE-2024-43420)** : 🟠 **Severity: Medium** (Score: 5.7)
 
 - **[CVE-2024-45332](https://www.cve.org/CVERecord?id=CVE-2024-45332)** : 🟠 **Severity: Medium** (Score: 5.7)
 
@@ -361,30 +380,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** libapache2-mod-auth-openidc 2.4.12.3-2+deb12u4
- **Type :** DSA
-
-------------------------------
-
-**2025-05-07** - **[DLA-4154-1](https://security-tracker.debian.org/tracker/DLA-4154-1)** - mariadb-10.5
-
-**CVE(s) :**
-- **[CVE-2023-52969](https://www.cve.org/CVERecord?id=CVE-2023-52969)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2023-52970](https://www.cve.org/CVERecord?id=CVE-2023-52970)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** mariadb-10.5 1:10.5.28-0+deb11u2
- **Type :** DLA
-
-------------------------------
-
-**2025-05-07** - **[DSA-5916-1](https://security-tracker.debian.org/tracker/DSA-5916-1)** - chromium
-
-**CVE(s) :**
-- **[CVE-2025-4372](https://www.cve.org/CVERecord?id=CVE-2025-4372)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** chromium 136.0.7103.92-1~deb12u1
  **Type :** DSA
 
 ------------------------------
