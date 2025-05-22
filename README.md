@@ -133,7 +133,7 @@
 **2025-05-17** - **[DLA-4168-1](https://security-tracker.debian.org/tracker/DLA-4168-1)** - openafs
 
 **CVE(s) :**
-- **[CVE-2024-10394](https://www.cve.org/CVERecord?id=CVE-2024-10394)** : 🔥 **Severity: High** (Score: 8.4)
+- **[CVE-2024-10394](https://www.cve.org/CVERecord?id=CVE-2024-10394)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-10396](https://www.cve.org/CVERecord?id=CVE-2024-10396)** : 🔥 **Severity: High** (Score: 7.1)
 
@@ -333,54 +333,6 @@
 **Debian Version :** bullseye
  **Package Version :** postgresql-13 13.21-0+deb11u1
  **Type :** DLA
-
-------------------------------
-
-**2025-05-08** - **[DLA-4157-1](https://security-tracker.debian.org/tracker/DLA-4157-1)** - request-tracker4
-
-**CVE(s) :**
-- **[CVE-2024-3262](https://www.cve.org/CVERecord?id=CVE-2024-3262)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-2545](https://www.cve.org/CVERecord?id=CVE-2025-2545)** : 🟠 **Severity: Medium** (Score: 2.3)
-
-- **[CVE-2025-30087](https://www.cve.org/CVERecord?id=CVE-2025-30087)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** request-tracker4 4.4.4+dfsg-2+deb11u4
- **Type :** DLA
-
-------------------------------
-
-**2025-05-08** - **[DLA-4156-1](https://security-tracker.debian.org/tracker/DLA-4156-1)** - openssh
-
-**CVE(s) :**
-- **[CVE-2025-32728](https://www.cve.org/CVERecord?id=CVE-2025-32728)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** openssh 1:8.4p1-5+deb11u5
- **Type :** DLA
-
-------------------------------
-
-**2025-05-08** - **[DLA-4155-1](https://security-tracker.debian.org/tracker/DLA-4155-1)** - libapache2-mod-auth-openidc
-
-**CVE(s) :**
-- **[CVE-2025-3891](https://www.cve.org/CVERecord?id=CVE-2025-3891)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** libapache2-mod-auth-openidc 2.4.9.4-0+deb11u6
- **Type :** DLA
-
-------------------------------
-
-**2025-05-08** - **[DSA-5917-1](https://security-tracker.debian.org/tracker/DSA-5917-1)** - libapache2-mod-auth-openidc
-
-**CVE(s) :**
-- **[CVE-2025-3891](https://www.cve.org/CVERecord?id=CVE-2025-3891)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** libapache2-mod-auth-openidc 2.4.12.3-2+deb12u4
- **Type :** DSA
 
 ------------------------------
 
