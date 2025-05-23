@@ -81,11 +81,11 @@
 
 - **[CVE-2025-20012](https://www.cve.org/CVERecord?id=CVE-2025-20012)** : 🟠 **Severity: Medium** (Score: 4.1)
 
-- **[CVE-2025-20054](https://www.cve.org/CVERecord?id=CVE-2025-20054)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-20054](https://www.cve.org/CVERecord?id=CVE-2025-20054)** : 🟠 **Severity: Medium** (Score: 6.8)
 
 - **[CVE-2025-20103](https://www.cve.org/CVERecord?id=CVE-2025-20103)** : 🟠 **Severity: Medium** (Score: 5.7)
 
-- **[CVE-2025-20623](https://www.cve.org/CVERecord?id=CVE-2025-20623)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-20623](https://www.cve.org/CVERecord?id=CVE-2025-20623)** : 🟠 **Severity: Medium** (Score: 5.7)
 
 - **[CVE-2025-24495](https://www.cve.org/CVERecord?id=CVE-2025-24495)** : 🟠 **Severity: Medium** (Score: 6.8)
 
@@ -289,49 +289,6 @@
 
 **Debian Version :** bullseye
  **Package Version :** redis 5:6.0.16-1+deb11u6
- **Type :** DLA
-
-------------------------------
-
-**2025-05-09** - **[DLA-4161-1](https://security-tracker.debian.org/tracker/DLA-4161-1)** - simplesamlphp
-
-**CVE(s) :**
-- **[CVE-2025-27773](https://www.cve.org/CVERecord?id=CVE-2025-27773)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** simplesamlphp 1.19.0-1+deb11u2
- **Type :** DLA
-
-------------------------------
-
-**2025-05-09** - **[DLA-4160-1](https://security-tracker.debian.org/tracker/DLA-4160-1)** - libbson-xs-perl
-
-**CVE(s) :**
-- **[CVE-2017-14227](https://www.cve.org/CVERecord?id=CVE-2017-14227)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2018-16790](https://www.cve.org/CVERecord?id=CVE-2018-16790)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2023-0437](https://www.cve.org/CVERecord?id=CVE-2023-0437)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-6381](https://www.cve.org/CVERecord?id=CVE-2024-6381)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-6383](https://www.cve.org/CVERecord?id=CVE-2024-6383)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-0755](https://www.cve.org/CVERecord?id=CVE-2025-0755)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** libbson-xs-perl 0.8.4-1+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-05-09** - **[DLA-4159-1](https://security-tracker.debian.org/tracker/DLA-4159-1)** - postgresql-13
-
-**CVE(s) :**
-- **[CVE-2025-4207](https://www.cve.org/CVERecord?id=CVE-2025-4207)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** postgresql-13 13.21-0+deb11u1
  **Type :** DLA
 
 ------------------------------
