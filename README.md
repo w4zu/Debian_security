@@ -1,5 +1,30 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-05-23** - **[DSA-5924-1](https://security-tracker.debian.org/tracker/DSA-5924-1)** - intel-microcode
+
+**CVE(s) :**
+- **[CVE-2024-28956](https://www.cve.org/CVERecord?id=CVE-2024-28956)** : 🟠 **Severity: Medium** (Score: 5.7)
+
+- **[CVE-2024-43420](https://www.cve.org/CVERecord?id=CVE-2024-43420)** : 🟠 **Severity: Medium** (Score: 5.7)
+
+- **[CVE-2024-45332](https://www.cve.org/CVERecord?id=CVE-2024-45332)** : 🟠 **Severity: Medium** (Score: 5.7)
+
+- **[CVE-2025-20012](https://www.cve.org/CVERecord?id=CVE-2025-20012)** : 🟠 **Severity: Medium** (Score: 4.1)
+
+- **[CVE-2025-20054](https://www.cve.org/CVERecord?id=CVE-2025-20054)** : 🟠 **Severity: Medium** (Score: 6.8)
+
+- **[CVE-2025-20103](https://www.cve.org/CVERecord?id=CVE-2025-20103)** : 🟠 **Severity: Medium** (Score: 5.7)
+
+- **[CVE-2025-20623](https://www.cve.org/CVERecord?id=CVE-2025-20623)** : 🟠 **Severity: Medium** (Score: 5.7)
+
+- **[CVE-2025-24495](https://www.cve.org/CVERecord?id=CVE-2025-24495)** : 🟠 **Severity: Medium** (Score: 6.8)
+
+**Debian Version :** bookworm
+ **Package Version :** intel-microcode 3.20250512.1~deb12u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-05-20** - **[DLA-4175-1](https://security-tracker.debian.org/tracker/DLA-4175-1)** - mongo-c-driver
 
 **CVE(s) :**
@@ -85,7 +110,7 @@
 
 - **[CVE-2025-20103](https://www.cve.org/CVERecord?id=CVE-2025-20103)** : 🟠 **Severity: Medium** (Score: 5.7)
 
-- **[CVE-2025-20623](https://www.cve.org/CVERecord?id=CVE-2025-20623)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-20623](https://www.cve.org/CVERecord?id=CVE-2025-20623)** : 🟠 **Severity: Medium** (Score: 5.7)
 
 - **[CVE-2025-24495](https://www.cve.org/CVERecord?id=CVE-2025-24495)** : 🟠 **Severity: Medium** (Score: 6.8)
 
