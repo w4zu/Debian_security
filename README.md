@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-05-24** - **[DLA-4176-1](https://security-tracker.debian.org/tracker/DLA-4176-1)** - openssl
+
+**CVE(s) :**
+- **[CVE-2024-13176](https://www.cve.org/CVERecord?id=CVE-2024-13176)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** openssl 1.1.1w-0+deb11u3
+ **Type :** DLA
+
+------------------------------
+
 **2025-05-24** - **[DSA-5925-1](https://security-tracker.debian.org/tracker/DSA-5925-1)** - linux
 
 **CVE(s) :**
