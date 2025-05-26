@@ -653,7 +653,7 @@
 
 - **[CVE-2025-20623](https://www.cve.org/CVERecord?id=CVE-2025-20623)** : 🟠 **Severity: Medium** (Score: 5.7)
 
-- **[CVE-2025-24495](https://www.cve.org/CVERecord?id=CVE-2025-24495)** : 🟠 **Severity: Medium** (Score: 6.8)
+- **[CVE-2025-24495](https://www.cve.org/CVERecord?id=CVE-2025-24495)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** intel-microcode 3.20250512.1~deb12u1
@@ -748,7 +748,7 @@
 
 - **[CVE-2025-20623](https://www.cve.org/CVERecord?id=CVE-2025-20623)** : 🟠 **Severity: Medium** (Score: 5.7)
 
-- **[CVE-2025-24495](https://www.cve.org/CVERecord?id=CVE-2025-24495)** : 🟠 **Severity: Medium** (Score: 6.8)
+- **[CVE-2025-24495](https://www.cve.org/CVERecord?id=CVE-2025-24495)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** intel-microcode 3.20250512.1~deb11u1
@@ -796,9 +796,9 @@
 **CVE(s) :**
 - **[CVE-2024-10394](https://www.cve.org/CVERecord?id=CVE-2024-10394)** : 🔥 **Severity: High** (Score: 8.4)
 
-- **[CVE-2024-10396](https://www.cve.org/CVERecord?id=CVE-2024-10396)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-10396](https://www.cve.org/CVERecord?id=CVE-2024-10396)** : 🔥 **Severity: High** (Score: 7.1)
 
-- **[CVE-2024-10397](https://www.cve.org/CVERecord?id=CVE-2024-10397)** : 🔥 **Severity: High** (Score: 7.7)
+- **[CVE-2024-10397](https://www.cve.org/CVERecord?id=CVE-2024-10397)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** openafs 1.8.6-5+deb11u1
@@ -914,43 +914,6 @@
 **Debian Version :** bookworm
  **Package Version :** varnish 7.1.1-2+deb12u1
  **Type :** DSA
-
-------------------------------
-
-**2025-05-12** - **[DLA-4164-1](https://security-tracker.debian.org/tracker/DLA-4164-1)** - libeconf
-
-**CVE(s) :**
-- **[CVE-2023-22652](https://www.cve.org/CVERecord?id=CVE-2023-22652)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** libeconf 0.3.8-1+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-05-12** - **[DLA-4163-1](https://security-tracker.debian.org/tracker/DLA-4163-1)** - rubygems
-
-**CVE(s) :**
-- **[CVE-2021-43809](https://www.cve.org/CVERecord?id=CVE-2021-43809)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2023-28755](https://www.cve.org/CVERecord?id=CVE-2023-28755)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-27221](https://www.cve.org/CVERecord?id=CVE-2025-27221)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** rubygems 3.2.5-2+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-05-12** - **[DLA-4162-1](https://security-tracker.debian.org/tracker/DLA-4162-1)** - redis
-
-**CVE(s) :**
-- **[CVE-2025-21605](https://www.cve.org/CVERecord?id=CVE-2025-21605)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** redis 5:6.0.16-1+deb11u6
- **Type :** DLA
 
 ------------------------------
 
