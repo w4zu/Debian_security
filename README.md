@@ -794,7 +794,7 @@
 **2025-05-17** - **[DLA-4168-1](https://security-tracker.debian.org/tracker/DLA-4168-1)** - openafs
 
 **CVE(s) :**
-- **[CVE-2024-10394](https://www.cve.org/CVERecord?id=CVE-2024-10394)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-10394](https://www.cve.org/CVERecord?id=CVE-2024-10394)** : 🔥 **Severity: High** (Score: 8.4)
 
 - **[CVE-2024-10396](https://www.cve.org/CVERecord?id=CVE-2024-10396)** : 🔥 **Severity: High** (Score: 7.1)
 
