@@ -643,7 +643,7 @@
 
 - **[CVE-2024-45332](https://www.cve.org/CVERecord?id=CVE-2024-45332)** : 🟠 **Severity: Medium** (Score: 5.7)
 
-- **[CVE-2025-20012](https://www.cve.org/CVERecord?id=CVE-2025-20012)** : 🟠 **Severity: Medium** (Score: 4.1)
+- **[CVE-2025-20012](https://www.cve.org/CVERecord?id=CVE-2025-20012)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-20054](https://www.cve.org/CVERecord?id=CVE-2025-20054)** : 🟠 **Severity: Medium** (Score: 6.8)
 
@@ -651,7 +651,7 @@
 
 - **[CVE-2025-20623](https://www.cve.org/CVERecord?id=CVE-2025-20623)** : 🟠 **Severity: Medium** (Score: 5.7)
 
-- **[CVE-2025-24495](https://www.cve.org/CVERecord?id=CVE-2025-24495)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-24495](https://www.cve.org/CVERecord?id=CVE-2025-24495)** : 🟠 **Severity: Medium** (Score: 6.8)
 
 **Debian Version :** bookworm
  **Package Version :** intel-microcode 3.20250512.1~deb12u1
@@ -738,7 +738,7 @@
 
 - **[CVE-2024-45332](https://www.cve.org/CVERecord?id=CVE-2024-45332)** : 🟠 **Severity: Medium** (Score: 5.7)
 
-- **[CVE-2025-20012](https://www.cve.org/CVERecord?id=CVE-2025-20012)** : 🟠 **Severity: Medium** (Score: 4.1)
+- **[CVE-2025-20012](https://www.cve.org/CVERecord?id=CVE-2025-20012)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-20054](https://www.cve.org/CVERecord?id=CVE-2025-20054)** : 🟠 **Severity: Medium** (Score: 6.8)
 
@@ -746,7 +746,7 @@
 
 - **[CVE-2025-20623](https://www.cve.org/CVERecord?id=CVE-2025-20623)** : 🟠 **Severity: Medium** (Score: 5.7)
 
-- **[CVE-2025-24495](https://www.cve.org/CVERecord?id=CVE-2025-24495)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-24495](https://www.cve.org/CVERecord?id=CVE-2025-24495)** : 🟠 **Severity: Medium** (Score: 6.8)
 
 **Debian Version :** bullseye
  **Package Version :** intel-microcode 3.20250512.1~deb11u1
@@ -794,9 +794,9 @@
 **CVE(s) :**
 - **[CVE-2024-10394](https://www.cve.org/CVERecord?id=CVE-2024-10394)** : 🔥 **Severity: High** (Score: 8.4)
 
-- **[CVE-2024-10396](https://www.cve.org/CVERecord?id=CVE-2024-10396)** : 🔥 **Severity: High** (Score: 7.1)
+- **[CVE-2024-10396](https://www.cve.org/CVERecord?id=CVE-2024-10396)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2024-10397](https://www.cve.org/CVERecord?id=CVE-2024-10397)** : 🔥 **Severity: High** (Score: 7.7)
+- **[CVE-2024-10397](https://www.cve.org/CVERecord?id=CVE-2024-10397)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** openafs 1.8.6-5+deb11u1
@@ -898,19 +898,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** open-vm-tools 2:12.2.0-1+deb12u3
- **Type :** DSA
-
-------------------------------
-
-**2025-05-13** - **[DSA-5918-1](https://security-tracker.debian.org/tracker/DSA-5918-1)** - varnish
-
-**CVE(s) :**
-- **[CVE-2025-30346](https://www.cve.org/CVERecord?id=CVE-2025-30346)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-47905](https://www.cve.org/CVERecord?id=CVE-2025-47905)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** varnish 7.1.1-2+deb12u1
  **Type :** DSA
 
 ------------------------------
