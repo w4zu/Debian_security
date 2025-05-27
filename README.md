@@ -1,5 +1,29 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-05-27** - **[DLA-4181-1](https://security-tracker.debian.org/tracker/DLA-4181-1)** - glibc
+
+**CVE(s) :**
+- **[CVE-2025-4802](https://www.cve.org/CVERecord?id=CVE-2025-4802)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** glibc 2.31-13+deb11u13
+ **Type :** DLA
+
+------------------------------
+
+**2025-05-27** - **[DLA-4180-1](https://security-tracker.debian.org/tracker/DLA-4180-1)** - pgbouncer
+
+**CVE(s) :**
+- **[CVE-2021-3935](https://www.cve.org/CVERecord?id=CVE-2021-3935)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-2291](https://www.cve.org/CVERecord?id=CVE-2025-2291)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** pgbouncer 1.15.0-1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-05-26** - **[DLA-4179-1](https://security-tracker.debian.org/tracker/DLA-4179-1)** - libavif
 
 **CVE(s) :**
@@ -805,7 +829,7 @@
 **2025-05-17** - **[DLA-4168-1](https://security-tracker.debian.org/tracker/DLA-4168-1)** - openafs
 
 **CVE(s) :**
-- **[CVE-2024-10394](https://www.cve.org/CVERecord?id=CVE-2024-10394)** : 🔥 **Severity: High** (Score: 8.4)
+- **[CVE-2024-10394](https://www.cve.org/CVERecord?id=CVE-2024-10394)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-10396](https://www.cve.org/CVERecord?id=CVE-2024-10396)** : 🔥 **Severity: High** (Score: 7.1)
 
