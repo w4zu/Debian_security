@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-05-28** - **[DLA-4182-1](https://security-tracker.debian.org/tracker/DLA-4182-1)** - syslog-ng
+
+**CVE(s) :**
+- **[CVE-2024-47619](https://www.cve.org/CVERecord?id=CVE-2024-47619)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** syslog-ng 3.28.1-2+deb11u2
+ **Type :** DLA
+
+------------------------------
+
 **2025-05-27** - **[DLA-4181-1](https://security-tracker.debian.org/tracker/DLA-4181-1)** - glibc
 
 **CVE(s) :**
@@ -563,7 +574,7 @@
 
 - **[CVE-2024-26807](https://www.cve.org/CVERecord?id=CVE-2024-26807)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2024-28956](https://www.cve.org/CVERecord?id=CVE-2024-28956)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-28956](https://www.cve.org/CVERecord?id=CVE-2024-28956)** : 🟠 **Severity: Medium** (Score: 5.7)
 
 - **[CVE-2024-35790](https://www.cve.org/CVERecord?id=CVE-2024-35790)** : **Severity: Unknown** (Score: N/A)
 
@@ -674,9 +685,9 @@
 **2025-05-23** - **[DSA-5924-1](https://security-tracker.debian.org/tracker/DSA-5924-1)** - intel-microcode
 
 **CVE(s) :**
-- **[CVE-2024-28956](https://www.cve.org/CVERecord?id=CVE-2024-28956)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-28956](https://www.cve.org/CVERecord?id=CVE-2024-28956)** : 🟠 **Severity: Medium** (Score: 5.7)
 
-- **[CVE-2024-43420](https://www.cve.org/CVERecord?id=CVE-2024-43420)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-43420](https://www.cve.org/CVERecord?id=CVE-2024-43420)** : 🟠 **Severity: Medium** (Score: 5.7)
 
 - **[CVE-2024-45332](https://www.cve.org/CVERecord?id=CVE-2024-45332)** : 🟠 **Severity: Medium** (Score: 5.7)
 
@@ -769,9 +780,9 @@
 **2025-05-18** - **[DLA-4170-1](https://security-tracker.debian.org/tracker/DLA-4170-1)** - intel-microcode
 
 **CVE(s) :**
-- **[CVE-2024-28956](https://www.cve.org/CVERecord?id=CVE-2024-28956)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-28956](https://www.cve.org/CVERecord?id=CVE-2024-28956)** : 🟠 **Severity: Medium** (Score: 5.7)
 
-- **[CVE-2024-43420](https://www.cve.org/CVERecord?id=CVE-2024-43420)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-43420](https://www.cve.org/CVERecord?id=CVE-2024-43420)** : 🟠 **Severity: Medium** (Score: 5.7)
 
 - **[CVE-2024-45332](https://www.cve.org/CVERecord?id=CVE-2024-45332)** : 🟠 **Severity: Medium** (Score: 5.7)
 
