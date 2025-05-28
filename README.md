@@ -917,25 +917,3 @@
 
 ------------------------------
 
-**2025-05-14** - **[DLA-4165-1](https://security-tracker.debian.org/tracker/DLA-4165-1)** - open-vm-tools
-
-**CVE(s) :**
-- **[CVE-2025-22247](https://www.cve.org/CVERecord?id=CVE-2025-22247)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** open-vm-tools 2:11.2.5-2+deb11u4
- **Type :** DLA
-
-------------------------------
-
-**2025-05-14** - **[DSA-5919-1](https://security-tracker.debian.org/tracker/DSA-5919-1)** - open-vm-tools
-
-**CVE(s) :**
-- **[CVE-2025-22247](https://www.cve.org/CVERecord?id=CVE-2025-22247)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** open-vm-tools 2:12.2.0-1+deb12u3
- **Type :** DSA
-
-------------------------------
-
