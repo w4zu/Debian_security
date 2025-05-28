@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-05-28** - **[DLA-4183-1](https://security-tracker.debian.org/tracker/DLA-4183-1)** - setuptools
+
+**CVE(s) :**
+- **[CVE-2025-47273](https://www.cve.org/CVERecord?id=CVE-2025-47273)** : 🔥 **Severity: High** (Score: 7.7)
+
+**Debian Version :** bullseye
+ **Package Version :** setuptools 52.0.0-4+deb11u2
+ **Type :** DLA
+
+------------------------------
+
 **2025-05-28** - **[DLA-4182-1](https://security-tracker.debian.org/tracker/DLA-4182-1)** - syslog-ng
 
 **CVE(s) :**
@@ -8,6 +19,38 @@
 **Debian Version :** bullseye
  **Package Version :** syslog-ng 3.28.1-2+deb11u2
  **Type :** DLA
+
+------------------------------
+
+**2025-05-28** - **[DSA-5927-1](https://security-tracker.debian.org/tracker/DSA-5927-1)** - yelp
+
+**CVE(s) :**
+- **[CVE-2025-3155](https://www.cve.org/CVERecord?id=CVE-2025-3155)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** yelp 42.2-1+deb12u1 	[bookworm] - yelp-xsl 42.1-2+deb12u1
+ **Type :** DSA
+
+------------------------------
+
+**2025-05-28** - **[DSA-5926-1](https://security-tracker.debian.org/tracker/DSA-5926-1)** - firefox-esr
+
+**CVE(s) :**
+- **[CVE-2025-5263](https://www.cve.org/CVERecord?id=CVE-2025-5263)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-5264](https://www.cve.org/CVERecord?id=CVE-2025-5264)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-5266](https://www.cve.org/CVERecord?id=CVE-2025-5266)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-5267](https://www.cve.org/CVERecord?id=CVE-2025-5267)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-5268](https://www.cve.org/CVERecord?id=CVE-2025-5268)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-5269](https://www.cve.org/CVERecord?id=CVE-2025-5269)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** firefox-esr 128.11.0esr-1~deb12u1
+ **Type :** DSA
 
 ------------------------------
 
@@ -699,7 +742,7 @@
 
 - **[CVE-2025-20623](https://www.cve.org/CVERecord?id=CVE-2025-20623)** : 🟠 **Severity: Medium** (Score: 5.7)
 
-- **[CVE-2025-24495](https://www.cve.org/CVERecord?id=CVE-2025-24495)** : 🟠 **Severity: Medium** (Score: 6.8)
+- **[CVE-2025-24495](https://www.cve.org/CVERecord?id=CVE-2025-24495)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** intel-microcode 3.20250512.1~deb12u1
@@ -794,7 +837,7 @@
 
 - **[CVE-2025-20623](https://www.cve.org/CVERecord?id=CVE-2025-20623)** : 🟠 **Severity: Medium** (Score: 5.7)
 
-- **[CVE-2025-24495](https://www.cve.org/CVERecord?id=CVE-2025-24495)** : 🟠 **Severity: Medium** (Score: 6.8)
+- **[CVE-2025-24495](https://www.cve.org/CVERecord?id=CVE-2025-24495)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** intel-microcode 3.20250512.1~deb11u1
@@ -842,7 +885,7 @@
 **CVE(s) :**
 - **[CVE-2024-10394](https://www.cve.org/CVERecord?id=CVE-2024-10394)** : 🔥 **Severity: High** (Score: 8.4)
 
-- **[CVE-2024-10396](https://www.cve.org/CVERecord?id=CVE-2024-10396)** : 🔥 **Severity: High** (Score: 7.1)
+- **[CVE-2024-10396](https://www.cve.org/CVERecord?id=CVE-2024-10396)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-10397](https://www.cve.org/CVERecord?id=CVE-2024-10397)** : 🔥 **Severity: High** (Score: 7.7)
 
