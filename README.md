@@ -583,7 +583,7 @@
 **2025-05-29** - **[DLA-4189-1](https://security-tracker.debian.org/tracker/DLA-4189-1)** - webpy
 
 **CVE(s) :**
-- **[CVE-2025-3818](https://www.cve.org/CVERecord?id=CVE-2025-3818)** : 🟠 **Severity: Medium** (Score: 5.3)
+- **[CVE-2025-3818](https://www.cve.org/CVERecord?id=CVE-2025-3818)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** webpy 1:0.61-1+deb11u1
@@ -1593,9 +1593,9 @@
 **CVE(s) :**
 - **[CVE-2024-10394](https://www.cve.org/CVERecord?id=CVE-2024-10394)** : 🔥 **Severity: High** (Score: 8.4)
 
-- **[CVE-2024-10396](https://www.cve.org/CVERecord?id=CVE-2024-10396)** : 🔥 **Severity: High** (Score: 7.1)
+- **[CVE-2024-10396](https://www.cve.org/CVERecord?id=CVE-2024-10396)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2024-10397](https://www.cve.org/CVERecord?id=CVE-2024-10397)** : 🔥 **Severity: High** (Score: 7.7)
+- **[CVE-2024-10397](https://www.cve.org/CVERecord?id=CVE-2024-10397)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** openafs 1.8.6-5+deb11u1
