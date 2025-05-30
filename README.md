@@ -1,5 +1,32 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-05-30** - **[DLA-4194-1](https://security-tracker.debian.org/tracker/DLA-4194-1)** - thunderbird
+
+**CVE(s) :**
+- **[CVE-2025-4918](https://www.cve.org/CVERecord?id=CVE-2025-4918)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-4919](https://www.cve.org/CVERecord?id=CVE-2025-4919)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-5263](https://www.cve.org/CVERecord?id=CVE-2025-5263)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-5264](https://www.cve.org/CVERecord?id=CVE-2025-5264)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-5266](https://www.cve.org/CVERecord?id=CVE-2025-5266)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-5267](https://www.cve.org/CVERecord?id=CVE-2025-5267)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-5268](https://www.cve.org/CVERecord?id=CVE-2025-5268)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-5269](https://www.cve.org/CVERecord?id=CVE-2025-5269)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-5283](https://www.cve.org/CVERecord?id=CVE-2025-5283)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** thunderbird 1:128.11.0esr-1~deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-05-30** - **[DLA-4193-1](https://security-tracker.debian.org/tracker/DLA-4193-1)** - linux-6.1
 
 **CVE(s) :**
@@ -583,7 +610,7 @@
 **2025-05-29** - **[DLA-4189-1](https://security-tracker.debian.org/tracker/DLA-4189-1)** - webpy
 
 **CVE(s) :**
-- **[CVE-2025-3818](https://www.cve.org/CVERecord?id=CVE-2025-3818)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-3818](https://www.cve.org/CVERecord?id=CVE-2025-3818)** : 🟠 **Severity: Medium** (Score: 5.3)
 
 **Debian Version :** bullseye
  **Package Version :** webpy 1:0.61-1+deb11u1
@@ -1593,9 +1620,9 @@
 **CVE(s) :**
 - **[CVE-2024-10394](https://www.cve.org/CVERecord?id=CVE-2024-10394)** : 🔥 **Severity: High** (Score: 8.4)
 
-- **[CVE-2024-10396](https://www.cve.org/CVERecord?id=CVE-2024-10396)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-10396](https://www.cve.org/CVERecord?id=CVE-2024-10396)** : 🔥 **Severity: High** (Score: 7.1)
 
-- **[CVE-2024-10397](https://www.cve.org/CVERecord?id=CVE-2024-10397)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-10397](https://www.cve.org/CVERecord?id=CVE-2024-10397)** : 🔥 **Severity: High** (Score: 7.7)
 
 **Debian Version :** bullseye
  **Package Version :** openafs 1.8.6-5+deb11u1
