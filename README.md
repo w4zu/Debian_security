@@ -1,5 +1,27 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-06-01** - **[DLA-4204-1](https://security-tracker.debian.org/tracker/DLA-4204-1)** - twitter-bootstrap3
+
+**CVE(s) :**
+- **[CVE-2025-1647](https://www.cve.org/CVERecord?id=CVE-2025-1647)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** twitter-bootstrap3 3.4.1+dfsg-2+deb11u2
+ **Type :** DLA
+
+------------------------------
+
+**2025-06-01** - **[DLA-4203-1](https://security-tracker.debian.org/tracker/DLA-4203-1)** - kitty
+
+**CVE(s) :**
+- **[CVE-2022-41322](https://www.cve.org/CVERecord?id=CVE-2022-41322)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** kitty 0.19.3-1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-05-31** - **[DLA-4202-1](https://security-tracker.debian.org/tracker/DLA-4202-1)** - net-tools
 
 **CVE(s) :**
