@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-06-01** - **[DLA-4205-1](https://security-tracker.debian.org/tracker/DLA-4205-1)** - libreoffice
+
+**CVE(s) :**
+- **[CVE-2025-1080](https://www.cve.org/CVERecord?id=CVE-2025-1080)** : 🔥 **Severity: High** (Score: 7.2)
+
+- **[CVE-2025-2866](https://www.cve.org/CVERecord?id=CVE-2025-2866)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** libreoffice 1:7.0.4-4+deb11u13
+ **Type :** DLA
+
+------------------------------
+
 **2025-06-01** - **[DLA-4204-1](https://security-tracker.debian.org/tracker/DLA-4204-1)** - twitter-bootstrap3
 
 **CVE(s) :**
@@ -19,6 +32,31 @@
 **Debian Version :** bullseye
  **Package Version :** kitty 0.19.3-1+deb11u1
  **Type :** DLA
+
+------------------------------
+
+**2025-06-01** - **[DSA-5933-1](https://security-tracker.debian.org/tracker/DSA-5933-1)** - tcpdf
+
+**CVE(s) :**
+- **[CVE-2024-22640](https://www.cve.org/CVERecord?id=CVE-2024-22640)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-22641](https://www.cve.org/CVERecord?id=CVE-2024-22641)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-32489](https://www.cve.org/CVERecord?id=CVE-2024-32489)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-51058](https://www.cve.org/CVERecord?id=CVE-2024-51058)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-56519](https://www.cve.org/CVERecord?id=CVE-2024-56519)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-56520](https://www.cve.org/CVERecord?id=CVE-2024-56520)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-56522](https://www.cve.org/CVERecord?id=CVE-2024-56522)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-56527](https://www.cve.org/CVERecord?id=CVE-2024-56527)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** tcpdf 6.6.2+dfsg1-1+deb12u1
+ **Type :** DSA
 
 ------------------------------
 
@@ -1630,7 +1668,7 @@
 **CVE(s) :**
 - **[CVE-2024-28956](https://www.cve.org/CVERecord?id=CVE-2024-28956)** : 🟠 **Severity: Medium** (Score: 5.7)
 
-- **[CVE-2024-43420](https://www.cve.org/CVERecord?id=CVE-2024-43420)** : 🟠 **Severity: Medium** (Score: 5.7)
+- **[CVE-2024-43420](https://www.cve.org/CVERecord?id=CVE-2024-43420)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-45332](https://www.cve.org/CVERecord?id=CVE-2024-45332)** : 🟠 **Severity: Medium** (Score: 5.7)
 
