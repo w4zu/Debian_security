@@ -802,7 +802,7 @@
 **2025-05-29** - **[DLA-4190-1](https://security-tracker.debian.org/tracker/DLA-4190-1)** - mydumper
 
 **CVE(s) :**
-- **[CVE-2025-30224](https://www.cve.org/CVERecord?id=CVE-2025-30224)** : 🟠 **Severity: Medium** (Score: 5.1)
+- **[CVE-2025-30224](https://www.cve.org/CVERecord?id=CVE-2025-30224)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** mydumper 0.10.1-1+deb11u1
