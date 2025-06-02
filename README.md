@@ -1,11 +1,65 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-06-02** - **[DLA-4207-1](https://security-tracker.debian.org/tracker/DLA-4207-1)** - edk2
+
+**CVE(s) :**
+- **[CVE-2021-28216](https://www.cve.org/CVERecord?id=CVE-2021-28216)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2021-38575](https://www.cve.org/CVERecord?id=CVE-2021-38575)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2021-38576](https://www.cve.org/CVERecord?id=CVE-2021-38576)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2021-38578](https://www.cve.org/CVERecord?id=CVE-2021-38578)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2022-36763](https://www.cve.org/CVERecord?id=CVE-2022-36763)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2022-36764](https://www.cve.org/CVERecord?id=CVE-2022-36764)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2022-36765](https://www.cve.org/CVERecord?id=CVE-2022-36765)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2023-45229](https://www.cve.org/CVERecord?id=CVE-2023-45229)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2023-45230](https://www.cve.org/CVERecord?id=CVE-2023-45230)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2023-45231](https://www.cve.org/CVERecord?id=CVE-2023-45231)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2023-45232](https://www.cve.org/CVERecord?id=CVE-2023-45232)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2023-45233](https://www.cve.org/CVERecord?id=CVE-2023-45233)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2023-45234](https://www.cve.org/CVERecord?id=CVE-2023-45234)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2023-45235](https://www.cve.org/CVERecord?id=CVE-2023-45235)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-1298](https://www.cve.org/CVERecord?id=CVE-2024-1298)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-38796](https://www.cve.org/CVERecord?id=CVE-2024-38796)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** edk2 2020.11-2+deb11u3
+ **Type :** DLA
+
+------------------------------
+
+**2025-06-02** - **[DLA-4206-1](https://security-tracker.debian.org/tracker/DLA-4206-1)** - asterisk
+
+**CVE(s) :**
+- **[CVE-2025-47779](https://www.cve.org/CVERecord?id=CVE-2025-47779)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-47780](https://www.cve.org/CVERecord?id=CVE-2025-47780)** : 🟠 **Severity: Medium** (Score: 4.8)
+
+**Debian Version :** bullseye
+ **Package Version :** asterisk 1:16.28.0~dfsg-0+deb11u7
+ **Type :** DLA
+
+------------------------------
+
 **2025-06-01** - **[DLA-4205-1](https://security-tracker.debian.org/tracker/DLA-4205-1)** - libreoffice
 
 **CVE(s) :**
 - **[CVE-2025-1080](https://www.cve.org/CVERecord?id=CVE-2025-1080)** : 🔥 **Severity: High** (Score: 7.2)
 
-- **[CVE-2025-2866](https://www.cve.org/CVERecord?id=CVE-2025-2866)** : 🟠 **Severity: Medium** (Score: 2.4)
+- **[CVE-2025-2866](https://www.cve.org/CVERecord?id=CVE-2025-2866)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** libreoffice 1:7.0.4-4+deb11u13
