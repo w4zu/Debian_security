@@ -46,7 +46,7 @@
 **CVE(s) :**
 - **[CVE-2025-47779](https://www.cve.org/CVERecord?id=CVE-2025-47779)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-47780](https://www.cve.org/CVERecord?id=CVE-2025-47780)** : 🟠 **Severity: Medium** (Score: 4.8)
+- **[CVE-2025-47780](https://www.cve.org/CVERecord?id=CVE-2025-47780)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** asterisk 1:16.28.0~dfsg-0+deb11u7
@@ -68,7 +68,7 @@
 **2025-06-01** - **[DLA-4205-1](https://security-tracker.debian.org/tracker/DLA-4205-1)** - libreoffice
 
 **CVE(s) :**
-- **[CVE-2025-1080](https://www.cve.org/CVERecord?id=CVE-2025-1080)** : 🔥 **Severity: High** (Score: 7.2)
+- **[CVE-2025-1080](https://www.cve.org/CVERecord?id=CVE-2025-1080)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-2866](https://www.cve.org/CVERecord?id=CVE-2025-2866)** : 🟠 **Severity: Medium** (Score: 2.4)
 
@@ -168,6 +168,8 @@
 - **[CVE-2024-22641](https://www.cve.org/CVERecord?id=CVE-2024-22641)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-32489](https://www.cve.org/CVERecord?id=CVE-2024-32489)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-51058](https://www.cve.org/CVERecord?id=CVE-2024-51058)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-56519](https://www.cve.org/CVERecord?id=CVE-2024-56519)** : **Severity: Unknown** (Score: N/A)
 
@@ -867,7 +869,7 @@
 **2025-05-29** - **[DLA-4190-1](https://security-tracker.debian.org/tracker/DLA-4190-1)** - mydumper
 
 **CVE(s) :**
-- **[CVE-2025-30224](https://www.cve.org/CVERecord?id=CVE-2025-30224)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-30224](https://www.cve.org/CVERecord?id=CVE-2025-30224)** : 🟠 **Severity: Medium** (Score: 5.1)
 
 **Debian Version :** bullseye
  **Package Version :** mydumper 0.10.1-1+deb11u1
@@ -1620,7 +1622,7 @@
 
 - **[CVE-2024-26807](https://www.cve.org/CVERecord?id=CVE-2024-26807)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2024-28956](https://www.cve.org/CVERecord?id=CVE-2024-28956)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-28956](https://www.cve.org/CVERecord?id=CVE-2024-28956)** : 🟠 **Severity: Medium** (Score: 5.7)
 
 - **[CVE-2024-35790](https://www.cve.org/CVERecord?id=CVE-2024-35790)** : **Severity: Unknown** (Score: N/A)
 
@@ -1731,13 +1733,13 @@
 **2025-05-23** - **[DSA-5924-1](https://security-tracker.debian.org/tracker/DSA-5924-1)** - intel-microcode
 
 **CVE(s) :**
-- **[CVE-2024-28956](https://www.cve.org/CVERecord?id=CVE-2024-28956)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-28956](https://www.cve.org/CVERecord?id=CVE-2024-28956)** : 🟠 **Severity: Medium** (Score: 5.7)
 
-- **[CVE-2024-43420](https://www.cve.org/CVERecord?id=CVE-2024-43420)** : 🟠 **Severity: Medium** (Score: 5.7)
+- **[CVE-2024-43420](https://www.cve.org/CVERecord?id=CVE-2024-43420)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-45332](https://www.cve.org/CVERecord?id=CVE-2024-45332)** : 🟠 **Severity: Medium** (Score: 5.7)
 
-- **[CVE-2025-20012](https://www.cve.org/CVERecord?id=CVE-2025-20012)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-20012](https://www.cve.org/CVERecord?id=CVE-2025-20012)** : 🟠 **Severity: Medium** (Score: 4.1)
 
 - **[CVE-2025-20054](https://www.cve.org/CVERecord?id=CVE-2025-20054)** : 🟠 **Severity: Medium** (Score: 6.8)
 
