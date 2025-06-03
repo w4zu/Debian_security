@@ -54,12 +54,23 @@
 
 ------------------------------
 
+**2025-06-02** - **[DSA-5934-1](https://security-tracker.debian.org/tracker/DSA-5934-1)** - roundcube
+
+**CVE(s) :**
+- **[CVE-2025-49113](https://www.cve.org/CVERecord?id=CVE-2025-49113)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** roundcube 1.6.5+dfsg-1+deb12u5
+ **Type :** DSA
+
+------------------------------
+
 **2025-06-01** - **[DLA-4205-1](https://security-tracker.debian.org/tracker/DLA-4205-1)** - libreoffice
 
 **CVE(s) :**
 - **[CVE-2025-1080](https://www.cve.org/CVERecord?id=CVE-2025-1080)** : 🔥 **Severity: High** (Score: 7.2)
 
-- **[CVE-2025-2866](https://www.cve.org/CVERecord?id=CVE-2025-2866)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-2866](https://www.cve.org/CVERecord?id=CVE-2025-2866)** : 🟠 **Severity: Medium** (Score: 2.4)
 
 **Debian Version :** bullseye
  **Package Version :** libreoffice 1:7.0.4-4+deb11u13
@@ -982,7 +993,7 @@
 **2025-05-28** - **[DLA-4183-1](https://security-tracker.debian.org/tracker/DLA-4183-1)** - setuptools
 
 **CVE(s) :**
-- **[CVE-2025-47273](https://www.cve.org/CVERecord?id=CVE-2025-47273)** : 🔥 **Severity: High** (Score: 7.7)
+- **[CVE-2025-47273](https://www.cve.org/CVERecord?id=CVE-2025-47273)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** setuptools 52.0.0-4+deb11u2
@@ -1726,7 +1737,7 @@
 
 - **[CVE-2024-45332](https://www.cve.org/CVERecord?id=CVE-2024-45332)** : 🟠 **Severity: Medium** (Score: 5.7)
 
-- **[CVE-2025-20012](https://www.cve.org/CVERecord?id=CVE-2025-20012)** : 🟠 **Severity: Medium** (Score: 4.1)
+- **[CVE-2025-20012](https://www.cve.org/CVERecord?id=CVE-2025-20012)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-20054](https://www.cve.org/CVERecord?id=CVE-2025-20054)** : 🟠 **Severity: Medium** (Score: 6.8)
 
@@ -1739,76 +1750,6 @@
 **Debian Version :** bookworm
  **Package Version :** intel-microcode 3.20250512.1~deb12u1
  **Type :** DSA
-
-------------------------------
-
-**2025-05-20** - **[DLA-4175-1](https://security-tracker.debian.org/tracker/DLA-4175-1)** - mongo-c-driver
-
-**CVE(s) :**
-- **[CVE-2021-32050](https://www.cve.org/CVERecord?id=CVE-2021-32050)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2023-0437](https://www.cve.org/CVERecord?id=CVE-2023-0437)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-6381](https://www.cve.org/CVERecord?id=CVE-2024-6381)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-6383](https://www.cve.org/CVERecord?id=CVE-2024-6383)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-0755](https://www.cve.org/CVERecord?id=CVE-2025-0755)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** mongo-c-driver 1.17.6-1+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-05-20** - **[DLA-4174-1](https://security-tracker.debian.org/tracker/DLA-4174-1)** - openjdk-11
-
-**CVE(s) :**
-- **[CVE-2025-21587](https://www.cve.org/CVERecord?id=CVE-2025-21587)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-30691](https://www.cve.org/CVERecord?id=CVE-2025-30691)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-30698](https://www.cve.org/CVERecord?id=CVE-2025-30698)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** openjdk-11 11.0.27+6-1~deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-05-20** - **[DLA-4173-1](https://security-tracker.debian.org/tracker/DLA-4173-1)** - openjdk-17
-
-**CVE(s) :**
-- **[CVE-2025-21587](https://www.cve.org/CVERecord?id=CVE-2025-21587)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-30691](https://www.cve.org/CVERecord?id=CVE-2025-30691)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-30698](https://www.cve.org/CVERecord?id=CVE-2025-30698)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** openjdk-17 17.0.15+6-1~deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-05-20** - **[DLA-4172-1](https://security-tracker.debian.org/tracker/DLA-4172-1)** - firefox-esr
-
-**CVE(s) :**
-- **[CVE-2025-4083](https://www.cve.org/CVERecord?id=CVE-2025-4083)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-4087](https://www.cve.org/CVERecord?id=CVE-2025-4087)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-4091](https://www.cve.org/CVERecord?id=CVE-2025-4091)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-4093](https://www.cve.org/CVERecord?id=CVE-2025-4093)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-4918](https://www.cve.org/CVERecord?id=CVE-2025-4918)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-4919](https://www.cve.org/CVERecord?id=CVE-2025-4919)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** firefox-esr 128.10.1esr-1~deb11u1
- **Type :** DLA
 
 ------------------------------
 
