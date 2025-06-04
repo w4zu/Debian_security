@@ -46,7 +46,7 @@
 **CVE(s) :**
 - **[CVE-2025-47779](https://www.cve.org/CVERecord?id=CVE-2025-47779)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-47780](https://www.cve.org/CVERecord?id=CVE-2025-47780)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-47780](https://www.cve.org/CVERecord?id=CVE-2025-47780)** : 🟠 **Severity: Medium** (Score: 4.8)
 
 **Debian Version :** bullseye
  **Package Version :** asterisk 1:16.28.0~dfsg-0+deb11u7
@@ -68,7 +68,7 @@
 **2025-06-01** - **[DLA-4205-1](https://security-tracker.debian.org/tracker/DLA-4205-1)** - libreoffice
 
 **CVE(s) :**
-- **[CVE-2025-1080](https://www.cve.org/CVERecord?id=CVE-2025-1080)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-1080](https://www.cve.org/CVERecord?id=CVE-2025-1080)** : 🔥 **Severity: High** (Score: 7.2)
 
 - **[CVE-2025-2866](https://www.cve.org/CVERecord?id=CVE-2025-2866)** : 🟠 **Severity: Medium** (Score: 2.4)
 
@@ -995,7 +995,7 @@
 **2025-05-28** - **[DLA-4183-1](https://security-tracker.debian.org/tracker/DLA-4183-1)** - setuptools
 
 **CVE(s) :**
-- **[CVE-2025-47273](https://www.cve.org/CVERecord?id=CVE-2025-47273)** : 🔥 **Severity: High** (Score: 7.7)
+- **[CVE-2025-47273](https://www.cve.org/CVERecord?id=CVE-2025-47273)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** setuptools 52.0.0-4+deb11u2
@@ -1735,7 +1735,7 @@
 **CVE(s) :**
 - **[CVE-2024-28956](https://www.cve.org/CVERecord?id=CVE-2024-28956)** : 🟠 **Severity: Medium** (Score: 5.7)
 
-- **[CVE-2024-43420](https://www.cve.org/CVERecord?id=CVE-2024-43420)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-43420](https://www.cve.org/CVERecord?id=CVE-2024-43420)** : 🟠 **Severity: Medium** (Score: 5.7)
 
 - **[CVE-2024-45332](https://www.cve.org/CVERecord?id=CVE-2024-45332)** : 🟠 **Severity: Medium** (Score: 5.7)
 
