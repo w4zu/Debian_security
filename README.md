@@ -94,7 +94,7 @@
 **2025-06-01** - **[DLA-4205-1](https://security-tracker.debian.org/tracker/DLA-4205-1)** - libreoffice
 
 **CVE(s) :**
-- **[CVE-2025-1080](https://www.cve.org/CVERecord?id=CVE-2025-1080)** : 🔥 **Severity: High** (Score: 7.2)
+- **[CVE-2025-1080](https://www.cve.org/CVERecord?id=CVE-2025-1080)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-2866](https://www.cve.org/CVERecord?id=CVE-2025-2866)** : 🟠 **Severity: Medium** (Score: 2.4)
 
@@ -1765,7 +1765,7 @@
 
 - **[CVE-2025-20054](https://www.cve.org/CVERecord?id=CVE-2025-20054)** : 🟠 **Severity: Medium** (Score: 6.8)
 
-- **[CVE-2025-20103](https://www.cve.org/CVERecord?id=CVE-2025-20103)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-20103](https://www.cve.org/CVERecord?id=CVE-2025-20103)** : 🟠 **Severity: Medium** (Score: 5.7)
 
 - **[CVE-2025-20623](https://www.cve.org/CVERecord?id=CVE-2025-20623)** : 🟠 **Severity: Medium** (Score: 5.7)
 
