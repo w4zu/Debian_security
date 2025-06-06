@@ -1,5 +1,26 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-06-06** - **[DSA-5937-1](https://security-tracker.debian.org/tracker/DSA-5937-1)** - webkit2gtk
+
+**CVE(s) :**
+- **[CVE-2025-24223](https://www.cve.org/CVERecord?id=CVE-2025-24223)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-31204](https://www.cve.org/CVERecord?id=CVE-2025-31204)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-31205](https://www.cve.org/CVERecord?id=CVE-2025-31205)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-31206](https://www.cve.org/CVERecord?id=CVE-2025-31206)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-31215](https://www.cve.org/CVERecord?id=CVE-2025-31215)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-31257](https://www.cve.org/CVERecord?id=CVE-2025-31257)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** webkit2gtk 2.48.3-1~deb12u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-06-05** - **[DLA-4210-1](https://security-tracker.debian.org/tracker/DLA-4210-1)** - python-django
 
 **CVE(s) :**
@@ -115,7 +136,7 @@
 **CVE(s) :**
 - **[CVE-2025-47779](https://www.cve.org/CVERecord?id=CVE-2025-47779)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-47780](https://www.cve.org/CVERecord?id=CVE-2025-47780)** : 🟠 **Severity: Medium** (Score: 4.8)
+- **[CVE-2025-47780](https://www.cve.org/CVERecord?id=CVE-2025-47780)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** asterisk 1:16.28.0~dfsg-0+deb11u7
@@ -137,7 +158,7 @@
 **2025-06-01** - **[DLA-4205-1](https://security-tracker.debian.org/tracker/DLA-4205-1)** - libreoffice
 
 **CVE(s) :**
-- **[CVE-2025-1080](https://www.cve.org/CVERecord?id=CVE-2025-1080)** : 🔥 **Severity: High** (Score: 7.2)
+- **[CVE-2025-1080](https://www.cve.org/CVERecord?id=CVE-2025-1080)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-2866](https://www.cve.org/CVERecord?id=CVE-2025-2866)** : 🟠 **Severity: Medium** (Score: 2.4)
 
