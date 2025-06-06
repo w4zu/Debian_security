@@ -1,5 +1,33 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-06-06** - **[DSA-5939-1](https://security-tracker.debian.org/tracker/DSA-5939-1)** - gimp
+
+**CVE(s) :**
+- **[CVE-2025-2760](https://www.cve.org/CVERecord?id=CVE-2025-2760)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-2761](https://www.cve.org/CVERecord?id=CVE-2025-2761)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-48797](https://www.cve.org/CVERecord?id=CVE-2025-48797)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-48798](https://www.cve.org/CVERecord?id=CVE-2025-48798)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** gimp 2.10.34-1+deb12u3
+ **Type :** DSA
+
+------------------------------
+
+**2025-06-06** - **[DSA-5938-1](https://security-tracker.debian.org/tracker/DSA-5938-1)** - python-tornado
+
+**CVE(s) :**
+- **[CVE-2025-47287](https://www.cve.org/CVERecord?id=CVE-2025-47287)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** python-tornado 6.2.0-3+deb12u2
+ **Type :** DSA
+
+------------------------------
+
 **2025-06-06** - **[DSA-5937-1](https://security-tracker.debian.org/tracker/DSA-5937-1)** - webkit2gtk
 
 **CVE(s) :**
@@ -158,7 +186,7 @@
 **2025-06-01** - **[DLA-4205-1](https://security-tracker.debian.org/tracker/DLA-4205-1)** - libreoffice
 
 **CVE(s) :**
-- **[CVE-2025-1080](https://www.cve.org/CVERecord?id=CVE-2025-1080)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-1080](https://www.cve.org/CVERecord?id=CVE-2025-1080)** : 🔥 **Severity: High** (Score: 7.2)
 
 - **[CVE-2025-2866](https://www.cve.org/CVERecord?id=CVE-2025-2866)** : 🟠 **Severity: Medium** (Score: 2.4)
 
@@ -957,7 +985,7 @@
 **2025-05-29** - **[DLA-4190-1](https://security-tracker.debian.org/tracker/DLA-4190-1)** - mydumper
 
 **CVE(s) :**
-- **[CVE-2025-30224](https://www.cve.org/CVERecord?id=CVE-2025-30224)** : 🟠 **Severity: Medium** (Score: 5.1)
+- **[CVE-2025-30224](https://www.cve.org/CVERecord?id=CVE-2025-30224)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** mydumper 0.10.1-1+deb11u1
@@ -1083,7 +1111,7 @@
 **2025-05-28** - **[DLA-4183-1](https://security-tracker.debian.org/tracker/DLA-4183-1)** - setuptools
 
 **CVE(s) :**
-- **[CVE-2025-47273](https://www.cve.org/CVERecord?id=CVE-2025-47273)** : 🔥 **Severity: High** (Score: 7.7)
+- **[CVE-2025-47273](https://www.cve.org/CVERecord?id=CVE-2025-47273)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** setuptools 52.0.0-4+deb11u2
