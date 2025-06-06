@@ -1,5 +1,48 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-06-05** - **[DLA-4210-1](https://security-tracker.debian.org/tracker/DLA-4210-1)** - python-django
+
+**CVE(s) :**
+- **[CVE-2023-41164](https://www.cve.org/CVERecord?id=CVE-2023-41164)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2023-43665](https://www.cve.org/CVERecord?id=CVE-2023-43665)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-24680](https://www.cve.org/CVERecord?id=CVE-2024-24680)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-27351](https://www.cve.org/CVERecord?id=CVE-2024-27351)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-32873](https://www.cve.org/CVERecord?id=CVE-2025-32873)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-48432](https://www.cve.org/CVERecord?id=CVE-2025-48432)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** python-django 2:2.2.28-1~deb11u7
+ **Type :** DLA
+
+------------------------------
+
+**2025-06-05** - **[DLA-4209-1](https://security-tracker.debian.org/tracker/DLA-4209-1)** - libfile-find-rule-perl
+
+**CVE(s) :**
+- **[CVE-2011-10007](https://www.cve.org/CVERecord?id=CVE-2011-10007)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** libfile-find-rule-perl 0.34-1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2025-06-05** - **[DSA-5936-1](https://security-tracker.debian.org/tracker/DSA-5936-1)** - libfile-find-rule-perl
+
+**CVE(s) :**
+- **[CVE-2011-10007](https://www.cve.org/CVERecord?id=CVE-2011-10007)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** libfile-find-rule-perl 0.34-4~deb12u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-06-04** - **[DLA-4208-1](https://security-tracker.debian.org/tracker/DLA-4208-1)** - mariadb-10.5
 
 **CVE(s) :**
@@ -94,7 +137,7 @@
 **2025-06-01** - **[DLA-4205-1](https://security-tracker.debian.org/tracker/DLA-4205-1)** - libreoffice
 
 **CVE(s) :**
-- **[CVE-2025-1080](https://www.cve.org/CVERecord?id=CVE-2025-1080)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-1080](https://www.cve.org/CVERecord?id=CVE-2025-1080)** : 🔥 **Severity: High** (Score: 7.2)
 
 - **[CVE-2025-2866](https://www.cve.org/CVERecord?id=CVE-2025-2866)** : 🟠 **Severity: Medium** (Score: 2.4)
 
@@ -1748,31 +1791,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** linux 6.1.140-1
- **Type :** DSA
-
-------------------------------
-
-**2025-05-23** - **[DSA-5924-1](https://security-tracker.debian.org/tracker/DSA-5924-1)** - intel-microcode
-
-**CVE(s) :**
-- **[CVE-2024-28956](https://www.cve.org/CVERecord?id=CVE-2024-28956)** : 🟠 **Severity: Medium** (Score: 5.7)
-
-- **[CVE-2024-43420](https://www.cve.org/CVERecord?id=CVE-2024-43420)** : 🟠 **Severity: Medium** (Score: 5.7)
-
-- **[CVE-2024-45332](https://www.cve.org/CVERecord?id=CVE-2024-45332)** : 🟠 **Severity: Medium** (Score: 5.7)
-
-- **[CVE-2025-20012](https://www.cve.org/CVERecord?id=CVE-2025-20012)** : 🟠 **Severity: Medium** (Score: 4.1)
-
-- **[CVE-2025-20054](https://www.cve.org/CVERecord?id=CVE-2025-20054)** : 🟠 **Severity: Medium** (Score: 6.8)
-
-- **[CVE-2025-20103](https://www.cve.org/CVERecord?id=CVE-2025-20103)** : 🟠 **Severity: Medium** (Score: 5.7)
-
-- **[CVE-2025-20623](https://www.cve.org/CVERecord?id=CVE-2025-20623)** : 🟠 **Severity: Medium** (Score: 5.7)
-
-- **[CVE-2025-24495](https://www.cve.org/CVERecord?id=CVE-2025-24495)** : 🟠 **Severity: Medium** (Score: 6.8)
-
-**Debian Version :** bookworm
- **Package Version :** intel-microcode 3.20250512.1~deb12u1
  **Type :** DSA
 
 ------------------------------
