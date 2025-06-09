@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-06-08** - **[DSA-5940-1](https://security-tracker.debian.org/tracker/DSA-5940-1)** - modsecurity-apache
+
+**CVE(s) :**
+- **[CVE-2025-47947](https://www.cve.org/CVERecord?id=CVE-2025-47947)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-48866](https://www.cve.org/CVERecord?id=CVE-2025-48866)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** modsecurity-apache 2.9.7-1+deb12u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-06-06** - **[DSA-5939-1](https://security-tracker.debian.org/tracker/DSA-5939-1)** - gimp
 
 **CVE(s) :**
@@ -1197,19 +1210,6 @@
 
 **Debian Version :** bullseye
  **Package Version :** pgbouncer 1.15.0-1+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-05-26** - **[DLA-4179-1](https://security-tracker.debian.org/tracker/DLA-4179-1)** - libavif
-
-**CVE(s) :**
-- **[CVE-2025-48174](https://www.cve.org/CVERecord?id=CVE-2025-48174)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-48175](https://www.cve.org/CVERecord?id=CVE-2025-48175)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** libavif 0.8.4-2+deb11u2
  **Type :** DLA
 
 ------------------------------
