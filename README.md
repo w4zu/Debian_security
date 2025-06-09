@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-06-09** - **[DLA-4211-1](https://security-tracker.debian.org/tracker/DLA-4211-1)** - roundcube
+
+**CVE(s) :**
+- **[CVE-2025-49113](https://www.cve.org/CVERecord?id=CVE-2025-49113)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** roundcube 1.4.15+dfsg.1-1+deb11u5
+ **Type :** DLA
+
+------------------------------
+
 **2025-06-08** - **[DSA-5940-1](https://security-tracker.debian.org/tracker/DSA-5940-1)** - modsecurity-apache
 
 **CVE(s) :**
