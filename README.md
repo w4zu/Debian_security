@@ -225,7 +225,7 @@
 **CVE(s) :**
 - **[CVE-2025-1080](https://www.cve.org/CVERecord?id=CVE-2025-1080)** : 🔥 **Severity: High** (Score: 7.2)
 
-- **[CVE-2025-2866](https://www.cve.org/CVERecord?id=CVE-2025-2866)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-2866](https://www.cve.org/CVERecord?id=CVE-2025-2866)** : 🟠 **Severity: Medium** (Score: 2.4)
 
 **Debian Version :** bullseye
  **Package Version :** libreoffice 1:7.0.4-4+deb11u13
