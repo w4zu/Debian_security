@@ -86,8 +86,6 @@
 **2025-06-06** - **[DSA-5939-1](https://security-tracker.debian.org/tracker/DSA-5939-1)** - gimp
 
 **CVE(s) :**
-- **[CVE-2025-2760](https://www.cve.org/CVERecord?id=CVE-2025-2760)** : **Severity: Unknown** (Score: N/A)
-
 - **[CVE-2025-2761](https://www.cve.org/CVERecord?id=CVE-2025-2761)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-5473](https://www.cve.org/CVERecord?id=CVE-2025-5473)** : **Severity: Unknown** (Score: N/A)
@@ -271,7 +269,7 @@
 **2025-06-01** - **[DLA-4205-1](https://security-tracker.debian.org/tracker/DLA-4205-1)** - libreoffice
 
 **CVE(s) :**
-- **[CVE-2025-1080](https://www.cve.org/CVERecord?id=CVE-2025-1080)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-1080](https://www.cve.org/CVERecord?id=CVE-2025-1080)** : 🔥 **Severity: High** (Score: 7.2)
 
 - **[CVE-2025-2866](https://www.cve.org/CVERecord?id=CVE-2025-2866)** : 🟠 **Severity: Medium** (Score: 2.4)
 
