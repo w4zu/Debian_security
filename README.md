@@ -24,6 +24,19 @@
 
 ------------------------------
 
+**2025-06-11** - **[DSA-5942-1](https://security-tracker.debian.org/tracker/DSA-5942-1)** - chromium
+
+**CVE(s) :**
+- **[CVE-2025-5958](https://www.cve.org/CVERecord?id=CVE-2025-5958)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-5959](https://www.cve.org/CVERecord?id=CVE-2025-5959)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** chromium 137.0.7151.103-1~deb12u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-06-11** - **[DSA-5941-1](https://security-tracker.debian.org/tracker/DSA-5941-1)** - gst-plugins-bad1.0
 
 **CVE(s) :**
@@ -258,7 +271,7 @@
 **2025-06-01** - **[DLA-4205-1](https://security-tracker.debian.org/tracker/DLA-4205-1)** - libreoffice
 
 **CVE(s) :**
-- **[CVE-2025-1080](https://www.cve.org/CVERecord?id=CVE-2025-1080)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-1080](https://www.cve.org/CVERecord?id=CVE-2025-1080)** : 🔥 **Severity: High** (Score: 7.2)
 
 - **[CVE-2025-2866](https://www.cve.org/CVERecord?id=CVE-2025-2866)** : 🟠 **Severity: Medium** (Score: 2.4)
 
