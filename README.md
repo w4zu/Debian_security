@@ -3,7 +3,7 @@
 **2025-06-12** - **[DLA-4215-1](https://security-tracker.debian.org/tracker/DLA-4215-1)** - ublock-origin
 
 **CVE(s) :**
-- **[CVE-2025-4215](https://www.cve.org/CVERecord?id=CVE-2025-4215)** : 🟠 **Severity: Medium** (Score: 2.3)
+- **[CVE-2025-4215](https://www.cve.org/CVERecord?id=CVE-2025-4215)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** ublock-origin 1.62.0+dfsg-0+deb11u1
@@ -16,7 +16,7 @@
 **CVE(s) :**
 - **[CVE-2024-12905](https://www.cve.org/CVERecord?id=CVE-2024-12905)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-48387](https://www.cve.org/CVERecord?id=CVE-2025-48387)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-48387](https://www.cve.org/CVERecord?id=CVE-2025-48387)** : 🔥 **Severity: High** (Score: 8.7)
 
 **Debian Version :** bullseye
  **Package Version :** node-tar-fs 2.1.3-0+deb11u1
