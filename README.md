@@ -3,7 +3,7 @@
 **2025-06-12** - **[DLA-4215-1](https://security-tracker.debian.org/tracker/DLA-4215-1)** - ublock-origin
 
 **CVE(s) :**
-- **[CVE-2025-4215](https://www.cve.org/CVERecord?id=CVE-2025-4215)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-4215](https://www.cve.org/CVERecord?id=CVE-2025-4215)** : 🟠 **Severity: Medium** (Score: 2.3)
 
 **Debian Version :** bullseye
  **Package Version :** ublock-origin 1.62.0+dfsg-0+deb11u1
