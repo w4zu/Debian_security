@@ -1,5 +1,46 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-06-16** - **[DLA-4218-1](https://security-tracker.debian.org/tracker/DLA-4218-1)** - webkit2gtk
+
+**CVE(s) :**
+- **[CVE-2024-44192](https://www.cve.org/CVERecord?id=CVE-2024-44192)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-54467](https://www.cve.org/CVERecord?id=CVE-2024-54467)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-54551](https://www.cve.org/CVERecord?id=CVE-2024-54551)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-24201](https://www.cve.org/CVERecord?id=CVE-2025-24201)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-24208](https://www.cve.org/CVERecord?id=CVE-2025-24208)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-24209](https://www.cve.org/CVERecord?id=CVE-2025-24209)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-24213](https://www.cve.org/CVERecord?id=CVE-2025-24213)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-24216](https://www.cve.org/CVERecord?id=CVE-2025-24216)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-24223](https://www.cve.org/CVERecord?id=CVE-2025-24223)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-24264](https://www.cve.org/CVERecord?id=CVE-2025-24264)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-30427](https://www.cve.org/CVERecord?id=CVE-2025-30427)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-31204](https://www.cve.org/CVERecord?id=CVE-2025-31204)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-31205](https://www.cve.org/CVERecord?id=CVE-2025-31205)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-31206](https://www.cve.org/CVERecord?id=CVE-2025-31206)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-31215](https://www.cve.org/CVERecord?id=CVE-2025-31215)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-31257](https://www.cve.org/CVERecord?id=CVE-2025-31257)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** webkit2gtk 2.48.3-1~deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-06-15** - **[DLA-4217-1](https://security-tracker.debian.org/tracker/DLA-4217-1)** - icu
 
 **CVE(s) :**
