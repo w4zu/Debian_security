@@ -40,7 +40,7 @@
 **CVE(s) :**
 - **[CVE-2024-12905](https://www.cve.org/CVERecord?id=CVE-2024-12905)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-48387](https://www.cve.org/CVERecord?id=CVE-2025-48387)** : 🔥 **Severity: High** (Score: 8.7)
+- **[CVE-2025-48387](https://www.cve.org/CVERecord?id=CVE-2025-48387)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** node-tar-fs 2.1.3-0+deb11u1
