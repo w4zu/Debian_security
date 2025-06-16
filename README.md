@@ -1,5 +1,29 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-06-15** - **[DLA-4217-1](https://security-tracker.debian.org/tracker/DLA-4217-1)** - icu
+
+**CVE(s) :**
+- **[CVE-2025-5222](https://www.cve.org/CVERecord?id=CVE-2025-5222)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** icu 67.1-7+deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2025-06-15** - **[DLA-4216-1](https://security-tracker.debian.org/tracker/DLA-4216-1)** - cjson
+
+**CVE(s) :**
+- **[CVE-2023-26819](https://www.cve.org/CVERecord?id=CVE-2023-26819)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2023-53154](https://www.cve.org/CVERecord?id=CVE-2023-53154)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** cjson 1.7.14-1+deb11u2
+ **Type :** DLA
+
+------------------------------
+
 **2025-06-12** - **[DLA-4215-1](https://security-tracker.debian.org/tracker/DLA-4215-1)** - ublock-origin
 
 **CVE(s) :**
@@ -197,71 +221,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** chromium 137.0.7151.68-1~deb12u1
- **Type :** DSA
-
-------------------------------
-
-**2025-06-02** - **[DLA-4207-1](https://security-tracker.debian.org/tracker/DLA-4207-1)** - edk2
-
-**CVE(s) :**
-- **[CVE-2021-28216](https://www.cve.org/CVERecord?id=CVE-2021-28216)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2021-38575](https://www.cve.org/CVERecord?id=CVE-2021-38575)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2021-38576](https://www.cve.org/CVERecord?id=CVE-2021-38576)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2021-38578](https://www.cve.org/CVERecord?id=CVE-2021-38578)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2022-36763](https://www.cve.org/CVERecord?id=CVE-2022-36763)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2022-36764](https://www.cve.org/CVERecord?id=CVE-2022-36764)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2022-36765](https://www.cve.org/CVERecord?id=CVE-2022-36765)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2023-45229](https://www.cve.org/CVERecord?id=CVE-2023-45229)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2023-45230](https://www.cve.org/CVERecord?id=CVE-2023-45230)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2023-45231](https://www.cve.org/CVERecord?id=CVE-2023-45231)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2023-45232](https://www.cve.org/CVERecord?id=CVE-2023-45232)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2023-45233](https://www.cve.org/CVERecord?id=CVE-2023-45233)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2023-45234](https://www.cve.org/CVERecord?id=CVE-2023-45234)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2023-45235](https://www.cve.org/CVERecord?id=CVE-2023-45235)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-1298](https://www.cve.org/CVERecord?id=CVE-2024-1298)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-38796](https://www.cve.org/CVERecord?id=CVE-2024-38796)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** edk2 2020.11-2+deb11u3
- **Type :** DLA
-
-------------------------------
-
-**2025-06-02** - **[DLA-4206-1](https://security-tracker.debian.org/tracker/DLA-4206-1)** - asterisk
-
-**CVE(s) :**
-- **[CVE-2025-47779](https://www.cve.org/CVERecord?id=CVE-2025-47779)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-47780](https://www.cve.org/CVERecord?id=CVE-2025-47780)** : 🟠 **Severity: Medium** (Score: 4.8)
-
-**Debian Version :** bullseye
- **Package Version :** asterisk 1:16.28.0~dfsg-0+deb11u7
- **Type :** DLA
-
-------------------------------
-
-**2025-06-02** - **[DSA-5934-1](https://security-tracker.debian.org/tracker/DSA-5934-1)** - roundcube
-
-**CVE(s) :**
-- **[CVE-2025-49113](https://www.cve.org/CVERecord?id=CVE-2025-49113)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** roundcube 1.6.5+dfsg-1+deb12u5
  **Type :** DSA
 
 ------------------------------
