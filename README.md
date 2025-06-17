@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-06-17** - **[DLA-4219-1](https://security-tracker.debian.org/tracker/DLA-4219-1)** - gst-plugins-bad1.0
+
+**CVE(s) :**
+- **[CVE-2025-3887](https://www.cve.org/CVERecord?id=CVE-2025-3887)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** gst-plugins-bad1.0 1.18.4-3+deb11u5
+ **Type :** DLA
+
+------------------------------
+
 **2025-06-16** - **[DLA-4218-1](https://security-tracker.debian.org/tracker/DLA-4218-1)** - webkit2gtk
 
 **CVE(s) :**
