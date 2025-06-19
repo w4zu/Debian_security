@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-06-18** - **[DSA-5944-1](https://security-tracker.debian.org/tracker/DSA-5944-1)** - chromium
+
+**CVE(s) :**
+- **[CVE-2025-6191](https://www.cve.org/CVERecord?id=CVE-2025-6191)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-6192](https://www.cve.org/CVERecord?id=CVE-2025-6192)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** chromium 137.0.7151.119-1~deb12u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-06-17** - **[DLA-4221-1](https://security-tracker.debian.org/tracker/DLA-4221-1)** - libblockdev
 
 **CVE(s) :**
