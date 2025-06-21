@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-06-20** - **[DSA-5945-1](https://security-tracker.debian.org/tracker/DSA-5945-1)** - konsole
+
+**CVE(s) :**
+- **[CVE-2025-49091](https://www.cve.org/CVERecord?id=CVE-2025-49091)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** konsole 4:22.12.3-1+deb12u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-06-19** - **[DLA-4222-1](https://security-tracker.debian.org/tracker/DLA-4222-1)** - activemq
 
 **CVE(s) :**
