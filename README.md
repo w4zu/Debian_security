@@ -214,16 +214,3 @@
 
 ------------------------------
 
-**2025-06-08** - **[DSA-5940-1](https://security-tracker.debian.org/tracker/DSA-5940-1)** - modsecurity-apache
-
-**CVE(s) :**
-- **[CVE-2025-47947](https://www.cve.org/CVERecord?id=CVE-2025-47947)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-48866](https://www.cve.org/CVERecord?id=CVE-2025-48866)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** modsecurity-apache 2.9.7-1+deb12u1
- **Type :** DSA
-
-------------------------------
-
