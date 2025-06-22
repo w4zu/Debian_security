@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-06-22** - **[DSA-5946-1](https://security-tracker.debian.org/tracker/DSA-5946-1)** - gdk-pixbuf
+
+**CVE(s) :**
+- **[CVE-2025-6199](https://www.cve.org/CVERecord?id=CVE-2025-6199)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** gdk-pixbuf 2.42.10+dfsg-1+deb12u2
+ **Type :** DSA
+
+------------------------------
+
 **2025-06-20** - **[DSA-5945-1](https://security-tracker.debian.org/tracker/DSA-5945-1)** - konsole
 
 **CVE(s) :**
