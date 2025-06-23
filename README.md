@@ -203,25 +203,3 @@
 
 ------------------------------
 
-**2025-06-09** - **[DLA-4212-1](https://security-tracker.debian.org/tracker/DLA-4212-1)** - modsecurity-apache
-
-**CVE(s) :**
-- **[CVE-2025-48866](https://www.cve.org/CVERecord?id=CVE-2025-48866)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** modsecurity-apache 2.9.3-3+deb11u4
- **Type :** DLA
-
-------------------------------
-
-**2025-06-09** - **[DLA-4211-1](https://security-tracker.debian.org/tracker/DLA-4211-1)** - roundcube
-
-**CVE(s) :**
-- **[CVE-2025-49113](https://www.cve.org/CVERecord?id=CVE-2025-49113)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** roundcube 1.4.15+dfsg.1-1+deb11u5
- **Type :** DLA
-
-------------------------------
-
