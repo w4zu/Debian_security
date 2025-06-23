@@ -1,5 +1,27 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-06-23** - **[DLA-4225-1](https://security-tracker.debian.org/tracker/DLA-4225-1)** - gdk-pixbuf
+
+**CVE(s) :**
+- **[CVE-2025-6199](https://www.cve.org/CVERecord?id=CVE-2025-6199)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** gdk-pixbuf 2.42.2+dfsg-1+deb11u3
+ **Type :** DLA
+
+------------------------------
+
+**2025-06-23** - **[DLA-4224-1](https://security-tracker.debian.org/tracker/DLA-4224-1)** - node-send
+
+**CVE(s) :**
+- **[CVE-2024-43799](https://www.cve.org/CVERecord?id=CVE-2024-43799)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** node-send 0.17.1-2+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-06-22** - **[DSA-5946-1](https://security-tracker.debian.org/tracker/DSA-5946-1)** - gdk-pixbuf
 
 **CVE(s) :**
@@ -25,7 +47,7 @@
 **2025-06-19** - **[DLA-4222-1](https://security-tracker.debian.org/tracker/DLA-4222-1)** - activemq
 
 **CVE(s) :**
-- **[CVE-2025-27533](https://www.cve.org/CVERecord?id=CVE-2025-27533)** : 🟠 **Severity: Medium** (Score: 6.9)
+- **[CVE-2025-27533](https://www.cve.org/CVERecord?id=CVE-2025-27533)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** activemq 5.16.1-1+deb11u2
@@ -171,7 +193,7 @@
 **CVE(s) :**
 - **[CVE-2024-12905](https://www.cve.org/CVERecord?id=CVE-2024-12905)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-48387](https://www.cve.org/CVERecord?id=CVE-2025-48387)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-48387](https://www.cve.org/CVERecord?id=CVE-2025-48387)** : 🔥 **Severity: High** (Score: 8.7)
 
 **Debian Version :** bullseye
  **Package Version :** node-tar-fs 2.1.3-0+deb11u1
