@@ -22,6 +22,27 @@
 
 ------------------------------
 
+**2025-06-23** - **[DSA-5947-1](https://security-tracker.debian.org/tracker/DSA-5947-1)** - xorg-server
+
+**CVE(s) :**
+- **[CVE-2025-49175](https://www.cve.org/CVERecord?id=CVE-2025-49175)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-49176](https://www.cve.org/CVERecord?id=CVE-2025-49176)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-49177](https://www.cve.org/CVERecord?id=CVE-2025-49177)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-49178](https://www.cve.org/CVERecord?id=CVE-2025-49178)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-49179](https://www.cve.org/CVERecord?id=CVE-2025-49179)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-49180](https://www.cve.org/CVERecord?id=CVE-2025-49180)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** xorg-server 2:21.1.7-3+deb12u10
+ **Type :** DSA
+
+------------------------------
+
 **2025-06-22** - **[DSA-5946-1](https://security-tracker.debian.org/tracker/DSA-5946-1)** - gdk-pixbuf
 
 **CVE(s) :**
