@@ -1,5 +1,41 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-06-24** - **[DLA-4228-1](https://security-tracker.debian.org/tracker/DLA-4228-1)** - nginx
+
+**CVE(s) :**
+- **[CVE-2020-36309](https://www.cve.org/CVERecord?id=CVE-2020-36309)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-33452](https://www.cve.org/CVERecord?id=CVE-2024-33452)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** nginx 1.18.0-6.1+deb11u5
+ **Type :** DLA
+
+------------------------------
+
+**2025-06-24** - **[DLA-4227-1](https://security-tracker.debian.org/tracker/DLA-4227-1)** - dcmtk
+
+**CVE(s) :**
+- **[CVE-2022-2119](https://www.cve.org/CVERecord?id=CVE-2022-2119)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2022-2120](https://www.cve.org/CVERecord?id=CVE-2022-2120)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-47796](https://www.cve.org/CVERecord?id=CVE-2024-47796)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-2357](https://www.cve.org/CVERecord?id=CVE-2025-2357)** : 🟠 **Severity: Medium** (Score: 5.3)
+
+- **[CVE-2025-25472](https://www.cve.org/CVERecord?id=CVE-2025-25472)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-25474](https://www.cve.org/CVERecord?id=CVE-2025-25474)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-25475](https://www.cve.org/CVERecord?id=CVE-2025-25475)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** dcmtk 3.6.5-1+deb11u4
+ **Type :** DLA
+
+------------------------------
+
 **2025-06-23** - **[DLA-4225-1](https://security-tracker.debian.org/tracker/DLA-4225-1)** - gdk-pixbuf
 
 **CVE(s) :**
