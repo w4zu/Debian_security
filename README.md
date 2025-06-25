@@ -1,5 +1,35 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-06-25** - **[DLA-4230-1](https://security-tracker.debian.org/tracker/DLA-4230-1)** - xorg-server
+
+**CVE(s) :**
+- **[CVE-2025-49175](https://www.cve.org/CVERecord?id=CVE-2025-49175)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-49176](https://www.cve.org/CVERecord?id=CVE-2025-49176)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-49178](https://www.cve.org/CVERecord?id=CVE-2025-49178)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-49179](https://www.cve.org/CVERecord?id=CVE-2025-49179)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-49180](https://www.cve.org/CVERecord?id=CVE-2025-49180)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** xorg-server 2:1.20.11-1+deb11u16
+ **Type :** DLA
+
+------------------------------
+
+**2025-06-25** - **[DLA-4229-1](https://security-tracker.debian.org/tracker/DLA-4229-1)** - commons-beanutils
+
+**CVE(s) :**
+- **[CVE-2025-48734](https://www.cve.org/CVERecord?id=CVE-2025-48734)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** commons-beanutils 1.9.4-1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-06-24** - **[DLA-4228-1](https://security-tracker.debian.org/tracker/DLA-4228-1)** - nginx
 
 **CVE(s) :**
