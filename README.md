@@ -36,6 +36,21 @@
 
 ------------------------------
 
+**2025-06-24** - **[DSA-5948-1](https://security-tracker.debian.org/tracker/DSA-5948-1)** - trafficserver
+
+**CVE(s) :**
+- **[CVE-2024-53868](https://www.cve.org/CVERecord?id=CVE-2024-53868)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-31698](https://www.cve.org/CVERecord?id=CVE-2025-31698)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-49763](https://www.cve.org/CVERecord?id=CVE-2025-49763)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** trafficserver 9.2.5+ds-0+deb12u3
+ **Type :** DSA
+
+------------------------------
+
 **2025-06-23** - **[DLA-4225-1](https://security-tracker.debian.org/tracker/DLA-4225-1)** - gdk-pixbuf
 
 **CVE(s) :**
@@ -242,43 +257,6 @@
 **Debian Version :** bullseye
  **Package Version :** ublock-origin 1.62.0+dfsg-0+deb11u1
  **Type :** DLA
-
-------------------------------
-
-**2025-06-11** - **[DLA-4214-1](https://security-tracker.debian.org/tracker/DLA-4214-1)** - node-tar-fs
-
-**CVE(s) :**
-- **[CVE-2024-12905](https://www.cve.org/CVERecord?id=CVE-2024-12905)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-48387](https://www.cve.org/CVERecord?id=CVE-2025-48387)** : 🔥 **Severity: High** (Score: 8.7)
-
-**Debian Version :** bullseye
- **Package Version :** node-tar-fs 2.1.3-0+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-06-11** - **[DSA-5942-1](https://security-tracker.debian.org/tracker/DSA-5942-1)** - chromium
-
-**CVE(s) :**
-- **[CVE-2025-5958](https://www.cve.org/CVERecord?id=CVE-2025-5958)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-5959](https://www.cve.org/CVERecord?id=CVE-2025-5959)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** chromium 137.0.7151.103-1~deb12u1
- **Type :** DSA
-
-------------------------------
-
-**2025-06-11** - **[DSA-5941-1](https://security-tracker.debian.org/tracker/DSA-5941-1)** - gst-plugins-bad1.0
-
-**CVE(s) :**
-- **[CVE-2025-3887](https://www.cve.org/CVERecord?id=CVE-2025-3887)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** gst-plugins-bad1.0 1.22.0-4+deb12u6
- **Type :** DSA
 
 ------------------------------
 
