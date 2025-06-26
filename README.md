@@ -1,5 +1,20 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-06-26** - **[DLA-4232-1](https://security-tracker.debian.org/tracker/DLA-4232-1)** - freeradius
+
+**CVE(s) :**
+- **[CVE-2022-41859](https://www.cve.org/CVERecord?id=CVE-2022-41859)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2022-41860](https://www.cve.org/CVERecord?id=CVE-2022-41860)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2022-41861](https://www.cve.org/CVERecord?id=CVE-2022-41861)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** freeradius 3.0.21+dfsg-2.2+deb11u2
+ **Type :** DLA
+
+------------------------------
+
 **2025-06-26** - **[DLA-4231-1](https://security-tracker.debian.org/tracker/DLA-4231-1)** - firefox-esr
 
 **CVE(s) :**
