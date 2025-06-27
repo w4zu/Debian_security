@@ -32,6 +32,17 @@
 
 ------------------------------
 
+**2025-06-26** - **[DSA-5951-1](https://security-tracker.debian.org/tracker/DSA-5951-1)** - icu
+
+**CVE(s) :**
+- **[CVE-2025-5222](https://www.cve.org/CVERecord?id=CVE-2025-5222)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** icu 72.1-3+deb12u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-06-26** - **[DSA-5949-1](https://security-tracker.debian.org/tracker/DSA-5949-1)** - libxml2
 
 **CVE(s) :**
