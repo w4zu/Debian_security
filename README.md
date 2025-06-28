@@ -156,7 +156,7 @@
 
 - **[CVE-2024-47796](https://www.cve.org/CVERecord?id=CVE-2024-47796)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-2357](https://www.cve.org/CVERecord?id=CVE-2025-2357)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-2357](https://www.cve.org/CVERecord?id=CVE-2025-2357)** : 🟠 **Severity: Medium** (Score: 5.3)
 
 - **[CVE-2025-25472](https://www.cve.org/CVERecord?id=CVE-2025-25472)** : **Severity: Unknown** (Score: N/A)
 
@@ -253,7 +253,7 @@
 **2025-06-19** - **[DLA-4222-1](https://security-tracker.debian.org/tracker/DLA-4222-1)** - activemq
 
 **CVE(s) :**
-- **[CVE-2025-27533](https://www.cve.org/CVERecord?id=CVE-2025-27533)** : 🟠 **Severity: Medium** (Score: 6.9)
+- **[CVE-2025-27533](https://www.cve.org/CVERecord?id=CVE-2025-27533)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** activemq 5.16.1-1+deb11u2
