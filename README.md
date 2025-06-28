@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-06-28** - **[DLA-4233-1](https://security-tracker.debian.org/tracker/DLA-4233-1)** - nagvis
+
+**CVE(s) :**
+- **[CVE-2024-38866](https://www.cve.org/CVERecord?id=CVE-2024-38866)** : 🟠 **Severity: Medium** (Score: 5.3)
+
+- **[CVE-2024-47090](https://www.cve.org/CVERecord?id=CVE-2024-47090)** : 🟠 **Severity: Medium** (Score: 5.1)
+
+**Debian Version :** bullseye
+ **Package Version :** nagvis 1:1.9.25-2+deb11u2
+ **Type :** DLA
+
+------------------------------
+
 **2025-06-27** - **[DSA-5952-1](https://security-tracker.debian.org/tracker/DSA-5952-1)** - chromium
 
 **CVE(s) :**
