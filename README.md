@@ -253,7 +253,7 @@
 **2025-06-19** - **[DLA-4222-1](https://security-tracker.debian.org/tracker/DLA-4222-1)** - activemq
 
 **CVE(s) :**
-- **[CVE-2025-27533](https://www.cve.org/CVERecord?id=CVE-2025-27533)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-27533](https://www.cve.org/CVERecord?id=CVE-2025-27533)** : 🟠 **Severity: Medium** (Score: 6.9)
 
 **Debian Version :** bullseye
  **Package Version :** activemq 5.16.1-1+deb11u2
