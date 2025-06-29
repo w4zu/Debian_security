@@ -266,7 +266,7 @@
 **2025-06-19** - **[DLA-4222-1](https://security-tracker.debian.org/tracker/DLA-4222-1)** - activemq
 
 **CVE(s) :**
-- **[CVE-2025-27533](https://www.cve.org/CVERecord?id=CVE-2025-27533)** : 🟠 **Severity: Medium** (Score: 6.9)
+- **[CVE-2025-27533](https://www.cve.org/CVERecord?id=CVE-2025-27533)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** activemq 5.16.1-1+deb11u2
@@ -368,30 +368,6 @@
 
 **Debian Version :** bullseye
  **Package Version :** webkit2gtk 2.48.3-1~deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-06-15** - **[DLA-4217-1](https://security-tracker.debian.org/tracker/DLA-4217-1)** - icu
-
-**CVE(s) :**
-- **[CVE-2025-5222](https://www.cve.org/CVERecord?id=CVE-2025-5222)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** icu 67.1-7+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-06-15** - **[DLA-4216-1](https://security-tracker.debian.org/tracker/DLA-4216-1)** - cjson
-
-**CVE(s) :**
-- **[CVE-2023-26819](https://www.cve.org/CVERecord?id=CVE-2023-26819)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2023-53154](https://www.cve.org/CVERecord?id=CVE-2023-53154)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** cjson 1.7.14-1+deb11u2
  **Type :** DLA
 
 ------------------------------
