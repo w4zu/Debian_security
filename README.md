@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-06-30** - **[DLA-4235-1](https://security-tracker.debian.org/tracker/DLA-4235-1)** - sudo
+
+**CVE(s) :**
+- **[CVE-2025-32462](https://www.cve.org/CVERecord?id=CVE-2025-32462)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** sudo 1.9.5p2-3+deb11u2
+ **Type :** DLA
+
+------------------------------
+
 **2025-06-30** - **[DLA-4234-1](https://security-tracker.debian.org/tracker/DLA-4234-1)** - catdoc
 
 **CVE(s) :**
@@ -12,6 +23,17 @@
 **Debian Version :** bullseye
  **Package Version :** catdoc 1:0.95-4.1+deb11u1
  **Type :** DLA
+
+------------------------------
+
+**2025-06-30** - **[DSA-5954-1](https://security-tracker.debian.org/tracker/DSA-5954-1)** - sudo
+
+**CVE(s) :**
+- **[CVE-2025-32462](https://www.cve.org/CVERecord?id=CVE-2025-32462)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** sudo 1.9.13p3-1+deb12u2
+ **Type :** DSA
 
 ------------------------------
 
