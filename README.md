@@ -1,5 +1,20 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-06-30** - **[DLA-4234-1](https://security-tracker.debian.org/tracker/DLA-4234-1)** - catdoc
+
+**CVE(s) :**
+- **[CVE-2024-48877](https://www.cve.org/CVERecord?id=CVE-2024-48877)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-52035](https://www.cve.org/CVERecord?id=CVE-2024-52035)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-54028](https://www.cve.org/CVERecord?id=CVE-2024-54028)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** catdoc 1:0.95-4.1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-06-29** - **[DSA-5953-1](https://security-tracker.debian.org/tracker/DSA-5953-1)** - catdoc
 
 **CVE(s) :**
