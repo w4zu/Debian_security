@@ -1,5 +1,24 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-06-30** - **[DLA-4236-1](https://security-tracker.debian.org/tracker/DLA-4236-1)** - mbedtls
+
+**CVE(s) :**
+- **[CVE-2021-24119](https://www.cve.org/CVERecord?id=CVE-2021-24119)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2021-36647](https://www.cve.org/CVERecord?id=CVE-2021-36647)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2021-43666](https://www.cve.org/CVERecord?id=CVE-2021-43666)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2021-44732](https://www.cve.org/CVERecord?id=CVE-2021-44732)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2022-46392](https://www.cve.org/CVERecord?id=CVE-2022-46392)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** mbedtls 2.16.9-0.1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-06-30** - **[DLA-4235-1](https://security-tracker.debian.org/tracker/DLA-4235-1)** - sudo
 
 **CVE(s) :**
@@ -335,50 +354,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** chromium 137.0.7151.119-1~deb12u1
- **Type :** DSA
-
-------------------------------
-
-**2025-06-17** - **[DLA-4221-1](https://security-tracker.debian.org/tracker/DLA-4221-1)** - libblockdev
-
-**CVE(s) :**
-- **[CVE-2025-6019](https://www.cve.org/CVERecord?id=CVE-2025-6019)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** libblockdev 2.25-2+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-06-17** - **[DLA-4220-1](https://security-tracker.debian.org/tracker/DLA-4220-1)** - konsole
-
-**CVE(s) :**
-- **[CVE-2025-49091](https://www.cve.org/CVERecord?id=CVE-2025-49091)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** konsole 4:20.12.3-1+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-06-17** - **[DLA-4219-1](https://security-tracker.debian.org/tracker/DLA-4219-1)** - gst-plugins-bad1.0
-
-**CVE(s) :**
-- **[CVE-2025-3887](https://www.cve.org/CVERecord?id=CVE-2025-3887)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** gst-plugins-bad1.0 1.18.4-3+deb11u5
- **Type :** DLA
-
-------------------------------
-
-**2025-06-17** - **[DSA-5943-1](https://security-tracker.debian.org/tracker/DSA-5943-1)** - libblockdev
-
-**CVE(s) :**
-- **[CVE-2025-6019](https://www.cve.org/CVERecord?id=CVE-2025-6019)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** libblockdev 2.28-2+deb12u1
  **Type :** DSA
 
 ------------------------------
