@@ -76,7 +76,7 @@
 **CVE(s) :**
 - **[CVE-2024-38866](https://www.cve.org/CVERecord?id=CVE-2024-38866)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2024-47090](https://www.cve.org/CVERecord?id=CVE-2024-47090)** : 🟠 **Severity: Medium** (Score: 5.1)
+- **[CVE-2024-47090](https://www.cve.org/CVERecord?id=CVE-2024-47090)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** nagvis 1:1.9.25-2+deb11u2
