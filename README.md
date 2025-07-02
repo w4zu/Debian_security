@@ -74,9 +74,9 @@
 **2025-06-28** - **[DLA-4233-1](https://security-tracker.debian.org/tracker/DLA-4233-1)** - nagvis
 
 **CVE(s) :**
-- **[CVE-2024-38866](https://www.cve.org/CVERecord?id=CVE-2024-38866)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-38866](https://www.cve.org/CVERecord?id=CVE-2024-38866)** : 🟠 **Severity: Medium** (Score: 5.3)
 
-- **[CVE-2024-47090](https://www.cve.org/CVERecord?id=CVE-2024-47090)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47090](https://www.cve.org/CVERecord?id=CVE-2024-47090)** : 🟠 **Severity: Medium** (Score: 5.1)
 
 **Debian Version :** bullseye
  **Package Version :** nagvis 1:1.9.25-2+deb11u2
@@ -342,19 +342,6 @@
 **Debian Version :** bullseye
  **Package Version :** activemq 5.16.1-1+deb11u2
  **Type :** DLA
-
-------------------------------
-
-**2025-06-18** - **[DSA-5944-1](https://security-tracker.debian.org/tracker/DSA-5944-1)** - chromium
-
-**CVE(s) :**
-- **[CVE-2025-6191](https://www.cve.org/CVERecord?id=CVE-2025-6191)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-6192](https://www.cve.org/CVERecord?id=CVE-2025-6192)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** chromium 137.0.7151.119-1~deb12u1
- **Type :** DSA
 
 ------------------------------
 
