@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-07-03** - **[DSA-5956-1](https://security-tracker.debian.org/tracker/DSA-5956-1)** - ring
+
+**CVE(s) :**
+- **[CVE-2023-27585](https://www.cve.org/CVERecord?id=CVE-2023-27585)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** ring 20230206.0~ds2-1.1+deb12u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-07-02** - **[DSA-5955-1](https://security-tracker.debian.org/tracker/DSA-5955-1)** - chromium
 
 **CVE(s) :**
