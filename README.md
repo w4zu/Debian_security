@@ -1,5 +1,30 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-07-03** - **[DSA-5957-1](https://security-tracker.debian.org/tracker/DSA-5957-1)** - mediawiki
+
+**CVE(s) :**
+- **[CVE-2025-6590](https://www.cve.org/CVERecord?id=CVE-2025-6590)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-6591](https://www.cve.org/CVERecord?id=CVE-2025-6591)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-6593](https://www.cve.org/CVERecord?id=CVE-2025-6593)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-6594](https://www.cve.org/CVERecord?id=CVE-2025-6594)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-6595](https://www.cve.org/CVERecord?id=CVE-2025-6595)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-6597](https://www.cve.org/CVERecord?id=CVE-2025-6597)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-6926](https://www.cve.org/CVERecord?id=CVE-2025-6926)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-32072](https://www.cve.org/CVERecord?id=CVE-2025-32072)** : 🟠 **Severity: Medium** (Score: 6.9)
+
+**Debian Version :** bookworm
+ **Package Version :** mediawiki 1:1.39.13-1~deb12u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-07-03** - **[DSA-5956-1](https://security-tracker.debian.org/tracker/DSA-5956-1)** - ring
 
 **CVE(s) :**
