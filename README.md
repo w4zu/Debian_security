@@ -1,5 +1,22 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-07-04** - **[DSA-5958-1](https://security-tracker.debian.org/tracker/DSA-5958-1)** - jpeg-xl
+
+**CVE(s) :**
+- **[CVE-2023-0645](https://www.cve.org/CVERecord?id=CVE-2023-0645)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2023-35790](https://www.cve.org/CVERecord?id=CVE-2023-35790)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-11403](https://www.cve.org/CVERecord?id=CVE-2024-11403)** : 🟠 **Severity: Medium** (Score: 6.9)
+
+- **[CVE-2024-11498](https://www.cve.org/CVERecord?id=CVE-2024-11498)** : 🟠 **Severity: Medium** (Score: 6.9)
+
+**Debian Version :** bookworm
+ **Package Version :** jpeg-xl 0.7.0-10+deb12u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-07-03** - **[DSA-5957-1](https://security-tracker.debian.org/tracker/DSA-5957-1)** - mediawiki
 
 **CVE(s) :**
@@ -121,7 +138,7 @@
 **2025-06-28** - **[DLA-4233-1](https://security-tracker.debian.org/tracker/DLA-4233-1)** - nagvis
 
 **CVE(s) :**
-- **[CVE-2024-38866](https://www.cve.org/CVERecord?id=CVE-2024-38866)** : 🟠 **Severity: Medium** (Score: 5.3)
+- **[CVE-2024-38866](https://www.cve.org/CVERecord?id=CVE-2024-38866)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-47090](https://www.cve.org/CVERecord?id=CVE-2024-47090)** : 🟠 **Severity: Medium** (Score: 5.1)
 
