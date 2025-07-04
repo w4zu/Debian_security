@@ -138,7 +138,7 @@
 **2025-06-28** - **[DLA-4233-1](https://security-tracker.debian.org/tracker/DLA-4233-1)** - nagvis
 
 **CVE(s) :**
-- **[CVE-2024-38866](https://www.cve.org/CVERecord?id=CVE-2024-38866)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-38866](https://www.cve.org/CVERecord?id=CVE-2024-38866)** : 🟠 **Severity: Medium** (Score: 5.3)
 
 - **[CVE-2024-47090](https://www.cve.org/CVERecord?id=CVE-2024-47090)** : 🟠 **Severity: Medium** (Score: 5.1)
 
