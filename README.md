@@ -304,7 +304,7 @@
 
 - **[CVE-2024-47796](https://www.cve.org/CVERecord?id=CVE-2024-47796)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-2357](https://www.cve.org/CVERecord?id=CVE-2025-2357)** : 🟠 **Severity: Medium** (Score: 5.3)
+- **[CVE-2025-2357](https://www.cve.org/CVERecord?id=CVE-2025-2357)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-25472](https://www.cve.org/CVERecord?id=CVE-2025-25472)** : **Severity: Unknown** (Score: N/A)
 
