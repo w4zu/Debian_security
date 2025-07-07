@@ -1,5 +1,35 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-07-06** - **[DLA-4237-1](https://security-tracker.debian.org/tracker/DLA-4237-1)** - xmedcon
+
+**CVE(s) :**
+- **[CVE-2025-2581](https://www.cve.org/CVERecord?id=CVE-2025-2581)** : 🟠 **Severity: Medium** (Score: 5.3)
+
+**Debian Version :** bullseye
+ **Package Version :** xmedcon 0.16.3+dfsg-1+deb11u2
+ **Type :** DLA
+
+------------------------------
+
+**2025-07-06** - **[DSA-5959-1](https://security-tracker.debian.org/tracker/DSA-5959-1)** - thunderbird
+
+**CVE(s) :**
+- **[CVE-2025-5986](https://www.cve.org/CVERecord?id=CVE-2025-5986)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-6424](https://www.cve.org/CVERecord?id=CVE-2025-6424)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-6425](https://www.cve.org/CVERecord?id=CVE-2025-6425)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-6429](https://www.cve.org/CVERecord?id=CVE-2025-6429)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-6430](https://www.cve.org/CVERecord?id=CVE-2025-6430)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** thunderbird 1:128.12.0esr-1~deb12u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-07-04** - **[DSA-5958-1](https://security-tracker.debian.org/tracker/DSA-5958-1)** - jpeg-xl
 
 **CVE(s) :**
@@ -329,49 +359,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** trafficserver 9.2.5+ds-0+deb12u3
- **Type :** DSA
-
-------------------------------
-
-**2025-06-23** - **[DLA-4225-1](https://security-tracker.debian.org/tracker/DLA-4225-1)** - gdk-pixbuf
-
-**CVE(s) :**
-- **[CVE-2025-6199](https://www.cve.org/CVERecord?id=CVE-2025-6199)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** gdk-pixbuf 2.42.2+dfsg-1+deb11u3
- **Type :** DLA
-
-------------------------------
-
-**2025-06-23** - **[DLA-4224-1](https://security-tracker.debian.org/tracker/DLA-4224-1)** - node-send
-
-**CVE(s) :**
-- **[CVE-2024-43799](https://www.cve.org/CVERecord?id=CVE-2024-43799)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** node-send 0.17.1-2+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-06-23** - **[DSA-5947-1](https://security-tracker.debian.org/tracker/DSA-5947-1)** - xorg-server
-
-**CVE(s) :**
-- **[CVE-2025-49175](https://www.cve.org/CVERecord?id=CVE-2025-49175)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-49176](https://www.cve.org/CVERecord?id=CVE-2025-49176)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-49177](https://www.cve.org/CVERecord?id=CVE-2025-49177)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-49178](https://www.cve.org/CVERecord?id=CVE-2025-49178)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-49179](https://www.cve.org/CVERecord?id=CVE-2025-49179)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-49180](https://www.cve.org/CVERecord?id=CVE-2025-49180)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** xorg-server 2:21.1.7-3+deb12u10
  **Type :** DSA
 
 ------------------------------
