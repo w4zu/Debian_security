@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-07-08** - **[DSA-5961-1](https://security-tracker.debian.org/tracker/DSA-5961-1)** - slurm-wlm
+
+**CVE(s) :**
+- **[CVE-2025-43904](https://www.cve.org/CVERecord?id=CVE-2025-43904)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** slurm-wlm 22.05.8-4+deb12u3
+ **Type :** DSA
+
+------------------------------
+
 **2025-07-07** - **[DSA-5960-1](https://security-tracker.debian.org/tracker/DSA-5960-1)** - djvulibre
 
 **CVE(s) :**
@@ -50,7 +61,7 @@
 
 - **[CVE-2024-11403](https://www.cve.org/CVERecord?id=CVE-2024-11403)** : 🟠 **Severity: Medium** (Score: 6.9)
 
-- **[CVE-2024-11498](https://www.cve.org/CVERecord?id=CVE-2024-11498)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-11498](https://www.cve.org/CVERecord?id=CVE-2024-11498)** : 🟠 **Severity: Medium** (Score: 6.9)
 
 **Debian Version :** bookworm
  **Package Version :** jpeg-xl 0.7.0-10+deb12u1
