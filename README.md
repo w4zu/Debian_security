@@ -50,7 +50,7 @@
 
 - **[CVE-2024-11403](https://www.cve.org/CVERecord?id=CVE-2024-11403)** : 🟠 **Severity: Medium** (Score: 6.9)
 
-- **[CVE-2024-11498](https://www.cve.org/CVERecord?id=CVE-2024-11498)** : 🟠 **Severity: Medium** (Score: 6.9)
+- **[CVE-2024-11498](https://www.cve.org/CVERecord?id=CVE-2024-11498)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** jpeg-xl 0.7.0-10+deb12u1
