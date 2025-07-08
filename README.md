@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-07-07** - **[DSA-5960-1](https://security-tracker.debian.org/tracker/DSA-5960-1)** - djvulibre
+
+**CVE(s) :**
+- **[CVE-2025-53367](https://www.cve.org/CVERecord?id=CVE-2025-53367)** : 🔥 **Severity: High** (Score: 8.4)
+
+**Debian Version :** bookworm
+ **Package Version :** djvulibre 3.5.28-2.1~deb12u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-07-06** - **[DLA-4237-1](https://security-tracker.debian.org/tracker/DLA-4237-1)** - xmedcon
 
 **CVE(s) :**
@@ -308,57 +319,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** firefox-esr 128.12.0esr-1~deb12u1
- **Type :** DSA
-
-------------------------------
-
-**2025-06-24** - **[DLA-4228-1](https://security-tracker.debian.org/tracker/DLA-4228-1)** - nginx
-
-**CVE(s) :**
-- **[CVE-2020-36309](https://www.cve.org/CVERecord?id=CVE-2020-36309)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-33452](https://www.cve.org/CVERecord?id=CVE-2024-33452)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** nginx 1.18.0-6.1+deb11u5
- **Type :** DLA
-
-------------------------------
-
-**2025-06-24** - **[DLA-4227-1](https://security-tracker.debian.org/tracker/DLA-4227-1)** - dcmtk
-
-**CVE(s) :**
-- **[CVE-2022-2119](https://www.cve.org/CVERecord?id=CVE-2022-2119)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2022-2120](https://www.cve.org/CVERecord?id=CVE-2022-2120)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-47796](https://www.cve.org/CVERecord?id=CVE-2024-47796)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-2357](https://www.cve.org/CVERecord?id=CVE-2025-2357)** : 🟠 **Severity: Medium** (Score: 5.3)
-
-- **[CVE-2025-25472](https://www.cve.org/CVERecord?id=CVE-2025-25472)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-25474](https://www.cve.org/CVERecord?id=CVE-2025-25474)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-25475](https://www.cve.org/CVERecord?id=CVE-2025-25475)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** dcmtk 3.6.5-1+deb11u4
- **Type :** DLA
-
-------------------------------
-
-**2025-06-24** - **[DSA-5948-1](https://security-tracker.debian.org/tracker/DSA-5948-1)** - trafficserver
-
-**CVE(s) :**
-- **[CVE-2024-53868](https://www.cve.org/CVERecord?id=CVE-2024-53868)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-31698](https://www.cve.org/CVERecord?id=CVE-2025-31698)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-49763](https://www.cve.org/CVERecord?id=CVE-2025-49763)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** trafficserver 9.2.5+ds-0+deb12u3
  **Type :** DSA
 
 ------------------------------
