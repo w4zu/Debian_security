@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-07-09** - **[DLA-4238-1](https://security-tracker.debian.org/tracker/DLA-4238-1)** - sslh
+
+**CVE(s) :**
+- **[CVE-2025-52936](https://www.cve.org/CVERecord?id=CVE-2025-52936)** : 🔥 **Severity: High** (Score: 9.3)
+
+**Debian Version :** bullseye
+ **Package Version :** sslh 1.20-1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-07-08** - **[DSA-5961-1](https://security-tracker.debian.org/tracker/DSA-5961-1)** - slurm-wlm
 
 **CVE(s) :**
@@ -211,78 +222,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** chromium 138.0.7204.49-1~deb12u1
- **Type :** DSA
-
-------------------------------
-
-**2025-06-26** - **[DLA-4232-1](https://security-tracker.debian.org/tracker/DLA-4232-1)** - freeradius
-
-**CVE(s) :**
-- **[CVE-2022-41859](https://www.cve.org/CVERecord?id=CVE-2022-41859)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2022-41860](https://www.cve.org/CVERecord?id=CVE-2022-41860)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2022-41861](https://www.cve.org/CVERecord?id=CVE-2022-41861)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** freeradius 3.0.21+dfsg-2.2+deb11u2
- **Type :** DLA
-
-------------------------------
-
-**2025-06-26** - **[DLA-4231-1](https://security-tracker.debian.org/tracker/DLA-4231-1)** - firefox-esr
-
-**CVE(s) :**
-- **[CVE-2025-6424](https://www.cve.org/CVERecord?id=CVE-2025-6424)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-6425](https://www.cve.org/CVERecord?id=CVE-2025-6425)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-6429](https://www.cve.org/CVERecord?id=CVE-2025-6429)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-6430](https://www.cve.org/CVERecord?id=CVE-2025-6430)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** firefox-esr 128.12.0esr-1~deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-06-26** - **[DSA-5951-1](https://security-tracker.debian.org/tracker/DSA-5951-1)** - icu
-
-**CVE(s) :**
-- **[CVE-2025-5222](https://www.cve.org/CVERecord?id=CVE-2025-5222)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** icu 72.1-3+deb12u1
- **Type :** DSA
-
-------------------------------
-
-**2025-06-26** - **[DSA-5949-1](https://security-tracker.debian.org/tracker/DSA-5949-1)** - libxml2
-
-**CVE(s) :**
-- **[CVE-2022-49043](https://www.cve.org/CVERecord?id=CVE-2022-49043)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2023-39615](https://www.cve.org/CVERecord?id=CVE-2023-39615)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2023-45322](https://www.cve.org/CVERecord?id=CVE-2023-45322)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-25062](https://www.cve.org/CVERecord?id=CVE-2024-25062)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-34459](https://www.cve.org/CVERecord?id=CVE-2024-34459)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-56171](https://www.cve.org/CVERecord?id=CVE-2024-56171)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-24928](https://www.cve.org/CVERecord?id=CVE-2025-24928)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-27113](https://www.cve.org/CVERecord?id=CVE-2025-27113)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-32414](https://www.cve.org/CVERecord?id=CVE-2025-32414)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-32415](https://www.cve.org/CVERecord?id=CVE-2025-32415)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** libxml2 2.9.14+dfsg-1.3~deb12u2
  **Type :** DSA
 
 ------------------------------
