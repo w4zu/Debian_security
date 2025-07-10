@@ -36,7 +36,7 @@
 **2025-07-06** - **[DLA-4237-1](https://security-tracker.debian.org/tracker/DLA-4237-1)** - xmedcon
 
 **CVE(s) :**
-- **[CVE-2025-2581](https://www.cve.org/CVERecord?id=CVE-2025-2581)** : 🟠 **Severity: Medium** (Score: 5.3)
+- **[CVE-2025-2581](https://www.cve.org/CVERecord?id=CVE-2025-2581)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** xmedcon 0.16.3+dfsg-1+deb11u2
