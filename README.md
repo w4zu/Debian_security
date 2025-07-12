@@ -55,7 +55,7 @@
 **2025-07-06** - **[DLA-4237-1](https://security-tracker.debian.org/tracker/DLA-4237-1)** - xmedcon
 
 **CVE(s) :**
-- **[CVE-2025-2581](https://www.cve.org/CVERecord?id=CVE-2025-2581)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-2581](https://www.cve.org/CVERecord?id=CVE-2025-2581)** : 🟠 **Severity: Medium** (Score: 5.3)
 
 **Debian Version :** bullseye
  **Package Version :** xmedcon 0.16.3+dfsg-1+deb11u2
@@ -91,7 +91,7 @@
 
 - **[CVE-2024-11403](https://www.cve.org/CVERecord?id=CVE-2024-11403)** : 🟠 **Severity: Medium** (Score: 6.9)
 
-- **[CVE-2024-11498](https://www.cve.org/CVERecord?id=CVE-2024-11498)** : 🟠 **Severity: Medium** (Score: 6.9)
+- **[CVE-2024-11498](https://www.cve.org/CVERecord?id=CVE-2024-11498)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** jpeg-xl 0.7.0-10+deb12u1
