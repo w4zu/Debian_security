@@ -91,7 +91,7 @@
 
 - **[CVE-2024-11403](https://www.cve.org/CVERecord?id=CVE-2024-11403)** : 🟠 **Severity: Medium** (Score: 6.9)
 
-- **[CVE-2024-11498](https://www.cve.org/CVERecord?id=CVE-2024-11498)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-11498](https://www.cve.org/CVERecord?id=CVE-2024-11498)** : 🟠 **Severity: Medium** (Score: 6.9)
 
 **Debian Version :** bookworm
  **Package Version :** jpeg-xl 0.7.0-10+deb12u1
@@ -116,7 +116,7 @@
 
 - **[CVE-2025-6926](https://www.cve.org/CVERecord?id=CVE-2025-6926)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-32072](https://www.cve.org/CVERecord?id=CVE-2025-32072)** : 🟠 **Severity: Medium** (Score: 6.9)
+- **[CVE-2025-32072](https://www.cve.org/CVERecord?id=CVE-2025-32072)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** mediawiki 1:1.39.13-1~deb12u1
