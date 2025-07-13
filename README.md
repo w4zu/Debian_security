@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-07-12** - **[DLA-4240-1](https://security-tracker.debian.org/tracker/DLA-4240-1)** - redis
+
+**CVE(s) :**
+- **[CVE-2025-32023](https://www.cve.org/CVERecord?id=CVE-2025-32023)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-48367](https://www.cve.org/CVERecord?id=CVE-2025-48367)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** redis 5:6.0.16-1+deb11u7
+ **Type :** DLA
+
+------------------------------
+
 **2025-07-11** - **[DLA-4239-1](https://security-tracker.debian.org/tracker/DLA-4239-1)** - thunderbird
 
 **CVE(s) :**
@@ -198,21 +211,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** sudo 1.9.13p3-1+deb12u2
- **Type :** DSA
-
-------------------------------
-
-**2025-06-29** - **[DSA-5953-1](https://security-tracker.debian.org/tracker/DSA-5953-1)** - catdoc
-
-**CVE(s) :**
-- **[CVE-2024-48877](https://www.cve.org/CVERecord?id=CVE-2024-48877)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-52035](https://www.cve.org/CVERecord?id=CVE-2024-52035)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-54028](https://www.cve.org/CVERecord?id=CVE-2024-54028)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** catdoc 1:0.95-6~deb12u1
  **Type :** DSA
 
 ------------------------------
