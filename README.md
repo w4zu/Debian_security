@@ -57,7 +57,7 @@
 **2025-07-07** - **[DSA-5960-1](https://security-tracker.debian.org/tracker/DSA-5960-1)** - djvulibre
 
 **CVE(s) :**
-- **[CVE-2025-53367](https://www.cve.org/CVERecord?id=CVE-2025-53367)** : 🔥 **Severity: High** (Score: 8.4)
+- **[CVE-2025-53367](https://www.cve.org/CVERecord?id=CVE-2025-53367)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** djvulibre 3.5.28-2.1~deb12u1
@@ -155,62 +155,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** chromium 138.0.7204.92-1~deb12u1
- **Type :** DSA
-
-------------------------------
-
-**2025-06-30** - **[DLA-4236-1](https://security-tracker.debian.org/tracker/DLA-4236-1)** - mbedtls
-
-**CVE(s) :**
-- **[CVE-2021-24119](https://www.cve.org/CVERecord?id=CVE-2021-24119)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2021-36647](https://www.cve.org/CVERecord?id=CVE-2021-36647)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2021-43666](https://www.cve.org/CVERecord?id=CVE-2021-43666)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2021-44732](https://www.cve.org/CVERecord?id=CVE-2021-44732)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2022-46392](https://www.cve.org/CVERecord?id=CVE-2022-46392)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** mbedtls 2.16.9-0.1+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-06-30** - **[DLA-4235-1](https://security-tracker.debian.org/tracker/DLA-4235-1)** - sudo
-
-**CVE(s) :**
-- **[CVE-2025-32462](https://www.cve.org/CVERecord?id=CVE-2025-32462)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** sudo 1.9.5p2-3+deb11u2
- **Type :** DLA
-
-------------------------------
-
-**2025-06-30** - **[DLA-4234-1](https://security-tracker.debian.org/tracker/DLA-4234-1)** - catdoc
-
-**CVE(s) :**
-- **[CVE-2024-48877](https://www.cve.org/CVERecord?id=CVE-2024-48877)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-52035](https://www.cve.org/CVERecord?id=CVE-2024-52035)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-54028](https://www.cve.org/CVERecord?id=CVE-2024-54028)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** catdoc 1:0.95-4.1+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-06-30** - **[DSA-5954-1](https://security-tracker.debian.org/tracker/DSA-5954-1)** - sudo
-
-**CVE(s) :**
-- **[CVE-2025-32462](https://www.cve.org/CVERecord?id=CVE-2025-32462)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** sudo 1.9.13p3-1+deb12u2
  **Type :** DSA
 
 ------------------------------
