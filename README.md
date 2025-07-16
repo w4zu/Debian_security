@@ -85,7 +85,7 @@
 **2025-07-06** - **[DLA-4237-1](https://security-tracker.debian.org/tracker/DLA-4237-1)** - xmedcon
 
 **CVE(s) :**
-- **[CVE-2025-2581](https://www.cve.org/CVERecord?id=CVE-2025-2581)** : 🟠 **Severity: Medium** (Score: 5.3)
+- **[CVE-2025-2581](https://www.cve.org/CVERecord?id=CVE-2025-2581)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** xmedcon 0.16.3+dfsg-1+deb11u2
@@ -161,17 +161,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** ring 20230206.0~ds2-1.1+deb12u1
- **Type :** DSA
-
-------------------------------
-
-**2025-07-02** - **[DSA-5955-1](https://security-tracker.debian.org/tracker/DSA-5955-1)** - chromium
-
-**CVE(s) :**
-- **[CVE-2025-6554](https://www.cve.org/CVERecord?id=CVE-2025-6554)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** chromium 138.0.7204.92-1~deb12u1
  **Type :** DSA
 
 ------------------------------
