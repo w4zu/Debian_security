@@ -1,5 +1,20 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-07-17** - **[DSA-5963-1](https://security-tracker.debian.org/tracker/DSA-5963-1)** - chromium
+
+**CVE(s) :**
+- **[CVE-2025-6558](https://www.cve.org/CVERecord?id=CVE-2025-6558)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-7656](https://www.cve.org/CVERecord?id=CVE-2025-7656)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-7657](https://www.cve.org/CVERecord?id=CVE-2025-7657)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** chromium 138.0.7204.157-1~deb12u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-07-16** - **[DSA-5962-1](https://security-tracker.debian.org/tracker/DSA-5962-1)** - gnutls28
 
 **CVE(s) :**
@@ -91,7 +106,7 @@
 **2025-07-07** - **[DSA-5960-1](https://security-tracker.debian.org/tracker/DSA-5960-1)** - djvulibre
 
 **CVE(s) :**
-- **[CVE-2025-53367](https://www.cve.org/CVERecord?id=CVE-2025-53367)** : 🔥 **Severity: High** (Score: 8.4)
+- **[CVE-2025-53367](https://www.cve.org/CVERecord?id=CVE-2025-53367)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** djvulibre 3.5.28-2.1~deb12u1
