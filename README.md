@@ -84,7 +84,7 @@
 **2025-07-09** - **[DLA-4238-1](https://security-tracker.debian.org/tracker/DLA-4238-1)** - sslh
 
 **CVE(s) :**
-- **[CVE-2025-52936](https://www.cve.org/CVERecord?id=CVE-2025-52936)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-52936](https://www.cve.org/CVERecord?id=CVE-2025-52936)** : 🔥 **Severity: High** (Score: 9.3)
 
 **Debian Version :** bullseye
  **Package Version :** sslh 1.20-1+deb11u1
@@ -140,23 +140,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** thunderbird 1:128.12.0esr-1~deb12u1
- **Type :** DSA
-
-------------------------------
-
-**2025-07-04** - **[DSA-5958-1](https://security-tracker.debian.org/tracker/DSA-5958-1)** - jpeg-xl
-
-**CVE(s) :**
-- **[CVE-2023-0645](https://www.cve.org/CVERecord?id=CVE-2023-0645)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2023-35790](https://www.cve.org/CVERecord?id=CVE-2023-35790)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-11403](https://www.cve.org/CVERecord?id=CVE-2024-11403)** : 🟠 **Severity: Medium** (Score: 6.9)
-
-- **[CVE-2024-11498](https://www.cve.org/CVERecord?id=CVE-2024-11498)** : 🟠 **Severity: Medium** (Score: 6.9)
-
-**Debian Version :** bookworm
- **Package Version :** jpeg-xl 0.7.0-10+deb12u1
  **Type :** DSA
 
 ------------------------------
