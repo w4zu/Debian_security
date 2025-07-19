@@ -106,7 +106,7 @@
 **2025-07-07** - **[DSA-5960-1](https://security-tracker.debian.org/tracker/DSA-5960-1)** - djvulibre
 
 **CVE(s) :**
-- **[CVE-2025-53367](https://www.cve.org/CVERecord?id=CVE-2025-53367)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-53367](https://www.cve.org/CVERecord?id=CVE-2025-53367)** : 🔥 **Severity: High** (Score: 8.4)
 
 **Debian Version :** bookworm
  **Package Version :** djvulibre 3.5.28-2.1~deb12u1
