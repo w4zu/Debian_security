@@ -1,5 +1,32 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-07-20** - **[DLA-4242-1](https://security-tracker.debian.org/tracker/DLA-4242-1)** - angular.js
+
+**CVE(s) :**
+- **[CVE-2022-25844](https://www.cve.org/CVERecord?id=CVE-2022-25844)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2023-26116](https://www.cve.org/CVERecord?id=CVE-2023-26116)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2023-26117](https://www.cve.org/CVERecord?id=CVE-2023-26117)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2023-26118](https://www.cve.org/CVERecord?id=CVE-2023-26118)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-8372](https://www.cve.org/CVERecord?id=CVE-2024-8372)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-8373](https://www.cve.org/CVERecord?id=CVE-2024-8373)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-21490](https://www.cve.org/CVERecord?id=CVE-2024-21490)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-0716](https://www.cve.org/CVERecord?id=CVE-2025-0716)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-2336](https://www.cve.org/CVERecord?id=CVE-2025-2336)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** angular.js 1.8.3-1+deb12u1~deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-07-17** - **[DSA-5963-1](https://security-tracker.debian.org/tracker/DSA-5963-1)** - chromium
 
 **CVE(s) :**
@@ -106,40 +133,10 @@
 **2025-07-07** - **[DSA-5960-1](https://security-tracker.debian.org/tracker/DSA-5960-1)** - djvulibre
 
 **CVE(s) :**
-- **[CVE-2025-53367](https://www.cve.org/CVERecord?id=CVE-2025-53367)** : 🔥 **Severity: High** (Score: 8.4)
+- **[CVE-2025-53367](https://www.cve.org/CVERecord?id=CVE-2025-53367)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** djvulibre 3.5.28-2.1~deb12u1
- **Type :** DSA
-
-------------------------------
-
-**2025-07-06** - **[DLA-4237-1](https://security-tracker.debian.org/tracker/DLA-4237-1)** - xmedcon
-
-**CVE(s) :**
-- **[CVE-2025-2581](https://www.cve.org/CVERecord?id=CVE-2025-2581)** : 🟠 **Severity: Medium** (Score: 5.3)
-
-**Debian Version :** bullseye
- **Package Version :** xmedcon 0.16.3+dfsg-1+deb11u2
- **Type :** DLA
-
-------------------------------
-
-**2025-07-06** - **[DSA-5959-1](https://security-tracker.debian.org/tracker/DSA-5959-1)** - thunderbird
-
-**CVE(s) :**
-- **[CVE-2025-5986](https://www.cve.org/CVERecord?id=CVE-2025-5986)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-6424](https://www.cve.org/CVERecord?id=CVE-2025-6424)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-6425](https://www.cve.org/CVERecord?id=CVE-2025-6425)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-6429](https://www.cve.org/CVERecord?id=CVE-2025-6429)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-6430](https://www.cve.org/CVERecord?id=CVE-2025-6430)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** thunderbird 1:128.12.0esr-1~deb12u1
  **Type :** DSA
 
 ------------------------------
