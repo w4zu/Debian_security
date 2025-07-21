@@ -1,5 +1,22 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-07-20** - **[DLA-4243-1](https://security-tracker.debian.org/tracker/DLA-4243-1)** - batik
+
+**CVE(s) :**
+- **[CVE-2020-11987](https://www.cve.org/CVERecord?id=CVE-2020-11987)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2022-38398](https://www.cve.org/CVERecord?id=CVE-2022-38398)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2022-38648](https://www.cve.org/CVERecord?id=CVE-2022-38648)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2022-40146](https://www.cve.org/CVERecord?id=CVE-2022-40146)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** batik 1.12-4+deb11u3
+ **Type :** DLA
+
+------------------------------
+
 **2025-07-20** - **[DLA-4242-1](https://security-tracker.debian.org/tracker/DLA-4242-1)** - angular.js
 
 **CVE(s) :**
@@ -126,17 +143,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** slurm-wlm 22.05.8-4+deb12u3
- **Type :** DSA
-
-------------------------------
-
-**2025-07-07** - **[DSA-5960-1](https://security-tracker.debian.org/tracker/DSA-5960-1)** - djvulibre
-
-**CVE(s) :**
-- **[CVE-2025-53367](https://www.cve.org/CVERecord?id=CVE-2025-53367)** : 🔥 **Severity: High** (Score: 8.4)
-
-**Debian Version :** bookworm
- **Package Version :** djvulibre 3.5.28-2.1~deb12u1
  **Type :** DSA
 
 ------------------------------
