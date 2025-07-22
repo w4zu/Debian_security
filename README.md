@@ -210,14 +210,3 @@
 
 ------------------------------
 
-**2025-07-08** - **[DSA-5961-1](https://security-tracker.debian.org/tracker/DSA-5961-1)** - slurm-wlm
-
-**CVE(s) :**
-- **[CVE-2025-43904](https://www.cve.org/CVERecord?id=CVE-2025-43904)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** slurm-wlm 22.05.8-4+deb12u3
- **Type :** DSA
-
-------------------------------
-
