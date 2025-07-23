@@ -1,5 +1,24 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-07-23** - **[DLA-4248-1](https://security-tracker.debian.org/tracker/DLA-4248-1)** - openjdk-11
+
+**CVE(s) :**
+- **[CVE-2025-30749](https://www.cve.org/CVERecord?id=CVE-2025-30749)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-30754](https://www.cve.org/CVERecord?id=CVE-2025-30754)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-30761](https://www.cve.org/CVERecord?id=CVE-2025-30761)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-50059](https://www.cve.org/CVERecord?id=CVE-2025-50059)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-50106](https://www.cve.org/CVERecord?id=CVE-2025-50106)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** openjdk-11 11.0.28+6-1~deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-07-21** - **[DLA-4247-1](https://security-tracker.debian.org/tracker/DLA-4247-1)** - djvulibre
 
 **CVE(s) :**
