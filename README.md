@@ -199,14 +199,3 @@
 
 ------------------------------
 
-**2025-07-09** - **[DLA-4238-1](https://security-tracker.debian.org/tracker/DLA-4238-1)** - sslh
-
-**CVE(s) :**
-- **[CVE-2025-52936](https://www.cve.org/CVERecord?id=CVE-2025-52936)** : 🔥 **Severity: High** (Score: 9.3)
-
-**Debian Version :** bullseye
- **Package Version :** sslh 1.20-1+deb11u1
- **Type :** DLA
-
-------------------------------
-
