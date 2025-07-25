@@ -299,22 +299,3 @@
 
 ------------------------------
 
-**2025-07-11** - **[DLA-4239-1](https://security-tracker.debian.org/tracker/DLA-4239-1)** - thunderbird
-
-**CVE(s) :**
-- **[CVE-2025-5986](https://www.cve.org/CVERecord?id=CVE-2025-5986)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-6424](https://www.cve.org/CVERecord?id=CVE-2025-6424)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-6425](https://www.cve.org/CVERecord?id=CVE-2025-6425)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-6429](https://www.cve.org/CVERecord?id=CVE-2025-6429)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-6430](https://www.cve.org/CVERecord?id=CVE-2025-6430)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** thunderbird 1:128.12.0esr-1~deb11u1
- **Type :** DLA
-
-------------------------------
-
