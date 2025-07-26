@@ -286,16 +286,3 @@
 
 ------------------------------
 
-**2025-07-12** - **[DLA-4240-1](https://security-tracker.debian.org/tracker/DLA-4240-1)** - redis
-
-**CVE(s) :**
-- **[CVE-2025-32023](https://www.cve.org/CVERecord?id=CVE-2025-32023)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-48367](https://www.cve.org/CVERecord?id=CVE-2025-48367)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** redis 5:6.0.16-1+deb11u7
- **Type :** DLA
-
-------------------------------
-
