@@ -1,5 +1,20 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-07-27** - **[DLA-4254-1](https://security-tracker.debian.org/tracker/DLA-4254-1)** - php7.4
+
+**CVE(s) :**
+- **[CVE-2025-1220](https://www.cve.org/CVERecord?id=CVE-2025-1220)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-1735](https://www.cve.org/CVERecord?id=CVE-2025-1735)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-6491](https://www.cve.org/CVERecord?id=CVE-2025-6491)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** php7.4 7.4.33-1+deb11u9
+ **Type :** DLA
+
+------------------------------
+
 **2025-07-27** - **[DLA-4253-1](https://security-tracker.debian.org/tracker/DLA-4253-1)** - thunderbird
 
 **CVE(s) :**
