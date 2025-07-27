@@ -1,5 +1,35 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-07-27** - **[DLA-4252-1](https://security-tracker.debian.org/tracker/DLA-4252-1)** - snapcast
+
+**CVE(s) :**
+- **[CVE-2023-36177](https://www.cve.org/CVERecord?id=CVE-2023-36177)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** snapcast 0.23.0+dfsg1-1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2025-07-26** - **[DLA-4251-1](https://security-tracker.debian.org/tracker/DLA-4251-1)** - libxml2
+
+**CVE(s) :**
+- **[CVE-2024-34459](https://www.cve.org/CVERecord?id=CVE-2024-34459)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-6021](https://www.cve.org/CVERecord?id=CVE-2025-6021)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-6170](https://www.cve.org/CVERecord?id=CVE-2025-6170)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-49794](https://www.cve.org/CVERecord?id=CVE-2025-49794)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-49796](https://www.cve.org/CVERecord?id=CVE-2025-49796)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** libxml2 2.9.10+dfsg-6.7+deb11u8
+ **Type :** DLA
+
+------------------------------
+
 **2025-07-24** - **[DLA-4250-1](https://security-tracker.debian.org/tracker/DLA-4250-1)** - firefox-esr
 
 **CVE(s) :**
@@ -65,7 +95,7 @@
 
 - **[CVE-2025-32698](https://www.cve.org/CVERecord?id=CVE-2025-32698)** : 🟠 **Severity: Medium** (Score: 2.1)
 
-- **[CVE-2025-32699](https://www.cve.org/CVERecord?id=CVE-2025-32699)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-32699](https://www.cve.org/CVERecord?id=CVE-2025-32699)** : 🟠 **Severity: Medium** (Score: 2.1)
 
 **Debian Version :** bullseye
  **Package Version :** mediawiki 1:1.35.13-1+deb11u4
@@ -141,7 +171,7 @@
 
 - **[CVE-2022-24891](https://www.cve.org/CVERecord?id=CVE-2022-24891)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-5878](https://www.cve.org/CVERecord?id=CVE-2025-5878)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-5878](https://www.cve.org/CVERecord?id=CVE-2025-5878)** : 🟠 **Severity: Medium** (Score: 6.9)
 
 **Debian Version :** bullseye
  **Package Version :** libowasp-esapi-java 2.4.0.0-0+deb11u1
