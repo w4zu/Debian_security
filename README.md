@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-07-28** - **[DLA-4258-1](https://security-tracker.debian.org/tracker/DLA-4258-1)** - libfastjson
+
+**CVE(s) :**
+- **[CVE-2020-12762](https://www.cve.org/CVERecord?id=CVE-2020-12762)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** libfastjson 0.99.9-1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-07-28** - **[DLA-4257-1](https://security-tracker.debian.org/tracker/DLA-4257-1)** - libcaca
 
 **CVE(s) :**
@@ -195,7 +206,7 @@
 
 - **[CVE-2025-6926](https://www.cve.org/CVERecord?id=CVE-2025-6926)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-32072](https://www.cve.org/CVERecord?id=CVE-2025-32072)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-32072](https://www.cve.org/CVERecord?id=CVE-2025-32072)** : 🟠 **Severity: Medium** (Score: 6.9)
 
 - **[CVE-2025-32696](https://www.cve.org/CVERecord?id=CVE-2025-32696)** : **Severity: Unknown** (Score: N/A)
 
