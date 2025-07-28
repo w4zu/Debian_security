@@ -1,5 +1,42 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-07-28** - **[DLA-4257-1](https://security-tracker.debian.org/tracker/DLA-4257-1)** - libcaca
+
+**CVE(s) :**
+- **[CVE-2021-30498](https://www.cve.org/CVERecord?id=CVE-2021-30498)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2021-30499](https://www.cve.org/CVERecord?id=CVE-2021-30499)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** libcaca 0.99.beta19-2.2+deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2025-07-28** - **[DLA-4256-1](https://security-tracker.debian.org/tracker/DLA-4256-1)** - libetpan
+
+**CVE(s) :**
+- **[CVE-2022-4121](https://www.cve.org/CVERecord?id=CVE-2022-4121)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** libetpan 1.9.4-3+deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2025-07-28** - **[DLA-4255-1](https://security-tracker.debian.org/tracker/DLA-4255-1)** - audiofile
+
+**CVE(s) :**
+- **[CVE-2019-13147](https://www.cve.org/CVERecord?id=CVE-2019-13147)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2022-24599](https://www.cve.org/CVERecord?id=CVE-2022-24599)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** audiofile 0.3.6-5+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-07-27** - **[DLA-4254-1](https://security-tracker.debian.org/tracker/DLA-4254-1)** - php7.4
 
 **CVE(s) :**
@@ -158,7 +195,7 @@
 
 - **[CVE-2025-6926](https://www.cve.org/CVERecord?id=CVE-2025-6926)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-32072](https://www.cve.org/CVERecord?id=CVE-2025-32072)** : 🟠 **Severity: Medium** (Score: 6.9)
+- **[CVE-2025-32072](https://www.cve.org/CVERecord?id=CVE-2025-32072)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-32696](https://www.cve.org/CVERecord?id=CVE-2025-32696)** : **Severity: Unknown** (Score: N/A)
 
