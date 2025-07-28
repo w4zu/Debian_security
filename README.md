@@ -368,20 +368,3 @@
 
 ------------------------------
 
-**2025-07-14** - **[DLA-4241-1](https://security-tracker.debian.org/tracker/DLA-4241-1)** - ffmpeg
-
-**CVE(s) :**
-- **[CVE-2023-6601](https://www.cve.org/CVERecord?id=CVE-2023-6601)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2023-6602](https://www.cve.org/CVERecord?id=CVE-2023-6602)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2023-6604](https://www.cve.org/CVERecord?id=CVE-2023-6604)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2023-6605](https://www.cve.org/CVERecord?id=CVE-2023-6605)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** ffmpeg 7:4.3.9-0+deb11u1
- **Type :** DLA
-
-------------------------------
-
