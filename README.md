@@ -48,6 +48,21 @@
 
 ------------------------------
 
+**2025-07-28** - **[DSA-5967-1](https://security-tracker.debian.org/tracker/DSA-5967-1)** - php8.2
+
+**CVE(s) :**
+- **[CVE-2025-1220](https://www.cve.org/CVERecord?id=CVE-2025-1220)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-1735](https://www.cve.org/CVERecord?id=CVE-2025-1735)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-6491](https://www.cve.org/CVERecord?id=CVE-2025-6491)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** php8.2 8.2.29-1~deb12u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-07-27** - **[DLA-4254-1](https://security-tracker.debian.org/tracker/DLA-4254-1)** - php7.4
 
 **CVE(s) :**
@@ -206,7 +221,7 @@
 
 - **[CVE-2025-6926](https://www.cve.org/CVERecord?id=CVE-2025-6926)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-32072](https://www.cve.org/CVERecord?id=CVE-2025-32072)** : 🟠 **Severity: Medium** (Score: 6.9)
+- **[CVE-2025-32072](https://www.cve.org/CVERecord?id=CVE-2025-32072)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-32696](https://www.cve.org/CVERecord?id=CVE-2025-32696)** : **Severity: Unknown** (Score: N/A)
 
