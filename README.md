@@ -303,7 +303,7 @@
 
 - **[CVE-2022-24891](https://www.cve.org/CVERecord?id=CVE-2022-24891)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-5878](https://www.cve.org/CVERecord?id=CVE-2025-5878)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-5878](https://www.cve.org/CVERecord?id=CVE-2025-5878)** : 🟠 **Severity: Medium** (Score: 6.9)
 
 **Debian Version :** bullseye
  **Package Version :** libowasp-esapi-java 2.4.0.0-0+deb11u1
@@ -410,23 +410,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** chromium 138.0.7204.157-1~deb12u1
- **Type :** DSA
-
-------------------------------
-
-**2025-07-16** - **[DSA-5962-1](https://security-tracker.debian.org/tracker/DSA-5962-1)** - gnutls28
-
-**CVE(s) :**
-- **[CVE-2025-6395](https://www.cve.org/CVERecord?id=CVE-2025-6395)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-32988](https://www.cve.org/CVERecord?id=CVE-2025-32988)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-32989](https://www.cve.org/CVERecord?id=CVE-2025-32989)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-32990](https://www.cve.org/CVERecord?id=CVE-2025-32990)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** gnutls28 3.7.9-2+deb12u5
  **Type :** DSA
 
 ------------------------------
