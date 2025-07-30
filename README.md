@@ -288,7 +288,7 @@
 
 - **[CVE-2021-46312](https://www.cve.org/CVERecord?id=CVE-2021-46312)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-53367](https://www.cve.org/CVERecord?id=CVE-2025-53367)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-53367](https://www.cve.org/CVERecord?id=CVE-2025-53367)** : 🔥 **Severity: High** (Score: 8.4)
 
 **Debian Version :** bullseye
  **Package Version :** djvulibre 3.5.28-2.2~deb11u1
