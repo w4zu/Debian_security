@@ -1,5 +1,53 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-07-31** - **[DLA-4261-1](https://security-tracker.debian.org/tracker/DLA-4261-1)** - node-form-data
+
+**CVE(s) :**
+- **[CVE-2025-7783](https://www.cve.org/CVERecord?id=CVE-2025-7783)** : 🔥 **Severity: High** (Score: 9.4)
+
+**Debian Version :** bullseye
+ **Package Version :** node-form-data 3.0.0-2+deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2025-07-31** - **[DLA-4260-1](https://security-tracker.debian.org/tracker/DLA-4260-1)** - sope
+
+**CVE(s) :**
+- **[CVE-2025-53603](https://www.cve.org/CVERecord?id=CVE-2025-53603)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** sope 5.0.1-2+deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2025-07-31** - **[DSA-5970-1](https://security-tracker.debian.org/tracker/DSA-5970-1)** - sope
+
+**CVE(s) :**
+- **[CVE-2025-53603](https://www.cve.org/CVERecord?id=CVE-2025-53603)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** sope 5.8.0-1+deb12u1
+ **Type :** DSA
+
+------------------------------
+
+**2025-07-31** - **[DSA-5969-1](https://security-tracker.debian.org/tracker/DSA-5969-1)** - redis
+
+**CVE(s) :**
+- **[CVE-2025-27151](https://www.cve.org/CVERecord?id=CVE-2025-27151)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-32023](https://www.cve.org/CVERecord?id=CVE-2025-32023)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-48367](https://www.cve.org/CVERecord?id=CVE-2025-48367)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** redis 5:7.0.15-1~deb12u5
+ **Type :** DSA
+
+------------------------------
+
 **2025-07-30** - **[DLA-4259-1](https://security-tracker.debian.org/tracker/DLA-4259-1)** - systemd
 
 **CVE(s) :**
