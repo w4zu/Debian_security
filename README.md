@@ -308,7 +308,7 @@
 
 - **[CVE-2025-32698](https://www.cve.org/CVERecord?id=CVE-2025-32698)** : 🟠 **Severity: Medium** (Score: 2.1)
 
-- **[CVE-2025-32699](https://www.cve.org/CVERecord?id=CVE-2025-32699)** : 🟠 **Severity: Medium** (Score: 2.1)
+- **[CVE-2025-32699](https://www.cve.org/CVERecord?id=CVE-2025-32699)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** mediawiki 1:1.35.13-1+deb11u4
