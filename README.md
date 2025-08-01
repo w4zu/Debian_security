@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-08-01** - **[DLA-4262-1](https://security-tracker.debian.org/tracker/DLA-4262-1)** - libcommons-lang-java
+
+**CVE(s) :**
+- **[CVE-2025-48924](https://www.cve.org/CVERecord?id=CVE-2025-48924)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** libcommons-lang-java 2.6-9+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-07-31** - **[DLA-4261-1](https://security-tracker.debian.org/tracker/DLA-4261-1)** - node-form-data
 
 **CVE(s) :**
