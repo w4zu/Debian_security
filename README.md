@@ -1,5 +1,58 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-08-04** - **[DLA-4264-1](https://security-tracker.debian.org/tracker/DLA-4264-1)** - exempi
+
+**CVE(s) :**
+- **[CVE-2021-36045](https://www.cve.org/CVERecord?id=CVE-2021-36045)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2021-36046](https://www.cve.org/CVERecord?id=CVE-2021-36046)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2021-36047](https://www.cve.org/CVERecord?id=CVE-2021-36047)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2021-36048](https://www.cve.org/CVERecord?id=CVE-2021-36048)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2021-36050](https://www.cve.org/CVERecord?id=CVE-2021-36050)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2021-36051](https://www.cve.org/CVERecord?id=CVE-2021-36051)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2021-36052](https://www.cve.org/CVERecord?id=CVE-2021-36052)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2021-36053](https://www.cve.org/CVERecord?id=CVE-2021-36053)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2021-36054](https://www.cve.org/CVERecord?id=CVE-2021-36054)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2021-36055](https://www.cve.org/CVERecord?id=CVE-2021-36055)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2021-36056](https://www.cve.org/CVERecord?id=CVE-2021-36056)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2021-36057](https://www.cve.org/CVERecord?id=CVE-2021-36057)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2021-36058](https://www.cve.org/CVERecord?id=CVE-2021-36058)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2021-36064](https://www.cve.org/CVERecord?id=CVE-2021-36064)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2021-39847](https://www.cve.org/CVERecord?id=CVE-2021-39847)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2021-40716](https://www.cve.org/CVERecord?id=CVE-2021-40716)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2021-40732](https://www.cve.org/CVERecord?id=CVE-2021-40732)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2021-42528](https://www.cve.org/CVERecord?id=CVE-2021-42528)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2021-42529](https://www.cve.org/CVERecord?id=CVE-2021-42529)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2021-42530](https://www.cve.org/CVERecord?id=CVE-2021-42530)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2021-42531](https://www.cve.org/CVERecord?id=CVE-2021-42531)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2021-42532](https://www.cve.org/CVERecord?id=CVE-2021-42532)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** exempi 2.5.2-1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-08-04** - **[DLA-4263-1](https://security-tracker.debian.org/tracker/DLA-4263-1)** - ruby-graphql
 
 **CVE(s) :**
@@ -319,7 +372,7 @@
 
 - **[CVE-2025-32698](https://www.cve.org/CVERecord?id=CVE-2025-32698)** : 🟠 **Severity: Medium** (Score: 2.1)
 
-- **[CVE-2025-32699](https://www.cve.org/CVERecord?id=CVE-2025-32699)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-32699](https://www.cve.org/CVERecord?id=CVE-2025-32699)** : 🟠 **Severity: Medium** (Score: 2.1)
 
 **Debian Version :** bullseye
  **Package Version :** mediawiki 1:1.35.13-1+deb11u4
