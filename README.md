@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-08-04** - **[DLA-4263-1](https://security-tracker.debian.org/tracker/DLA-4263-1)** - ruby-graphql
+
+**CVE(s) :**
+- **[CVE-2025-27407](https://www.cve.org/CVERecord?id=CVE-2025-27407)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** ruby-graphql 1.11.12-0+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-08-01** - **[DLA-4262-1](https://security-tracker.debian.org/tracker/DLA-4262-1)** - libcommons-lang-java
 
 **CVE(s) :**
@@ -308,7 +319,7 @@
 
 - **[CVE-2025-32698](https://www.cve.org/CVERecord?id=CVE-2025-32698)** : 🟠 **Severity: Medium** (Score: 2.1)
 
-- **[CVE-2025-32699](https://www.cve.org/CVERecord?id=CVE-2025-32699)** : 🟠 **Severity: Medium** (Score: 2.1)
+- **[CVE-2025-32699](https://www.cve.org/CVERecord?id=CVE-2025-32699)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** mediawiki 1:1.35.13-1+deb11u4
@@ -359,80 +370,6 @@
 **Debian Version :** bookworm
  **Package Version :** firefox-esr 128.13.0esr-1~deb12u1
  **Type :** DSA
-
-------------------------------
-
-**2025-07-21** - **[DLA-4247-1](https://security-tracker.debian.org/tracker/DLA-4247-1)** - djvulibre
-
-**CVE(s) :**
-- **[CVE-2021-46310](https://www.cve.org/CVERecord?id=CVE-2021-46310)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2021-46312](https://www.cve.org/CVERecord?id=CVE-2021-46312)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-53367](https://www.cve.org/CVERecord?id=CVE-2025-53367)** : 🔥 **Severity: High** (Score: 8.4)
-
-**Debian Version :** bullseye
- **Package Version :** djvulibre 3.5.28-2.2~deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-07-21** - **[DLA-4246-1](https://security-tracker.debian.org/tracker/DLA-4246-1)** - libowasp-esapi-java
-
-**CVE(s) :**
-- **[CVE-2022-23457](https://www.cve.org/CVERecord?id=CVE-2022-23457)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2022-24891](https://www.cve.org/CVERecord?id=CVE-2022-24891)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-5878](https://www.cve.org/CVERecord?id=CVE-2025-5878)** : 🟠 **Severity: Medium** (Score: 6.9)
-
-**Debian Version :** bullseye
- **Package Version :** libowasp-esapi-java 2.4.0.0-0+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-07-21** - **[DLA-4245-1](https://security-tracker.debian.org/tracker/DLA-4245-1)** - libcommons-fileupload-java
-
-**CVE(s) :**
-- **[CVE-2023-24998](https://www.cve.org/CVERecord?id=CVE-2023-24998)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-48976](https://www.cve.org/CVERecord?id=CVE-2025-48976)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** libcommons-fileupload-java 1.4-1+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-07-21** - **[DLA-4244-1](https://security-tracker.debian.org/tracker/DLA-4244-1)** - tomcat9
-
-**CVE(s) :**
-- **[CVE-2024-34750](https://www.cve.org/CVERecord?id=CVE-2024-34750)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-54677](https://www.cve.org/CVERecord?id=CVE-2024-54677)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-31650](https://www.cve.org/CVERecord?id=CVE-2025-31650)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-31651](https://www.cve.org/CVERecord?id=CVE-2025-31651)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-46701](https://www.cve.org/CVERecord?id=CVE-2025-46701)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-48976](https://www.cve.org/CVERecord?id=CVE-2025-48976)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-48988](https://www.cve.org/CVERecord?id=CVE-2025-48988)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-49125](https://www.cve.org/CVERecord?id=CVE-2025-49125)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-52434](https://www.cve.org/CVERecord?id=CVE-2025-52434)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-52520](https://www.cve.org/CVERecord?id=CVE-2025-52520)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-53506](https://www.cve.org/CVERecord?id=CVE-2025-53506)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** tomcat9 9.0.107-0+deb11u1
- **Type :** DLA
 
 ------------------------------
 
