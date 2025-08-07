@@ -1,5 +1,30 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-08-06** - **[DSA-5971-1](https://security-tracker.debian.org/tracker/DSA-5971-1)** - chromium
+
+**CVE(s) :**
+- **[CVE-2025-8576](https://www.cve.org/CVERecord?id=CVE-2025-8576)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-8577](https://www.cve.org/CVERecord?id=CVE-2025-8577)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-8578](https://www.cve.org/CVERecord?id=CVE-2025-8578)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-8579](https://www.cve.org/CVERecord?id=CVE-2025-8579)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-8580](https://www.cve.org/CVERecord?id=CVE-2025-8580)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-8581](https://www.cve.org/CVERecord?id=CVE-2025-8581)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-8582](https://www.cve.org/CVERecord?id=CVE-2025-8582)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-8583](https://www.cve.org/CVERecord?id=CVE-2025-8583)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** chromium 139.0.7258.66-1~deb12u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-08-04** - **[DLA-4264-1](https://security-tracker.debian.org/tracker/DLA-4264-1)** - exempi
 
 **CVE(s) :**
@@ -304,46 +329,6 @@
 **Debian Version :** bullseye
  **Package Version :** libxml2 2.9.10+dfsg-6.7+deb11u8
  **Type :** DLA
-
-------------------------------
-
-**2025-07-24** - **[DLA-4250-1](https://security-tracker.debian.org/tracker/DLA-4250-1)** - firefox-esr
-
-**CVE(s) :**
-- **[CVE-2025-8027](https://www.cve.org/CVERecord?id=CVE-2025-8027)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-8028](https://www.cve.org/CVERecord?id=CVE-2025-8028)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-8029](https://www.cve.org/CVERecord?id=CVE-2025-8029)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-8030](https://www.cve.org/CVERecord?id=CVE-2025-8030)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-8031](https://www.cve.org/CVERecord?id=CVE-2025-8031)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-8032](https://www.cve.org/CVERecord?id=CVE-2025-8032)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-8033](https://www.cve.org/CVERecord?id=CVE-2025-8033)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-8034](https://www.cve.org/CVERecord?id=CVE-2025-8034)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-8035](https://www.cve.org/CVERecord?id=CVE-2025-8035)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** firefox-esr 128.13.0esr-1~deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-07-24** - **[DSA-5965-1](https://security-tracker.debian.org/tracker/DSA-5965-1)** - chromium
-
-**CVE(s) :**
-- **[CVE-2025-8010](https://www.cve.org/CVERecord?id=CVE-2025-8010)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-8011](https://www.cve.org/CVERecord?id=CVE-2025-8011)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** chromium 138.0.7204.168-1~deb12u1
- **Type :** DSA
 
 ------------------------------
 
