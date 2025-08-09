@@ -1,5 +1,20 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-08-09** - **[DLA-4267-1](https://security-tracker.debian.org/tracker/DLA-4267-1)** - gnutls28
+
+**CVE(s) :**
+- **[CVE-2025-6395](https://www.cve.org/CVERecord?id=CVE-2025-6395)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-32988](https://www.cve.org/CVERecord?id=CVE-2025-32988)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-32990](https://www.cve.org/CVERecord?id=CVE-2025-32990)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** gnutls28 3.7.1-5+deb11u8
+ **Type :** DLA
+
+------------------------------
+
 **2025-08-08** - **[DLA-4265-1](https://security-tracker.debian.org/tracker/DLA-4265-1)** - modsecurity-crs
 
 **CVE(s) :**
@@ -122,7 +137,7 @@
 **2025-07-31** - **[DLA-4261-1](https://security-tracker.debian.org/tracker/DLA-4261-1)** - node-form-data
 
 **CVE(s) :**
-- **[CVE-2025-7783](https://www.cve.org/CVERecord?id=CVE-2025-7783)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-7783](https://www.cve.org/CVERecord?id=CVE-2025-7783)** : 🔥 **Severity: High** (Score: 9.4)
 
 **Debian Version :** bullseye
  **Package Version :** node-form-data 3.0.0-2+deb11u1
