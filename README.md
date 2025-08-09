@@ -122,7 +122,7 @@
 **2025-07-31** - **[DLA-4261-1](https://security-tracker.debian.org/tracker/DLA-4261-1)** - node-form-data
 
 **CVE(s) :**
-- **[CVE-2025-7783](https://www.cve.org/CVERecord?id=CVE-2025-7783)** : 🔥 **Severity: High** (Score: 9.4)
+- **[CVE-2025-7783](https://www.cve.org/CVERecord?id=CVE-2025-7783)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** node-form-data 3.0.0-2+deb11u1
