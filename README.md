@@ -1,5 +1,24 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-08-08** - **[DLA-4265-1](https://security-tracker.debian.org/tracker/DLA-4265-1)** - modsecurity-crs
+
+**CVE(s) :**
+- **[CVE-2020-22669](https://www.cve.org/CVERecord?id=CVE-2020-22669)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2022-39955](https://www.cve.org/CVERecord?id=CVE-2022-39955)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2022-39956](https://www.cve.org/CVERecord?id=CVE-2022-39956)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2022-39957](https://www.cve.org/CVERecord?id=CVE-2022-39957)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2022-39958](https://www.cve.org/CVERecord?id=CVE-2022-39958)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** modsecurity-crs 3.3.4-1~deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-08-06** - **[DSA-5971-1](https://security-tracker.debian.org/tracker/DSA-5971-1)** - chromium
 
 **CVE(s) :**
@@ -310,25 +329,6 @@
 **Debian Version :** bookworm
  **Package Version :** thunderbird 1:128.13.0esr-1~deb12u1
  **Type :** DSA
-
-------------------------------
-
-**2025-07-26** - **[DLA-4251-1](https://security-tracker.debian.org/tracker/DLA-4251-1)** - libxml2
-
-**CVE(s) :**
-- **[CVE-2024-34459](https://www.cve.org/CVERecord?id=CVE-2024-34459)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-6021](https://www.cve.org/CVERecord?id=CVE-2025-6021)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-6170](https://www.cve.org/CVERecord?id=CVE-2025-6170)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-49794](https://www.cve.org/CVERecord?id=CVE-2025-49794)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-49796](https://www.cve.org/CVERecord?id=CVE-2025-49796)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** libxml2 2.9.10+dfsg-6.7+deb11u8
- **Type :** DLA
 
 ------------------------------
 
