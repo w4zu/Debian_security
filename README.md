@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-08-11** - **[DLA-4268-1](https://security-tracker.debian.org/tracker/DLA-4268-1)** - node-tmp
+
+**CVE(s) :**
+- **[CVE-2025-54798](https://www.cve.org/CVERecord?id=CVE-2025-54798)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** node-tmp 0.2.1+dfsg-1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-08-09** - **[DLA-4267-1](https://security-tracker.debian.org/tracker/DLA-4267-1)** - gnutls28
 
 **CVE(s) :**
