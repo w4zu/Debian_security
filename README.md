@@ -1,5 +1,47 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-08-12** - **[DLA-4270-1](https://security-tracker.debian.org/tracker/DLA-4270-1)** - apache2
+
+**CVE(s) :**
+- **[CVE-2024-42516](https://www.cve.org/CVERecord?id=CVE-2024-42516)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-43204](https://www.cve.org/CVERecord?id=CVE-2024-43204)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-43394](https://www.cve.org/CVERecord?id=CVE-2024-43394)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-47252](https://www.cve.org/CVERecord?id=CVE-2024-47252)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-23048](https://www.cve.org/CVERecord?id=CVE-2025-23048)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-49630](https://www.cve.org/CVERecord?id=CVE-2025-49630)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-49812](https://www.cve.org/CVERecord?id=CVE-2025-49812)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-53020](https://www.cve.org/CVERecord?id=CVE-2025-53020)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** apache2 2.4.65-1~deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2025-08-12** - **[DSA-5972-1](https://security-tracker.debian.org/tracker/DSA-5972-1)** - openjdk-17
+
+**CVE(s) :**
+- **[CVE-2025-30749](https://www.cve.org/CVERecord?id=CVE-2025-30749)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-30754](https://www.cve.org/CVERecord?id=CVE-2025-30754)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-50059](https://www.cve.org/CVERecord?id=CVE-2025-50059)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-50106](https://www.cve.org/CVERecord?id=CVE-2025-50106)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** openjdk-17 17.0.16+8-1~deb12u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-08-11** - **[DLA-4268-1](https://security-tracker.debian.org/tracker/DLA-4268-1)** - node-tmp
 
 **CVE(s) :**
