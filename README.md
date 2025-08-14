@@ -1,5 +1,24 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-08-14** - **[DSA-5976-1](https://security-tracker.debian.org/tracker/DSA-5976-1)** - chromium
+
+**CVE(s) :**
+- **[CVE-2025-8879](https://www.cve.org/CVERecord?id=CVE-2025-8879)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-8880](https://www.cve.org/CVERecord?id=CVE-2025-8880)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-8881](https://www.cve.org/CVERecord?id=CVE-2025-8881)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-8882](https://www.cve.org/CVERecord?id=CVE-2025-8882)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-8901](https://www.cve.org/CVERecord?id=CVE-2025-8901)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** chromium 139.0.7258.127-1~deb12u1 	[trixie] - chromium 139.0.7258.127-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-08-13** - **[DLA-4271-1](https://security-tracker.debian.org/tracker/DLA-4271-1)** - linux-6.1
 
 **CVE(s) :**
@@ -9,7 +28,7 @@
 
 - **[CVE-2024-26807](https://www.cve.org/CVERecord?id=CVE-2024-26807)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2024-28956](https://www.cve.org/CVERecord?id=CVE-2024-28956)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-28956](https://www.cve.org/CVERecord?id=CVE-2024-28956)** : 🟠 **Severity: Medium** (Score: 5.7)
 
 - **[CVE-2024-35790](https://www.cve.org/CVERecord?id=CVE-2024-35790)** : **Severity: Unknown** (Score: N/A)
 
