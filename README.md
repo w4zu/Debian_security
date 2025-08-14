@@ -1,5 +1,46 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-08-14** - **[DLA-4273-1](https://security-tracker.debian.org/tracker/DLA-4273-1)** - postgresql-13
+
+**CVE(s) :**
+- **[CVE-2025-8713](https://www.cve.org/CVERecord?id=CVE-2025-8713)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-8714](https://www.cve.org/CVERecord?id=CVE-2025-8714)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-8715](https://www.cve.org/CVERecord?id=CVE-2025-8715)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** postgresql-13 13.22-0+deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2025-08-14** - **[DLA-4272-1](https://security-tracker.debian.org/tracker/DLA-4272-1)** - aide
+
+**CVE(s) :**
+- **[CVE-2025-54389](https://www.cve.org/CVERecord?id=CVE-2025-54389)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-54409](https://www.cve.org/CVERecord?id=CVE-2025-54409)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** aide 0.17.3-4+deb11u3
+ **Type :** DLA
+
+------------------------------
+
+**2025-08-14** - **[DSA-5977-1](https://security-tracker.debian.org/tracker/DSA-5977-1)** - aide
+
+**CVE(s) :**
+- **[CVE-2025-54389](https://www.cve.org/CVERecord?id=CVE-2025-54389)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-54409](https://www.cve.org/CVERecord?id=CVE-2025-54409)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** aide 0.18.3-1+deb12u4 	[trixie] - aide 0.19.1-2+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-08-14** - **[DSA-5976-1](https://security-tracker.debian.org/tracker/DSA-5976-1)** - chromium
 
 **CVE(s) :**
