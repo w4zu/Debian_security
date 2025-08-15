@@ -69,7 +69,7 @@
 
 - **[CVE-2024-26807](https://www.cve.org/CVERecord?id=CVE-2024-26807)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2024-28956](https://www.cve.org/CVERecord?id=CVE-2024-28956)** : 🟠 **Severity: Medium** (Score: 5.7)
+- **[CVE-2024-28956](https://www.cve.org/CVERecord?id=CVE-2024-28956)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-35790](https://www.cve.org/CVERecord?id=CVE-2024-35790)** : **Severity: Unknown** (Score: N/A)
 
@@ -1014,17 +1014,6 @@
 
 **Debian Version :** bullseye
  **Package Version :** ruby-graphql 1.11.12-0+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-08-01** - **[DLA-4262-1](https://security-tracker.debian.org/tracker/DLA-4262-1)** - libcommons-lang-java
-
-**CVE(s) :**
-- **[CVE-2025-48924](https://www.cve.org/CVERecord?id=CVE-2025-48924)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** libcommons-lang-java 2.6-9+deb11u1
  **Type :** DLA
 
 ------------------------------
