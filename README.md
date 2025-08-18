@@ -1,5 +1,51 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-08-18** - **[DLA-4274-1](https://security-tracker.debian.org/tracker/DLA-4274-1)** - mbedtls
+
+**CVE(s) :**
+- **[CVE-2025-47917](https://www.cve.org/CVERecord?id=CVE-2025-47917)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-48965](https://www.cve.org/CVERecord?id=CVE-2025-48965)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-52496](https://www.cve.org/CVERecord?id=CVE-2025-52496)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-52497](https://www.cve.org/CVERecord?id=CVE-2025-52497)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** mbedtls 2.16.9-0.1+deb11u2
+ **Type :** DLA
+
+------------------------------
+
+**2025-08-18** - **[DSA-5978-1](https://security-tracker.debian.org/tracker/DSA-5978-1)** - webkit2gtk
+
+**CVE(s) :**
+- **[CVE-2025-6558](https://www.cve.org/CVERecord?id=CVE-2025-6558)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-31273](https://www.cve.org/CVERecord?id=CVE-2025-31273)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-31278](https://www.cve.org/CVERecord?id=CVE-2025-31278)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43211](https://www.cve.org/CVERecord?id=CVE-2025-43211)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43212](https://www.cve.org/CVERecord?id=CVE-2025-43212)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43216](https://www.cve.org/CVERecord?id=CVE-2025-43216)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43227](https://www.cve.org/CVERecord?id=CVE-2025-43227)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43228](https://www.cve.org/CVERecord?id=CVE-2025-43228)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43240](https://www.cve.org/CVERecord?id=CVE-2025-43240)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43265](https://www.cve.org/CVERecord?id=CVE-2025-43265)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** webkit2gtk 2.48.5-1~deb12u1 	[trixie] - webkit2gtk 2.48.5-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-08-14** - **[DLA-4273-1](https://security-tracker.debian.org/tracker/DLA-4273-1)** - postgresql-13
 
 **CVE(s) :**
