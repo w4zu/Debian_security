@@ -1,5 +1,34 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-08-20** - **[DLA-4276-1](https://security-tracker.debian.org/tracker/DLA-4276-1)** - webkit2gtk
+
+**CVE(s) :**
+- **[CVE-2025-6558](https://www.cve.org/CVERecord?id=CVE-2025-6558)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-31273](https://www.cve.org/CVERecord?id=CVE-2025-31273)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-31278](https://www.cve.org/CVERecord?id=CVE-2025-31278)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43211](https://www.cve.org/CVERecord?id=CVE-2025-43211)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43212](https://www.cve.org/CVERecord?id=CVE-2025-43212)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43216](https://www.cve.org/CVERecord?id=CVE-2025-43216)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43227](https://www.cve.org/CVERecord?id=CVE-2025-43227)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43228](https://www.cve.org/CVERecord?id=CVE-2025-43228)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43240](https://www.cve.org/CVERecord?id=CVE-2025-43240)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43265](https://www.cve.org/CVERecord?id=CVE-2025-43265)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** webkit2gtk 2.48.5-1~deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-08-19** - **[DLA-4275-1](https://security-tracker.debian.org/tracker/DLA-4275-1)** - openjdk-17
 
 **CVE(s) :**
