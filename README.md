@@ -29,6 +29,23 @@
 
 ------------------------------
 
+**2025-08-20** - **[DSA-5980-1](https://security-tracker.debian.org/tracker/DSA-5980-1)** - firefox-esr
+
+**CVE(s) :**
+- **[CVE-2025-9179](https://www.cve.org/CVERecord?id=CVE-2025-9179)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-9180](https://www.cve.org/CVERecord?id=CVE-2025-9180)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-9181](https://www.cve.org/CVERecord?id=CVE-2025-9181)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-9185](https://www.cve.org/CVERecord?id=CVE-2025-9185)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** firefox-esr 128.14.0esr-1~deb12u1 	[trixie] - firefox-esr 128.14.0esr-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-08-19** - **[DLA-4275-1](https://security-tracker.debian.org/tracker/DLA-4275-1)** - openjdk-17
 
 **CVE(s) :**
