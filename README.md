@@ -17,6 +17,19 @@
 
 ------------------------------
 
+**2025-08-21** - **[DSA-5982-1](https://security-tracker.debian.org/tracker/DSA-5982-1)** - squid
+
+**CVE(s) :**
+- **[CVE-2023-5824](https://www.cve.org/CVERecord?id=CVE-2023-5824)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-54574](https://www.cve.org/CVERecord?id=CVE-2025-54574)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** squid 5.7-2+deb12u3
+ **Type :** DSA
+
+------------------------------
+
 **2025-08-21** - **[DSA-5981-1](https://security-tracker.debian.org/tracker/DSA-5981-1)** - chromium
 
 **CVE(s) :**
