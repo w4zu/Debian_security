@@ -1073,22 +1073,3 @@
 
 ------------------------------
 
-**2025-08-08** - **[DLA-4265-1](https://security-tracker.debian.org/tracker/DLA-4265-1)** - modsecurity-crs
-
-**CVE(s) :**
-- **[CVE-2020-22669](https://www.cve.org/CVERecord?id=CVE-2020-22669)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2022-39955](https://www.cve.org/CVERecord?id=CVE-2022-39955)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2022-39956](https://www.cve.org/CVERecord?id=CVE-2022-39956)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2022-39957](https://www.cve.org/CVERecord?id=CVE-2022-39957)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2022-39958](https://www.cve.org/CVERecord?id=CVE-2022-39958)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** modsecurity-crs 3.3.4-1~deb11u1
- **Type :** DLA
-
-------------------------------
-
