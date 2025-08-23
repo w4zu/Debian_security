@@ -1069,18 +1069,3 @@
 
 ------------------------------
 
-**2025-08-09** - **[DLA-4267-1](https://security-tracker.debian.org/tracker/DLA-4267-1)** - gnutls28
-
-**CVE(s) :**
-- **[CVE-2025-6395](https://www.cve.org/CVERecord?id=CVE-2025-6395)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-32988](https://www.cve.org/CVERecord?id=CVE-2025-32988)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-32990](https://www.cve.org/CVERecord?id=CVE-2025-32990)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** gnutls28 3.7.1-5+deb11u8
- **Type :** DLA
-
-------------------------------
-
