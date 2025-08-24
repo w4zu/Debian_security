@@ -1,5 +1,22 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-08-24** - **[DSA-5984-1](https://security-tracker.debian.org/tracker/DSA-5984-1)** - thunderbird
+
+**CVE(s) :**
+- **[CVE-2025-9179](https://www.cve.org/CVERecord?id=CVE-2025-9179)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-9180](https://www.cve.org/CVERecord?id=CVE-2025-9180)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-9181](https://www.cve.org/CVERecord?id=CVE-2025-9181)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-9185](https://www.cve.org/CVERecord?id=CVE-2025-9185)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** thunderbird 1:128.14.0esr-1~deb12u1 	[trixie] - thunderbird 1:128.14.0esr-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-08-22** - **[DLA-4278-1](https://security-tracker.debian.org/tracker/DLA-4278-1)** - mupdf
 
 **CVE(s) :**
