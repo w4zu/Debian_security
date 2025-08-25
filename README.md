@@ -11,6 +11,33 @@
 
 ------------------------------
 
+**2025-08-25** - **[DSA-5985-1](https://security-tracker.debian.org/tracker/DSA-5985-1)** - ffmpeg
+
+**CVE(s) :**
+- **[CVE-2023-49502](https://www.cve.org/CVERecord?id=CVE-2023-49502)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2023-50007](https://www.cve.org/CVERecord?id=CVE-2023-50007)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2023-50008](https://www.cve.org/CVERecord?id=CVE-2023-50008)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-31582](https://www.cve.org/CVERecord?id=CVE-2024-31582)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-35367](https://www.cve.org/CVERecord?id=CVE-2024-35367)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-35368](https://www.cve.org/CVERecord?id=CVE-2024-35368)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-0518](https://www.cve.org/CVERecord?id=CVE-2025-0518)** : 🟠 **Severity: Medium** (Score: 4.8)
+
+- **[CVE-2025-7700](https://www.cve.org/CVERecord?id=CVE-2025-7700)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-22919](https://www.cve.org/CVERecord?id=CVE-2025-22919)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** ffmpeg 7:5.1.7-0+deb12u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-08-24** - **[DLA-4281-1](https://security-tracker.debian.org/tracker/DLA-4281-1)** - iperf3
 
 **CVE(s) :**
@@ -29,7 +56,7 @@
 **CVE(s) :**
 - **[CVE-2024-33655](https://www.cve.org/CVERecord?id=CVE-2024-33655)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-5994](https://www.cve.org/CVERecord?id=CVE-2025-5994)** : 🔥 **Severity: High** (Score: 8.7)
+- **[CVE-2025-5994](https://www.cve.org/CVERecord?id=CVE-2025-5994)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** unbound 1.13.1-1+deb11u5
