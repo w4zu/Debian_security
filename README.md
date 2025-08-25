@@ -1,5 +1,31 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-08-24** - **[DLA-4281-1](https://security-tracker.debian.org/tracker/DLA-4281-1)** - iperf3
+
+**CVE(s) :**
+- **[CVE-2025-54349](https://www.cve.org/CVERecord?id=CVE-2025-54349)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-54350](https://www.cve.org/CVERecord?id=CVE-2025-54350)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** iperf3 3.9-1+deb11u3
+ **Type :** DLA
+
+------------------------------
+
+**2025-08-24** - **[DLA-4280-1](https://security-tracker.debian.org/tracker/DLA-4280-1)** - unbound
+
+**CVE(s) :**
+- **[CVE-2024-33655](https://www.cve.org/CVERecord?id=CVE-2024-33655)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-5994](https://www.cve.org/CVERecord?id=CVE-2025-5994)** : 🔥 **Severity: High** (Score: 8.7)
+
+**Debian Version :** bullseye
+ **Package Version :** unbound 1.13.1-1+deb11u5
+ **Type :** DLA
+
+------------------------------
+
 **2025-08-24** - **[DLA-4279-1](https://security-tracker.debian.org/tracker/DLA-4279-1)** - thunderbird
 
 **CVE(s) :**
@@ -1089,17 +1115,6 @@
 **Debian Version :** bookworm
  **Package Version :** openjdk-17 17.0.16+8-1~deb12u1
  **Type :** DSA
-
-------------------------------
-
-**2025-08-11** - **[DLA-4268-1](https://security-tracker.debian.org/tracker/DLA-4268-1)** - node-tmp
-
-**CVE(s) :**
-- **[CVE-2025-54798](https://www.cve.org/CVERecord?id=CVE-2025-54798)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** node-tmp 0.2.1+dfsg-1+deb11u1
- **Type :** DLA
 
 ------------------------------
 
