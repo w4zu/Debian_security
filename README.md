@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-08-25** - **[DLA-4282-1](https://security-tracker.debian.org/tracker/DLA-4282-1)** - firebird3.0
+
+**CVE(s) :**
+- **[CVE-2025-54989](https://www.cve.org/CVERecord?id=CVE-2025-54989)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** firebird3.0 3.0.7.33374.ds4-2+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-08-24** - **[DLA-4281-1](https://security-tracker.debian.org/tracker/DLA-4281-1)** - iperf3
 
 **CVE(s) :**
@@ -303,7 +314,7 @@
 
 - **[CVE-2024-26807](https://www.cve.org/CVERecord?id=CVE-2024-26807)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2024-28956](https://www.cve.org/CVERecord?id=CVE-2024-28956)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-28956](https://www.cve.org/CVERecord?id=CVE-2024-28956)** : 🟠 **Severity: Medium** (Score: 5.7)
 
 - **[CVE-2024-35790](https://www.cve.org/CVERecord?id=CVE-2024-35790)** : **Severity: Unknown** (Score: N/A)
 
