@@ -3,7 +3,7 @@
 **2025-08-26** - **[DSA-5986-1](https://security-tracker.debian.org/tracker/DSA-5986-1)** - node-cipher-base
 
 **CVE(s) :**
-- **[CVE-2025-9287](https://www.cve.org/CVERecord?id=CVE-2025-9287)** : 🔥 **Severity: High** (Score: 9.1)
+- **[CVE-2025-9287](https://www.cve.org/CVERecord?id=CVE-2025-9287)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** node-cipher-base 1.0.4-6+deb12u1 	[trixie] - node-cipher-base 1.0.4-6+deb13u1
