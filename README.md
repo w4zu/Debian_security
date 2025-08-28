@@ -1,5 +1,27 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-08-28** - **[DLA-4285-1](https://security-tracker.debian.org/tracker/DLA-4285-1)** - golang-github-gin-contrib-cors
+
+**CVE(s) :**
+- **[CVE-2019-25211](https://www.cve.org/CVERecord?id=CVE-2019-25211)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** golang-github-gin-contrib-cors 1.3.1-1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2025-08-28** - **[DLA-4284-1](https://security-tracker.debian.org/tracker/DLA-4284-1)** - udisks2
+
+**CVE(s) :**
+- **[CVE-2025-8067](https://www.cve.org/CVERecord?id=CVE-2025-8067)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** udisks2 2.9.2-2+deb11u3
+ **Type :** DLA
+
+------------------------------
+
 **2025-08-27** - **[DSA-5988-1](https://security-tracker.debian.org/tracker/DSA-5988-1)** - chromium
 
 **CVE(s) :**
