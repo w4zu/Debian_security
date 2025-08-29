@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-08-29** - **[DSA-5990-1](https://security-tracker.debian.org/tracker/DSA-5990-1)** - libxml2
+
+**CVE(s) :**
+- **[CVE-2025-7425](https://www.cve.org/CVERecord?id=CVE-2025-7425)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** libxml2 2.9.14+dfsg-1.3~deb12u4 	[trixie] - libxml2 2.12.7+dfsg+really2.9.14-2.1+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-08-28** - **[DLA-4285-1](https://security-tracker.debian.org/tracker/DLA-4285-1)** - golang-github-gin-contrib-cors
 
 **CVE(s) :**
