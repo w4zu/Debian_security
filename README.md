@@ -22,6 +22,17 @@
 
 ------------------------------
 
+**2025-08-28** - **[DSA-5989-1](https://security-tracker.debian.org/tracker/DSA-5989-1)** - udisks2
+
+**CVE(s) :**
+- **[CVE-2025-8067](https://www.cve.org/CVERecord?id=CVE-2025-8067)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** udisks2 2.9.4-4+deb12u2 	[trixie] - udisks2 2.10.1-12.1+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-08-27** - **[DSA-5988-1](https://security-tracker.debian.org/tracker/DSA-5988-1)** - chromium
 
 **CVE(s) :**
