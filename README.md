@@ -1,5 +1,30 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-08-29** - **[DSA-5991-1](https://security-tracker.debian.org/tracker/DSA-5991-1)** - nodejs
+
+**CVE(s) :**
+- **[CVE-2023-46809](https://www.cve.org/CVERecord?id=CVE-2023-46809)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-21892](https://www.cve.org/CVERecord?id=CVE-2024-21892)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-22019](https://www.cve.org/CVERecord?id=CVE-2024-22019)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-22020](https://www.cve.org/CVERecord?id=CVE-2024-22020)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-22025](https://www.cve.org/CVERecord?id=CVE-2024-22025)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-27982](https://www.cve.org/CVERecord?id=CVE-2024-27982)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-27983](https://www.cve.org/CVERecord?id=CVE-2024-27983)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-47153](https://www.cve.org/CVERecord?id=CVE-2025-47153)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** nodejs 18.20.4+dfsg-1~deb12u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-08-29** - **[DSA-5990-1](https://security-tracker.debian.org/tracker/DSA-5990-1)** - libxml2
 
 **CVE(s) :**
