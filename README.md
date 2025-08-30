@@ -1,5 +1,29 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-08-30** - **[DLA-4274-2](https://security-tracker.debian.org/tracker/DLA-4274-2)** - mbedtls
+
+**CVE(s) :**
+- **[CVE-2025-47917](https://www.cve.org/CVERecord?id=CVE-2025-47917)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** mbedtls 2.16.9-0.1+deb11u3
+ **Type :** DLA
+
+------------------------------
+
+**2025-08-30** - **[DSA-5992-1](https://security-tracker.debian.org/tracker/DSA-5992-1)** - firebird4.0
+
+**CVE(s) :**
+- **[CVE-2025-24975](https://www.cve.org/CVERecord?id=CVE-2025-24975)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-54989](https://www.cve.org/CVERecord?id=CVE-2025-54989)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** firebird4.0 4.0.5.3140.ds6-17+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-08-29** - **[DSA-5991-1](https://security-tracker.debian.org/tracker/DSA-5991-1)** - nodejs
 
 **CVE(s) :**
