@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-08-31** - **[DLA-4286-1](https://security-tracker.debian.org/tracker/DLA-4286-1)** - libcommons-lang3-java
+
+**CVE(s) :**
+- **[CVE-2025-48924](https://www.cve.org/CVERecord?id=CVE-2025-48924)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** libcommons-lang3-java 3.11-1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-08-30** - **[DLA-4274-2](https://security-tracker.debian.org/tracker/DLA-4274-2)** - mbedtls
 
 **CVE(s) :**
