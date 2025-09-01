@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-09-01** - **[DLA-4288-1](https://security-tracker.debian.org/tracker/DLA-4288-1)** - ruby-saml
+
+**CVE(s) :**
+- **[CVE-2025-54572](https://www.cve.org/CVERecord?id=CVE-2025-54572)** : 🟠 **Severity: Medium** (Score: 6.9)
+
+**Debian Version :** bullseye
+ **Package Version :** ruby-saml 1.11.0-1+deb11u3
+ **Type :** DLA
+
+------------------------------
+
 **2025-08-31** - **[DLA-4287-1](https://security-tracker.debian.org/tracker/DLA-4287-1)** - libsndfile
 
 **CVE(s) :**
@@ -190,7 +201,7 @@
 
 - **[CVE-2024-35368](https://www.cve.org/CVERecord?id=CVE-2024-35368)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-0518](https://www.cve.org/CVERecord?id=CVE-2025-0518)** : 🟠 **Severity: Medium** (Score: 4.8)
+- **[CVE-2025-0518](https://www.cve.org/CVERecord?id=CVE-2025-0518)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-7700](https://www.cve.org/CVERecord?id=CVE-2025-7700)** : **Severity: Unknown** (Score: N/A)
 
