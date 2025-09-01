@@ -135,7 +135,7 @@
 
 - **[CVE-2024-33655](https://www.cve.org/CVERecord?id=CVE-2024-33655)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-5994](https://www.cve.org/CVERecord?id=CVE-2025-5994)** : 🔥 **Severity: High** (Score: 8.7)
+- **[CVE-2025-5994](https://www.cve.org/CVERecord?id=CVE-2025-5994)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** unbound 1.17.1-2+deb12u3
@@ -201,7 +201,7 @@
 
 - **[CVE-2024-35368](https://www.cve.org/CVERecord?id=CVE-2024-35368)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-0518](https://www.cve.org/CVERecord?id=CVE-2025-0518)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-0518](https://www.cve.org/CVERecord?id=CVE-2025-0518)** : 🟠 **Severity: Medium** (Score: 4.8)
 
 - **[CVE-2025-7700](https://www.cve.org/CVERecord?id=CVE-2025-7700)** : **Severity: Unknown** (Score: N/A)
 
@@ -239,7 +239,7 @@
 **CVE(s) :**
 - **[CVE-2024-33655](https://www.cve.org/CVERecord?id=CVE-2024-33655)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-5994](https://www.cve.org/CVERecord?id=CVE-2025-5994)** : 🔥 **Severity: High** (Score: 8.7)
+- **[CVE-2025-5994](https://www.cve.org/CVERecord?id=CVE-2025-5994)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** unbound 1.13.1-1+deb11u5
