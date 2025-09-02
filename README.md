@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-09-02** - **[DLA-4289-1](https://security-tracker.debian.org/tracker/DLA-4289-1)** - python-eventlet
+
+**CVE(s) :**
+- **[CVE-2025-58068](https://www.cve.org/CVERecord?id=CVE-2025-58068)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+**Debian Version :** bullseye
+ **Package Version :** python-eventlet 0.26.1-7+deb11u2
+ **Type :** DLA
+
+------------------------------
+
 **2025-09-01** - **[DLA-4288-1](https://security-tracker.debian.org/tracker/DLA-4288-1)** - ruby-saml
 
 **CVE(s) :**
@@ -146,7 +157,7 @@
 **2025-08-26** - **[DSA-5986-1](https://security-tracker.debian.org/tracker/DSA-5986-1)** - node-cipher-base
 
 **CVE(s) :**
-- **[CVE-2025-9287](https://www.cve.org/CVERecord?id=CVE-2025-9287)** : 🔥 **Severity: High** (Score: 9.1)
+- **[CVE-2025-9287](https://www.cve.org/CVERecord?id=CVE-2025-9287)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** node-cipher-base 1.0.4-6+deb12u1 	[trixie] - node-cipher-base 1.0.4-6+deb13u1
