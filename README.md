@@ -135,7 +135,7 @@
 
 - **[CVE-2024-33655](https://www.cve.org/CVERecord?id=CVE-2024-33655)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-5994](https://www.cve.org/CVERecord?id=CVE-2025-5994)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-5994](https://www.cve.org/CVERecord?id=CVE-2025-5994)** : 🔥 **Severity: High** (Score: 8.7)
 
 **Debian Version :** bookworm
  **Package Version :** unbound 1.17.1-2+deb12u3
@@ -239,7 +239,7 @@
 **CVE(s) :**
 - **[CVE-2024-33655](https://www.cve.org/CVERecord?id=CVE-2024-33655)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-5994](https://www.cve.org/CVERecord?id=CVE-2025-5994)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-5994](https://www.cve.org/CVERecord?id=CVE-2025-5994)** : 🔥 **Severity: High** (Score: 8.7)
 
 **Debian Version :** bullseye
  **Package Version :** unbound 1.13.1-1+deb11u5
@@ -375,36 +375,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** firefox-esr 128.14.0esr-1~deb12u1 	[trixie] - firefox-esr 128.14.0esr-1~deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2025-08-19** - **[DLA-4275-1](https://security-tracker.debian.org/tracker/DLA-4275-1)** - openjdk-17
-
-**CVE(s) :**
-- **[CVE-2025-30749](https://www.cve.org/CVERecord?id=CVE-2025-30749)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-30754](https://www.cve.org/CVERecord?id=CVE-2025-30754)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-50059](https://www.cve.org/CVERecord?id=CVE-2025-50059)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-50106](https://www.cve.org/CVERecord?id=CVE-2025-50106)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** openjdk-17 17.0.16+8-1~deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-08-19** - **[DSA-5979-1](https://security-tracker.debian.org/tracker/DSA-5979-1)** - libxslt
-
-**CVE(s) :**
-- **[CVE-2023-40403](https://www.cve.org/CVERecord?id=CVE-2023-40403)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-7424](https://www.cve.org/CVERecord?id=CVE-2025-7424)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** libxslt 1.1.35-1+deb12u2 	[trixie] - libxslt 1.1.35-1.2+deb13u1
  **Type :** DSA
 
 ------------------------------
