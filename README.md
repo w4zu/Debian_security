@@ -25,7 +25,7 @@
 **2025-09-01** - **[DLA-4288-1](https://security-tracker.debian.org/tracker/DLA-4288-1)** - ruby-saml
 
 **CVE(s) :**
-- **[CVE-2025-54572](https://www.cve.org/CVERecord?id=CVE-2025-54572)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-54572](https://www.cve.org/CVERecord?id=CVE-2025-54572)** : 🟠 **Severity: Medium** (Score: 6.9)
 
 **Debian Version :** bullseye
  **Package Version :** ruby-saml 1.11.0-1+deb11u3
