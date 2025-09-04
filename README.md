@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-09-04** - **[DLA-4292-1](https://security-tracker.debian.org/tracker/DLA-4292-1)** - clamav
+
+**CVE(s) :**
+- **[CVE-2025-20128](https://www.cve.org/CVERecord?id=CVE-2025-20128)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-20260](https://www.cve.org/CVERecord?id=CVE-2025-20260)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** clamav 1.0.9+dfsg-1~deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-09-03** - **[DLA-4291-1](https://security-tracker.debian.org/tracker/DLA-4291-1)** - node-cipher-base
 
 **CVE(s) :**
