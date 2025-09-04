@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-09-03** - **[DLA-4291-1](https://security-tracker.debian.org/tracker/DLA-4291-1)** - node-cipher-base
+
+**CVE(s) :**
+- **[CVE-2025-9287](https://www.cve.org/CVERecord?id=CVE-2025-9287)** : 🔥 **Severity: High** (Score: 9.1)
+
+**Debian Version :** bullseye
+ **Package Version :** node-cipher-base 1.0.4-4+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-09-02** - **[DLA-4290-1](https://security-tracker.debian.org/tracker/DLA-4290-1)** - python-h2
 
 **CVE(s) :**
@@ -311,47 +322,6 @@
 **Debian Version :** bullseye
  **Package Version :** mupdf 1.17.0+ds1-2+deb11u1
  **Type :** DLA
-
-------------------------------
-
-**2025-08-21** - **[DLA-4277-1](https://security-tracker.debian.org/tracker/DLA-4277-1)** - firefox-esr
-
-**CVE(s) :**
-- **[CVE-2025-9179](https://www.cve.org/CVERecord?id=CVE-2025-9179)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-9180](https://www.cve.org/CVERecord?id=CVE-2025-9180)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-9181](https://www.cve.org/CVERecord?id=CVE-2025-9181)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-9185](https://www.cve.org/CVERecord?id=CVE-2025-9185)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** firefox-esr 128.14.0esr-1~deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-08-21** - **[DSA-5982-1](https://security-tracker.debian.org/tracker/DSA-5982-1)** - squid
-
-**CVE(s) :**
-- **[CVE-2023-5824](https://www.cve.org/CVERecord?id=CVE-2023-5824)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-54574](https://www.cve.org/CVERecord?id=CVE-2025-54574)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** squid 5.7-2+deb12u3
- **Type :** DSA
-
-------------------------------
-
-**2025-08-21** - **[DSA-5981-1](https://security-tracker.debian.org/tracker/DSA-5981-1)** - chromium
-
-**CVE(s) :**
-- **[CVE-2025-9132](https://www.cve.org/CVERecord?id=CVE-2025-9132)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** chromium 139.0.7258.138-1~deb12u1 	[trixie] - chromium 139.0.7258.138-1~deb13u1
- **Type :** DSA
 
 ------------------------------
 
