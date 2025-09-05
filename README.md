@@ -327,14 +327,3 @@
 
 ------------------------------
 
-**2025-08-22** - **[DLA-4278-1](https://security-tracker.debian.org/tracker/DLA-4278-1)** - mupdf
-
-**CVE(s) :**
-- **[CVE-2020-21896](https://www.cve.org/CVERecord?id=CVE-2020-21896)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** mupdf 1.17.0+ds1-2+deb11u1
- **Type :** DLA
-
-------------------------------
-
