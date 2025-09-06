@@ -55,7 +55,7 @@
 **2025-09-02** - **[DLA-4289-1](https://security-tracker.debian.org/tracker/DLA-4289-1)** - python-eventlet
 
 **CVE(s) :**
-- **[CVE-2025-58068](https://www.cve.org/CVERecord?id=CVE-2025-58068)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-58068](https://www.cve.org/CVERecord?id=CVE-2025-58068)** : 🟠 **Severity: Medium** (Score: 6.3)
 
 **Debian Version :** bullseye
  **Package Version :** python-eventlet 0.26.1-7+deb11u2
