@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-09-07** - **[DLA-4294-1](https://security-tracker.debian.org/tracker/DLA-4294-1)** - modsecurity-apache
+
+**CVE(s) :**
+- **[CVE-2025-54571](https://www.cve.org/CVERecord?id=CVE-2025-54571)** : 🟠 **Severity: Medium** (Score: 6.9)
+
+**Debian Version :** bullseye
+ **Package Version :** modsecurity-apache 2.9.3-3+deb11u5
+ **Type :** DLA
+
+------------------------------
+
 **2025-09-05** - **[DSA-5993-1](https://security-tracker.debian.org/tracker/DSA-5993-1)** - chromium
 
 **CVE(s) :**
