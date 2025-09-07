@@ -44,7 +44,7 @@
 **2025-09-02** - **[DLA-4290-1](https://security-tracker.debian.org/tracker/DLA-4290-1)** - python-h2
 
 **CVE(s) :**
-- **[CVE-2025-57804](https://www.cve.org/CVERecord?id=CVE-2025-57804)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-57804](https://www.cve.org/CVERecord?id=CVE-2025-57804)** : 🟠 **Severity: Medium** (Score: 6.9)
 
 **Debian Version :** bullseye
  **Package Version :** python-h2 4.0.0-3+deb11u1
