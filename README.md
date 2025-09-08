@@ -1,9 +1,22 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-09-08** - **[DLA-4295-1](https://security-tracker.debian.org/tracker/DLA-4295-1)** - libhtp
+
+**CVE(s) :**
+- **[CVE-2024-23837](https://www.cve.org/CVERecord?id=CVE-2024-23837)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-45797](https://www.cve.org/CVERecord?id=CVE-2024-45797)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** libhtp 1:0.5.36-1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-09-07** - **[DLA-4294-1](https://security-tracker.debian.org/tracker/DLA-4294-1)** - modsecurity-apache
 
 **CVE(s) :**
-- **[CVE-2025-54571](https://www.cve.org/CVERecord?id=CVE-2025-54571)** : 🟠 **Severity: Medium** (Score: 6.9)
+- **[CVE-2025-54571](https://www.cve.org/CVERecord?id=CVE-2025-54571)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** modsecurity-apache 2.9.3-3+deb11u5
