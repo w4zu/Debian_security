@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-09-08** - **[DLA-4296-1](https://security-tracker.debian.org/tracker/DLA-4296-1)** - qemu
+
+**CVE(s) :**
+- **[CVE-2024-7409](https://www.cve.org/CVERecord?id=CVE-2024-7409)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** qemu 1:5.2+dfsg-11+deb11u5
+ **Type :** DLA
+
+------------------------------
+
 **2025-09-08** - **[DLA-4295-1](https://security-tracker.debian.org/tracker/DLA-4295-1)** - libhtp
 
 **CVE(s) :**
