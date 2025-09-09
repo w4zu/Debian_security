@@ -16,7 +16,7 @@
 **2025-09-07** - **[DLA-4294-1](https://security-tracker.debian.org/tracker/DLA-4294-1)** - modsecurity-apache
 
 **CVE(s) :**
-- **[CVE-2025-54571](https://www.cve.org/CVERecord?id=CVE-2025-54571)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-54571](https://www.cve.org/CVERecord?id=CVE-2025-54571)** : 🟠 **Severity: Medium** (Score: 6.9)
 
 **Debian Version :** bullseye
  **Package Version :** modsecurity-apache 2.9.3-3+deb11u5
@@ -226,17 +226,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** unbound 1.17.1-2+deb12u3
- **Type :** DSA
-
-------------------------------
-
-**2025-08-26** - **[DSA-5986-1](https://security-tracker.debian.org/tracker/DSA-5986-1)** - node-cipher-base
-
-**CVE(s) :**
-- **[CVE-2025-9287](https://www.cve.org/CVERecord?id=CVE-2025-9287)** : 🔥 **Severity: High** (Score: 9.1)
-
-**Debian Version :** bookworm
- **Package Version :** node-cipher-base 1.0.4-6+deb12u1 	[trixie] - node-cipher-base 1.0.4-6+deb13u1
  **Type :** DSA
 
 ------------------------------
