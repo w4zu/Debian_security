@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-09-10** - **[DSA-5995-1](https://security-tracker.debian.org/tracker/DSA-5995-1)** - hsqldb1.8.0
+
+**CVE(s) :**
+- **[CVE-2023-1183](https://www.cve.org/CVERecord?id=CVE-2023-1183)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** hsqldb1.8.0 1.8.0.10+dfsg-12.1+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-09-08** - **[DLA-4296-1](https://security-tracker.debian.org/tracker/DLA-4296-1)** - qemu
 
 **CVE(s) :**
@@ -32,6 +43,17 @@
 **Debian Version :** bullseye
  **Package Version :** modsecurity-apache 2.9.3-3+deb11u5
  **Type :** DLA
+
+------------------------------
+
+**2025-09-07** - **[DSA-5994-1](https://security-tracker.debian.org/tracker/DSA-5994-1)** - shibboleth-sp
+
+**CVE(s) :**
+- **[CVE-2025-9943](https://www.cve.org/CVERecord?id=CVE-2025-9943)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** shibboleth-sp 3.4.1+dfsg-2+deb12u1 	[trixie] - shibboleth-sp 3.5.0+dfsg-2+deb13u1
+ **Type :** DSA
 
 ------------------------------
 
