@@ -1,5 +1,24 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-09-12** - **[DSA-5997-1](https://security-tracker.debian.org/tracker/DSA-5997-1)** - imagemagick
+
+**CVE(s) :**
+- **[CVE-2025-55154](https://www.cve.org/CVERecord?id=CVE-2025-55154)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-55212](https://www.cve.org/CVERecord?id=CVE-2025-55212)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-55298](https://www.cve.org/CVERecord?id=CVE-2025-55298)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-57803](https://www.cve.org/CVERecord?id=CVE-2025-57803)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-57807](https://www.cve.org/CVERecord?id=CVE-2025-57807)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** imagemagick 6.9.11.60+dfsg-1.6+deb12u4 	[trixie] - imagemagick 8:7.1.1.43+dfsg1-1+deb13u2
+ **Type :** DSA
+
+------------------------------
+
 **2025-09-10** - **[DLA-4297-1](https://security-tracker.debian.org/tracker/DLA-4297-1)** - imagemagick
 
 **CVE(s) :**
