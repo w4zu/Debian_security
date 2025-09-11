@@ -25,6 +25,19 @@
 
 ------------------------------
 
+**2025-09-10** - **[DSA-5996-1](https://security-tracker.debian.org/tracker/DSA-5996-1)** - chromium
+
+**CVE(s) :**
+- **[CVE-2025-10200](https://www.cve.org/CVERecord?id=CVE-2025-10200)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-10201](https://www.cve.org/CVERecord?id=CVE-2025-10201)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** chromium 140.0.7339.127-1~deb12u1 	[trixie] - chromium 140.0.7339.127-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-09-10** - **[DSA-5995-1](https://security-tracker.debian.org/tracker/DSA-5995-1)** - hsqldb1.8.0
 
 **CVE(s) :**
