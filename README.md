@@ -1,5 +1,30 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-09-10** - **[DLA-4297-1](https://security-tracker.debian.org/tracker/DLA-4297-1)** - imagemagick
+
+**CVE(s) :**
+- **[CVE-2025-53014](https://www.cve.org/CVERecord?id=CVE-2025-53014)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-53019](https://www.cve.org/CVERecord?id=CVE-2025-53019)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-53101](https://www.cve.org/CVERecord?id=CVE-2025-53101)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-55154](https://www.cve.org/CVERecord?id=CVE-2025-55154)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-55212](https://www.cve.org/CVERecord?id=CVE-2025-55212)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-55298](https://www.cve.org/CVERecord?id=CVE-2025-55298)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-57803](https://www.cve.org/CVERecord?id=CVE-2025-57803)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-57807](https://www.cve.org/CVERecord?id=CVE-2025-57807)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** imagemagick 8:6.9.11.60+dfsg-1.3+deb11u6
+ **Type :** DLA
+
+------------------------------
+
 **2025-09-10** - **[DSA-5995-1](https://security-tracker.debian.org/tracker/DSA-5995-1)** - hsqldb1.8.0
 
 **CVE(s) :**
@@ -200,39 +225,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** nodejs 18.20.4+dfsg-1~deb12u1
- **Type :** DSA
-
-------------------------------
-
-**2025-08-28** - **[DLA-4285-1](https://security-tracker.debian.org/tracker/DLA-4285-1)** - golang-github-gin-contrib-cors
-
-**CVE(s) :**
-- **[CVE-2019-25211](https://www.cve.org/CVERecord?id=CVE-2019-25211)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** golang-github-gin-contrib-cors 1.3.1-1+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-08-28** - **[DLA-4284-1](https://security-tracker.debian.org/tracker/DLA-4284-1)** - udisks2
-
-**CVE(s) :**
-- **[CVE-2025-8067](https://www.cve.org/CVERecord?id=CVE-2025-8067)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** udisks2 2.9.2-2+deb11u3
- **Type :** DLA
-
-------------------------------
-
-**2025-08-28** - **[DSA-5989-1](https://security-tracker.debian.org/tracker/DSA-5989-1)** - udisks2
-
-**CVE(s) :**
-- **[CVE-2025-8067](https://www.cve.org/CVERecord?id=CVE-2025-8067)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** udisks2 2.9.4-4+deb12u2 	[trixie] - udisks2 2.10.1-12.1+deb13u1
  **Type :** DSA
 
 ------------------------------
