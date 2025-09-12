@@ -19,6 +19,54 @@
 
 ------------------------------
 
+**2025-09-11** - **[DLA-4298-1](https://security-tracker.debian.org/tracker/DLA-4298-1)** - cups
+
+**CVE(s) :**
+- **[CVE-2025-58060](https://www.cve.org/CVERecord?id=CVE-2025-58060)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-58364](https://www.cve.org/CVERecord?id=CVE-2025-58364)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** cups 2.3.3op2-3+deb11u10
+ **Type :** DLA
+
+------------------------------
+
+**2025-09-11** - **[DSA-6000-1](https://security-tracker.debian.org/tracker/DSA-6000-1)** - libcpanel-json-xs-perl
+
+**CVE(s) :**
+- **[CVE-2025-40929](https://www.cve.org/CVERecord?id=CVE-2025-40929)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** libcpanel-json-xs-perl 4.35-1+deb12u1 	[trixie] - libcpanel-json-xs-perl 4.39-2~deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2025-09-11** - **[DSA-5999-1](https://security-tracker.debian.org/tracker/DSA-5999-1)** - libjson-xs-perl
+
+**CVE(s) :**
+- **[CVE-2025-40928](https://www.cve.org/CVERecord?id=CVE-2025-40928)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** libjson-xs-perl 4.040-1~deb12u1 	[trixie] - libjson-xs-perl 4.040-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2025-09-11** - **[DSA-5998-1](https://security-tracker.debian.org/tracker/DSA-5998-1)** - cups
+
+**CVE(s) :**
+- **[CVE-2025-58060](https://www.cve.org/CVERecord?id=CVE-2025-58060)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-58364](https://www.cve.org/CVERecord?id=CVE-2025-58364)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** cups 2.4.2-3+deb12u9 	[trixie] - cups 2.4.10-3+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-09-10** - **[DLA-4297-1](https://security-tracker.debian.org/tracker/DLA-4297-1)** - imagemagick
 
 **CVE(s) :**
@@ -232,31 +280,6 @@
 
 **Debian Version :** trixie
  **Package Version :** firebird4.0 4.0.5.3140.ds6-17+deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2025-08-29** - **[DSA-5991-1](https://security-tracker.debian.org/tracker/DSA-5991-1)** - nodejs
-
-**CVE(s) :**
-- **[CVE-2023-46809](https://www.cve.org/CVERecord?id=CVE-2023-46809)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-21892](https://www.cve.org/CVERecord?id=CVE-2024-21892)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-22019](https://www.cve.org/CVERecord?id=CVE-2024-22019)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-22020](https://www.cve.org/CVERecord?id=CVE-2024-22020)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-22025](https://www.cve.org/CVERecord?id=CVE-2024-22025)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-27982](https://www.cve.org/CVERecord?id=CVE-2024-27982)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-27983](https://www.cve.org/CVERecord?id=CVE-2024-27983)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-47153](https://www.cve.org/CVERecord?id=CVE-2025-47153)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** nodejs 18.20.4+dfsg-1~deb12u1
  **Type :** DSA
 
 ------------------------------
