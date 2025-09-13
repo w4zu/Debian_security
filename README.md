@@ -14,7 +14,7 @@
 - **[CVE-2025-57807](https://www.cve.org/CVERecord?id=CVE-2025-57807)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
- **Package Version :** imagemagick 6.9.11.60+dfsg-1.6+deb12u4 	[trixie] - imagemagick 8:7.1.1.43+dfsg1-1+deb13u2
+ **Package Version :** imagemagick 8:6.9.11.60+dfsg-1.6+deb12u4 	[trixie] - imagemagick 8:7.1.1.43+dfsg1-1+deb13u2
  **Type :** DSA
 
 ------------------------------
@@ -257,30 +257,6 @@
 **Debian Version :** bullseye
  **Package Version :** libcommons-lang3-java 3.11-1+deb11u1
  **Type :** DLA
-
-------------------------------
-
-**2025-08-30** - **[DLA-4274-2](https://security-tracker.debian.org/tracker/DLA-4274-2)** - mbedtls
-
-**CVE(s) :**
-- **[CVE-2025-47917](https://www.cve.org/CVERecord?id=CVE-2025-47917)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** mbedtls 2.16.9-0.1+deb11u3
- **Type :** DLA
-
-------------------------------
-
-**2025-08-30** - **[DSA-5992-1](https://security-tracker.debian.org/tracker/DSA-5992-1)** - firebird4.0
-
-**CVE(s) :**
-- **[CVE-2025-24975](https://www.cve.org/CVERecord?id=CVE-2025-24975)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-54989](https://www.cve.org/CVERecord?id=CVE-2025-54989)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** trixie
- **Package Version :** firebird4.0 4.0.5.3140.ds6-17+deb13u1
- **Type :** DSA
 
 ------------------------------
 
