@@ -195,7 +195,7 @@
 **2025-09-03** - **[DLA-4291-1](https://security-tracker.debian.org/tracker/DLA-4291-1)** - node-cipher-base
 
 **CVE(s) :**
-- **[CVE-2025-9287](https://www.cve.org/CVERecord?id=CVE-2025-9287)** : 🔥 **Severity: High** (Score: 9.1)
+- **[CVE-2025-9287](https://www.cve.org/CVERecord?id=CVE-2025-9287)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** node-cipher-base 1.0.4-4+deb11u1
@@ -232,30 +232,6 @@
 
 **Debian Version :** bullseye
  **Package Version :** ruby-saml 1.11.0-1+deb11u3
- **Type :** DLA
-
-------------------------------
-
-**2025-08-31** - **[DLA-4287-1](https://security-tracker.debian.org/tracker/DLA-4287-1)** - libsndfile
-
-**CVE(s) :**
-- **[CVE-2022-33065](https://www.cve.org/CVERecord?id=CVE-2022-33065)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-50612](https://www.cve.org/CVERecord?id=CVE-2024-50612)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** libsndfile 1.0.31-2+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-08-31** - **[DLA-4286-1](https://security-tracker.debian.org/tracker/DLA-4286-1)** - libcommons-lang3-java
-
-**CVE(s) :**
-- **[CVE-2025-48924](https://www.cve.org/CVERecord?id=CVE-2025-48924)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** libcommons-lang3-java 3.11-1+deb11u1
  **Type :** DLA
 
 ------------------------------
