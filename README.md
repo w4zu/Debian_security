@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-09-14** - **[DSA-6001-1](https://security-tracker.debian.org/tracker/DSA-6001-1)** - cjson
+
+**CVE(s) :**
+- **[CVE-2025-57052](https://www.cve.org/CVERecord?id=CVE-2025-57052)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** cjson 1.7.15-1+deb12u4 	[trixie] - cjson 1.7.18-3.1+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-09-12** - **[DSA-5997-1](https://security-tracker.debian.org/tracker/DSA-5997-1)** - imagemagick
 
 **CVE(s) :**
