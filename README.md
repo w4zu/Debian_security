@@ -1,5 +1,27 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-09-16** - **[DLA-4302-1](https://security-tracker.debian.org/tracker/DLA-4302-1)** - node-sha.js
+
+**CVE(s) :**
+- **[CVE-2025-9288](https://www.cve.org/CVERecord?id=CVE-2025-9288)** : 🔥 **Severity: High** (Score: 9.1)
+
+**Debian Version :** bullseye
+ **Package Version :** node-sha.js 2.4.11-2+deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2025-09-15** - **[DLA-4301-1](https://security-tracker.debian.org/tracker/DLA-4301-1)** - python-django
+
+**CVE(s) :**
+- **[CVE-2025-57833](https://www.cve.org/CVERecord?id=CVE-2025-57833)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** python-django 2:2.2.28-1~deb11u8
+ **Type :** DLA
+
+------------------------------
+
 **2025-09-14** - **[DLA-4300-1](https://security-tracker.debian.org/tracker/DLA-4300-1)** - shibboleth-sp
 
 **CVE(s) :**
@@ -232,28 +254,6 @@
 
 **Debian Version :** bullseye
  **Package Version :** node-cipher-base 1.0.4-4+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-09-02** - **[DLA-4290-1](https://security-tracker.debian.org/tracker/DLA-4290-1)** - python-h2
-
-**CVE(s) :**
-- **[CVE-2025-57804](https://www.cve.org/CVERecord?id=CVE-2025-57804)** : 🟠 **Severity: Medium** (Score: 6.9)
-
-**Debian Version :** bullseye
- **Package Version :** python-h2 4.0.0-3+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-09-02** - **[DLA-4289-1](https://security-tracker.debian.org/tracker/DLA-4289-1)** - python-eventlet
-
-**CVE(s) :**
-- **[CVE-2025-58068](https://www.cve.org/CVERecord?id=CVE-2025-58068)** : 🟠 **Severity: Medium** (Score: 6.3)
-
-**Debian Version :** bullseye
- **Package Version :** python-eventlet 0.26.1-7+deb11u2
  **Type :** DLA
 
 ------------------------------
