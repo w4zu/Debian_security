@@ -258,14 +258,3 @@
 
 ------------------------------
 
-**2025-09-03** - **[DLA-4291-1](https://security-tracker.debian.org/tracker/DLA-4291-1)** - node-cipher-base
-
-**CVE(s) :**
-- **[CVE-2025-9287](https://www.cve.org/CVERecord?id=CVE-2025-9287)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** node-cipher-base 1.0.4-4+deb11u1
- **Type :** DLA
-
-------------------------------
-
