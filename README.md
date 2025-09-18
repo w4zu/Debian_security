@@ -1,5 +1,24 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-09-18** - **[DLA-4303-1](https://security-tracker.debian.org/tracker/DLA-4303-1)** - nextcloud-desktop
+
+**CVE(s) :**
+- **[CVE-2022-39331](https://www.cve.org/CVERecord?id=CVE-2022-39331)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2022-39332](https://www.cve.org/CVERecord?id=CVE-2022-39332)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2022-39333](https://www.cve.org/CVERecord?id=CVE-2022-39333)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2022-39334](https://www.cve.org/CVERecord?id=CVE-2022-39334)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2023-28997](https://www.cve.org/CVERecord?id=CVE-2023-28997)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** nextcloud-desktop 3.1.1-2+deb11u2
+ **Type :** DLA
+
+------------------------------
+
 **2025-09-16** - **[DLA-4302-1](https://security-tracker.debian.org/tracker/DLA-4302-1)** - node-sha.js
 
 **CVE(s) :**
