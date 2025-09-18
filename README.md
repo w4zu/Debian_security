@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-09-18** - **[DLA-4304-1](https://security-tracker.debian.org/tracker/DLA-4304-1)** - cjson
+
+**CVE(s) :**
+- **[CVE-2025-57052](https://www.cve.org/CVERecord?id=CVE-2025-57052)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** cjson 1.7.14-1+deb11u3
+ **Type :** DLA
+
+------------------------------
+
 **2025-09-18** - **[DLA-4303-1](https://security-tracker.debian.org/tracker/DLA-4303-1)** - nextcloud-desktop
 
 **CVE(s) :**
