@@ -1,5 +1,45 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-09-19** - **[DLA-4305-1](https://security-tracker.debian.org/tracker/DLA-4305-1)** - firefox-esr
+
+**CVE(s) :**
+- **[CVE-2025-10527](https://www.cve.org/CVERecord?id=CVE-2025-10527)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-10528](https://www.cve.org/CVERecord?id=CVE-2025-10528)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-10529](https://www.cve.org/CVERecord?id=CVE-2025-10529)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-10532](https://www.cve.org/CVERecord?id=CVE-2025-10532)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-10533](https://www.cve.org/CVERecord?id=CVE-2025-10533)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-10536](https://www.cve.org/CVERecord?id=CVE-2025-10536)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-10537](https://www.cve.org/CVERecord?id=CVE-2025-10537)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** firefox-esr 140.3.0esr-1~deb11u2
+ **Type :** DLA
+
+------------------------------
+
+**2025-09-19** - **[DSA-6004-1](https://security-tracker.debian.org/tracker/DSA-6004-1)** - chromium
+
+**CVE(s) :**
+- **[CVE-2025-10500](https://www.cve.org/CVERecord?id=CVE-2025-10500)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-10501](https://www.cve.org/CVERecord?id=CVE-2025-10501)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-10502](https://www.cve.org/CVERecord?id=CVE-2025-10502)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-10585](https://www.cve.org/CVERecord?id=CVE-2025-10585)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** chromium 140.0.7339.185-1~deb12u1 	[trixie] - chromium 140.0.7339.185-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-09-18** - **[DLA-4304-1](https://security-tracker.debian.org/tracker/DLA-4304-1)** - cjson
 
 **CVE(s) :**
