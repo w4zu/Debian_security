@@ -100,7 +100,7 @@
 **2025-09-14** - **[DLA-4299-1](https://security-tracker.debian.org/tracker/DLA-4299-1)** - jetty9
 
 **CVE(s) :**
-- **[CVE-2025-5115](https://www.cve.org/CVERecord?id=CVE-2025-5115)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-5115](https://www.cve.org/CVERecord?id=CVE-2025-5115)** : 🔥 **Severity: High** (Score: 7.7)
 
 **Debian Version :** bullseye
  **Package Version :** jetty9 9.4.57-0+deb11u3
