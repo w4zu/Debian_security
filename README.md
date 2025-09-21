@@ -1,5 +1,44 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-09-21** - **[DLA-4307-1](https://security-tracker.debian.org/tracker/DLA-4307-1)** - jq
+
+**CVE(s) :**
+- **[CVE-2025-48060](https://www.cve.org/CVERecord?id=CVE-2025-48060)** : 🔥 **Severity: High** (Score: 7.7)
+
+**Debian Version :** bullseye
+ **Package Version :** jq 1.6-2.1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2025-09-21** - **[DLA-4306-1](https://security-tracker.debian.org/tracker/DLA-4306-1)** - pam
+
+**CVE(s) :**
+- **[CVE-2024-22365](https://www.cve.org/CVERecord?id=CVE-2024-22365)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-6020](https://www.cve.org/CVERecord?id=CVE-2025-6020)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** pam 1.4.0-9+deb11u2
+ **Type :** DLA
+
+------------------------------
+
+**2025-09-21** - **[DSA-6007-1](https://security-tracker.debian.org/tracker/DSA-6007-1)** - ffmpeg
+
+**CVE(s) :**
+- **[CVE-2025-1594](https://www.cve.org/CVERecord?id=CVE-2025-1594)** : 🟠 **Severity: Medium** (Score: 5.3)
+
+- **[CVE-2025-7700](https://www.cve.org/CVERecord?id=CVE-2025-7700)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-10256](https://www.cve.org/CVERecord?id=CVE-2025-10256)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** ffmpeg 7:7.1.2-0+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-09-19** - **[DLA-4305-1](https://security-tracker.debian.org/tracker/DLA-4305-1)** - firefox-esr
 
 **CVE(s) :**
@@ -26,7 +65,7 @@
 **2025-09-19** - **[DSA-6006-1](https://security-tracker.debian.org/tracker/DSA-6006-1)** - jetty12
 
 **CVE(s) :**
-- **[CVE-2025-5115](https://www.cve.org/CVERecord?id=CVE-2025-5115)** : 🔥 **Severity: High** (Score: 7.7)
+- **[CVE-2025-5115](https://www.cve.org/CVERecord?id=CVE-2025-5115)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** trixie
  **Package Version :** jetty12 12.0.17-3.1~deb13u1
@@ -37,7 +76,7 @@
 **2025-09-19** - **[DSA-6005-1](https://security-tracker.debian.org/tracker/DSA-6005-1)** - jetty9
 
 **CVE(s) :**
-- **[CVE-2025-5115](https://www.cve.org/CVERecord?id=CVE-2025-5115)** : 🔥 **Severity: High** (Score: 7.7)
+- **[CVE-2025-5115](https://www.cve.org/CVERecord?id=CVE-2025-5115)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** jetty9 9.4.57-1.1~deb12u1 	[trixie] - jetty9 9.4.57-1.1~deb13u1
@@ -162,7 +201,7 @@
 **2025-09-14** - **[DLA-4299-1](https://security-tracker.debian.org/tracker/DLA-4299-1)** - jetty9
 
 **CVE(s) :**
-- **[CVE-2025-5115](https://www.cve.org/CVERecord?id=CVE-2025-5115)** : 🔥 **Severity: High** (Score: 7.7)
+- **[CVE-2025-5115](https://www.cve.org/CVERecord?id=CVE-2025-5115)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** jetty9 9.4.57-0+deb11u3
