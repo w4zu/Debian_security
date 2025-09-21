@@ -321,25 +321,3 @@
 
 ------------------------------
 
-**2025-09-07** - **[DLA-4294-1](https://security-tracker.debian.org/tracker/DLA-4294-1)** - modsecurity-apache
-
-**CVE(s) :**
-- **[CVE-2025-54571](https://www.cve.org/CVERecord?id=CVE-2025-54571)** : 🟠 **Severity: Medium** (Score: 6.9)
-
-**Debian Version :** bullseye
- **Package Version :** modsecurity-apache 2.9.3-3+deb11u5
- **Type :** DLA
-
-------------------------------
-
-**2025-09-07** - **[DSA-5994-1](https://security-tracker.debian.org/tracker/DSA-5994-1)** - shibboleth-sp
-
-**CVE(s) :**
-- **[CVE-2025-9943](https://www.cve.org/CVERecord?id=CVE-2025-9943)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** shibboleth-sp 3.4.1+dfsg-2+deb12u1 	[trixie] - shibboleth-sp 3.5.0+dfsg-2+deb13u1
- **Type :** DSA
-
-------------------------------
-
