@@ -65,7 +65,7 @@
 **2025-09-19** - **[DSA-6006-1](https://security-tracker.debian.org/tracker/DSA-6006-1)** - jetty12
 
 **CVE(s) :**
-- **[CVE-2025-5115](https://www.cve.org/CVERecord?id=CVE-2025-5115)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-5115](https://www.cve.org/CVERecord?id=CVE-2025-5115)** : 🔥 **Severity: High** (Score: 7.7)
 
 **Debian Version :** trixie
  **Package Version :** jetty12 12.0.17-3.1~deb13u1
@@ -76,7 +76,7 @@
 **2025-09-19** - **[DSA-6005-1](https://security-tracker.debian.org/tracker/DSA-6005-1)** - jetty9
 
 **CVE(s) :**
-- **[CVE-2025-5115](https://www.cve.org/CVERecord?id=CVE-2025-5115)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-5115](https://www.cve.org/CVERecord?id=CVE-2025-5115)** : 🔥 **Severity: High** (Score: 7.7)
 
 **Debian Version :** bookworm
  **Package Version :** jetty9 9.4.57-1.1~deb12u1 	[trixie] - jetty9 9.4.57-1.1~deb13u1
@@ -201,7 +201,7 @@
 **2025-09-14** - **[DLA-4299-1](https://security-tracker.debian.org/tracker/DLA-4299-1)** - jetty9
 
 **CVE(s) :**
-- **[CVE-2025-5115](https://www.cve.org/CVERecord?id=CVE-2025-5115)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-5115](https://www.cve.org/CVERecord?id=CVE-2025-5115)** : 🔥 **Severity: High** (Score: 7.7)
 
 **Debian Version :** bullseye
  **Package Version :** jetty9 9.4.57-0+deb11u3
@@ -333,30 +333,6 @@
 **Debian Version :** trixie
  **Package Version :** hsqldb1.8.0 1.8.0.10+dfsg-12.1+deb13u1
  **Type :** DSA
-
-------------------------------
-
-**2025-09-08** - **[DLA-4296-1](https://security-tracker.debian.org/tracker/DLA-4296-1)** - qemu
-
-**CVE(s) :**
-- **[CVE-2024-7409](https://www.cve.org/CVERecord?id=CVE-2024-7409)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** qemu 1:5.2+dfsg-11+deb11u5
- **Type :** DLA
-
-------------------------------
-
-**2025-09-08** - **[DLA-4295-1](https://security-tracker.debian.org/tracker/DLA-4295-1)** - libhtp
-
-**CVE(s) :**
-- **[CVE-2024-23837](https://www.cve.org/CVERecord?id=CVE-2024-23837)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-45797](https://www.cve.org/CVERecord?id=CVE-2024-45797)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** libhtp 1:0.5.36-1+deb11u1
- **Type :** DLA
 
 ------------------------------
 
