@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-09-25** - **[DLA-4309-1](https://security-tracker.debian.org/tracker/DLA-4309-1)** - libxslt
+
+**CVE(s) :**
+- **[CVE-2023-40403](https://www.cve.org/CVERecord?id=CVE-2023-40403)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-7424](https://www.cve.org/CVERecord?id=CVE-2025-7424)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** libxslt 1.1.34-4+deb11u3
+ **Type :** DLA
+
+------------------------------
+
 **2025-09-25** - **[DSA-6010-1](https://security-tracker.debian.org/tracker/DSA-6010-1)** - chromium
 
 **CVE(s) :**
