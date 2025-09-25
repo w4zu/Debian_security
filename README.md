@@ -586,7 +586,7 @@
 **2025-09-21** - **[DSA-6007-1](https://security-tracker.debian.org/tracker/DSA-6007-1)** - ffmpeg
 
 **CVE(s) :**
-- **[CVE-2025-1594](https://www.cve.org/CVERecord?id=CVE-2025-1594)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-1594](https://www.cve.org/CVERecord?id=CVE-2025-1594)** : 🟠 **Severity: Medium** (Score: 5.3)
 
 - **[CVE-2025-7700](https://www.cve.org/CVERecord?id=CVE-2025-7700)** : **Severity: Unknown** (Score: N/A)
 
@@ -794,54 +794,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** imagemagick 8:6.9.11.60+dfsg-1.6+deb12u4 	[trixie] - imagemagick 8:7.1.1.43+dfsg1-1+deb13u2
- **Type :** DSA
-
-------------------------------
-
-**2025-09-11** - **[DLA-4298-1](https://security-tracker.debian.org/tracker/DLA-4298-1)** - cups
-
-**CVE(s) :**
-- **[CVE-2025-58060](https://www.cve.org/CVERecord?id=CVE-2025-58060)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-58364](https://www.cve.org/CVERecord?id=CVE-2025-58364)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** cups 2.3.3op2-3+deb11u10
- **Type :** DLA
-
-------------------------------
-
-**2025-09-11** - **[DSA-6000-1](https://security-tracker.debian.org/tracker/DSA-6000-1)** - libcpanel-json-xs-perl
-
-**CVE(s) :**
-- **[CVE-2025-40929](https://www.cve.org/CVERecord?id=CVE-2025-40929)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** libcpanel-json-xs-perl 4.35-1+deb12u1 	[trixie] - libcpanel-json-xs-perl 4.39-2~deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2025-09-11** - **[DSA-5999-1](https://security-tracker.debian.org/tracker/DSA-5999-1)** - libjson-xs-perl
-
-**CVE(s) :**
-- **[CVE-2025-40928](https://www.cve.org/CVERecord?id=CVE-2025-40928)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** libjson-xs-perl 4.040-1~deb12u1 	[trixie] - libjson-xs-perl 4.040-1~deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2025-09-11** - **[DSA-5998-1](https://security-tracker.debian.org/tracker/DSA-5998-1)** - cups
-
-**CVE(s) :**
-- **[CVE-2025-58060](https://www.cve.org/CVERecord?id=CVE-2025-58060)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-58364](https://www.cve.org/CVERecord?id=CVE-2025-58364)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** cups 2.4.2-3+deb12u9 	[trixie] - cups 2.4.10-3+deb13u1
  **Type :** DSA
 
 ------------------------------
