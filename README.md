@@ -1,5 +1,20 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-09-27** - **[DLA-4312-1](https://security-tracker.debian.org/tracker/DLA-4312-1)** - squid
+
+**CVE(s) :**
+- **[CVE-2023-5824](https://www.cve.org/CVERecord?id=CVE-2023-5824)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2023-46728](https://www.cve.org/CVERecord?id=CVE-2023-46728)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-54574](https://www.cve.org/CVERecord?id=CVE-2025-54574)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** squid 4.13-10+deb11u5
+ **Type :** DLA
+
+------------------------------
+
 **2025-09-26** - **[DLA-4311-1](https://security-tracker.debian.org/tracker/DLA-4311-1)** - thunderbird
 
 **CVE(s) :**
