@@ -690,7 +690,7 @@
 **2025-09-21** - **[DLA-4307-1](https://security-tracker.debian.org/tracker/DLA-4307-1)** - jq
 
 **CVE(s) :**
-- **[CVE-2025-48060](https://www.cve.org/CVERecord?id=CVE-2025-48060)** : 🔥 **Severity: High** (Score: 7.7)
+- **[CVE-2025-48060](https://www.cve.org/CVERecord?id=CVE-2025-48060)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** jq 1.6-2.1+deb11u1
@@ -844,7 +844,7 @@
 **2025-09-16** - **[DLA-4302-1](https://security-tracker.debian.org/tracker/DLA-4302-1)** - node-sha.js
 
 **CVE(s) :**
-- **[CVE-2025-9288](https://www.cve.org/CVERecord?id=CVE-2025-9288)** : 🔥 **Severity: High** (Score: 9.1)
+- **[CVE-2025-9288](https://www.cve.org/CVERecord?id=CVE-2025-9288)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** node-sha.js 2.4.11-2+deb11u1
@@ -855,7 +855,7 @@
 **2025-09-16** - **[DSA-6002-1](https://security-tracker.debian.org/tracker/DSA-6002-1)** - node-sha.js
 
 **CVE(s) :**
-- **[CVE-2025-9288](https://www.cve.org/CVERecord?id=CVE-2025-9288)** : 🔥 **Severity: High** (Score: 9.1)
+- **[CVE-2025-9288](https://www.cve.org/CVERecord?id=CVE-2025-9288)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** node-sha.js 2.4.11+~2.4.0-2+deb12u1 	[trixie] - node-sha.js 2.4.11+~2.4.0-2+deb13u1
