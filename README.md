@@ -742,7 +742,7 @@
 **2025-09-21** - **[DSA-6007-1](https://security-tracker.debian.org/tracker/DSA-6007-1)** - ffmpeg
 
 **CVE(s) :**
-- **[CVE-2025-1594](https://www.cve.org/CVERecord?id=CVE-2025-1594)** : 🟠 **Severity: Medium** (Score: 5.3)
+- **[CVE-2025-1594](https://www.cve.org/CVERecord?id=CVE-2025-1594)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-7700](https://www.cve.org/CVERecord?id=CVE-2025-7700)** : **Severity: Unknown** (Score: N/A)
 
@@ -888,17 +888,6 @@
 **Debian Version :** bookworm
  **Package Version :** node-sha.js 2.4.11+~2.4.0-2+deb12u1 	[trixie] - node-sha.js 2.4.11+~2.4.0-2+deb13u1
  **Type :** DSA
-
-------------------------------
-
-**2025-09-15** - **[DLA-4301-1](https://security-tracker.debian.org/tracker/DLA-4301-1)** - python-django
-
-**CVE(s) :**
-- **[CVE-2025-57833](https://www.cve.org/CVERecord?id=CVE-2025-57833)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** python-django 2:2.2.28-1~deb11u8
- **Type :** DLA
 
 ------------------------------
 
