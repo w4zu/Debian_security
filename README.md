@@ -20,7 +20,7 @@
 **2025-09-28** - **[DSA-6013-1](https://security-tracker.debian.org/tracker/DSA-6013-1)** - node-tar-fs
 
 **CVE(s) :**
-- **[CVE-2025-59343](https://www.cve.org/CVERecord?id=CVE-2025-59343)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-59343](https://www.cve.org/CVERecord?id=CVE-2025-59343)** : 🔥 **Severity: High** (Score: 8.7)
 
 **Debian Version :** bookworm
  **Package Version :** node-tar-fs 2.1.3-0+deb12u2 	[trixie] - node-tar-fs 3.0.9+~cs2.0.4-1+deb13u1
@@ -31,7 +31,7 @@
 **2025-09-27** - **[DLA-4313-1](https://security-tracker.debian.org/tracker/DLA-4313-1)** - node-tar-fs
 
 **CVE(s) :**
-- **[CVE-2025-59343](https://www.cve.org/CVERecord?id=CVE-2025-59343)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-59343](https://www.cve.org/CVERecord?id=CVE-2025-59343)** : 🔥 **Severity: High** (Score: 8.7)
 
 **Debian Version :** bullseye
  **Package Version :** node-tar-fs 2.1.3-0+deb11u2
@@ -780,7 +780,7 @@
 **2025-09-19** - **[DSA-6006-1](https://security-tracker.debian.org/tracker/DSA-6006-1)** - jetty12
 
 **CVE(s) :**
-- **[CVE-2025-5115](https://www.cve.org/CVERecord?id=CVE-2025-5115)** : 🔥 **Severity: High** (Score: 7.7)
+- **[CVE-2025-5115](https://www.cve.org/CVERecord?id=CVE-2025-5115)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** trixie
  **Package Version :** jetty12 12.0.17-3.1~deb13u1
@@ -791,7 +791,7 @@
 **2025-09-19** - **[DSA-6005-1](https://security-tracker.debian.org/tracker/DSA-6005-1)** - jetty9
 
 **CVE(s) :**
-- **[CVE-2025-5115](https://www.cve.org/CVERecord?id=CVE-2025-5115)** : 🔥 **Severity: High** (Score: 7.7)
+- **[CVE-2025-5115](https://www.cve.org/CVERecord?id=CVE-2025-5115)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** jetty9 9.4.57-1.1~deb12u1 	[trixie] - jetty9 9.4.57-1.1~deb13u1
