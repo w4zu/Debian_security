@@ -1,9 +1,22 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-09-30** - **[DLA-4315-1](https://security-tracker.debian.org/tracker/DLA-4315-1)** - tiff
+
+**CVE(s) :**
+- **[CVE-2024-13978](https://www.cve.org/CVERecord?id=CVE-2024-13978)** : 🟠 **Severity: Medium** (Score: 2)
+
+- **[CVE-2025-9900](https://www.cve.org/CVERecord?id=CVE-2025-9900)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** tiff 4.2.0-1+deb11u7
+ **Type :** DLA
+
+------------------------------
+
 **2025-09-30** - **[DLA-4314-1](https://security-tracker.debian.org/tracker/DLA-4314-1)** - python-internetarchive
 
 **CVE(s) :**
-- **[CVE-2025-58438](https://www.cve.org/CVERecord?id=CVE-2025-58438)** : 🔥 **Severity: High** (Score: 9.4)
+- **[CVE-2025-58438](https://www.cve.org/CVERecord?id=CVE-2025-58438)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** python-internetarchive 1.9.9-1+deb11u1
