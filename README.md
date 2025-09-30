@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-09-30** - **[DLA-4314-1](https://security-tracker.debian.org/tracker/DLA-4314-1)** - python-internetarchive
+
+**CVE(s) :**
+- **[CVE-2025-58438](https://www.cve.org/CVERecord?id=CVE-2025-58438)** : 🔥 **Severity: High** (Score: 9.4)
+
+**Debian Version :** bullseye
+ **Package Version :** python-internetarchive 1.9.9-1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-09-28** - **[DSA-6014-1](https://security-tracker.debian.org/tracker/DSA-6014-1)** - gimp
 
 **CVE(s) :**
@@ -865,28 +876,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** firefox-esr 140.3.0esr-1~deb12u1 	[trixie] - firefox-esr 140.3.0esr-1~deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2025-09-16** - **[DLA-4302-1](https://security-tracker.debian.org/tracker/DLA-4302-1)** - node-sha.js
-
-**CVE(s) :**
-- **[CVE-2025-9288](https://www.cve.org/CVERecord?id=CVE-2025-9288)** : 🔥 **Severity: High** (Score: 9.1)
-
-**Debian Version :** bullseye
- **Package Version :** node-sha.js 2.4.11-2+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-09-16** - **[DSA-6002-1](https://security-tracker.debian.org/tracker/DSA-6002-1)** - node-sha.js
-
-**CVE(s) :**
-- **[CVE-2025-9288](https://www.cve.org/CVERecord?id=CVE-2025-9288)** : 🔥 **Severity: High** (Score: 9.1)
-
-**Debian Version :** bookworm
- **Package Version :** node-sha.js 2.4.11+~2.4.0-2+deb12u1 	[trixie] - node-sha.js 2.4.11+~2.4.0-2+deb13u1
  **Type :** DSA
 
 ------------------------------
