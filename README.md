@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-09-30** - **[DLA-4316-1](https://security-tracker.debian.org/tracker/DLA-4316-1)** - open-vm-tools
+
+**CVE(s) :**
+- **[CVE-2025-41244](https://www.cve.org/CVERecord?id=CVE-2025-41244)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** open-vm-tools 2:11.2.5-2+deb11u5
+ **Type :** DLA
+
+------------------------------
+
 **2025-09-30** - **[DLA-4315-1](https://security-tracker.debian.org/tracker/DLA-4315-1)** - tiff
 
 **CVE(s) :**
@@ -16,7 +27,7 @@
 **2025-09-30** - **[DLA-4314-1](https://security-tracker.debian.org/tracker/DLA-4314-1)** - python-internetarchive
 
 **CVE(s) :**
-- **[CVE-2025-58438](https://www.cve.org/CVERecord?id=CVE-2025-58438)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-58438](https://www.cve.org/CVERecord?id=CVE-2025-58438)** : 🔥 **Severity: High** (Score: 9.4)
 
 **Debian Version :** bullseye
  **Package Version :** python-internetarchive 1.9.9-1+deb11u1
