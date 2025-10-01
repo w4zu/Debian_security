@@ -1,5 +1,51 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-10-01** - **[DLA-4320-1](https://security-tracker.debian.org/tracker/DLA-4320-1)** - u-boot
+
+**CVE(s) :**
+- **[CVE-2021-27097](https://www.cve.org/CVERecord?id=CVE-2021-27097)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2021-27138](https://www.cve.org/CVERecord?id=CVE-2021-27138)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** u-boot 2021.01+dfsg-5+deb11u2
+ **Type :** DLA
+
+------------------------------
+
+**2025-09-30** - **[DLA-4319-1](https://security-tracker.debian.org/tracker/DLA-4319-1)** - libxml2
+
+**CVE(s) :**
+- **[CVE-2025-9714](https://www.cve.org/CVERecord?id=CVE-2025-9714)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** libxml2 2.9.10+dfsg-6.7+deb11u9
+ **Type :** DLA
+
+------------------------------
+
+**2025-09-30** - **[DLA-4318-1](https://security-tracker.debian.org/tracker/DLA-4318-1)** - libcpanel-json-xs-perl
+
+**CVE(s) :**
+- **[CVE-2025-40929](https://www.cve.org/CVERecord?id=CVE-2025-40929)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** libcpanel-json-xs-perl 4.25-1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2025-09-30** - **[DLA-4317-1](https://security-tracker.debian.org/tracker/DLA-4317-1)** - libjson-xs-perl
+
+**CVE(s) :**
+- **[CVE-2025-40928](https://www.cve.org/CVERecord?id=CVE-2025-40928)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** libjson-xs-perl 4.030-1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-09-30** - **[DLA-4316-1](https://security-tracker.debian.org/tracker/DLA-4316-1)** - open-vm-tools
 
 **CVE(s) :**
