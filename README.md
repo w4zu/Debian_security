@@ -60,7 +60,7 @@
 **2025-09-30** - **[DLA-4315-1](https://security-tracker.debian.org/tracker/DLA-4315-1)** - tiff
 
 **CVE(s) :**
-- **[CVE-2024-13978](https://www.cve.org/CVERecord?id=CVE-2024-13978)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-13978](https://www.cve.org/CVERecord?id=CVE-2024-13978)** : 🟠 **Severity: Medium** (Score: 2)
 
 - **[CVE-2025-9900](https://www.cve.org/CVERecord?id=CVE-2025-9900)** : **Severity: Unknown** (Score: N/A)
 
@@ -101,7 +101,7 @@
 **2025-09-28** - **[DSA-6013-1](https://security-tracker.debian.org/tracker/DSA-6013-1)** - node-tar-fs
 
 **CVE(s) :**
-- **[CVE-2025-59343](https://www.cve.org/CVERecord?id=CVE-2025-59343)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-59343](https://www.cve.org/CVERecord?id=CVE-2025-59343)** : 🔥 **Severity: High** (Score: 8.7)
 
 **Debian Version :** bookworm
  **Package Version :** node-tar-fs 2.1.3-0+deb12u2 	[trixie] - node-tar-fs 3.0.9+~cs2.0.4-1+deb13u1
@@ -112,7 +112,7 @@
 **2025-09-27** - **[DLA-4313-1](https://security-tracker.debian.org/tracker/DLA-4313-1)** - node-tar-fs
 
 **CVE(s) :**
-- **[CVE-2025-59343](https://www.cve.org/CVERecord?id=CVE-2025-59343)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-59343](https://www.cve.org/CVERecord?id=CVE-2025-59343)** : 🔥 **Severity: High** (Score: 8.7)
 
 **Debian Version :** bullseye
  **Package Version :** node-tar-fs 2.1.3-0+deb11u2
@@ -823,7 +823,7 @@
 **2025-09-21** - **[DSA-6007-1](https://security-tracker.debian.org/tracker/DSA-6007-1)** - ffmpeg
 
 **CVE(s) :**
-- **[CVE-2025-1594](https://www.cve.org/CVERecord?id=CVE-2025-1594)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-1594](https://www.cve.org/CVERecord?id=CVE-2025-1594)** : 🟠 **Severity: Medium** (Score: 5.3)
 
 - **[CVE-2025-7700](https://www.cve.org/CVERecord?id=CVE-2025-7700)** : **Severity: Unknown** (Score: N/A)
 
