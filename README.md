@@ -13,6 +13,19 @@
 
 ------------------------------
 
+**2025-10-01** - **[DSA-6015-1](https://security-tracker.debian.org/tracker/DSA-6015-1)** - openssl
+
+**CVE(s) :**
+- **[CVE-2025-9230](https://www.cve.org/CVERecord?id=CVE-2025-9230)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-9232](https://www.cve.org/CVERecord?id=CVE-2025-9232)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** openssl 3.0.17-1~deb12u3 	[trixie] - openssl 3.5.1-1+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-09-30** - **[DLA-4319-1](https://security-tracker.debian.org/tracker/DLA-4319-1)** - libxml2
 
 **CVE(s) :**
@@ -861,7 +874,7 @@
 **2025-09-19** - **[DSA-6006-1](https://security-tracker.debian.org/tracker/DSA-6006-1)** - jetty12
 
 **CVE(s) :**
-- **[CVE-2025-5115](https://www.cve.org/CVERecord?id=CVE-2025-5115)** : 🔥 **Severity: High** (Score: 7.7)
+- **[CVE-2025-5115](https://www.cve.org/CVERecord?id=CVE-2025-5115)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** trixie
  **Package Version :** jetty12 12.0.17-3.1~deb13u1
@@ -872,7 +885,7 @@
 **2025-09-19** - **[DSA-6005-1](https://security-tracker.debian.org/tracker/DSA-6005-1)** - jetty9
 
 **CVE(s) :**
-- **[CVE-2025-5115](https://www.cve.org/CVERecord?id=CVE-2025-5115)** : 🔥 **Severity: High** (Score: 7.7)
+- **[CVE-2025-5115](https://www.cve.org/CVERecord?id=CVE-2025-5115)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** jetty9 9.4.57-1.1~deb12u1 	[trixie] - jetty9 9.4.57-1.1~deb13u1
