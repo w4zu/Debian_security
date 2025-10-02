@@ -1,5 +1,38 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-10-02** - **[DSA-6016-1](https://security-tracker.debian.org/tracker/DSA-6016-1)** - chromium
+
+**CVE(s) :**
+- **[CVE-2025-11205](https://www.cve.org/CVERecord?id=CVE-2025-11205)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-11206](https://www.cve.org/CVERecord?id=CVE-2025-11206)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-11207](https://www.cve.org/CVERecord?id=CVE-2025-11207)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-11208](https://www.cve.org/CVERecord?id=CVE-2025-11208)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-11209](https://www.cve.org/CVERecord?id=CVE-2025-11209)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-11210](https://www.cve.org/CVERecord?id=CVE-2025-11210)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-11211](https://www.cve.org/CVERecord?id=CVE-2025-11211)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-11212](https://www.cve.org/CVERecord?id=CVE-2025-11212)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-11213](https://www.cve.org/CVERecord?id=CVE-2025-11213)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-11215](https://www.cve.org/CVERecord?id=CVE-2025-11215)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-11216](https://www.cve.org/CVERecord?id=CVE-2025-11216)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-11219](https://www.cve.org/CVERecord?id=CVE-2025-11219)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** chromium 141.0.7390.54-1~deb12u1 	[trixie] - chromium 141.0.7390.54-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-10-01** - **[DLA-4320-1](https://security-tracker.debian.org/tracker/DLA-4320-1)** - u-boot
 
 **CVE(s) :**
