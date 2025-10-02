@@ -874,7 +874,7 @@
 **2025-09-19** - **[DSA-6006-1](https://security-tracker.debian.org/tracker/DSA-6006-1)** - jetty12
 
 **CVE(s) :**
-- **[CVE-2025-5115](https://www.cve.org/CVERecord?id=CVE-2025-5115)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-5115](https://www.cve.org/CVERecord?id=CVE-2025-5115)** : 🔥 **Severity: High** (Score: 7.7)
 
 **Debian Version :** trixie
  **Package Version :** jetty12 12.0.17-3.1~deb13u1
@@ -885,7 +885,7 @@
 **2025-09-19** - **[DSA-6005-1](https://security-tracker.debian.org/tracker/DSA-6005-1)** - jetty9
 
 **CVE(s) :**
-- **[CVE-2025-5115](https://www.cve.org/CVERecord?id=CVE-2025-5115)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-5115](https://www.cve.org/CVERecord?id=CVE-2025-5115)** : 🔥 **Severity: High** (Score: 7.7)
 
 **Debian Version :** bookworm
  **Package Version :** jetty9 9.4.57-1.1~deb12u1 	[trixie] - jetty9 9.4.57-1.1~deb13u1
@@ -906,59 +906,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** chromium 140.0.7339.185-1~deb12u1 	[trixie] - chromium 140.0.7339.185-1~deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2025-09-18** - **[DLA-4304-1](https://security-tracker.debian.org/tracker/DLA-4304-1)** - cjson
-
-**CVE(s) :**
-- **[CVE-2025-57052](https://www.cve.org/CVERecord?id=CVE-2025-57052)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** cjson 1.7.14-1+deb11u3
- **Type :** DLA
-
-------------------------------
-
-**2025-09-18** - **[DLA-4303-1](https://security-tracker.debian.org/tracker/DLA-4303-1)** - nextcloud-desktop
-
-**CVE(s) :**
-- **[CVE-2022-39331](https://www.cve.org/CVERecord?id=CVE-2022-39331)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2022-39332](https://www.cve.org/CVERecord?id=CVE-2022-39332)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2022-39333](https://www.cve.org/CVERecord?id=CVE-2022-39333)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2022-39334](https://www.cve.org/CVERecord?id=CVE-2022-39334)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2023-28997](https://www.cve.org/CVERecord?id=CVE-2023-28997)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** nextcloud-desktop 3.1.1-2+deb11u2
- **Type :** DLA
-
-------------------------------
-
-**2025-09-18** - **[DSA-6003-1](https://security-tracker.debian.org/tracker/DSA-6003-1)** - firefox-esr
-
-**CVE(s) :**
-- **[CVE-2025-10527](https://www.cve.org/CVERecord?id=CVE-2025-10527)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-10528](https://www.cve.org/CVERecord?id=CVE-2025-10528)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-10529](https://www.cve.org/CVERecord?id=CVE-2025-10529)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-10532](https://www.cve.org/CVERecord?id=CVE-2025-10532)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-10533](https://www.cve.org/CVERecord?id=CVE-2025-10533)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-10536](https://www.cve.org/CVERecord?id=CVE-2025-10536)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-10537](https://www.cve.org/CVERecord?id=CVE-2025-10537)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** firefox-esr 140.3.0esr-1~deb12u1 	[trixie] - firefox-esr 140.3.0esr-1~deb13u1
  **Type :** DSA
 
 ------------------------------
