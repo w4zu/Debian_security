@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-10-03** - **[DSA-6017-1](https://security-tracker.debian.org/tracker/DSA-6017-1)** - haproxy
+
+**CVE(s) :**
+- **[CVE-2025-11230](https://www.cve.org/CVERecord?id=CVE-2025-11230)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** haproxy 2.6.12-1+deb12u3 	[trixie] - haproxy 3.0.11-1+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-10-02** - **[DSA-6016-1](https://security-tracker.debian.org/tracker/DSA-6016-1)** - chromium
 
 **CVE(s) :**
