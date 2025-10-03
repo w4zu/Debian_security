@@ -1,5 +1,27 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-10-03** - **[DLA-4321-1](https://security-tracker.debian.org/tracker/DLA-4321-1)** - openssl
+
+**CVE(s) :**
+- **[CVE-2025-9230](https://www.cve.org/CVERecord?id=CVE-2025-9230)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** openssl 1.1.1w-0+deb11u4
+ **Type :** DLA
+
+------------------------------
+
+**2025-10-03** - **[DSA-6018-1](https://security-tracker.debian.org/tracker/DSA-6018-1)** - gegl
+
+**CVE(s) :**
+- **[CVE-2025-10921](https://www.cve.org/CVERecord?id=CVE-2025-10921)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** gegl 1:0.4.42-2+deb12u1 	[trixie] - gegl 1:0.4.62-2+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-10-03** - **[DSA-6017-1](https://security-tracker.debian.org/tracker/DSA-6017-1)** - haproxy
 
 **CVE(s) :**
@@ -117,7 +139,7 @@
 **2025-09-30** - **[DLA-4315-1](https://security-tracker.debian.org/tracker/DLA-4315-1)** - tiff
 
 **CVE(s) :**
-- **[CVE-2024-13978](https://www.cve.org/CVERecord?id=CVE-2024-13978)** : 🟠 **Severity: Medium** (Score: 2)
+- **[CVE-2024-13978](https://www.cve.org/CVERecord?id=CVE-2024-13978)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-9900](https://www.cve.org/CVERecord?id=CVE-2025-9900)** : **Severity: Unknown** (Score: N/A)
 
@@ -856,7 +878,7 @@
 **2025-09-21** - **[DLA-4307-1](https://security-tracker.debian.org/tracker/DLA-4307-1)** - jq
 
 **CVE(s) :**
-- **[CVE-2025-48060](https://www.cve.org/CVERecord?id=CVE-2025-48060)** : 🔥 **Severity: High** (Score: 7.7)
+- **[CVE-2025-48060](https://www.cve.org/CVERecord?id=CVE-2025-48060)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** jq 1.6-2.1+deb11u1
