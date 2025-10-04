@@ -139,7 +139,7 @@
 **2025-09-30** - **[DLA-4315-1](https://security-tracker.debian.org/tracker/DLA-4315-1)** - tiff
 
 **CVE(s) :**
-- **[CVE-2024-13978](https://www.cve.org/CVERecord?id=CVE-2024-13978)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-13978](https://www.cve.org/CVERecord?id=CVE-2024-13978)** : 🟠 **Severity: Medium** (Score: 2)
 
 - **[CVE-2025-9900](https://www.cve.org/CVERecord?id=CVE-2025-9900)** : **Severity: Unknown** (Score: N/A)
 
@@ -878,7 +878,7 @@
 **2025-09-21** - **[DLA-4307-1](https://security-tracker.debian.org/tracker/DLA-4307-1)** - jq
 
 **CVE(s) :**
-- **[CVE-2025-48060](https://www.cve.org/CVERecord?id=CVE-2025-48060)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-48060](https://www.cve.org/CVERecord?id=CVE-2025-48060)** : 🔥 **Severity: High** (Score: 7.7)
 
 **Debian Version :** bullseye
  **Package Version :** jq 1.6-2.1+deb11u1
