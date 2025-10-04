@@ -180,7 +180,7 @@
 **2025-09-28** - **[DSA-6013-1](https://security-tracker.debian.org/tracker/DSA-6013-1)** - node-tar-fs
 
 **CVE(s) :**
-- **[CVE-2025-59343](https://www.cve.org/CVERecord?id=CVE-2025-59343)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-59343](https://www.cve.org/CVERecord?id=CVE-2025-59343)** : 🔥 **Severity: High** (Score: 8.7)
 
 **Debian Version :** bookworm
  **Package Version :** node-tar-fs 2.1.3-0+deb12u2 	[trixie] - node-tar-fs 3.0.9+~cs2.0.4-1+deb13u1
@@ -191,7 +191,7 @@
 **2025-09-27** - **[DLA-4313-1](https://security-tracker.debian.org/tracker/DLA-4313-1)** - node-tar-fs
 
 **CVE(s) :**
-- **[CVE-2025-59343](https://www.cve.org/CVERecord?id=CVE-2025-59343)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-59343](https://www.cve.org/CVERecord?id=CVE-2025-59343)** : 🔥 **Severity: High** (Score: 8.7)
 
 **Debian Version :** bullseye
  **Package Version :** node-tar-fs 2.1.3-0+deb11u2
