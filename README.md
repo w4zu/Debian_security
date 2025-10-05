@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-10-05** - **[DLA-4322-1](https://security-tracker.debian.org/tracker/DLA-4322-1)** - log4cxx
+
+**CVE(s) :**
+- **[CVE-2025-54812](https://www.cve.org/CVERecord?id=CVE-2025-54812)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-54813](https://www.cve.org/CVERecord?id=CVE-2025-54813)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+**Debian Version :** bullseye
+ **Package Version :** log4cxx 0.11.0-2+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-10-03** - **[DLA-4321-1](https://security-tracker.debian.org/tracker/DLA-4321-1)** - openssl
 
 **CVE(s) :**
@@ -871,45 +884,6 @@
 
 **Debian Version :** trixie
  **Package Version :** linux 6.12.48-1
- **Type :** DSA
-
-------------------------------
-
-**2025-09-21** - **[DLA-4307-1](https://security-tracker.debian.org/tracker/DLA-4307-1)** - jq
-
-**CVE(s) :**
-- **[CVE-2025-48060](https://www.cve.org/CVERecord?id=CVE-2025-48060)** : 🔥 **Severity: High** (Score: 7.7)
-
-**Debian Version :** bullseye
- **Package Version :** jq 1.6-2.1+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-09-21** - **[DLA-4306-1](https://security-tracker.debian.org/tracker/DLA-4306-1)** - pam
-
-**CVE(s) :**
-- **[CVE-2024-22365](https://www.cve.org/CVERecord?id=CVE-2024-22365)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-6020](https://www.cve.org/CVERecord?id=CVE-2025-6020)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** pam 1.4.0-9+deb11u2
- **Type :** DLA
-
-------------------------------
-
-**2025-09-21** - **[DSA-6007-1](https://security-tracker.debian.org/tracker/DSA-6007-1)** - ffmpeg
-
-**CVE(s) :**
-- **[CVE-2025-1594](https://www.cve.org/CVERecord?id=CVE-2025-1594)** : 🟠 **Severity: Medium** (Score: 5.3)
-
-- **[CVE-2025-7700](https://www.cve.org/CVERecord?id=CVE-2025-7700)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-10256](https://www.cve.org/CVERecord?id=CVE-2025-10256)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** trixie
- **Package Version :** ffmpeg 7:7.1.2-0+deb13u1
  **Type :** DSA
 
 ------------------------------
