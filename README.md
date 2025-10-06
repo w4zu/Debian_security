@@ -1,5 +1,20 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-10-06** - **[DLA-4323-1](https://security-tracker.debian.org/tracker/DLA-4323-1)** - git
+
+**CVE(s) :**
+- **[CVE-2025-27613](https://www.cve.org/CVERecord?id=CVE-2025-27613)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-46835](https://www.cve.org/CVERecord?id=CVE-2025-46835)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-48384](https://www.cve.org/CVERecord?id=CVE-2025-48384)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** git 1:2.30.2-1+deb11u5
+ **Type :** DLA
+
+------------------------------
+
 **2025-10-05** - **[DLA-4322-1](https://security-tracker.debian.org/tracker/DLA-4322-1)** - log4cxx
 
 **CVE(s) :**
@@ -152,7 +167,7 @@
 **2025-09-30** - **[DLA-4315-1](https://security-tracker.debian.org/tracker/DLA-4315-1)** - tiff
 
 **CVE(s) :**
-- **[CVE-2024-13978](https://www.cve.org/CVERecord?id=CVE-2024-13978)** : 🟠 **Severity: Medium** (Score: 2)
+- **[CVE-2024-13978](https://www.cve.org/CVERecord?id=CVE-2024-13978)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-9900](https://www.cve.org/CVERecord?id=CVE-2025-9900)** : **Severity: Unknown** (Score: N/A)
 
