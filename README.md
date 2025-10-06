@@ -28,6 +28,17 @@
 
 ------------------------------
 
+**2025-10-05** - **[DSA-6019-1](https://security-tracker.debian.org/tracker/DSA-6019-1)** - dovecot
+
+**CVE(s) :**
+- **[CVE-2025-30189](https://www.cve.org/CVERecord?id=CVE-2025-30189)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** dovecot 1:2.4.1+dfsg1-6+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-10-03** - **[DLA-4321-1](https://security-tracker.debian.org/tracker/DLA-4321-1)** - openssl
 
 **CVE(s) :**
@@ -167,7 +178,7 @@
 **2025-09-30** - **[DLA-4315-1](https://security-tracker.debian.org/tracker/DLA-4315-1)** - tiff
 
 **CVE(s) :**
-- **[CVE-2024-13978](https://www.cve.org/CVERecord?id=CVE-2024-13978)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-13978](https://www.cve.org/CVERecord?id=CVE-2024-13978)** : 🟠 **Severity: Medium** (Score: 2)
 
 - **[CVE-2025-9900](https://www.cve.org/CVERecord?id=CVE-2025-9900)** : **Severity: Unknown** (Score: N/A)
 
