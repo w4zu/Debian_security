@@ -1,5 +1,22 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-10-08** - **[DSA-6020-1](https://security-tracker.debian.org/tracker/DSA-6020-1)** - redis
+
+**CVE(s) :**
+- **[CVE-2025-46817](https://www.cve.org/CVERecord?id=CVE-2025-46817)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-46818](https://www.cve.org/CVERecord?id=CVE-2025-46818)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-46819](https://www.cve.org/CVERecord?id=CVE-2025-46819)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-49844](https://www.cve.org/CVERecord?id=CVE-2025-49844)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** redis 5:7.0.15-1~deb12u6 	[trixie] - redis 5:8.0.2-3+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-10-07** - **[DLA-4324-1](https://security-tracker.debian.org/tracker/DLA-4324-1)** - python-django
 
 **CVE(s) :**
