@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-10-07** - **[DLA-4324-1](https://security-tracker.debian.org/tracker/DLA-4324-1)** - python-django
+
+**CVE(s) :**
+- **[CVE-2025-59681](https://www.cve.org/CVERecord?id=CVE-2025-59681)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-59682](https://www.cve.org/CVERecord?id=CVE-2025-59682)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** python-django 2:2.2.28-1~deb11u9
+ **Type :** DLA
+
+------------------------------
+
 **2025-10-06** - **[DLA-4323-1](https://security-tracker.debian.org/tracker/DLA-4323-1)** - git
 
 **CVE(s) :**
@@ -18,7 +31,7 @@
 **2025-10-05** - **[DLA-4322-1](https://security-tracker.debian.org/tracker/DLA-4322-1)** - log4cxx
 
 **CVE(s) :**
-- **[CVE-2025-54812](https://www.cve.org/CVERecord?id=CVE-2025-54812)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-54812](https://www.cve.org/CVERecord?id=CVE-2025-54812)** : 🟠 **Severity: Medium** (Score: 2.1)
 
 - **[CVE-2025-54813](https://www.cve.org/CVERecord?id=CVE-2025-54813)** : 🟠 **Severity: Medium** (Score: 6.3)
 
@@ -191,7 +204,7 @@
 **2025-09-30** - **[DLA-4314-1](https://security-tracker.debian.org/tracker/DLA-4314-1)** - python-internetarchive
 
 **CVE(s) :**
-- **[CVE-2025-58438](https://www.cve.org/CVERecord?id=CVE-2025-58438)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-58438](https://www.cve.org/CVERecord?id=CVE-2025-58438)** : 🔥 **Severity: High** (Score: 9.4)
 
 **Debian Version :** bullseye
  **Package Version :** python-internetarchive 1.9.9-1+deb11u1
