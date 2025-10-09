@@ -1,5 +1,20 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-10-09** - **[DSA-6021-1](https://security-tracker.debian.org/tracker/DSA-6021-1)** - chromium
+
+**CVE(s) :**
+- **[CVE-2025-11211](https://www.cve.org/CVERecord?id=CVE-2025-11211)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-11458](https://www.cve.org/CVERecord?id=CVE-2025-11458)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-11460](https://www.cve.org/CVERecord?id=CVE-2025-11460)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** chromium 141.0.7390.65-1~deb12u1 	[trixie] - chromium 141.0.7390.65-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-10-08** - **[DSA-6020-1](https://security-tracker.debian.org/tracker/DSA-6020-1)** - redis
 
 **CVE(s) :**
@@ -50,7 +65,7 @@
 **CVE(s) :**
 - **[CVE-2025-54812](https://www.cve.org/CVERecord?id=CVE-2025-54812)** : 🟠 **Severity: Medium** (Score: 2.1)
 
-- **[CVE-2025-54813](https://www.cve.org/CVERecord?id=CVE-2025-54813)** : 🟠 **Severity: Medium** (Score: 6.3)
+- **[CVE-2025-54813](https://www.cve.org/CVERecord?id=CVE-2025-54813)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** log4cxx 0.11.0-2+deb11u1
