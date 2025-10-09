@@ -1,5 +1,20 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-10-09** - **[DLA-4325-1](https://security-tracker.debian.org/tracker/DLA-4325-1)** - redis
+
+**CVE(s) :**
+- **[CVE-2025-46817](https://www.cve.org/CVERecord?id=CVE-2025-46817)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-46819](https://www.cve.org/CVERecord?id=CVE-2025-46819)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-49844](https://www.cve.org/CVERecord?id=CVE-2025-49844)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** redis 5:6.0.16-1+deb11u8
+ **Type :** DLA
+
+------------------------------
+
 **2025-10-09** - **[DSA-6021-1](https://security-tracker.debian.org/tracker/DSA-6021-1)** - chromium
 
 **CVE(s) :**
@@ -63,7 +78,7 @@
 **2025-10-05** - **[DLA-4322-1](https://security-tracker.debian.org/tracker/DLA-4322-1)** - log4cxx
 
 **CVE(s) :**
-- **[CVE-2025-54812](https://www.cve.org/CVERecord?id=CVE-2025-54812)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-54812](https://www.cve.org/CVERecord?id=CVE-2025-54812)** : 🟠 **Severity: Medium** (Score: 2.1)
 
 - **[CVE-2025-54813](https://www.cve.org/CVERecord?id=CVE-2025-54813)** : 🟠 **Severity: Medium** (Score: 6.3)
 
