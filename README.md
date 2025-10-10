@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-10-10** - **[DLA-4326-1](https://security-tracker.debian.org/tracker/DLA-4326-1)** - asterisk
+
+**CVE(s) :**
+- **[CVE-2025-1131](https://www.cve.org/CVERecord?id=CVE-2025-1131)** : 🔥 **Severity: High** (Score: 7)
+
+- **[CVE-2025-54995](https://www.cve.org/CVERecord?id=CVE-2025-54995)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** asterisk 1:16.28.0~dfsg-0+deb11u8
+ **Type :** DLA
+
+------------------------------
+
 **2025-10-09** - **[DLA-4325-1](https://security-tracker.debian.org/tracker/DLA-4325-1)** - redis
 
 **CVE(s) :**
