@@ -15,6 +15,23 @@
 
 ------------------------------
 
+**2025-10-09** - **[DSA-6022-1](https://security-tracker.debian.org/tracker/DSA-6022-1)** - valkey
+
+**CVE(s) :**
+- **[CVE-2025-46817](https://www.cve.org/CVERecord?id=CVE-2025-46817)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-46818](https://www.cve.org/CVERecord?id=CVE-2025-46818)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-46819](https://www.cve.org/CVERecord?id=CVE-2025-46819)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-49844](https://www.cve.org/CVERecord?id=CVE-2025-49844)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** valkey 8.1.1+dfsg1-3+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-10-09** - **[DSA-6021-1](https://security-tracker.debian.org/tracker/DSA-6021-1)** - chromium
 
 **CVE(s) :**
@@ -308,40 +325,6 @@
 **Debian Version :** bullseye
  **Package Version :** squid 4.13-10+deb11u5
  **Type :** DLA
-
-------------------------------
-
-**2025-09-26** - **[DLA-4311-1](https://security-tracker.debian.org/tracker/DLA-4311-1)** - thunderbird
-
-**CVE(s) :**
-- **[CVE-2025-10527](https://www.cve.org/CVERecord?id=CVE-2025-10527)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-10528](https://www.cve.org/CVERecord?id=CVE-2025-10528)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-10529](https://www.cve.org/CVERecord?id=CVE-2025-10529)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-10532](https://www.cve.org/CVERecord?id=CVE-2025-10532)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-10533](https://www.cve.org/CVERecord?id=CVE-2025-10533)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-10536](https://www.cve.org/CVERecord?id=CVE-2025-10536)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-10537](https://www.cve.org/CVERecord?id=CVE-2025-10537)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** thunderbird 1:140.3.0esr-1~deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-09-26** - **[DSA-6012-1](https://security-tracker.debian.org/tracker/DSA-6012-1)** - nncp
-
-**CVE(s) :**
-- **[CVE-2025-60020](https://www.cve.org/CVERecord?id=CVE-2025-60020)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** nncp 8.8.2-3+deb12u1 	[trixie] - nncp 8.11.0-4+deb13u1
- **Type :** DSA
 
 ------------------------------
 
