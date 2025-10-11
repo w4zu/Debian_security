@@ -1,5 +1,20 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-10-11** - **[DSA-6024-1](https://security-tracker.debian.org/tracker/DSA-6024-1)** - ghostscript
+
+**CVE(s) :**
+- **[CVE-2025-7462](https://www.cve.org/CVERecord?id=CVE-2025-7462)** : 🟠 **Severity: Medium** (Score: 5.3)
+
+- **[CVE-2025-59798](https://www.cve.org/CVERecord?id=CVE-2025-59798)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-59799](https://www.cve.org/CVERecord?id=CVE-2025-59799)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** ghostscript 10.0.0~dfsg-11+deb12u8 	[trixie] - ghostscript 10.05.1~dfsg-1+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-10-10** - **[DLA-4326-1](https://security-tracker.debian.org/tracker/DLA-4326-1)** - asterisk
 
 **CVE(s) :**
