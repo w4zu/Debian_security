@@ -13,6 +13,17 @@
 
 ------------------------------
 
+**2025-10-10** - **[DSA-6023-1](https://security-tracker.debian.org/tracker/DSA-6023-1)** - tiff
+
+**CVE(s) :**
+- **[CVE-2025-9900](https://www.cve.org/CVERecord?id=CVE-2025-9900)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** tiff 4.5.0-6+deb12u3 	[trixie] - tiff 4.7.0-3+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-10-09** - **[DLA-4325-1](https://security-tracker.debian.org/tracker/DLA-4325-1)** - redis
 
 **CVE(s) :**
@@ -312,32 +323,6 @@
 **Debian Version :** bookworm
  **Package Version :** node-tar-fs 2.1.3-0+deb12u2 	[trixie] - node-tar-fs 3.0.9+~cs2.0.4-1+deb13u1
  **Type :** DSA
-
-------------------------------
-
-**2025-09-27** - **[DLA-4313-1](https://security-tracker.debian.org/tracker/DLA-4313-1)** - node-tar-fs
-
-**CVE(s) :**
-- **[CVE-2025-59343](https://www.cve.org/CVERecord?id=CVE-2025-59343)** : 🔥 **Severity: High** (Score: 8.7)
-
-**Debian Version :** bullseye
- **Package Version :** node-tar-fs 2.1.3-0+deb11u2
- **Type :** DLA
-
-------------------------------
-
-**2025-09-27** - **[DLA-4312-1](https://security-tracker.debian.org/tracker/DLA-4312-1)** - squid
-
-**CVE(s) :**
-- **[CVE-2023-5824](https://www.cve.org/CVERecord?id=CVE-2023-5824)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2023-46728](https://www.cve.org/CVERecord?id=CVE-2023-46728)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-54574](https://www.cve.org/CVERecord?id=CVE-2025-54574)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** squid 4.13-10+deb11u5
- **Type :** DLA
 
 ------------------------------
 
