@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-10-13** - **[DLA-4329-1](https://security-tracker.debian.org/tracker/DLA-4329-1)** - libfcgi
+
+**CVE(s) :**
+- **[CVE-2025-23016](https://www.cve.org/CVERecord?id=CVE-2025-23016)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** libfcgi 2.4.2-2+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-10-13** - **[DLA-4328-1](https://security-tracker.debian.org/tracker/DLA-4328-1)** - linux-6.1
 
 **CVE(s) :**
@@ -1632,7 +1643,7 @@
 **2025-10-10** - **[DLA-4326-1](https://security-tracker.debian.org/tracker/DLA-4326-1)** - asterisk
 
 **CVE(s) :**
-- **[CVE-2025-1131](https://www.cve.org/CVERecord?id=CVE-2025-1131)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-1131](https://www.cve.org/CVERecord?id=CVE-2025-1131)** : 🔥 **Severity: High** (Score: 7)
 
 - **[CVE-2025-54995](https://www.cve.org/CVERecord?id=CVE-2025-54995)** : **Severity: Unknown** (Score: N/A)
 
@@ -1748,7 +1759,7 @@
 **2025-10-05** - **[DLA-4322-1](https://security-tracker.debian.org/tracker/DLA-4322-1)** - log4cxx
 
 **CVE(s) :**
-- **[CVE-2025-54812](https://www.cve.org/CVERecord?id=CVE-2025-54812)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-54812](https://www.cve.org/CVERecord?id=CVE-2025-54812)** : 🟠 **Severity: Medium** (Score: 2.1)
 
 - **[CVE-2025-54813](https://www.cve.org/CVERecord?id=CVE-2025-54813)** : 🟠 **Severity: Medium** (Score: 6.3)
 
