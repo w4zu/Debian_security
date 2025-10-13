@@ -3,7 +3,7 @@
 **2025-10-11** - **[DSA-6024-1](https://security-tracker.debian.org/tracker/DSA-6024-1)** - ghostscript
 
 **CVE(s) :**
-- **[CVE-2025-7462](https://www.cve.org/CVERecord?id=CVE-2025-7462)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-7462](https://www.cve.org/CVERecord?id=CVE-2025-7462)** : 🟠 **Severity: Medium** (Score: 5.3)
 
 - **[CVE-2025-59798](https://www.cve.org/CVERecord?id=CVE-2025-59798)** : **Severity: Unknown** (Score: N/A)
 
