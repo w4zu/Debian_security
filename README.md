@@ -1,9 +1,20 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-10-14** - **[DLA-4333-1](https://security-tracker.debian.org/tracker/DLA-4333-1)** - php-horde-css-parser
+
+**CVE(s) :**
+- **[CVE-2020-13756](https://www.cve.org/CVERecord?id=CVE-2020-13756)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** php-horde-css-parser 1.0.11-8+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-10-14** - **[DLA-4330-1](https://security-tracker.debian.org/tracker/DLA-4330-1)** - ghostscript
 
 **CVE(s) :**
-- **[CVE-2025-7462](https://www.cve.org/CVERecord?id=CVE-2025-7462)** : 🟠 **Severity: Medium** (Score: 5.3)
+- **[CVE-2025-7462](https://www.cve.org/CVERecord?id=CVE-2025-7462)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-59798](https://www.cve.org/CVERecord?id=CVE-2025-59798)** : **Severity: Unknown** (Score: N/A)
 
@@ -1643,7 +1654,7 @@
 **2025-10-11** - **[DSA-6024-1](https://security-tracker.debian.org/tracker/DSA-6024-1)** - ghostscript
 
 **CVE(s) :**
-- **[CVE-2025-7462](https://www.cve.org/CVERecord?id=CVE-2025-7462)** : 🟠 **Severity: Medium** (Score: 5.3)
+- **[CVE-2025-7462](https://www.cve.org/CVERecord?id=CVE-2025-7462)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-59798](https://www.cve.org/CVERecord?id=CVE-2025-59798)** : **Severity: Unknown** (Score: N/A)
 
@@ -1776,7 +1787,7 @@
 **CVE(s) :**
 - **[CVE-2025-54812](https://www.cve.org/CVERecord?id=CVE-2025-54812)** : 🟠 **Severity: Medium** (Score: 2.1)
 
-- **[CVE-2025-54813](https://www.cve.org/CVERecord?id=CVE-2025-54813)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-54813](https://www.cve.org/CVERecord?id=CVE-2025-54813)** : 🟠 **Severity: Medium** (Score: 6.3)
 
 **Debian Version :** bullseye
  **Package Version :** log4cxx 0.11.0-2+deb11u1
