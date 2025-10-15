@@ -14,7 +14,7 @@
 **2025-10-14** - **[DLA-4330-1](https://security-tracker.debian.org/tracker/DLA-4330-1)** - ghostscript
 
 **CVE(s) :**
-- **[CVE-2025-7462](https://www.cve.org/CVERecord?id=CVE-2025-7462)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-7462](https://www.cve.org/CVERecord?id=CVE-2025-7462)** : 🟠 **Severity: Medium** (Score: 5.3)
 
 - **[CVE-2025-59798](https://www.cve.org/CVERecord?id=CVE-2025-59798)** : **Severity: Unknown** (Score: N/A)
 
@@ -1654,7 +1654,7 @@
 **2025-10-11** - **[DSA-6024-1](https://security-tracker.debian.org/tracker/DSA-6024-1)** - ghostscript
 
 **CVE(s) :**
-- **[CVE-2025-7462](https://www.cve.org/CVERecord?id=CVE-2025-7462)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-7462](https://www.cve.org/CVERecord?id=CVE-2025-7462)** : 🟠 **Severity: Medium** (Score: 5.3)
 
 - **[CVE-2025-59798](https://www.cve.org/CVERecord?id=CVE-2025-59798)** : **Severity: Unknown** (Score: N/A)
 
@@ -1866,32 +1866,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** chromium 141.0.7390.54-1~deb12u1 	[trixie] - chromium 141.0.7390.54-1~deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2025-10-01** - **[DLA-4320-1](https://security-tracker.debian.org/tracker/DLA-4320-1)** - u-boot
-
-**CVE(s) :**
-- **[CVE-2021-27097](https://www.cve.org/CVERecord?id=CVE-2021-27097)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2021-27138](https://www.cve.org/CVERecord?id=CVE-2021-27138)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** u-boot 2021.01+dfsg-5+deb11u2
- **Type :** DLA
-
-------------------------------
-
-**2025-10-01** - **[DSA-6015-1](https://security-tracker.debian.org/tracker/DSA-6015-1)** - openssl
-
-**CVE(s) :**
-- **[CVE-2025-9230](https://www.cve.org/CVERecord?id=CVE-2025-9230)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-9232](https://www.cve.org/CVERecord?id=CVE-2025-9232)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** openssl 3.0.17-1~deb12u3 	[trixie] - openssl 3.5.1-1+deb13u1
  **Type :** DSA
 
 ------------------------------
