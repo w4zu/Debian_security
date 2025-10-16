@@ -1821,7 +1821,7 @@
 **CVE(s) :**
 - **[CVE-2025-54812](https://www.cve.org/CVERecord?id=CVE-2025-54812)** : 🟠 **Severity: Medium** (Score: 2.1)
 
-- **[CVE-2025-54813](https://www.cve.org/CVERecord?id=CVE-2025-54813)** : 🟠 **Severity: Medium** (Score: 6.3)
+- **[CVE-2025-54813](https://www.cve.org/CVERecord?id=CVE-2025-54813)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** log4cxx 0.11.0-2+deb11u1
