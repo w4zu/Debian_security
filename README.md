@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-10-16** - **[DSA-6026-1](https://security-tracker.debian.org/tracker/DSA-6026-1)** - chromium
+
+**CVE(s) :**
+- **[CVE-2025-11756](https://www.cve.org/CVERecord?id=CVE-2025-11756)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** chromium 141.0.7390.107-1~deb12u1 	[trixie] - chromium 141.0.7390.107-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-10-15** - **[DSA-6025-1](https://security-tracker.debian.org/tracker/DSA-6025-1)** - firefox-esr
 
 **CVE(s) :**
@@ -1036,7 +1047,7 @@
 
 - **[CVE-2024-26739](https://www.cve.org/CVERecord?id=CVE-2024-26739)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2024-28956](https://www.cve.org/CVERecord?id=CVE-2024-28956)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-28956](https://www.cve.org/CVERecord?id=CVE-2024-28956)** : 🟠 **Severity: Medium** (Score: 5.7)
 
 - **[CVE-2024-35790](https://www.cve.org/CVERecord?id=CVE-2024-35790)** : **Severity: Unknown** (Score: N/A)
 
