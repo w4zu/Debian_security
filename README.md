@@ -1036,7 +1036,7 @@
 
 - **[CVE-2024-26739](https://www.cve.org/CVERecord?id=CVE-2024-26739)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2024-28956](https://www.cve.org/CVERecord?id=CVE-2024-28956)** : 🟠 **Severity: Medium** (Score: 5.7)
+- **[CVE-2024-28956](https://www.cve.org/CVERecord?id=CVE-2024-28956)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-35790](https://www.cve.org/CVERecord?id=CVE-2024-35790)** : **Severity: Unknown** (Score: N/A)
 
@@ -1692,7 +1692,7 @@
 **2025-10-10** - **[DLA-4326-1](https://security-tracker.debian.org/tracker/DLA-4326-1)** - asterisk
 
 **CVE(s) :**
-- **[CVE-2025-1131](https://www.cve.org/CVERecord?id=CVE-2025-1131)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-1131](https://www.cve.org/CVERecord?id=CVE-2025-1131)** : 🔥 **Severity: High** (Score: 7)
 
 - **[CVE-2025-54995](https://www.cve.org/CVERecord?id=CVE-2025-54995)** : **Severity: Unknown** (Score: N/A)
 
@@ -1810,7 +1810,7 @@
 **CVE(s) :**
 - **[CVE-2025-54812](https://www.cve.org/CVERecord?id=CVE-2025-54812)** : 🟠 **Severity: Medium** (Score: 2.1)
 
-- **[CVE-2025-54813](https://www.cve.org/CVERecord?id=CVE-2025-54813)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-54813](https://www.cve.org/CVERecord?id=CVE-2025-54813)** : 🟠 **Severity: Medium** (Score: 6.3)
 
 **Debian Version :** bullseye
  **Package Version :** log4cxx 0.11.0-2+deb11u1
