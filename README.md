@@ -1,5 +1,28 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-10-15** - **[DSA-6025-1](https://security-tracker.debian.org/tracker/DSA-6025-1)** - firefox-esr
+
+**CVE(s) :**
+- **[CVE-2025-11708](https://www.cve.org/CVERecord?id=CVE-2025-11708)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-11709](https://www.cve.org/CVERecord?id=CVE-2025-11709)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-11710](https://www.cve.org/CVERecord?id=CVE-2025-11710)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-11711](https://www.cve.org/CVERecord?id=CVE-2025-11711)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-11712](https://www.cve.org/CVERecord?id=CVE-2025-11712)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-11714](https://www.cve.org/CVERecord?id=CVE-2025-11714)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-11715](https://www.cve.org/CVERecord?id=CVE-2025-11715)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** firefox-esr 140.4.0esr-1~deb12u1 	[trixie] - firefox-esr 140.4.0esr-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-10-14** - **[DLA-4333-1](https://security-tracker.debian.org/tracker/DLA-4333-1)** - php-horde-css-parser
 
 **CVE(s) :**
@@ -1669,7 +1692,7 @@
 **2025-10-10** - **[DLA-4326-1](https://security-tracker.debian.org/tracker/DLA-4326-1)** - asterisk
 
 **CVE(s) :**
-- **[CVE-2025-1131](https://www.cve.org/CVERecord?id=CVE-2025-1131)** : 🔥 **Severity: High** (Score: 7)
+- **[CVE-2025-1131](https://www.cve.org/CVERecord?id=CVE-2025-1131)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-54995](https://www.cve.org/CVERecord?id=CVE-2025-54995)** : **Severity: Unknown** (Score: N/A)
 
@@ -1785,9 +1808,9 @@
 **2025-10-05** - **[DLA-4322-1](https://security-tracker.debian.org/tracker/DLA-4322-1)** - log4cxx
 
 **CVE(s) :**
-- **[CVE-2025-54812](https://www.cve.org/CVERecord?id=CVE-2025-54812)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-54812](https://www.cve.org/CVERecord?id=CVE-2025-54812)** : 🟠 **Severity: Medium** (Score: 2.1)
 
-- **[CVE-2025-54813](https://www.cve.org/CVERecord?id=CVE-2025-54813)** : 🟠 **Severity: Medium** (Score: 6.3)
+- **[CVE-2025-54813](https://www.cve.org/CVERecord?id=CVE-2025-54813)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** log4cxx 0.11.0-2+deb11u1
@@ -1835,37 +1858,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** haproxy 2.6.12-1+deb12u3 	[trixie] - haproxy 3.0.11-1+deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2025-10-02** - **[DSA-6016-1](https://security-tracker.debian.org/tracker/DSA-6016-1)** - chromium
-
-**CVE(s) :**
-- **[CVE-2025-11205](https://www.cve.org/CVERecord?id=CVE-2025-11205)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-11206](https://www.cve.org/CVERecord?id=CVE-2025-11206)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-11207](https://www.cve.org/CVERecord?id=CVE-2025-11207)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-11208](https://www.cve.org/CVERecord?id=CVE-2025-11208)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-11209](https://www.cve.org/CVERecord?id=CVE-2025-11209)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-11210](https://www.cve.org/CVERecord?id=CVE-2025-11210)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-11212](https://www.cve.org/CVERecord?id=CVE-2025-11212)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-11213](https://www.cve.org/CVERecord?id=CVE-2025-11213)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-11215](https://www.cve.org/CVERecord?id=CVE-2025-11215)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-11216](https://www.cve.org/CVERecord?id=CVE-2025-11216)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-11219](https://www.cve.org/CVERecord?id=CVE-2025-11219)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** chromium 141.0.7390.54-1~deb12u1 	[trixie] - chromium 141.0.7390.54-1~deb13u1
  **Type :** DSA
 
 ------------------------------
