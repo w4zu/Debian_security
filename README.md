@@ -1,5 +1,29 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-10-17** - **[DLA-4337-1](https://security-tracker.debian.org/tracker/DLA-4337-1)** - svgpp
+
+**CVE(s) :**
+- **[CVE-2021-44960](https://www.cve.org/CVERecord?id=CVE-2021-44960)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** svgpp 1.3.0+dfsg1-4+deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2025-10-17** - **[DLA-4336-1](https://security-tracker.debian.org/tracker/DLA-4336-1)** - sysstat
+
+**CVE(s) :**
+- **[CVE-2022-39377](https://www.cve.org/CVERecord?id=CVE-2022-39377)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2023-33204](https://www.cve.org/CVERecord?id=CVE-2023-33204)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** sysstat 12.5.2-2+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-10-17** - **[DLA-4335-1](https://security-tracker.debian.org/tracker/DLA-4335-1)** - firefox-esr
 
 **CVE(s) :**
@@ -20,6 +44,46 @@
 **Debian Version :** bullseye
  **Package Version :** firefox-esr 140.4.0esr-1~deb11u1
  **Type :** DLA
+
+------------------------------
+
+**2025-10-17** - **[DSA-6028-1](https://security-tracker.debian.org/tracker/DSA-6028-1)** - lxd
+
+**CVE(s) :**
+- **[CVE-2025-54286](https://www.cve.org/CVERecord?id=CVE-2025-54286)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-54287](https://www.cve.org/CVERecord?id=CVE-2025-54287)** : 🔥 **Severity: High** (Score: 7.1)
+
+- **[CVE-2025-54288](https://www.cve.org/CVERecord?id=CVE-2025-54288)** : 🟠 **Severity: Medium** (Score: 5.1)
+
+- **[CVE-2025-54293](https://www.cve.org/CVERecord?id=CVE-2025-54293)** : 🔥 **Severity: High** (Score: 7.1)
+
+**Debian Version :** bookworm
+ **Package Version :** lxd 5.0.2-5+deb12u1 	[trixie] - lxd 5.0.2+git20231211.1364ae4-9+deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2025-10-17** - **[DSA-6027-1](https://security-tracker.debian.org/tracker/DSA-6027-1)** - incus
+
+**CVE(s) :**
+- **[CVE-2025-54286](https://www.cve.org/CVERecord?id=CVE-2025-54286)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-54287](https://www.cve.org/CVERecord?id=CVE-2025-54287)** : 🔥 **Severity: High** (Score: 7.1)
+
+- **[CVE-2025-54288](https://www.cve.org/CVERecord?id=CVE-2025-54288)** : 🟠 **Severity: Medium** (Score: 5.1)
+
+- **[CVE-2025-54289](https://www.cve.org/CVERecord?id=CVE-2025-54289)** : 🔥 **Severity: High** (Score: 7.4)
+
+- **[CVE-2025-54290](https://www.cve.org/CVERecord?id=CVE-2025-54290)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-54291](https://www.cve.org/CVERecord?id=CVE-2025-54291)** : 🟠 **Severity: Medium** (Score: 6.9)
+
+- **[CVE-2025-54293](https://www.cve.org/CVERecord?id=CVE-2025-54293)** : 🔥 **Severity: High** (Score: 7.1)
+
+**Debian Version :** trixie
+ **Package Version :** incus 6.0.4-2+deb13u1
+ **Type :** DSA
 
 ------------------------------
 
@@ -1853,7 +1917,7 @@
 **2025-10-05** - **[DLA-4322-1](https://security-tracker.debian.org/tracker/DLA-4322-1)** - log4cxx
 
 **CVE(s) :**
-- **[CVE-2025-54812](https://www.cve.org/CVERecord?id=CVE-2025-54812)** : 🟠 **Severity: Medium** (Score: 2.1)
+- **[CVE-2025-54812](https://www.cve.org/CVERecord?id=CVE-2025-54812)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-54813](https://www.cve.org/CVERecord?id=CVE-2025-54813)** : 🟠 **Severity: Medium** (Score: 6.3)
 
