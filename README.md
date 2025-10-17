@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-10-16** - **[DLA-4334-1](https://security-tracker.debian.org/tracker/DLA-4334-1)** - pgpool2
+
+**CVE(s) :**
+- **[CVE-2025-46801](https://www.cve.org/CVERecord?id=CVE-2025-46801)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** pgpool2 4.1.4-3+deb11u2
+ **Type :** DLA
+
+------------------------------
+
 **2025-10-16** - **[DSA-6026-1](https://security-tracker.debian.org/tracker/DSA-6026-1)** - chromium
 
 **CVE(s) :**
@@ -1703,7 +1714,7 @@
 **2025-10-10** - **[DLA-4326-1](https://security-tracker.debian.org/tracker/DLA-4326-1)** - asterisk
 
 **CVE(s) :**
-- **[CVE-2025-1131](https://www.cve.org/CVERecord?id=CVE-2025-1131)** : 🔥 **Severity: High** (Score: 7)
+- **[CVE-2025-1131](https://www.cve.org/CVERecord?id=CVE-2025-1131)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-54995](https://www.cve.org/CVERecord?id=CVE-2025-54995)** : **Severity: Unknown** (Score: N/A)
 
@@ -1821,7 +1832,7 @@
 **CVE(s) :**
 - **[CVE-2025-54812](https://www.cve.org/CVERecord?id=CVE-2025-54812)** : 🟠 **Severity: Medium** (Score: 2.1)
 
-- **[CVE-2025-54813](https://www.cve.org/CVERecord?id=CVE-2025-54813)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-54813](https://www.cve.org/CVERecord?id=CVE-2025-54813)** : 🟠 **Severity: Medium** (Score: 6.3)
 
 **Debian Version :** bullseye
  **Package Version :** log4cxx 0.11.0-2+deb11u1
@@ -1836,39 +1847,6 @@
 
 **Debian Version :** trixie
  **Package Version :** dovecot 1:2.4.1+dfsg1-6+deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2025-10-03** - **[DLA-4321-1](https://security-tracker.debian.org/tracker/DLA-4321-1)** - openssl
-
-**CVE(s) :**
-- **[CVE-2025-9230](https://www.cve.org/CVERecord?id=CVE-2025-9230)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** openssl 1.1.1w-0+deb11u4
- **Type :** DLA
-
-------------------------------
-
-**2025-10-03** - **[DSA-6018-1](https://security-tracker.debian.org/tracker/DSA-6018-1)** - gegl
-
-**CVE(s) :**
-- **[CVE-2025-10921](https://www.cve.org/CVERecord?id=CVE-2025-10921)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** gegl 1:0.4.42-2+deb12u1 	[trixie] - gegl 1:0.4.62-2+deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2025-10-03** - **[DSA-6017-1](https://security-tracker.debian.org/tracker/DSA-6017-1)** - haproxy
-
-**CVE(s) :**
-- **[CVE-2025-11230](https://www.cve.org/CVERecord?id=CVE-2025-11230)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** haproxy 2.6.12-1+deb12u3 	[trixie] - haproxy 3.0.11-1+deb13u1
  **Type :** DSA
 
 ------------------------------
