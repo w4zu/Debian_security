@@ -1714,7 +1714,7 @@
 **2025-10-10** - **[DLA-4326-1](https://security-tracker.debian.org/tracker/DLA-4326-1)** - asterisk
 
 **CVE(s) :**
-- **[CVE-2025-1131](https://www.cve.org/CVERecord?id=CVE-2025-1131)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-1131](https://www.cve.org/CVERecord?id=CVE-2025-1131)** : 🔥 **Severity: High** (Score: 7)
 
 - **[CVE-2025-54995](https://www.cve.org/CVERecord?id=CVE-2025-54995)** : **Severity: Unknown** (Score: N/A)
 
