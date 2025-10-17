@@ -1,5 +1,28 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-10-17** - **[DLA-4335-1](https://security-tracker.debian.org/tracker/DLA-4335-1)** - firefox-esr
+
+**CVE(s) :**
+- **[CVE-2025-11708](https://www.cve.org/CVERecord?id=CVE-2025-11708)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-11709](https://www.cve.org/CVERecord?id=CVE-2025-11709)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-11710](https://www.cve.org/CVERecord?id=CVE-2025-11710)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-11711](https://www.cve.org/CVERecord?id=CVE-2025-11711)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-11712](https://www.cve.org/CVERecord?id=CVE-2025-11712)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-11714](https://www.cve.org/CVERecord?id=CVE-2025-11714)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-11715](https://www.cve.org/CVERecord?id=CVE-2025-11715)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** firefox-esr 140.4.0esr-1~deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-10-16** - **[DLA-4334-1](https://security-tracker.debian.org/tracker/DLA-4334-1)** - pgpool2
 
 **CVE(s) :**
