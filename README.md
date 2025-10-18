@@ -56,7 +56,7 @@
 
 - **[CVE-2025-54288](https://www.cve.org/CVERecord?id=CVE-2025-54288)** : 🟠 **Severity: Medium** (Score: 5.1)
 
-- **[CVE-2025-54293](https://www.cve.org/CVERecord?id=CVE-2025-54293)** : 🔥 **Severity: High** (Score: 7.1)
+- **[CVE-2025-54293](https://www.cve.org/CVERecord?id=CVE-2025-54293)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** lxd 5.0.2-5+deb12u1 	[trixie] - lxd 5.0.2+git20231211.1364ae4-9+deb13u1
@@ -79,7 +79,7 @@
 
 - **[CVE-2025-54291](https://www.cve.org/CVERecord?id=CVE-2025-54291)** : 🟠 **Severity: Medium** (Score: 6.9)
 
-- **[CVE-2025-54293](https://www.cve.org/CVERecord?id=CVE-2025-54293)** : 🔥 **Severity: High** (Score: 7.1)
+- **[CVE-2025-54293](https://www.cve.org/CVERecord?id=CVE-2025-54293)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** trixie
  **Package Version :** incus 6.0.4-2+deb13u1
