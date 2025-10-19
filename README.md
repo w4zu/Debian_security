@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-10-18** - **[DLA-4338-1](https://security-tracker.debian.org/tracker/DLA-4338-1)** - pgagent
+
+**CVE(s) :**
+- **[CVE-2025-0218](https://www.cve.org/CVERecord?id=CVE-2025-0218)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** pgagent 4.0.0-8+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-10-17** - **[DLA-4337-1](https://security-tracker.debian.org/tracker/DLA-4337-1)** - svgpp
 
 **CVE(s) :**
@@ -54,7 +65,7 @@
 
 - **[CVE-2025-54287](https://www.cve.org/CVERecord?id=CVE-2025-54287)** : 🔥 **Severity: High** (Score: 7.1)
 
-- **[CVE-2025-54288](https://www.cve.org/CVERecord?id=CVE-2025-54288)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-54288](https://www.cve.org/CVERecord?id=CVE-2025-54288)** : 🟠 **Severity: Medium** (Score: 5.1)
 
 - **[CVE-2025-54293](https://www.cve.org/CVERecord?id=CVE-2025-54293)** : 🔥 **Severity: High** (Score: 7.1)
 
@@ -71,11 +82,11 @@
 
 - **[CVE-2025-54287](https://www.cve.org/CVERecord?id=CVE-2025-54287)** : 🔥 **Severity: High** (Score: 7.1)
 
-- **[CVE-2025-54288](https://www.cve.org/CVERecord?id=CVE-2025-54288)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-54288](https://www.cve.org/CVERecord?id=CVE-2025-54288)** : 🟠 **Severity: Medium** (Score: 5.1)
 
 - **[CVE-2025-54289](https://www.cve.org/CVERecord?id=CVE-2025-54289)** : 🔥 **Severity: High** (Score: 7.4)
 
-- **[CVE-2025-54290](https://www.cve.org/CVERecord?id=CVE-2025-54290)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-54290](https://www.cve.org/CVERecord?id=CVE-2025-54290)** : 🟠 **Severity: Medium** (Score: 6.9)
 
 - **[CVE-2025-54291](https://www.cve.org/CVERecord?id=CVE-2025-54291)** : 🟠 **Severity: Medium** (Score: 6.9)
 
