@@ -75,7 +75,7 @@
 
 - **[CVE-2025-54289](https://www.cve.org/CVERecord?id=CVE-2025-54289)** : 🔥 **Severity: High** (Score: 7.4)
 
-- **[CVE-2025-54290](https://www.cve.org/CVERecord?id=CVE-2025-54290)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-54290](https://www.cve.org/CVERecord?id=CVE-2025-54290)** : 🟠 **Severity: Medium** (Score: 6.9)
 
 - **[CVE-2025-54291](https://www.cve.org/CVERecord?id=CVE-2025-54291)** : 🟠 **Severity: Medium** (Score: 6.9)
 
@@ -1911,30 +1911,6 @@
 **Debian Version :** bullseye
  **Package Version :** git 1:2.30.2-1+deb11u5
  **Type :** DLA
-
-------------------------------
-
-**2025-10-05** - **[DLA-4322-1](https://security-tracker.debian.org/tracker/DLA-4322-1)** - log4cxx
-
-**CVE(s) :**
-- **[CVE-2025-54812](https://www.cve.org/CVERecord?id=CVE-2025-54812)** : 🟠 **Severity: Medium** (Score: 2.1)
-
-- **[CVE-2025-54813](https://www.cve.org/CVERecord?id=CVE-2025-54813)** : 🟠 **Severity: Medium** (Score: 6.3)
-
-**Debian Version :** bullseye
- **Package Version :** log4cxx 0.11.0-2+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-10-05** - **[DSA-6019-1](https://security-tracker.debian.org/tracker/DSA-6019-1)** - dovecot
-
-**CVE(s) :**
-- **[CVE-2025-30189](https://www.cve.org/CVERecord?id=CVE-2025-30189)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** trixie
- **Package Version :** dovecot 1:2.4.1+dfsg1-6+deb13u1
- **Type :** DSA
 
 ------------------------------
 
