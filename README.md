@@ -1,5 +1,27 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-10-20** - **[DLA-4340-1](https://security-tracker.debian.org/tracker/DLA-4340-1)** - libphp-adodb
+
+**CVE(s) :**
+- **[CVE-2025-54119](https://www.cve.org/CVERecord?id=CVE-2025-54119)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** libphp-adodb 5.20.19-1+deb11u3
+ **Type :** DLA
+
+------------------------------
+
+**2025-10-20** - **[DSA-6029-1](https://security-tracker.debian.org/tracker/DSA-6029-1)** - ark
+
+**CVE(s) :**
+- **[CVE-2024-57966](https://www.cve.org/CVERecord?id=CVE-2024-57966)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** ark 4:22.12.3-1+deb12u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-10-19** - **[DLA-4339-1](https://security-tracker.debian.org/tracker/DLA-4339-1)** - imagemagick
 
 **CVE(s) :**
@@ -72,7 +94,7 @@
 **2025-10-17** - **[DSA-6028-1](https://security-tracker.debian.org/tracker/DSA-6028-1)** - lxd
 
 **CVE(s) :**
-- **[CVE-2025-54286](https://www.cve.org/CVERecord?id=CVE-2025-54286)** : 🔥 **Severity: High** (Score: 7.5)
+- **[CVE-2025-54286](https://www.cve.org/CVERecord?id=CVE-2025-54286)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-54287](https://www.cve.org/CVERecord?id=CVE-2025-54287)** : 🔥 **Severity: High** (Score: 7.1)
 
@@ -89,7 +111,7 @@
 **2025-10-17** - **[DSA-6027-1](https://security-tracker.debian.org/tracker/DSA-6027-1)** - incus
 
 **CVE(s) :**
-- **[CVE-2025-54286](https://www.cve.org/CVERecord?id=CVE-2025-54286)** : 🔥 **Severity: High** (Score: 7.5)
+- **[CVE-2025-54286](https://www.cve.org/CVERecord?id=CVE-2025-54286)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-54287](https://www.cve.org/CVERecord?id=CVE-2025-54287)** : 🔥 **Severity: High** (Score: 7.1)
 
@@ -97,7 +119,7 @@
 
 - **[CVE-2025-54289](https://www.cve.org/CVERecord?id=CVE-2025-54289)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-54290](https://www.cve.org/CVERecord?id=CVE-2025-54290)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-54290](https://www.cve.org/CVERecord?id=CVE-2025-54290)** : 🟠 **Severity: Medium** (Score: 6.9)
 
 - **[CVE-2025-54291](https://www.cve.org/CVERecord?id=CVE-2025-54291)** : 🟠 **Severity: Medium** (Score: 6.9)
 
