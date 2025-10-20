@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-10-19** - **[DLA-4339-1](https://security-tracker.debian.org/tracker/DLA-4339-1)** - imagemagick
+
+**CVE(s) :**
+- **[CVE-2025-62171](https://www.cve.org/CVERecord?id=CVE-2025-62171)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** imagemagick 8:6.9.11.60+dfsg-1.3+deb11u7
+ **Type :** DLA
+
+------------------------------
+
 **2025-10-18** - **[DLA-4338-1](https://security-tracker.debian.org/tracker/DLA-4338-1)** - pgagent
 
 **CVE(s) :**
@@ -86,7 +97,7 @@
 
 - **[CVE-2025-54289](https://www.cve.org/CVERecord?id=CVE-2025-54289)** : 🔥 **Severity: High** (Score: 7.4)
 
-- **[CVE-2025-54290](https://www.cve.org/CVERecord?id=CVE-2025-54290)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-54290](https://www.cve.org/CVERecord?id=CVE-2025-54290)** : 🟠 **Severity: Medium** (Score: 6.9)
 
 - **[CVE-2025-54291](https://www.cve.org/CVERecord?id=CVE-2025-54291)** : **Severity: Unknown** (Score: N/A)
 
@@ -1906,21 +1917,6 @@
 
 **Debian Version :** bullseye
  **Package Version :** python-django 2:2.2.28-1~deb11u9
- **Type :** DLA
-
-------------------------------
-
-**2025-10-06** - **[DLA-4323-1](https://security-tracker.debian.org/tracker/DLA-4323-1)** - git
-
-**CVE(s) :**
-- **[CVE-2025-27613](https://www.cve.org/CVERecord?id=CVE-2025-27613)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-46835](https://www.cve.org/CVERecord?id=CVE-2025-46835)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-48384](https://www.cve.org/CVERecord?id=CVE-2025-48384)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** git 1:2.30.2-1+deb11u5
  **Type :** DLA
 
 ------------------------------
