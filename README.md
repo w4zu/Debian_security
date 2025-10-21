@@ -94,7 +94,7 @@
 **2025-10-17** - **[DSA-6028-1](https://security-tracker.debian.org/tracker/DSA-6028-1)** - lxd
 
 **CVE(s) :**
-- **[CVE-2025-54286](https://www.cve.org/CVERecord?id=CVE-2025-54286)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-54286](https://www.cve.org/CVERecord?id=CVE-2025-54286)** : 🔥 **Severity: High** (Score: 7.5)
 
 - **[CVE-2025-54287](https://www.cve.org/CVERecord?id=CVE-2025-54287)** : 🔥 **Severity: High** (Score: 7.1)
 
@@ -111,13 +111,13 @@
 **2025-10-17** - **[DSA-6027-1](https://security-tracker.debian.org/tracker/DSA-6027-1)** - incus
 
 **CVE(s) :**
-- **[CVE-2025-54286](https://www.cve.org/CVERecord?id=CVE-2025-54286)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-54286](https://www.cve.org/CVERecord?id=CVE-2025-54286)** : 🔥 **Severity: High** (Score: 7.5)
 
 - **[CVE-2025-54287](https://www.cve.org/CVERecord?id=CVE-2025-54287)** : 🔥 **Severity: High** (Score: 7.1)
 
 - **[CVE-2025-54288](https://www.cve.org/CVERecord?id=CVE-2025-54288)** : 🟠 **Severity: Medium** (Score: 5.1)
 
-- **[CVE-2025-54289](https://www.cve.org/CVERecord?id=CVE-2025-54289)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-54289](https://www.cve.org/CVERecord?id=CVE-2025-54289)** : 🔥 **Severity: High** (Score: 7.4)
 
 - **[CVE-2025-54290](https://www.cve.org/CVERecord?id=CVE-2025-54290)** : 🟠 **Severity: Medium** (Score: 6.9)
 
@@ -1189,7 +1189,7 @@
 
 - **[CVE-2024-26739](https://www.cve.org/CVERecord?id=CVE-2024-26739)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2024-28956](https://www.cve.org/CVERecord?id=CVE-2024-28956)** : 🟠 **Severity: Medium** (Score: 5.7)
+- **[CVE-2024-28956](https://www.cve.org/CVERecord?id=CVE-2024-28956)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-35790](https://www.cve.org/CVERecord?id=CVE-2024-35790)** : **Severity: Unknown** (Score: N/A)
 
@@ -1927,19 +1927,6 @@
 **Debian Version :** bookworm
  **Package Version :** redis 5:7.0.15-1~deb12u6 	[trixie] - redis 5:8.0.2-3+deb13u1
  **Type :** DSA
-
-------------------------------
-
-**2025-10-07** - **[DLA-4324-1](https://security-tracker.debian.org/tracker/DLA-4324-1)** - python-django
-
-**CVE(s) :**
-- **[CVE-2025-59681](https://www.cve.org/CVERecord?id=CVE-2025-59681)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-59682](https://www.cve.org/CVERecord?id=CVE-2025-59682)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** python-django 2:2.2.28-1~deb11u9
- **Type :** DLA
 
 ------------------------------
 
