@@ -119,7 +119,7 @@
 
 - **[CVE-2025-54289](https://www.cve.org/CVERecord?id=CVE-2025-54289)** : 🔥 **Severity: High** (Score: 7.4)
 
-- **[CVE-2025-54290](https://www.cve.org/CVERecord?id=CVE-2025-54290)** : 🟠 **Severity: Medium** (Score: 6.9)
+- **[CVE-2025-54290](https://www.cve.org/CVERecord?id=CVE-2025-54290)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-54291](https://www.cve.org/CVERecord?id=CVE-2025-54291)** : 🟠 **Severity: Medium** (Score: 6.9)
 
@@ -1189,7 +1189,7 @@
 
 - **[CVE-2024-26739](https://www.cve.org/CVERecord?id=CVE-2024-26739)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2024-28956](https://www.cve.org/CVERecord?id=CVE-2024-28956)** : 🟠 **Severity: Medium** (Score: 5.7)
+- **[CVE-2024-28956](https://www.cve.org/CVERecord?id=CVE-2024-28956)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-35790](https://www.cve.org/CVERecord?id=CVE-2024-35790)** : **Severity: Unknown** (Score: N/A)
 
@@ -1909,23 +1909,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** chromium 141.0.7390.65-1~deb12u1 	[trixie] - chromium 141.0.7390.65-1~deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2025-10-08** - **[DSA-6020-1](https://security-tracker.debian.org/tracker/DSA-6020-1)** - redis
-
-**CVE(s) :**
-- **[CVE-2025-46817](https://www.cve.org/CVERecord?id=CVE-2025-46817)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-46818](https://www.cve.org/CVERecord?id=CVE-2025-46818)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-46819](https://www.cve.org/CVERecord?id=CVE-2025-46819)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-49844](https://www.cve.org/CVERecord?id=CVE-2025-49844)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** redis 5:7.0.15-1~deb12u6 	[trixie] - redis 5:8.0.2-3+deb13u1
  **Type :** DSA
 
 ------------------------------
