@@ -1,5 +1,81 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-10-22** - **[DLA-4343-1](https://security-tracker.debian.org/tracker/DLA-4343-1)** - raptor2
+
+**CVE(s) :**
+- **[CVE-2024-57822](https://www.cve.org/CVERecord?id=CVE-2024-57822)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-57823](https://www.cve.org/CVERecord?id=CVE-2024-57823)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** raptor2 2.0.14-1.2+deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2025-10-22** - **[DLA-4342-1](https://security-tracker.debian.org/tracker/DLA-4342-1)** - gimp
+
+**CVE(s) :**
+- **[CVE-2025-2760](https://www.cve.org/CVERecord?id=CVE-2025-2760)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-2761](https://www.cve.org/CVERecord?id=CVE-2025-2761)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-5473](https://www.cve.org/CVERecord?id=CVE-2025-5473)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-6035](https://www.cve.org/CVERecord?id=CVE-2025-6035)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-10922](https://www.cve.org/CVERecord?id=CVE-2025-10922)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-48797](https://www.cve.org/CVERecord?id=CVE-2025-48797)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-48798](https://www.cve.org/CVERecord?id=CVE-2025-48798)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** gimp 2.10.22-4+deb11u3
+ **Type :** DLA
+
+------------------------------
+
+**2025-10-22** - **[DLA-4341-1](https://security-tracker.debian.org/tracker/DLA-4341-1)** - gegl
+
+**CVE(s) :**
+- **[CVE-2021-45463](https://www.cve.org/CVERecord?id=CVE-2021-45463)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-10921](https://www.cve.org/CVERecord?id=CVE-2025-10921)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** gegl 1:0.4.26-2+deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2025-10-22** - **[DSA-6030-1](https://security-tracker.debian.org/tracker/DSA-6030-1)** - intel-microcode
+
+**CVE(s) :**
+- **[CVE-2025-20053](https://www.cve.org/CVERecord?id=CVE-2025-20053)** : 🔥 **Severity: High** (Score: 7)
+
+- **[CVE-2025-20109](https://www.cve.org/CVERecord?id=CVE-2025-20109)** : 🔥 **Severity: High** (Score: 7.3)
+
+- **[CVE-2025-21090](https://www.cve.org/CVERecord?id=CVE-2025-21090)** : 🟠 **Severity: Medium** (Score: 4.1)
+
+- **[CVE-2025-22839](https://www.cve.org/CVERecord?id=CVE-2025-22839)** : 🔥 **Severity: High** (Score: 7.3)
+
+- **[CVE-2025-22840](https://www.cve.org/CVERecord?id=CVE-2025-22840)** : 🟠 **Severity: Medium** (Score: 5.3)
+
+- **[CVE-2025-22889](https://www.cve.org/CVERecord?id=CVE-2025-22889)** : 🔥 **Severity: High** (Score: 7)
+
+- **[CVE-2025-24305](https://www.cve.org/CVERecord?id=CVE-2025-24305)** : 🔥 **Severity: High** (Score: 7)
+
+- **[CVE-2025-26403](https://www.cve.org/CVERecord?id=CVE-2025-26403)** : 🟠 **Severity: Medium** (Score: 4.5)
+
+- **[CVE-2025-32086](https://www.cve.org/CVERecord?id=CVE-2025-32086)** : 🟠 **Severity: Medium** (Score: 4.5)
+
+**Debian Version :** bookworm
+ **Package Version :** intel-microcode 3.20250812.1~deb12u1 	[trixie] - intel-microcode 3.20250812.1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-10-20** - **[DLA-4340-1](https://security-tracker.debian.org/tracker/DLA-4340-1)** - libphp-adodb
 
 **CVE(s) :**
@@ -119,7 +195,7 @@
 
 - **[CVE-2025-54289](https://www.cve.org/CVERecord?id=CVE-2025-54289)** : 🔥 **Severity: High** (Score: 7.4)
 
-- **[CVE-2025-54290](https://www.cve.org/CVERecord?id=CVE-2025-54290)** : 🟠 **Severity: Medium** (Score: 6.9)
+- **[CVE-2025-54290](https://www.cve.org/CVERecord?id=CVE-2025-54290)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-54291](https://www.cve.org/CVERecord?id=CVE-2025-54291)** : 🟠 **Severity: Medium** (Score: 6.9)
 
