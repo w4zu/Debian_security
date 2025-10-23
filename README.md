@@ -1,5 +1,20 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-10-23** - **[DSA-6033-1](https://security-tracker.debian.org/tracker/DSA-6033-1)** - bind9
+
+**CVE(s) :**
+- **[CVE-2025-8677](https://www.cve.org/CVERecord?id=CVE-2025-8677)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-40778](https://www.cve.org/CVERecord?id=CVE-2025-40778)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-40780](https://www.cve.org/CVERecord?id=CVE-2025-40780)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** bind9 1:9.18.41-1~deb12u1 	[trixie] - bind9 1:9.20.15-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-10-22** - **[DLA-4344-1](https://security-tracker.debian.org/tracker/DLA-4344-1)** - gdk-pixbuf
 
 **CVE(s) :**
