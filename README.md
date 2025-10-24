@@ -130,13 +130,13 @@
 
 - **[CVE-2025-22839](https://www.cve.org/CVERecord?id=CVE-2025-22839)** : 🔥 **Severity: High** (Score: 7.3)
 
-- **[CVE-2025-22840](https://www.cve.org/CVERecord?id=CVE-2025-22840)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-22840](https://www.cve.org/CVERecord?id=CVE-2025-22840)** : 🟠 **Severity: Medium** (Score: 5.3)
 
 - **[CVE-2025-22889](https://www.cve.org/CVERecord?id=CVE-2025-22889)** : 🔥 **Severity: High** (Score: 7)
 
 - **[CVE-2025-24305](https://www.cve.org/CVERecord?id=CVE-2025-24305)** : 🔥 **Severity: High** (Score: 7)
 
-- **[CVE-2025-26403](https://www.cve.org/CVERecord?id=CVE-2025-26403)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-26403](https://www.cve.org/CVERecord?id=CVE-2025-26403)** : 🟠 **Severity: Medium** (Score: 4.5)
 
 - **[CVE-2025-32086](https://www.cve.org/CVERecord?id=CVE-2025-32086)** : 🟠 **Severity: Medium** (Score: 4.5)
 
@@ -336,7 +336,7 @@
 **2025-10-14** - **[DLA-4330-1](https://security-tracker.debian.org/tracker/DLA-4330-1)** - ghostscript
 
 **CVE(s) :**
-- **[CVE-2025-7462](https://www.cve.org/CVERecord?id=CVE-2025-7462)** : 🟠 **Severity: Medium** (Score: 5.3)
+- **[CVE-2025-7462](https://www.cve.org/CVERecord?id=CVE-2025-7462)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-59798](https://www.cve.org/CVERecord?id=CVE-2025-59798)** : **Severity: Unknown** (Score: N/A)
 
@@ -1272,8 +1272,6 @@
 
 - **[CVE-2025-39894](https://www.cve.org/CVERecord?id=CVE-2025-39894)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-39898](https://www.cve.org/CVERecord?id=CVE-2025-39898)** : **Severity: Unknown** (Score: N/A)
-
 - **[CVE-2025-39902](https://www.cve.org/CVERecord?id=CVE-2025-39902)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-39907](https://www.cve.org/CVERecord?id=CVE-2025-39907)** : **Severity: Unknown** (Score: N/A)
@@ -1335,7 +1333,7 @@
 
 - **[CVE-2024-26739](https://www.cve.org/CVERecord?id=CVE-2024-26739)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2024-28956](https://www.cve.org/CVERecord?id=CVE-2024-28956)** : 🟠 **Severity: Medium** (Score: 5.7)
+- **[CVE-2024-28956](https://www.cve.org/CVERecord?id=CVE-2024-28956)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-35790](https://www.cve.org/CVERecord?id=CVE-2024-35790)** : **Severity: Unknown** (Score: N/A)
 
@@ -1959,8 +1957,6 @@
 
 - **[CVE-2025-39891](https://www.cve.org/CVERecord?id=CVE-2025-39891)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-39898](https://www.cve.org/CVERecord?id=CVE-2025-39898)** : **Severity: Unknown** (Score: N/A)
-
 - **[CVE-2025-39902](https://www.cve.org/CVERecord?id=CVE-2025-39902)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-39920](https://www.cve.org/CVERecord?id=CVE-2025-39920)** : **Severity: Unknown** (Score: N/A)
@@ -1976,7 +1972,7 @@
 **2025-10-11** - **[DSA-6024-1](https://security-tracker.debian.org/tracker/DSA-6024-1)** - ghostscript
 
 **CVE(s) :**
-- **[CVE-2025-7462](https://www.cve.org/CVERecord?id=CVE-2025-7462)** : 🟠 **Severity: Medium** (Score: 5.3)
+- **[CVE-2025-7462](https://www.cve.org/CVERecord?id=CVE-2025-7462)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-59798](https://www.cve.org/CVERecord?id=CVE-2025-59798)** : **Severity: Unknown** (Score: N/A)
 
