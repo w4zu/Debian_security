@@ -1,5 +1,27 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-10-23** - **[DSA-6036-1](https://security-tracker.debian.org/tracker/DSA-6036-1)** - chromium
+
+**CVE(s) :**
+- **[CVE-2025-12036](https://www.cve.org/CVERecord?id=CVE-2025-12036)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** chromium 141.0.7390.122-1~deb12u1 	[trixie] - chromium 141.0.7390.122-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2025-10-23** - **[DSA-6035-1](https://security-tracker.debian.org/tracker/DSA-6035-1)** - python-internetarchive
+
+**CVE(s) :**
+- **[CVE-2025-58438](https://www.cve.org/CVERecord?id=CVE-2025-58438)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** python-internetarchive 3.3.0-2~deb12u1 	[trixie] - python-internetarchive 5.4.0-2~deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-10-23** - **[DSA-6033-1](https://security-tracker.debian.org/tracker/DSA-6033-1)** - bind9
 
 **CVE(s) :**
@@ -102,13 +124,13 @@
 **CVE(s) :**
 - **[CVE-2025-20053](https://www.cve.org/CVERecord?id=CVE-2025-20053)** : 🔥 **Severity: High** (Score: 7)
 
-- **[CVE-2025-20109](https://www.cve.org/CVERecord?id=CVE-2025-20109)** : 🔥 **Severity: High** (Score: 7.3)
+- **[CVE-2025-20109](https://www.cve.org/CVERecord?id=CVE-2025-20109)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-21090](https://www.cve.org/CVERecord?id=CVE-2025-21090)** : 🟠 **Severity: Medium** (Score: 4.1)
 
 - **[CVE-2025-22839](https://www.cve.org/CVERecord?id=CVE-2025-22839)** : 🔥 **Severity: High** (Score: 7.3)
 
-- **[CVE-2025-22840](https://www.cve.org/CVERecord?id=CVE-2025-22840)** : 🟠 **Severity: Medium** (Score: 5.3)
+- **[CVE-2025-22840](https://www.cve.org/CVERecord?id=CVE-2025-22840)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-22889](https://www.cve.org/CVERecord?id=CVE-2025-22889)** : 🔥 **Severity: High** (Score: 7)
 
@@ -224,7 +246,7 @@
 
 - **[CVE-2025-54288](https://www.cve.org/CVERecord?id=CVE-2025-54288)** : 🟠 **Severity: Medium** (Score: 5.1)
 
-- **[CVE-2025-54293](https://www.cve.org/CVERecord?id=CVE-2025-54293)** : 🔥 **Severity: High** (Score: 7.1)
+- **[CVE-2025-54293](https://www.cve.org/CVERecord?id=CVE-2025-54293)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** lxd 5.0.2-5+deb12u1 	[trixie] - lxd 5.0.2+git20231211.1364ae4-9+deb13u1
@@ -247,7 +269,7 @@
 
 - **[CVE-2025-54291](https://www.cve.org/CVERecord?id=CVE-2025-54291)** : 🟠 **Severity: Medium** (Score: 6.9)
 
-- **[CVE-2025-54293](https://www.cve.org/CVERecord?id=CVE-2025-54293)** : 🔥 **Severity: High** (Score: 7.1)
+- **[CVE-2025-54293](https://www.cve.org/CVERecord?id=CVE-2025-54293)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** trixie
  **Package Version :** incus 6.0.4-2+deb13u1
@@ -1962,30 +1984,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** ghostscript 10.0.0~dfsg-11+deb12u8 	[trixie] - ghostscript 10.05.1~dfsg-1+deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2025-10-10** - **[DLA-4326-1](https://security-tracker.debian.org/tracker/DLA-4326-1)** - asterisk
-
-**CVE(s) :**
-- **[CVE-2025-1131](https://www.cve.org/CVERecord?id=CVE-2025-1131)** : 🔥 **Severity: High** (Score: 7)
-
-- **[CVE-2025-54995](https://www.cve.org/CVERecord?id=CVE-2025-54995)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** asterisk 1:16.28.0~dfsg-0+deb11u8
- **Type :** DLA
-
-------------------------------
-
-**2025-10-10** - **[DSA-6023-1](https://security-tracker.debian.org/tracker/DSA-6023-1)** - tiff
-
-**CVE(s) :**
-- **[CVE-2025-9900](https://www.cve.org/CVERecord?id=CVE-2025-9900)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** tiff 4.5.0-6+deb12u3 	[trixie] - tiff 4.7.0-3+deb13u1
  **Type :** DSA
 
 ------------------------------
