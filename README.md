@@ -23,6 +23,17 @@
 
 ------------------------------
 
+**2025-10-27** - **[DSA-6041-1](https://security-tracker.debian.org/tracker/DSA-6041-1)** - strongswan
+
+**CVE(s) :**
+- **[CVE-2025-62291](https://www.cve.org/CVERecord?id=CVE-2025-62291)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** strongswan 5.9.8-5+deb12u2 	[trixie] - strongswan 6.0.1-6+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-10-26** - **[DLA-4350-1](https://security-tracker.debian.org/tracker/DLA-4350-1)** - tika
 
 **CVE(s) :**
@@ -111,7 +122,7 @@
 
 - **[CVE-2025-22889](https://www.cve.org/CVERecord?id=CVE-2025-22889)** : 🔥 **Severity: High** (Score: 7)
 
-- **[CVE-2025-24305](https://www.cve.org/CVERecord?id=CVE-2025-24305)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-24305](https://www.cve.org/CVERecord?id=CVE-2025-24305)** : 🔥 **Severity: High** (Score: 7)
 
 - **[CVE-2025-26403](https://www.cve.org/CVERecord?id=CVE-2025-26403)** : 🟠 **Severity: Medium** (Score: 4.5)
 
@@ -311,7 +322,7 @@
 
 - **[CVE-2025-22889](https://www.cve.org/CVERecord?id=CVE-2025-22889)** : 🔥 **Severity: High** (Score: 7)
 
-- **[CVE-2025-24305](https://www.cve.org/CVERecord?id=CVE-2025-24305)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-24305](https://www.cve.org/CVERecord?id=CVE-2025-24305)** : 🔥 **Severity: High** (Score: 7)
 
 - **[CVE-2025-26403](https://www.cve.org/CVERecord?id=CVE-2025-26403)** : 🟠 **Severity: Medium** (Score: 4.5)
 
