@@ -510,29 +510,3 @@
 
 ------------------------------
 
-**2025-10-14** - **[DLA-4333-1](https://security-tracker.debian.org/tracker/DLA-4333-1)** - php-horde-css-parser
-
-**CVE(s) :**
-- **[CVE-2020-13756](https://www.cve.org/CVERecord?id=CVE-2020-13756)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** php-horde-css-parser 1.0.11-8+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-10-14** - **[DLA-4330-1](https://security-tracker.debian.org/tracker/DLA-4330-1)** - ghostscript
-
-**CVE(s) :**
-- **[CVE-2025-7462](https://www.cve.org/CVERecord?id=CVE-2025-7462)** : 🟠 **Severity: Medium** (Score: 5.3)
-
-- **[CVE-2025-59798](https://www.cve.org/CVERecord?id=CVE-2025-59798)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-59799](https://www.cve.org/CVERecord?id=CVE-2025-59799)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** ghostscript 9.53.3~dfsg-7+deb11u11
- **Type :** DLA
-
-------------------------------
-
