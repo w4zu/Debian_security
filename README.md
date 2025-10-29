@@ -10,7 +10,7 @@
 - **[CVE-2025-62231](https://www.cve.org/CVERecord?id=CVE-2025-62231)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
- **Package Version :** xorg-server 2:1.20.4-1+deb10u18
+ **Package Version :** xorg-server 2:1.20.11-1+deb11u17
  **Type :** DLA
 
 ------------------------------
@@ -532,7 +532,7 @@
 
 - **[CVE-2025-54288](https://www.cve.org/CVERecord?id=CVE-2025-54288)** : 🟠 **Severity: Medium** (Score: 5.1)
 
-- **[CVE-2025-54289](https://www.cve.org/CVERecord?id=CVE-2025-54289)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-54289](https://www.cve.org/CVERecord?id=CVE-2025-54289)** : 🔥 **Severity: High** (Score: 7.4)
 
 - **[CVE-2025-54290](https://www.cve.org/CVERecord?id=CVE-2025-54290)** : 🟠 **Severity: Medium** (Score: 6.9)
 
