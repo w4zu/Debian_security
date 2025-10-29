@@ -1,5 +1,22 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-10-29** - **[DLA-4352-1](https://security-tracker.debian.org/tracker/DLA-4352-1)** - python-authlib
+
+**CVE(s) :**
+- **[CVE-2024-37568](https://www.cve.org/CVERecord?id=CVE-2024-37568)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-59420](https://www.cve.org/CVERecord?id=CVE-2025-59420)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-61920](https://www.cve.org/CVERecord?id=CVE-2025-61920)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-62706](https://www.cve.org/CVERecord?id=CVE-2025-62706)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** python-authlib 0.15.4-1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-10-28** - **[DSA-6043-1](https://security-tracker.debian.org/tracker/DSA-6043-1)** - gimp
 
 **CVE(s) :**
@@ -95,7 +112,7 @@
 **CVE(s) :**
 - **[CVE-2023-5752](https://www.cve.org/CVERecord?id=CVE-2023-5752)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-8869](https://www.cve.org/CVERecord?id=CVE-2025-8869)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-8869](https://www.cve.org/CVERecord?id=CVE-2025-8869)** : 🟠 **Severity: Medium** (Score: 5.9)
 
 **Debian Version :** bullseye
  **Package Version :** python-pip 20.3.4-4+deb11u2
@@ -146,7 +163,7 @@
 **CVE(s) :**
 - **[CVE-2025-20053](https://www.cve.org/CVERecord?id=CVE-2025-20053)** : 🔥 **Severity: High** (Score: 7)
 
-- **[CVE-2025-20109](https://www.cve.org/CVERecord?id=CVE-2025-20109)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-20109](https://www.cve.org/CVERecord?id=CVE-2025-20109)** : 🔥 **Severity: High** (Score: 7.3)
 
 - **[CVE-2025-21090](https://www.cve.org/CVERecord?id=CVE-2025-21090)** : 🟠 **Severity: Medium** (Score: 4.1)
 
@@ -160,7 +177,7 @@
 
 - **[CVE-2025-26403](https://www.cve.org/CVERecord?id=CVE-2025-26403)** : 🟠 **Severity: Medium** (Score: 4.5)
 
-- **[CVE-2025-32086](https://www.cve.org/CVERecord?id=CVE-2025-32086)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-32086](https://www.cve.org/CVERecord?id=CVE-2025-32086)** : 🟠 **Severity: Medium** (Score: 4.5)
 
 **Debian Version :** bullseye
  **Package Version :** intel-microcode 3.20250812.1~deb11u1
@@ -346,7 +363,7 @@
 **CVE(s) :**
 - **[CVE-2025-20053](https://www.cve.org/CVERecord?id=CVE-2025-20053)** : 🔥 **Severity: High** (Score: 7)
 
-- **[CVE-2025-20109](https://www.cve.org/CVERecord?id=CVE-2025-20109)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-20109](https://www.cve.org/CVERecord?id=CVE-2025-20109)** : 🔥 **Severity: High** (Score: 7.3)
 
 - **[CVE-2025-21090](https://www.cve.org/CVERecord?id=CVE-2025-21090)** : 🟠 **Severity: Medium** (Score: 4.1)
 
@@ -360,7 +377,7 @@
 
 - **[CVE-2025-26403](https://www.cve.org/CVERecord?id=CVE-2025-26403)** : 🟠 **Severity: Medium** (Score: 4.5)
 
-- **[CVE-2025-32086](https://www.cve.org/CVERecord?id=CVE-2025-32086)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-32086](https://www.cve.org/CVERecord?id=CVE-2025-32086)** : 🟠 **Severity: Medium** (Score: 4.5)
 
 **Debian Version :** bookworm
  **Package Version :** intel-microcode 3.20250812.1~deb12u1 	[trixie] - intel-microcode 3.20250812.1~deb13u1
