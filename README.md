@@ -1,5 +1,20 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-10-29** - **[DLA-4353-1](https://security-tracker.debian.org/tracker/DLA-4353-1)** - xorg-server
+
+**CVE(s) :**
+- **[CVE-2025-62229](https://www.cve.org/CVERecord?id=CVE-2025-62229)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-62230](https://www.cve.org/CVERecord?id=CVE-2025-62230)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-62231](https://www.cve.org/CVERecord?id=CVE-2025-62231)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** xorg-server 2:1.20.4-1+deb10u18
+ **Type :** DLA
+
+------------------------------
+
 **2025-10-29** - **[DLA-4352-1](https://security-tracker.debian.org/tracker/DLA-4352-1)** - python-authlib
 
 **CVE(s) :**
@@ -14,6 +29,21 @@
 **Debian Version :** bullseye
  **Package Version :** python-authlib 0.15.4-1+deb11u1
  **Type :** DLA
+
+------------------------------
+
+**2025-10-29** - **[DSA-6044-1](https://security-tracker.debian.org/tracker/DSA-6044-1)** - xorg-server
+
+**CVE(s) :**
+- **[CVE-2025-62229](https://www.cve.org/CVERecord?id=CVE-2025-62229)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-62230](https://www.cve.org/CVERecord?id=CVE-2025-62230)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-62231](https://www.cve.org/CVERecord?id=CVE-2025-62231)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** xorg-server 2:21.1.7-3+deb12u11 	[trixie] - xorg-server 2:21.1.16-1.3+deb13u1
+ **Type :** DSA
 
 ------------------------------
 
@@ -502,7 +532,7 @@
 
 - **[CVE-2025-54288](https://www.cve.org/CVERecord?id=CVE-2025-54288)** : 🟠 **Severity: Medium** (Score: 5.1)
 
-- **[CVE-2025-54289](https://www.cve.org/CVERecord?id=CVE-2025-54289)** : 🔥 **Severity: High** (Score: 7.4)
+- **[CVE-2025-54289](https://www.cve.org/CVERecord?id=CVE-2025-54289)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-54290](https://www.cve.org/CVERecord?id=CVE-2025-54290)** : 🟠 **Severity: Medium** (Score: 6.9)
 
