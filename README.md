@@ -1,5 +1,20 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-10-28** - **[DSA-6043-1](https://security-tracker.debian.org/tracker/DSA-6043-1)** - gimp
+
+**CVE(s) :**
+- **[CVE-2025-2760](https://www.cve.org/CVERecord?id=CVE-2025-2760)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-6035](https://www.cve.org/CVERecord?id=CVE-2025-6035)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-10922](https://www.cve.org/CVERecord?id=CVE-2025-10922)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** gimp 2.10.34-1+deb12u4
+ **Type :** DSA
+
+------------------------------
+
 **2025-10-28** - **[DSA-6042-1](https://security-tracker.debian.org/tracker/DSA-6042-1)** - webkit2gtk
 
 **CVE(s) :**
@@ -80,7 +95,7 @@
 **CVE(s) :**
 - **[CVE-2023-5752](https://www.cve.org/CVERecord?id=CVE-2023-5752)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-8869](https://www.cve.org/CVERecord?id=CVE-2025-8869)** : 🟠 **Severity: Medium** (Score: 5.9)
+- **[CVE-2025-8869](https://www.cve.org/CVERecord?id=CVE-2025-8869)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** python-pip 20.3.4-4+deb11u2
@@ -131,7 +146,7 @@
 **CVE(s) :**
 - **[CVE-2025-20053](https://www.cve.org/CVERecord?id=CVE-2025-20053)** : 🔥 **Severity: High** (Score: 7)
 
-- **[CVE-2025-20109](https://www.cve.org/CVERecord?id=CVE-2025-20109)** : 🔥 **Severity: High** (Score: 7.3)
+- **[CVE-2025-20109](https://www.cve.org/CVERecord?id=CVE-2025-20109)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-21090](https://www.cve.org/CVERecord?id=CVE-2025-21090)** : 🟠 **Severity: Medium** (Score: 4.1)
 
@@ -145,7 +160,7 @@
 
 - **[CVE-2025-26403](https://www.cve.org/CVERecord?id=CVE-2025-26403)** : 🟠 **Severity: Medium** (Score: 4.5)
 
-- **[CVE-2025-32086](https://www.cve.org/CVERecord?id=CVE-2025-32086)** : 🟠 **Severity: Medium** (Score: 4.5)
+- **[CVE-2025-32086](https://www.cve.org/CVERecord?id=CVE-2025-32086)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** intel-microcode 3.20250812.1~deb11u1
@@ -331,7 +346,7 @@
 **CVE(s) :**
 - **[CVE-2025-20053](https://www.cve.org/CVERecord?id=CVE-2025-20053)** : 🔥 **Severity: High** (Score: 7)
 
-- **[CVE-2025-20109](https://www.cve.org/CVERecord?id=CVE-2025-20109)** : 🔥 **Severity: High** (Score: 7.3)
+- **[CVE-2025-20109](https://www.cve.org/CVERecord?id=CVE-2025-20109)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-21090](https://www.cve.org/CVERecord?id=CVE-2025-21090)** : 🟠 **Severity: Medium** (Score: 4.1)
 
@@ -345,7 +360,7 @@
 
 - **[CVE-2025-26403](https://www.cve.org/CVERecord?id=CVE-2025-26403)** : 🟠 **Severity: Medium** (Score: 4.5)
 
-- **[CVE-2025-32086](https://www.cve.org/CVERecord?id=CVE-2025-32086)** : 🟠 **Severity: Medium** (Score: 4.5)
+- **[CVE-2025-32086](https://www.cve.org/CVERecord?id=CVE-2025-32086)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** intel-microcode 3.20250812.1~deb12u1 	[trixie] - intel-microcode 3.20250812.1~deb13u1
@@ -502,29 +517,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** chromium 141.0.7390.107-1~deb12u1 	[trixie] - chromium 141.0.7390.107-1~deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2025-10-15** - **[DSA-6025-1](https://security-tracker.debian.org/tracker/DSA-6025-1)** - firefox-esr
-
-**CVE(s) :**
-- **[CVE-2025-11708](https://www.cve.org/CVERecord?id=CVE-2025-11708)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-11709](https://www.cve.org/CVERecord?id=CVE-2025-11709)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-11710](https://www.cve.org/CVERecord?id=CVE-2025-11710)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-11711](https://www.cve.org/CVERecord?id=CVE-2025-11711)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-11712](https://www.cve.org/CVERecord?id=CVE-2025-11712)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-11714](https://www.cve.org/CVERecord?id=CVE-2025-11714)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-11715](https://www.cve.org/CVERecord?id=CVE-2025-11715)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** firefox-esr 140.4.0esr-1~deb12u1 	[trixie] - firefox-esr 140.4.0esr-1~deb13u1
  **Type :** DSA
 
 ------------------------------
