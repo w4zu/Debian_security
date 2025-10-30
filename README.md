@@ -32,6 +32,19 @@
 
 ------------------------------
 
+**2025-10-29** - **[DSA-6045-1](https://security-tracker.debian.org/tracker/DSA-6045-1)** - pdns-recursor
+
+**CVE(s) :**
+- **[CVE-2025-59023](https://www.cve.org/CVERecord?id=CVE-2025-59023)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-59024](https://www.cve.org/CVERecord?id=CVE-2025-59024)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** pdns-recursor 5.2.6-0+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-10-29** - **[DSA-6044-1](https://security-tracker.debian.org/tracker/DSA-6044-1)** - xorg-server
 
 **CVE(s) :**
@@ -199,7 +212,7 @@
 
 - **[CVE-2025-22839](https://www.cve.org/CVERecord?id=CVE-2025-22839)** : 🔥 **Severity: High** (Score: 7.3)
 
-- **[CVE-2025-22840](https://www.cve.org/CVERecord?id=CVE-2025-22840)** : 🟠 **Severity: Medium** (Score: 5.3)
+- **[CVE-2025-22840](https://www.cve.org/CVERecord?id=CVE-2025-22840)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-22889](https://www.cve.org/CVERecord?id=CVE-2025-22889)** : 🔥 **Severity: High** (Score: 7)
 
@@ -399,7 +412,7 @@
 
 - **[CVE-2025-22839](https://www.cve.org/CVERecord?id=CVE-2025-22839)** : 🔥 **Severity: High** (Score: 7.3)
 
-- **[CVE-2025-22840](https://www.cve.org/CVERecord?id=CVE-2025-22840)** : 🟠 **Severity: Medium** (Score: 5.3)
+- **[CVE-2025-22840](https://www.cve.org/CVERecord?id=CVE-2025-22840)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-22889](https://www.cve.org/CVERecord?id=CVE-2025-22889)** : 🔥 **Severity: High** (Score: 7)
 
@@ -536,34 +549,12 @@
 
 - **[CVE-2025-54290](https://www.cve.org/CVERecord?id=CVE-2025-54290)** : 🟠 **Severity: Medium** (Score: 6.9)
 
-- **[CVE-2025-54291](https://www.cve.org/CVERecord?id=CVE-2025-54291)** : 🟠 **Severity: Medium** (Score: 6.9)
+- **[CVE-2025-54291](https://www.cve.org/CVERecord?id=CVE-2025-54291)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-54293](https://www.cve.org/CVERecord?id=CVE-2025-54293)** : 🔥 **Severity: High** (Score: 7.1)
 
 **Debian Version :** trixie
  **Package Version :** incus 6.0.4-2+deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2025-10-16** - **[DLA-4334-1](https://security-tracker.debian.org/tracker/DLA-4334-1)** - pgpool2
-
-**CVE(s) :**
-- **[CVE-2025-46801](https://www.cve.org/CVERecord?id=CVE-2025-46801)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** pgpool2 4.1.4-3+deb11u2
- **Type :** DLA
-
-------------------------------
-
-**2025-10-16** - **[DSA-6026-1](https://security-tracker.debian.org/tracker/DSA-6026-1)** - chromium
-
-**CVE(s) :**
-- **[CVE-2025-11756](https://www.cve.org/CVERecord?id=CVE-2025-11756)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** chromium 141.0.7390.107-1~deb12u1 	[trixie] - chromium 141.0.7390.107-1~deb13u1
  **Type :** DSA
 
 ------------------------------
