@@ -1,5 +1,63 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-10-31** - **[DLA-4355-1](https://security-tracker.debian.org/tracker/DLA-4355-1)** - mediawiki
+
+**CVE(s) :**
+- **[CVE-2025-11173](https://www.cve.org/CVERecord?id=CVE-2025-11173)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-11261](https://www.cve.org/CVERecord?id=CVE-2025-11261)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-61635](https://www.cve.org/CVERecord?id=CVE-2025-61635)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-61638](https://www.cve.org/CVERecord?id=CVE-2025-61638)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-61639](https://www.cve.org/CVERecord?id=CVE-2025-61639)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-61640](https://www.cve.org/CVERecord?id=CVE-2025-61640)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-61641](https://www.cve.org/CVERecord?id=CVE-2025-61641)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-61643](https://www.cve.org/CVERecord?id=CVE-2025-61643)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-61646](https://www.cve.org/CVERecord?id=CVE-2025-61646)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-61653](https://www.cve.org/CVERecord?id=CVE-2025-61653)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-61655](https://www.cve.org/CVERecord?id=CVE-2025-61655)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-61656](https://www.cve.org/CVERecord?id=CVE-2025-61656)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** mediawiki 1:1.35.13-1+deb11u5
+ **Type :** DLA
+
+------------------------------
+
+**2025-10-31** - **[DLA-4354-1](https://security-tracker.debian.org/tracker/DLA-4354-1)** - pypy3
+
+**CVE(s) :**
+- **[CVE-2024-6232](https://www.cve.org/CVERecord?id=CVE-2024-6232)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-6923](https://www.cve.org/CVERecord?id=CVE-2024-6923)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-7592](https://www.cve.org/CVERecord?id=CVE-2024-7592)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-11168](https://www.cve.org/CVERecord?id=CVE-2024-11168)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+- **[CVE-2025-0938](https://www.cve.org/CVERecord?id=CVE-2025-0938)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+- **[CVE-2025-1795](https://www.cve.org/CVERecord?id=CVE-2025-1795)** : 🟠 **Severity: Medium** (Score: 2.3)
+
+- **[CVE-2025-6069](https://www.cve.org/CVERecord?id=CVE-2025-6069)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-8291](https://www.cve.org/CVERecord?id=CVE-2025-8291)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** pypy3 7.3.5+dfsg-2+deb11u5
+ **Type :** DLA
+
+------------------------------
+
 **2025-10-30** - **[DSA-6047-1](https://security-tracker.debian.org/tracker/DSA-6047-1)** - squid
 
 **CVE(s) :**
@@ -215,7 +273,7 @@
 **CVE(s) :**
 - **[CVE-2023-5752](https://www.cve.org/CVERecord?id=CVE-2023-5752)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-8869](https://www.cve.org/CVERecord?id=CVE-2025-8869)** : 🟠 **Severity: Medium** (Score: 5.9)
+- **[CVE-2025-8869](https://www.cve.org/CVERecord?id=CVE-2025-8869)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** python-pip 20.3.4-4+deb11u2
