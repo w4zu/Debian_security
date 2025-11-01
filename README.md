@@ -44,7 +44,7 @@
 
 - **[CVE-2024-11168](https://www.cve.org/CVERecord?id=CVE-2024-11168)** : 🟠 **Severity: Medium** (Score: 6.3)
 
-- **[CVE-2025-0938](https://www.cve.org/CVERecord?id=CVE-2025-0938)** : 🟠 **Severity: Medium** (Score: 6.3)
+- **[CVE-2025-0938](https://www.cve.org/CVERecord?id=CVE-2025-0938)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-1795](https://www.cve.org/CVERecord?id=CVE-2025-1795)** : 🟠 **Severity: Medium** (Score: 2.3)
 
@@ -330,7 +330,7 @@
 
 - **[CVE-2025-22839](https://www.cve.org/CVERecord?id=CVE-2025-22839)** : 🔥 **Severity: High** (Score: 7.3)
 
-- **[CVE-2025-22840](https://www.cve.org/CVERecord?id=CVE-2025-22840)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-22840](https://www.cve.org/CVERecord?id=CVE-2025-22840)** : 🟠 **Severity: Medium** (Score: 5.3)
 
 - **[CVE-2025-22889](https://www.cve.org/CVERecord?id=CVE-2025-22889)** : 🔥 **Severity: High** (Score: 7)
 
@@ -530,7 +530,7 @@
 
 - **[CVE-2025-22839](https://www.cve.org/CVERecord?id=CVE-2025-22839)** : 🔥 **Severity: High** (Score: 7.3)
 
-- **[CVE-2025-22840](https://www.cve.org/CVERecord?id=CVE-2025-22840)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-22840](https://www.cve.org/CVERecord?id=CVE-2025-22840)** : 🟠 **Severity: Medium** (Score: 5.3)
 
 - **[CVE-2025-22889](https://www.cve.org/CVERecord?id=CVE-2025-22889)** : 🔥 **Severity: High** (Score: 7)
 
@@ -575,17 +575,6 @@
 
 **Debian Version :** bullseye
  **Package Version :** imagemagick 8:6.9.11.60+dfsg-1.3+deb11u7
- **Type :** DLA
-
-------------------------------
-
-**2025-10-18** - **[DLA-4338-1](https://security-tracker.debian.org/tracker/DLA-4338-1)** - pgagent
-
-**CVE(s) :**
-- **[CVE-2025-0218](https://www.cve.org/CVERecord?id=CVE-2025-0218)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** pgagent 4.0.0-8+deb11u1
  **Type :** DLA
 
 ------------------------------
