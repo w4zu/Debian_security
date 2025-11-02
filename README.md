@@ -1,5 +1,30 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-11-01** - **[DLA-4357-1](https://security-tracker.debian.org/tracker/DLA-4357-1)** - ruby-rack
+
+**CVE(s) :**
+- **[CVE-2025-32441](https://www.cve.org/CVERecord?id=CVE-2025-32441)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-46727](https://www.cve.org/CVERecord?id=CVE-2025-46727)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-59830](https://www.cve.org/CVERecord?id=CVE-2025-59830)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-61770](https://www.cve.org/CVERecord?id=CVE-2025-61770)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-61771](https://www.cve.org/CVERecord?id=CVE-2025-61771)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-61772](https://www.cve.org/CVERecord?id=CVE-2025-61772)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-61780](https://www.cve.org/CVERecord?id=CVE-2025-61780)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-61919](https://www.cve.org/CVERecord?id=CVE-2025-61919)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** ruby-rack 2.1.4-3+deb11u4
+ **Type :** DLA
+
+------------------------------
+
 **2025-10-31** - **[DLA-4355-1](https://security-tracker.debian.org/tracker/DLA-4355-1)** - mediawiki
 
 **CVE(s) :**
@@ -42,7 +67,7 @@
 
 - **[CVE-2024-7592](https://www.cve.org/CVERecord?id=CVE-2024-7592)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2024-11168](https://www.cve.org/CVERecord?id=CVE-2024-11168)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-11168](https://www.cve.org/CVERecord?id=CVE-2024-11168)** : 🟠 **Severity: Medium** (Score: 6.3)
 
 - **[CVE-2025-0938](https://www.cve.org/CVERecord?id=CVE-2025-0938)** : 🟠 **Severity: Medium** (Score: 6.3)
 
@@ -565,17 +590,6 @@
 **Debian Version :** bookworm
  **Package Version :** ark 4:22.12.3-1+deb12u1
  **Type :** DSA
-
-------------------------------
-
-**2025-10-19** - **[DLA-4339-1](https://security-tracker.debian.org/tracker/DLA-4339-1)** - imagemagick
-
-**CVE(s) :**
-- **[CVE-2025-62171](https://www.cve.org/CVERecord?id=CVE-2025-62171)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** imagemagick 8:6.9.11.60+dfsg-1.3+deb11u7
- **Type :** DLA
 
 ------------------------------
 
