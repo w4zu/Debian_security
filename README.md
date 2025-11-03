@@ -1,5 +1,22 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-11-02** - **[DLA-4358-1](https://security-tracker.debian.org/tracker/DLA-4358-1)** - wordpress
+
+**CVE(s) :**
+- **[CVE-2024-6307](https://www.cve.org/CVERecord?id=CVE-2024-6307)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-31111](https://www.cve.org/CVERecord?id=CVE-2024-31111)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-58246](https://www.cve.org/CVERecord?id=CVE-2025-58246)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-58674](https://www.cve.org/CVERecord?id=CVE-2025-58674)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** wordpress 5.7.14+dfsg1-0+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-11-01** - **[DLA-4357-1](https://security-tracker.debian.org/tracker/DLA-4357-1)** - ruby-rack
 
 **CVE(s) :**
@@ -71,7 +88,7 @@
 
 - **[CVE-2025-0938](https://www.cve.org/CVERecord?id=CVE-2025-0938)** : 🟠 **Severity: Medium** (Score: 6.3)
 
-- **[CVE-2025-1795](https://www.cve.org/CVERecord?id=CVE-2025-1795)** : 🟠 **Severity: Medium** (Score: 2.3)
+- **[CVE-2025-1795](https://www.cve.org/CVERecord?id=CVE-2025-1795)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-6069](https://www.cve.org/CVERecord?id=CVE-2025-6069)** : **Severity: Unknown** (Score: N/A)
 
@@ -347,7 +364,7 @@
 **2025-10-25** - **[DLA-4347-1](https://security-tracker.debian.org/tracker/DLA-4347-1)** - intel-microcode
 
 **CVE(s) :**
-- **[CVE-2025-20053](https://www.cve.org/CVERecord?id=CVE-2025-20053)** : 🔥 **Severity: High** (Score: 7)
+- **[CVE-2025-20053](https://www.cve.org/CVERecord?id=CVE-2025-20053)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-20109](https://www.cve.org/CVERecord?id=CVE-2025-20109)** : 🔥 **Severity: High** (Score: 7.3)
 
@@ -361,7 +378,7 @@
 
 - **[CVE-2025-24305](https://www.cve.org/CVERecord?id=CVE-2025-24305)** : 🔥 **Severity: High** (Score: 7)
 
-- **[CVE-2025-26403](https://www.cve.org/CVERecord?id=CVE-2025-26403)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-26403](https://www.cve.org/CVERecord?id=CVE-2025-26403)** : 🟠 **Severity: Medium** (Score: 4.5)
 
 - **[CVE-2025-32086](https://www.cve.org/CVERecord?id=CVE-2025-32086)** : 🟠 **Severity: Medium** (Score: 4.5)
 
@@ -547,7 +564,7 @@
 **2025-10-22** - **[DSA-6030-1](https://security-tracker.debian.org/tracker/DSA-6030-1)** - intel-microcode
 
 **CVE(s) :**
-- **[CVE-2025-20053](https://www.cve.org/CVERecord?id=CVE-2025-20053)** : 🔥 **Severity: High** (Score: 7)
+- **[CVE-2025-20053](https://www.cve.org/CVERecord?id=CVE-2025-20053)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-20109](https://www.cve.org/CVERecord?id=CVE-2025-20109)** : 🔥 **Severity: High** (Score: 7.3)
 
@@ -561,34 +578,12 @@
 
 - **[CVE-2025-24305](https://www.cve.org/CVERecord?id=CVE-2025-24305)** : 🔥 **Severity: High** (Score: 7)
 
-- **[CVE-2025-26403](https://www.cve.org/CVERecord?id=CVE-2025-26403)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-26403](https://www.cve.org/CVERecord?id=CVE-2025-26403)** : 🟠 **Severity: Medium** (Score: 4.5)
 
 - **[CVE-2025-32086](https://www.cve.org/CVERecord?id=CVE-2025-32086)** : 🟠 **Severity: Medium** (Score: 4.5)
 
 **Debian Version :** bookworm
  **Package Version :** intel-microcode 3.20250812.1~deb12u1 	[trixie] - intel-microcode 3.20250812.1~deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2025-10-20** - **[DLA-4340-1](https://security-tracker.debian.org/tracker/DLA-4340-1)** - libphp-adodb
-
-**CVE(s) :**
-- **[CVE-2025-54119](https://www.cve.org/CVERecord?id=CVE-2025-54119)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** libphp-adodb 5.20.19-1+deb11u3
- **Type :** DLA
-
-------------------------------
-
-**2025-10-20** - **[DSA-6029-1](https://security-tracker.debian.org/tracker/DSA-6029-1)** - ark
-
-**CVE(s) :**
-- **[CVE-2024-57966](https://www.cve.org/CVERecord?id=CVE-2024-57966)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** ark 4:22.12.3-1+deb12u1
  **Type :** DSA
 
 ------------------------------
