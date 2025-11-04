@@ -1,5 +1,53 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-11-03** - **[DLA-4363-1](https://security-tracker.debian.org/tracker/DLA-4363-1)** - dcmtk
+
+**CVE(s) :**
+- **[CVE-2020-36855](https://www.cve.org/CVERecord?id=CVE-2020-36855)** : 🟠 **Severity: Medium** (Score: 4.8)
+
+- **[CVE-2022-4981](https://www.cve.org/CVERecord?id=CVE-2022-4981)** : 🟠 **Severity: Medium** (Score: 4.8)
+
+- **[CVE-2025-9732](https://www.cve.org/CVERecord?id=CVE-2025-9732)** : 🟠 **Severity: Medium** (Score: 4.8)
+
+**Debian Version :** bullseye
+ **Package Version :** dcmtk 3.6.5-1+deb11u5
+ **Type :** DLA
+
+------------------------------
+
+**2025-11-03** - **[DLA-4362-1](https://security-tracker.debian.org/tracker/DLA-4362-1)** - gimp
+
+**CVE(s) :**
+- **[CVE-2025-10934](https://www.cve.org/CVERecord?id=CVE-2025-10934)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** gimp 2.10.22-4+deb11u4
+ **Type :** DLA
+
+------------------------------
+
+**2025-11-03** - **[DLA-4361-1](https://security-tracker.debian.org/tracker/DLA-4361-1)** - geographiclib
+
+**CVE(s) :**
+- **[CVE-2025-60751](https://www.cve.org/CVERecord?id=CVE-2025-60751)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** geographiclib 1.51-1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2025-11-03** - **[DLA-4360-1](https://security-tracker.debian.org/tracker/DLA-4360-1)** - pure-ftpd
+
+**CVE(s) :**
+- **[CVE-2021-40524](https://www.cve.org/CVERecord?id=CVE-2021-40524)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** pure-ftpd 1.0.49-4.1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-11-03** - **[DLA-4359-1](https://security-tracker.debian.org/tracker/DLA-4359-1)** - strongswan
 
 **CVE(s) :**
@@ -8,6 +56,25 @@
 **Debian Version :** bullseye
  **Package Version :** strongswan 5.9.1-1+deb11u5
  **Type :** DLA
+
+------------------------------
+
+**2025-11-03** - **[DSA-6048-1](https://security-tracker.debian.org/tracker/DSA-6048-1)** - ruby-rack
+
+**CVE(s) :**
+- **[CVE-2025-61770](https://www.cve.org/CVERecord?id=CVE-2025-61770)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-61771](https://www.cve.org/CVERecord?id=CVE-2025-61771)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-61772](https://www.cve.org/CVERecord?id=CVE-2025-61772)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-61780](https://www.cve.org/CVERecord?id=CVE-2025-61780)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-61919](https://www.cve.org/CVERecord?id=CVE-2025-61919)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** ruby-rack 2.2.20-0+deb12u1 	[trixie] - ruby-rack 3.1.18-1~deb13u1
+ **Type :** DSA
 
 ------------------------------
 
@@ -99,7 +166,7 @@
 
 - **[CVE-2025-0938](https://www.cve.org/CVERecord?id=CVE-2025-0938)** : 🟠 **Severity: Medium** (Score: 6.3)
 
-- **[CVE-2025-1795](https://www.cve.org/CVERecord?id=CVE-2025-1795)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-1795](https://www.cve.org/CVERecord?id=CVE-2025-1795)** : 🟠 **Severity: Medium** (Score: 2.3)
 
 - **[CVE-2025-6069](https://www.cve.org/CVERecord?id=CVE-2025-6069)** : **Severity: Unknown** (Score: N/A)
 
@@ -383,7 +450,7 @@
 
 - **[CVE-2025-22839](https://www.cve.org/CVERecord?id=CVE-2025-22839)** : 🔥 **Severity: High** (Score: 7.3)
 
-- **[CVE-2025-22840](https://www.cve.org/CVERecord?id=CVE-2025-22840)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-22840](https://www.cve.org/CVERecord?id=CVE-2025-22840)** : 🟠 **Severity: Medium** (Score: 5.3)
 
 - **[CVE-2025-22889](https://www.cve.org/CVERecord?id=CVE-2025-22889)** : 🔥 **Severity: High** (Score: 7)
 
@@ -583,7 +650,7 @@
 
 - **[CVE-2025-22839](https://www.cve.org/CVERecord?id=CVE-2025-22839)** : 🔥 **Severity: High** (Score: 7.3)
 
-- **[CVE-2025-22840](https://www.cve.org/CVERecord?id=CVE-2025-22840)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-22840](https://www.cve.org/CVERecord?id=CVE-2025-22840)** : 🟠 **Severity: Medium** (Score: 5.3)
 
 - **[CVE-2025-22889](https://www.cve.org/CVERecord?id=CVE-2025-22889)** : 🔥 **Severity: High** (Score: 7)
 
