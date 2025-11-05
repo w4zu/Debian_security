@@ -29,11 +29,11 @@
 **2025-11-03** - **[DLA-4363-1](https://security-tracker.debian.org/tracker/DLA-4363-1)** - dcmtk
 
 **CVE(s) :**
-- **[CVE-2020-36855](https://www.cve.org/CVERecord?id=CVE-2020-36855)** : 🟠 **Severity: Medium** (Score: 4.8)
+- **[CVE-2020-36855](https://www.cve.org/CVERecord?id=CVE-2020-36855)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2022-4981](https://www.cve.org/CVERecord?id=CVE-2022-4981)** : 🟠 **Severity: Medium** (Score: 4.8)
 
-- **[CVE-2025-9732](https://www.cve.org/CVERecord?id=CVE-2025-9732)** : 🟠 **Severity: Medium** (Score: 4.8)
+- **[CVE-2025-9732](https://www.cve.org/CVERecord?id=CVE-2025-9732)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** dcmtk 3.6.5-1+deb11u5
@@ -474,7 +474,7 @@
 
 - **[CVE-2025-21090](https://www.cve.org/CVERecord?id=CVE-2025-21090)** : 🟠 **Severity: Medium** (Score: 4.1)
 
-- **[CVE-2025-22839](https://www.cve.org/CVERecord?id=CVE-2025-22839)** : 🔥 **Severity: High** (Score: 7.3)
+- **[CVE-2025-22839](https://www.cve.org/CVERecord?id=CVE-2025-22839)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-22840](https://www.cve.org/CVERecord?id=CVE-2025-22840)** : 🟠 **Severity: Medium** (Score: 5.3)
 
