@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-11-05** - **[DLA-4365-1](https://security-tracker.debian.org/tracker/DLA-4365-1)** - unbound
+
+**CVE(s) :**
+- **[CVE-2025-11411](https://www.cve.org/CVERecord?id=CVE-2025-11411)** : 🟠 **Severity: Medium** (Score: 5.7)
+
+**Debian Version :** bullseye
+ **Package Version :** unbound 1.13.1-1+deb11u6
+ **Type :** DLA
+
+------------------------------
+
 **2025-11-04** - **[DLA-4364-1](https://security-tracker.debian.org/tracker/DLA-4364-1)** - bind9
 
 **CVE(s) :**
@@ -478,11 +489,11 @@
 
 - **[CVE-2025-22840](https://www.cve.org/CVERecord?id=CVE-2025-22840)** : 🟠 **Severity: Medium** (Score: 5.3)
 
-- **[CVE-2025-22889](https://www.cve.org/CVERecord?id=CVE-2025-22889)** : 🔥 **Severity: High** (Score: 7)
+- **[CVE-2025-22889](https://www.cve.org/CVERecord?id=CVE-2025-22889)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-24305](https://www.cve.org/CVERecord?id=CVE-2025-24305)** : 🔥 **Severity: High** (Score: 7)
 
-- **[CVE-2025-26403](https://www.cve.org/CVERecord?id=CVE-2025-26403)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-26403](https://www.cve.org/CVERecord?id=CVE-2025-26403)** : 🟠 **Severity: Medium** (Score: 4.5)
 
 - **[CVE-2025-32086](https://www.cve.org/CVERecord?id=CVE-2025-32086)** : 🟠 **Severity: Medium** (Score: 4.5)
 
@@ -542,43 +553,6 @@
 
 **Debian Version :** trixie
  **Package Version :** openjdk-21 21.0.9+10-1~deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2025-10-23** - **[DSA-6036-1](https://security-tracker.debian.org/tracker/DSA-6036-1)** - chromium
-
-**CVE(s) :**
-- **[CVE-2025-12036](https://www.cve.org/CVERecord?id=CVE-2025-12036)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** chromium 141.0.7390.122-1~deb12u1 	[trixie] - chromium 141.0.7390.122-1~deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2025-10-23** - **[DSA-6035-1](https://security-tracker.debian.org/tracker/DSA-6035-1)** - python-internetarchive
-
-**CVE(s) :**
-- **[CVE-2025-58438](https://www.cve.org/CVERecord?id=CVE-2025-58438)** : 🔥 **Severity: High** (Score: 9.4)
-
-**Debian Version :** bookworm
- **Package Version :** python-internetarchive 3.3.0-2~deb12u1 	[trixie] - python-internetarchive 5.4.0-2~deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2025-10-23** - **[DSA-6033-1](https://security-tracker.debian.org/tracker/DSA-6033-1)** - bind9
-
-**CVE(s) :**
-- **[CVE-2025-8677](https://www.cve.org/CVERecord?id=CVE-2025-8677)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-40778](https://www.cve.org/CVERecord?id=CVE-2025-40778)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-40780](https://www.cve.org/CVERecord?id=CVE-2025-40780)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** bind9 1:9.18.41-1~deb12u1 	[trixie] - bind9 1:9.20.15-1~deb13u1
  **Type :** DSA
 
 ------------------------------
