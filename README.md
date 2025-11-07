@@ -1,5 +1,24 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-11-07** - **[DSA-6050-1](https://security-tracker.debian.org/tracker/DSA-6050-1)** - chromium
+
+**CVE(s) :**
+- **[CVE-2025-12725](https://www.cve.org/CVERecord?id=CVE-2025-12725)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-12726](https://www.cve.org/CVERecord?id=CVE-2025-12726)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-12727](https://www.cve.org/CVERecord?id=CVE-2025-12727)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-12728](https://www.cve.org/CVERecord?id=CVE-2025-12728)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-12729](https://www.cve.org/CVERecord?id=CVE-2025-12729)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** chromium 142.0.7444.134-1~deb12u1 	[trixie] - chromium 142.0.7444.134-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-11-05** - **[DLA-4365-1](https://security-tracker.debian.org/tracker/DLA-4365-1)** - unbound
 
 **CVE(s) :**
