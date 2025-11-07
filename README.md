@@ -489,7 +489,7 @@
 
 - **[CVE-2025-22840](https://www.cve.org/CVERecord?id=CVE-2025-22840)** : 🟠 **Severity: Medium** (Score: 5.3)
 
-- **[CVE-2025-22889](https://www.cve.org/CVERecord?id=CVE-2025-22889)** : 🔥 **Severity: High** (Score: 7)
+- **[CVE-2025-22889](https://www.cve.org/CVERecord?id=CVE-2025-22889)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-24305](https://www.cve.org/CVERecord?id=CVE-2025-24305)** : 🔥 **Severity: High** (Score: 7)
 
@@ -538,21 +538,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** openjdk-17 17.0.17+10-1~deb12u1
- **Type :** DSA
-
-------------------------------
-
-**2025-10-24** - **[DSA-6037-1](https://security-tracker.debian.org/tracker/DSA-6037-1)** - openjdk-21
-
-**CVE(s) :**
-- **[CVE-2025-53057](https://www.cve.org/CVERecord?id=CVE-2025-53057)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-53066](https://www.cve.org/CVERecord?id=CVE-2025-53066)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-61748](https://www.cve.org/CVERecord?id=CVE-2025-61748)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** trixie
- **Package Version :** openjdk-21 21.0.9+10-1~deb13u1
  **Type :** DSA
 
 ------------------------------
