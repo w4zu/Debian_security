@@ -61,9 +61,9 @@
 **CVE(s) :**
 - **[CVE-2020-36855](https://www.cve.org/CVERecord?id=CVE-2020-36855)** : 🟠 **Severity: Medium** (Score: 4.8)
 
-- **[CVE-2022-4981](https://www.cve.org/CVERecord?id=CVE-2022-4981)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2022-4981](https://www.cve.org/CVERecord?id=CVE-2022-4981)** : 🟠 **Severity: Medium** (Score: 4.8)
 
-- **[CVE-2025-9732](https://www.cve.org/CVERecord?id=CVE-2025-9732)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-9732](https://www.cve.org/CVERecord?id=CVE-2025-9732)** : 🟠 **Severity: Medium** (Score: 4.8)
 
 **Debian Version :** bullseye
  **Package Version :** dcmtk 3.6.5-1+deb11u5
