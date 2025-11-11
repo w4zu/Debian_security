@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-11-10** - **[DSA-6051-1](https://security-tracker.debian.org/tracker/DSA-6051-1)** - incus
+
+**CVE(s) :**
+- **[CVE-2025-64507](https://www.cve.org/CVERecord?id=CVE-2025-64507)** : 🔥 **Severity: High** (Score: 8.6)
+
+**Debian Version :** trixie
+ **Package Version :** incus 6.0.4-2+deb13u2
+ **Type :** DSA
+
+------------------------------
+
 **2025-11-07** - **[DSA-6050-1](https://security-tracker.debian.org/tracker/DSA-6050-1)** - chromium
 
 **CVE(s) :**
@@ -350,40 +361,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** xorg-server 2:21.1.7-3+deb12u11 	[trixie] - xorg-server 2:21.1.16-1.3+deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2025-10-28** - **[DSA-6043-1](https://security-tracker.debian.org/tracker/DSA-6043-1)** - gimp
-
-**CVE(s) :**
-- **[CVE-2025-2760](https://www.cve.org/CVERecord?id=CVE-2025-2760)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-6035](https://www.cve.org/CVERecord?id=CVE-2025-6035)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-10922](https://www.cve.org/CVERecord?id=CVE-2025-10922)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** gimp 2.10.34-1+deb12u4
- **Type :** DSA
-
-------------------------------
-
-**2025-10-28** - **[DSA-6042-1](https://security-tracker.debian.org/tracker/DSA-6042-1)** - webkit2gtk
-
-**CVE(s) :**
-- **[CVE-2025-43272](https://www.cve.org/CVERecord?id=CVE-2025-43272)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-43342](https://www.cve.org/CVERecord?id=CVE-2025-43342)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-43343](https://www.cve.org/CVERecord?id=CVE-2025-43343)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-43356](https://www.cve.org/CVERecord?id=CVE-2025-43356)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-43368](https://www.cve.org/CVERecord?id=CVE-2025-43368)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** webkit2gtk 2.50.1-1~deb12u1 	[trixie] - webkit2gtk 2.50.1-1~deb13u1
  **Type :** DSA
 
 ------------------------------
