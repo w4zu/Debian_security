@@ -233,7 +233,7 @@
 **2025-11-10** - **[DSA-6051-1](https://security-tracker.debian.org/tracker/DSA-6051-1)** - incus
 
 **CVE(s) :**
-- **[CVE-2025-64507](https://www.cve.org/CVERecord?id=CVE-2025-64507)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-64507](https://www.cve.org/CVERecord?id=CVE-2025-64507)** : 🔥 **Severity: High** (Score: 8.6)
 
 **Debian Version :** trixie
  **Package Version :** incus 6.0.4-2+deb13u2
@@ -263,7 +263,7 @@
 **2025-11-05** - **[DLA-4365-1](https://security-tracker.debian.org/tracker/DLA-4365-1)** - unbound
 
 **CVE(s) :**
-- **[CVE-2025-11411](https://www.cve.org/CVERecord?id=CVE-2025-11411)** : 🟠 **Severity: Medium** (Score: 5.7)
+- **[CVE-2025-11411](https://www.cve.org/CVERecord?id=CVE-2025-11411)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** unbound 1.13.1-1+deb11u6
