@@ -1,5 +1,43 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-11-13** - **[DLA-4370-1](https://security-tracker.debian.org/tracker/DLA-4370-1)** - firefox-esr
+
+**CVE(s) :**
+- **[CVE-2025-13012](https://www.cve.org/CVERecord?id=CVE-2025-13012)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-13013](https://www.cve.org/CVERecord?id=CVE-2025-13013)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-13014](https://www.cve.org/CVERecord?id=CVE-2025-13014)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-13015](https://www.cve.org/CVERecord?id=CVE-2025-13015)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-13016](https://www.cve.org/CVERecord?id=CVE-2025-13016)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-13017](https://www.cve.org/CVERecord?id=CVE-2025-13017)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-13018](https://www.cve.org/CVERecord?id=CVE-2025-13018)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-13019](https://www.cve.org/CVERecord?id=CVE-2025-13019)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-13020](https://www.cve.org/CVERecord?id=CVE-2025-13020)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** firefox-esr 140.5.0esr-1~deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2025-11-13** - **[DSA-6055-1](https://security-tracker.debian.org/tracker/DSA-6055-1)** - chromium
+
+**CVE(s) :**
+- **[CVE-2025-13042](https://www.cve.org/CVERecord?id=CVE-2025-13042)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** chromium 142.0.7444.162-1~deb12u1 	[trixie] - chromium 142.0.7444.162-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-11-12** - **[DSA-6054-1](https://security-tracker.debian.org/tracker/DSA-6054-1)** - firefox-esr
 
 **CVE(s) :**
@@ -331,7 +369,7 @@
 
 - **[CVE-2022-4981](https://www.cve.org/CVERecord?id=CVE-2022-4981)** : 🟠 **Severity: Medium** (Score: 4.8)
 
-- **[CVE-2025-9732](https://www.cve.org/CVERecord?id=CVE-2025-9732)** : 🟠 **Severity: Medium** (Score: 4.8)
+- **[CVE-2025-9732](https://www.cve.org/CVERecord?id=CVE-2025-9732)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** dcmtk 3.6.5-1+deb11u5
