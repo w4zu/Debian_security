@@ -483,28 +483,3 @@
 
 ------------------------------
 
-**2025-11-01** - **[DLA-4357-1](https://security-tracker.debian.org/tracker/DLA-4357-1)** - ruby-rack
-
-**CVE(s) :**
-- **[CVE-2025-32441](https://www.cve.org/CVERecord?id=CVE-2025-32441)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-46727](https://www.cve.org/CVERecord?id=CVE-2025-46727)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-59830](https://www.cve.org/CVERecord?id=CVE-2025-59830)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-61770](https://www.cve.org/CVERecord?id=CVE-2025-61770)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-61771](https://www.cve.org/CVERecord?id=CVE-2025-61771)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-61772](https://www.cve.org/CVERecord?id=CVE-2025-61772)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-61780](https://www.cve.org/CVERecord?id=CVE-2025-61780)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-61919](https://www.cve.org/CVERecord?id=CVE-2025-61919)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** ruby-rack 2.1.4-3+deb11u4
- **Type :** DLA
-
-------------------------------
-
