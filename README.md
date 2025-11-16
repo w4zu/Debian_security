@@ -27,6 +27,33 @@
 
 ------------------------------
 
+**2025-11-16** - **[DSA-6059-1](https://security-tracker.debian.org/tracker/DSA-6059-1)** - thunderbird
+
+**CVE(s) :**
+- **[CVE-2025-13012](https://www.cve.org/CVERecord?id=CVE-2025-13012)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-13013](https://www.cve.org/CVERecord?id=CVE-2025-13013)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-13014](https://www.cve.org/CVERecord?id=CVE-2025-13014)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-13015](https://www.cve.org/CVERecord?id=CVE-2025-13015)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-13016](https://www.cve.org/CVERecord?id=CVE-2025-13016)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-13017](https://www.cve.org/CVERecord?id=CVE-2025-13017)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-13018](https://www.cve.org/CVERecord?id=CVE-2025-13018)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-13019](https://www.cve.org/CVERecord?id=CVE-2025-13019)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-13020](https://www.cve.org/CVERecord?id=CVE-2025-13020)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** thunderbird 1:140.5.0esr-1~deb12u1 	[trixie] - thunderbird 1:140.5.0esr-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-11-15** - **[DSA-6058-1](https://security-tracker.debian.org/tracker/DSA-6058-1)** - lasso
 
 **CVE(s) :**
@@ -87,7 +114,7 @@
 **2025-11-13** - **[DSA-6057-1](https://security-tracker.debian.org/tracker/DSA-6057-1)** - lxd
 
 **CVE(s) :**
-- **[CVE-2025-64507](https://www.cve.org/CVERecord?id=CVE-2025-64507)** : 🔥 **Severity: High** (Score: 8.6)
+- **[CVE-2025-64507](https://www.cve.org/CVERecord?id=CVE-2025-64507)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** lxd 5.0.2-5+deb12u2
@@ -366,7 +393,7 @@
 **2025-11-10** - **[DSA-6051-1](https://security-tracker.debian.org/tracker/DSA-6051-1)** - incus
 
 **CVE(s) :**
-- **[CVE-2025-64507](https://www.cve.org/CVERecord?id=CVE-2025-64507)** : 🔥 **Severity: High** (Score: 8.6)
+- **[CVE-2025-64507](https://www.cve.org/CVERecord?id=CVE-2025-64507)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** trixie
  **Package Version :** incus 6.0.4-2+deb13u2
