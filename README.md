@@ -1,5 +1,20 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-11-15** - **[DSA-6058-1](https://security-tracker.debian.org/tracker/DSA-6058-1)** - lasso
+
+**CVE(s) :**
+- **[CVE-2025-46404](https://www.cve.org/CVERecord?id=CVE-2025-46404)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-46705](https://www.cve.org/CVERecord?id=CVE-2025-46705)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-47151](https://www.cve.org/CVERecord?id=CVE-2025-47151)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** lasso 2.8.1-1+deb12u1 	[trixie] - lasso 2.8.2-9+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-11-14** - **[DLA-4371-1](https://security-tracker.debian.org/tracker/DLA-4371-1)** - gst-plugins-base1.0
 
 **CVE(s) :**
@@ -391,9 +406,9 @@
 **2025-11-03** - **[DLA-4363-1](https://security-tracker.debian.org/tracker/DLA-4363-1)** - dcmtk
 
 **CVE(s) :**
-- **[CVE-2020-36855](https://www.cve.org/CVERecord?id=CVE-2020-36855)** : 🟠 **Severity: Medium** (Score: 4.8)
+- **[CVE-2020-36855](https://www.cve.org/CVERecord?id=CVE-2020-36855)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2022-4981](https://www.cve.org/CVERecord?id=CVE-2022-4981)** : 🟠 **Severity: Medium** (Score: 4.8)
+- **[CVE-2022-4981](https://www.cve.org/CVERecord?id=CVE-2022-4981)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-9732](https://www.cve.org/CVERecord?id=CVE-2025-9732)** : 🟠 **Severity: Medium** (Score: 4.8)
 
@@ -463,23 +478,6 @@
 **Debian Version :** bookworm
  **Package Version :** ruby-rack 2.2.20-0+deb12u1 	[trixie] - ruby-rack 3.1.18-1~deb13u1
  **Type :** DSA
-
-------------------------------
-
-**2025-11-02** - **[DLA-4358-1](https://security-tracker.debian.org/tracker/DLA-4358-1)** - wordpress
-
-**CVE(s) :**
-- **[CVE-2024-6307](https://www.cve.org/CVERecord?id=CVE-2024-6307)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-31111](https://www.cve.org/CVERecord?id=CVE-2024-31111)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-58246](https://www.cve.org/CVERecord?id=CVE-2025-58246)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-58674](https://www.cve.org/CVERecord?id=CVE-2025-58674)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** wordpress 5.7.14+dfsg1-0+deb11u1
- **Type :** DLA
 
 ------------------------------
 
