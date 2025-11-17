@@ -114,7 +114,7 @@
 **2025-11-13** - **[DSA-6057-1](https://security-tracker.debian.org/tracker/DSA-6057-1)** - lxd
 
 **CVE(s) :**
-- **[CVE-2025-64507](https://www.cve.org/CVERecord?id=CVE-2025-64507)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-64507](https://www.cve.org/CVERecord?id=CVE-2025-64507)** : 🔥 **Severity: High** (Score: 8.6)
 
 **Debian Version :** bookworm
  **Package Version :** lxd 5.0.2-5+deb12u2
@@ -393,7 +393,7 @@
 **2025-11-10** - **[DSA-6051-1](https://security-tracker.debian.org/tracker/DSA-6051-1)** - incus
 
 **CVE(s) :**
-- **[CVE-2025-64507](https://www.cve.org/CVERecord?id=CVE-2025-64507)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-64507](https://www.cve.org/CVERecord?id=CVE-2025-64507)** : 🔥 **Severity: High** (Score: 8.6)
 
 **Debian Version :** trixie
  **Package Version :** incus 6.0.4-2+deb13u2
@@ -453,84 +453,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** gimp 2.10.34-1+deb12u5 	[trixie] - gimp 3.0.4-3+deb13u2
- **Type :** DSA
-
-------------------------------
-
-**2025-11-03** - **[DLA-4363-1](https://security-tracker.debian.org/tracker/DLA-4363-1)** - dcmtk
-
-**CVE(s) :**
-- **[CVE-2020-36855](https://www.cve.org/CVERecord?id=CVE-2020-36855)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2022-4981](https://www.cve.org/CVERecord?id=CVE-2022-4981)** : 🟠 **Severity: Medium** (Score: 4.8)
-
-- **[CVE-2025-9732](https://www.cve.org/CVERecord?id=CVE-2025-9732)** : 🟠 **Severity: Medium** (Score: 4.8)
-
-**Debian Version :** bullseye
- **Package Version :** dcmtk 3.6.5-1+deb11u5
- **Type :** DLA
-
-------------------------------
-
-**2025-11-03** - **[DLA-4362-1](https://security-tracker.debian.org/tracker/DLA-4362-1)** - gimp
-
-**CVE(s) :**
-- **[CVE-2025-10934](https://www.cve.org/CVERecord?id=CVE-2025-10934)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** gimp 2.10.22-4+deb11u4
- **Type :** DLA
-
-------------------------------
-
-**2025-11-03** - **[DLA-4361-1](https://security-tracker.debian.org/tracker/DLA-4361-1)** - geographiclib
-
-**CVE(s) :**
-- **[CVE-2025-60751](https://www.cve.org/CVERecord?id=CVE-2025-60751)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** geographiclib 1.51-1+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-11-03** - **[DLA-4360-1](https://security-tracker.debian.org/tracker/DLA-4360-1)** - pure-ftpd
-
-**CVE(s) :**
-- **[CVE-2021-40524](https://www.cve.org/CVERecord?id=CVE-2021-40524)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** pure-ftpd 1.0.49-4.1+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-11-03** - **[DLA-4359-1](https://security-tracker.debian.org/tracker/DLA-4359-1)** - strongswan
-
-**CVE(s) :**
-- **[CVE-2025-62291](https://www.cve.org/CVERecord?id=CVE-2025-62291)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** strongswan 5.9.1-1+deb11u5
- **Type :** DLA
-
-------------------------------
-
-**2025-11-03** - **[DSA-6048-1](https://security-tracker.debian.org/tracker/DSA-6048-1)** - ruby-rack
-
-**CVE(s) :**
-- **[CVE-2025-61770](https://www.cve.org/CVERecord?id=CVE-2025-61770)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-61771](https://www.cve.org/CVERecord?id=CVE-2025-61771)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-61772](https://www.cve.org/CVERecord?id=CVE-2025-61772)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-61780](https://www.cve.org/CVERecord?id=CVE-2025-61780)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-61919](https://www.cve.org/CVERecord?id=CVE-2025-61919)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** ruby-rack 2.2.20-0+deb12u1 	[trixie] - ruby-rack 3.1.18-1~deb13u1
  **Type :** DSA
 
 ------------------------------
