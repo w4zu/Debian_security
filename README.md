@@ -122,6 +122,17 @@
 
 ------------------------------
 
+**2025-11-13** - **[DSA-6056-1](https://security-tracker.debian.org/tracker/DSA-6056-1)** - keystone
+
+**CVE(s) :**
+- **[CVE-2025-65073](https://www.cve.org/CVERecord?id=CVE-2025-65073)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** keystone 2:22.0.2-0+deb12u1 	[trixie] - keystone 2:27.0.0-3+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-11-13** - **[DSA-6055-1](https://security-tracker.debian.org/tracker/DSA-6055-1)** - chromium
 
 **CVE(s) :**
@@ -398,6 +409,17 @@
 **Debian Version :** trixie
  **Package Version :** incus 6.0.4-2+deb13u2
  **Type :** DSA
+
+------------------------------
+
+**2025-11-07** - **[DLA-4367-1](https://security-tracker.debian.org/tracker/DLA-4367-1)** - keystone
+
+**CVE(s) :**
+- **[CVE-2025-65073](https://www.cve.org/CVERecord?id=CVE-2025-65073)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** keystone 2:18.1.0-1+deb11u2
+ **Type :** DLA
 
 ------------------------------
 
