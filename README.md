@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-11-17** - **[DLA-4373-1](https://security-tracker.debian.org/tracker/DLA-4373-1)** - libwebsockets
+
+**CVE(s) :**
+- **[CVE-2025-11677](https://www.cve.org/CVERecord?id=CVE-2025-11677)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+- **[CVE-2025-11678](https://www.cve.org/CVERecord?id=CVE-2025-11678)** : 🔥 **Severity: High** (Score: 7.5)
+
+**Debian Version :** bullseye
+ **Package Version :** libwebsockets 4.0.20-2+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-11-16** - **[DLA-4372-1](https://security-tracker.debian.org/tracker/DLA-4372-1)** - thunderbird
 
 **CVE(s) :**
@@ -450,32 +463,6 @@
 **Debian Version :** bullseye
  **Package Version :** unbound 1.13.1-1+deb11u6
  **Type :** DLA
-
-------------------------------
-
-**2025-11-04** - **[DLA-4364-1](https://security-tracker.debian.org/tracker/DLA-4364-1)** - bind9
-
-**CVE(s) :**
-- **[CVE-2025-8677](https://www.cve.org/CVERecord?id=CVE-2025-8677)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-40778](https://www.cve.org/CVERecord?id=CVE-2025-40778)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-40780](https://www.cve.org/CVERecord?id=CVE-2025-40780)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** bind9 1:9.16.50-1~deb11u4
- **Type :** DLA
-
-------------------------------
-
-**2025-11-04** - **[DSA-6049-1](https://security-tracker.debian.org/tracker/DSA-6049-1)** - gimp
-
-**CVE(s) :**
-- **[CVE-2025-10934](https://www.cve.org/CVERecord?id=CVE-2025-10934)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** gimp 2.10.34-1+deb12u5 	[trixie] - gimp 3.0.4-3+deb13u2
- **Type :** DSA
 
 ------------------------------
 
