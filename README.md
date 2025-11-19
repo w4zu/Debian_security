@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-11-18** - **[DLA-4374-1](https://security-tracker.debian.org/tracker/DLA-4374-1)** - pdfminer
+
+**CVE(s) :**
+- **[CVE-2025-64512](https://www.cve.org/CVERecord?id=CVE-2025-64512)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** pdfminer 20200726-1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-11-17** - **[DLA-4373-1](https://security-tracker.debian.org/tracker/DLA-4373-1)** - libwebsockets
 
 **CVE(s) :**
@@ -452,17 +463,6 @@
 **Debian Version :** bookworm
  **Package Version :** chromium 142.0.7444.134-1~deb12u1 	[trixie] - chromium 142.0.7444.134-1~deb13u1
  **Type :** DSA
-
-------------------------------
-
-**2025-11-05** - **[DLA-4365-1](https://security-tracker.debian.org/tracker/DLA-4365-1)** - unbound
-
-**CVE(s) :**
-- **[CVE-2025-11411](https://www.cve.org/CVERecord?id=CVE-2025-11411)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** unbound 1.13.1-1+deb11u6
- **Type :** DLA
 
 ------------------------------
 
