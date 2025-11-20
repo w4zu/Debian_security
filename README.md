@@ -1,5 +1,24 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-11-20** - **[DLA-4375-1](https://security-tracker.debian.org/tracker/DLA-4375-1)** - webkit2gtk
+
+**CVE(s) :**
+- **[CVE-2025-43272](https://www.cve.org/CVERecord?id=CVE-2025-43272)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43342](https://www.cve.org/CVERecord?id=CVE-2025-43342)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43343](https://www.cve.org/CVERecord?id=CVE-2025-43343)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43356](https://www.cve.org/CVERecord?id=CVE-2025-43356)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43368](https://www.cve.org/CVERecord?id=CVE-2025-43368)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** webkit2gtk 2.50.1-1~deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-11-19** - **[DSA-6060-1](https://security-tracker.debian.org/tracker/DSA-6060-1)** - chromium
 
 **CVE(s) :**
