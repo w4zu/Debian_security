@@ -48,7 +48,7 @@
 **CVE(s) :**
 - **[CVE-2025-11677](https://www.cve.org/CVERecord?id=CVE-2025-11677)** : 🟠 **Severity: Medium** (Score: 6.3)
 
-- **[CVE-2025-11678](https://www.cve.org/CVERecord?id=CVE-2025-11678)** : 🔥 **Severity: High** (Score: 7.5)
+- **[CVE-2025-11678](https://www.cve.org/CVERecord?id=CVE-2025-11678)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** libwebsockets 4.0.20-2+deb11u1
