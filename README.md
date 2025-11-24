@@ -1,5 +1,22 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-11-24** - **[DLA-4376-1](https://security-tracker.debian.org/tracker/DLA-4376-1)** - erlang
+
+**CVE(s) :**
+- **[CVE-2025-4748](https://www.cve.org/CVERecord?id=CVE-2025-4748)** : 🟠 **Severity: Medium** (Score: 4.8)
+
+- **[CVE-2025-48038](https://www.cve.org/CVERecord?id=CVE-2025-48038)** : 🟠 **Severity: Medium** (Score: 5.3)
+
+- **[CVE-2025-48039](https://www.cve.org/CVERecord?id=CVE-2025-48039)** : 🟠 **Severity: Medium** (Score: 5.3)
+
+- **[CVE-2025-48041](https://www.cve.org/CVERecord?id=CVE-2025-48041)** : 🔥 **Severity: High** (Score: 7.1)
+
+**Debian Version :** bullseye
+ **Package Version :** erlang 1:23.2.6+dfsg-1+deb11u3
+ **Type :** DLA
+
+------------------------------
+
 **2025-11-20** - **[DLA-4375-1](https://security-tracker.debian.org/tracker/DLA-4375-1)** - webkit2gtk
 
 **CVE(s) :**
