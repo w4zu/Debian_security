@@ -48,7 +48,7 @@
 **CVE(s) :**
 - **[CVE-2025-11677](https://www.cve.org/CVERecord?id=CVE-2025-11677)** : 🟠 **Severity: Medium** (Score: 6.3)
 
-- **[CVE-2025-11678](https://www.cve.org/CVERecord?id=CVE-2025-11678)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-11678](https://www.cve.org/CVERecord?id=CVE-2025-11678)** : 🔥 **Severity: High** (Score: 7.5)
 
 **Debian Version :** bullseye
  **Package Version :** libwebsockets 4.0.20-2+deb11u1
@@ -453,17 +453,6 @@
 
 **Debian Version :** trixie
  **Package Version :** rust-sudo-rs 0.2.5-5+deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2025-11-10** - **[DSA-6051-1](https://security-tracker.debian.org/tracker/DSA-6051-1)** - incus
-
-**CVE(s) :**
-- **[CVE-2025-64507](https://www.cve.org/CVERecord?id=CVE-2025-64507)** : 🔥 **Severity: High** (Score: 8.6)
-
-**Debian Version :** trixie
- **Package Version :** incus 6.0.4-2+deb13u2
  **Type :** DSA
 
 ------------------------------
