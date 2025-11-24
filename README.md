@@ -170,7 +170,7 @@
 **2025-11-13** - **[DSA-6057-1](https://security-tracker.debian.org/tracker/DSA-6057-1)** - lxd
 
 **CVE(s) :**
-- **[CVE-2025-64507](https://www.cve.org/CVERecord?id=CVE-2025-64507)** : 🔥 **Severity: High** (Score: 8.6)
+- **[CVE-2025-64507](https://www.cve.org/CVERecord?id=CVE-2025-64507)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** lxd 5.0.2-5+deb12u2
