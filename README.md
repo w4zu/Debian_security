@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-11-25** - **[DLA-4378-1](https://security-tracker.debian.org/tracker/DLA-4378-1)** - r-cran-gh
+
+**CVE(s) :**
+- **[CVE-2025-54956](https://www.cve.org/CVERecord?id=CVE-2025-54956)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** r-cran-gh 1.2.0-1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-11-24** - **[DLA-4377-1](https://security-tracker.debian.org/tracker/DLA-4377-1)** - python-gevent
 
 **CVE(s) :**
@@ -16,7 +27,7 @@
 **CVE(s) :**
 - **[CVE-2025-4748](https://www.cve.org/CVERecord?id=CVE-2025-4748)** : 🟠 **Severity: Medium** (Score: 4.8)
 
-- **[CVE-2025-48038](https://www.cve.org/CVERecord?id=CVE-2025-48038)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-48038](https://www.cve.org/CVERecord?id=CVE-2025-48038)** : 🟠 **Severity: Medium** (Score: 5.3)
 
 - **[CVE-2025-48039](https://www.cve.org/CVERecord?id=CVE-2025-48039)** : 🟠 **Severity: Medium** (Score: 5.3)
 
@@ -198,7 +209,7 @@
 **2025-11-13** - **[DSA-6057-1](https://security-tracker.debian.org/tracker/DSA-6057-1)** - lxd
 
 **CVE(s) :**
-- **[CVE-2025-64507](https://www.cve.org/CVERecord?id=CVE-2025-64507)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-64507](https://www.cve.org/CVERecord?id=CVE-2025-64507)** : 🔥 **Severity: High** (Score: 8.6)
 
 **Debian Version :** bookworm
  **Package Version :** lxd 5.0.2-5+deb12u2
