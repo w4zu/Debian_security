@@ -1,5 +1,27 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-11-26** - **[DLA-4384-1](https://security-tracker.debian.org/tracker/DLA-4384-1)** - samba
+
+**CVE(s) :**
+- **[CVE-2025-9640](https://www.cve.org/CVERecord?id=CVE-2025-9640)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** samba 2:4.13.13+dfsg-1~deb11u7
+ **Type :** DLA
+
+------------------------------
+
+**2025-11-26** - **[DSA-6063-1](https://security-tracker.debian.org/tracker/DSA-6063-1)** - kdeconnect
+
+**CVE(s) :**
+- **[CVE-2025-66270](https://www.cve.org/CVERecord?id=CVE-2025-66270)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** kdeconnect 25.04.2-1+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-11-25** - **[DLA-4383-1](https://security-tracker.debian.org/tracker/DLA-4383-1)** - rails
 
 **CVE(s) :**
@@ -367,7 +389,7 @@
 **CVE(s) :**
 - **[CVE-2025-4748](https://www.cve.org/CVERecord?id=CVE-2025-4748)** : 🟠 **Severity: Medium** (Score: 4.8)
 
-- **[CVE-2025-48038](https://www.cve.org/CVERecord?id=CVE-2025-48038)** : 🟠 **Severity: Medium** (Score: 5.3)
+- **[CVE-2025-48038](https://www.cve.org/CVERecord?id=CVE-2025-48038)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-48039](https://www.cve.org/CVERecord?id=CVE-2025-48039)** : 🟠 **Severity: Medium** (Score: 5.3)
 
@@ -516,66 +538,6 @@
 **Debian Version :** bullseye
  **Package Version :** gst-plugins-base1.0 1.18.4-2+deb11u4
  **Type :** DLA
-
-------------------------------
-
-**2025-11-13** - **[DLA-4370-1](https://security-tracker.debian.org/tracker/DLA-4370-1)** - firefox-esr
-
-**CVE(s) :**
-- **[CVE-2025-13012](https://www.cve.org/CVERecord?id=CVE-2025-13012)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-13013](https://www.cve.org/CVERecord?id=CVE-2025-13013)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-13014](https://www.cve.org/CVERecord?id=CVE-2025-13014)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-13015](https://www.cve.org/CVERecord?id=CVE-2025-13015)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-13016](https://www.cve.org/CVERecord?id=CVE-2025-13016)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-13017](https://www.cve.org/CVERecord?id=CVE-2025-13017)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-13018](https://www.cve.org/CVERecord?id=CVE-2025-13018)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-13019](https://www.cve.org/CVERecord?id=CVE-2025-13019)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-13020](https://www.cve.org/CVERecord?id=CVE-2025-13020)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** firefox-esr 140.5.0esr-1~deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-11-13** - **[DSA-6057-1](https://security-tracker.debian.org/tracker/DSA-6057-1)** - lxd
-
-**CVE(s) :**
-- **[CVE-2025-64507](https://www.cve.org/CVERecord?id=CVE-2025-64507)** : 🔥 **Severity: High** (Score: 8.6)
-
-**Debian Version :** bookworm
- **Package Version :** lxd 5.0.2-5+deb12u2
- **Type :** DSA
-
-------------------------------
-
-**2025-11-13** - **[DSA-6056-1](https://security-tracker.debian.org/tracker/DSA-6056-1)** - keystone
-
-**CVE(s) :**
-- **[CVE-2025-65073](https://www.cve.org/CVERecord?id=CVE-2025-65073)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** keystone 2:22.0.2-0+deb12u1 	[trixie] - keystone 2:27.0.0-3+deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2025-11-13** - **[DSA-6055-1](https://security-tracker.debian.org/tracker/DSA-6055-1)** - chromium
-
-**CVE(s) :**
-- **[CVE-2025-13042](https://www.cve.org/CVERecord?id=CVE-2025-13042)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** chromium 142.0.7444.162-1~deb12u1 	[trixie] - chromium 142.0.7444.162-1~deb13u1
- **Type :** DSA
 
 ------------------------------
 
