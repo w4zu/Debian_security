@@ -1,5 +1,26 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-11-27** - **[DLA-4385-1](https://security-tracker.debian.org/tracker/DLA-4385-1)** - libssh
+
+**CVE(s) :**
+- **[CVE-2025-4877](https://www.cve.org/CVERecord?id=CVE-2025-4877)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-4878](https://www.cve.org/CVERecord?id=CVE-2025-4878)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-5318](https://www.cve.org/CVERecord?id=CVE-2025-5318)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-5372](https://www.cve.org/CVERecord?id=CVE-2025-5372)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-8114](https://www.cve.org/CVERecord?id=CVE-2025-8114)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-8277](https://www.cve.org/CVERecord?id=CVE-2025-8277)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** libssh 0.9.8-0+deb11u2
+ **Type :** DLA
+
+------------------------------
+
 **2025-11-26** - **[DLA-4384-1](https://security-tracker.debian.org/tracker/DLA-4384-1)** - samba
 
 **CVE(s) :**
@@ -35,7 +56,7 @@
 
 - **[CVE-2024-47887](https://www.cve.org/CVERecord?id=CVE-2024-47887)** : 🟠 **Severity: Medium** (Score: 6.6)
 
-- **[CVE-2024-47888](https://www.cve.org/CVERecord?id=CVE-2024-47888)** : 🟠 **Severity: Medium** (Score: 6.6)
+- **[CVE-2024-47888](https://www.cve.org/CVERecord?id=CVE-2024-47888)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-47889](https://www.cve.org/CVERecord?id=CVE-2024-47889)** : 🟠 **Severity: Medium** (Score: 6.6)
 
@@ -391,7 +412,7 @@
 
 - **[CVE-2025-48038](https://www.cve.org/CVERecord?id=CVE-2025-48038)** : 🟠 **Severity: Medium** (Score: 5.3)
 
-- **[CVE-2025-48039](https://www.cve.org/CVERecord?id=CVE-2025-48039)** : 🟠 **Severity: Medium** (Score: 5.3)
+- **[CVE-2025-48039](https://www.cve.org/CVERecord?id=CVE-2025-48039)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-48041](https://www.cve.org/CVERecord?id=CVE-2025-48041)** : 🔥 **Severity: High** (Score: 7.1)
 
