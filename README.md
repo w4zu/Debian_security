@@ -389,7 +389,7 @@
 **CVE(s) :**
 - **[CVE-2025-4748](https://www.cve.org/CVERecord?id=CVE-2025-4748)** : 🟠 **Severity: Medium** (Score: 4.8)
 
-- **[CVE-2025-48038](https://www.cve.org/CVERecord?id=CVE-2025-48038)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-48038](https://www.cve.org/CVERecord?id=CVE-2025-48038)** : 🟠 **Severity: Medium** (Score: 5.3)
 
 - **[CVE-2025-48039](https://www.cve.org/CVERecord?id=CVE-2025-48039)** : 🟠 **Severity: Medium** (Score: 5.3)
 
