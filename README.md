@@ -425,7 +425,7 @@
 
 - **[CVE-2025-48039](https://www.cve.org/CVERecord?id=CVE-2025-48039)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-48041](https://www.cve.org/CVERecord?id=CVE-2025-48041)** : 🔥 **Severity: High** (Score: 7.1)
+- **[CVE-2025-48041](https://www.cve.org/CVERecord?id=CVE-2025-48041)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** erlang 1:23.2.6+dfsg-1+deb11u3
