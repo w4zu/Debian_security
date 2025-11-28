@@ -21,6 +21,17 @@
 
 ------------------------------
 
+**2025-11-27** - **[DSA-6065-1](https://security-tracker.debian.org/tracker/DSA-6065-1)** - krita
+
+**CVE(s) :**
+- **[CVE-2025-59820](https://www.cve.org/CVERecord?id=CVE-2025-59820)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** krita 1:5.1.5+dfsg-2+deb12u1 	[trixie] - krita 1:5.2.9+dfsg-1+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-11-26** - **[DLA-4384-1](https://security-tracker.debian.org/tracker/DLA-4384-1)** - samba
 
 **CVE(s) :**
@@ -54,7 +65,7 @@
 
 - **[CVE-2024-41128](https://www.cve.org/CVERecord?id=CVE-2024-41128)** : 🟠 **Severity: Medium** (Score: 6.6)
 
-- **[CVE-2024-47887](https://www.cve.org/CVERecord?id=CVE-2024-47887)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47887](https://www.cve.org/CVERecord?id=CVE-2024-47887)** : 🟠 **Severity: Medium** (Score: 6.6)
 
 - **[CVE-2024-47888](https://www.cve.org/CVERecord?id=CVE-2024-47888)** : 🟠 **Severity: Medium** (Score: 6.6)
 
@@ -408,11 +419,11 @@
 **2025-11-24** - **[DLA-4376-1](https://security-tracker.debian.org/tracker/DLA-4376-1)** - erlang
 
 **CVE(s) :**
-- **[CVE-2025-4748](https://www.cve.org/CVERecord?id=CVE-2025-4748)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-4748](https://www.cve.org/CVERecord?id=CVE-2025-4748)** : 🟠 **Severity: Medium** (Score: 4.8)
 
 - **[CVE-2025-48038](https://www.cve.org/CVERecord?id=CVE-2025-48038)** : 🟠 **Severity: Medium** (Score: 5.3)
 
-- **[CVE-2025-48039](https://www.cve.org/CVERecord?id=CVE-2025-48039)** : 🟠 **Severity: Medium** (Score: 5.3)
+- **[CVE-2025-48039](https://www.cve.org/CVERecord?id=CVE-2025-48039)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-48041](https://www.cve.org/CVERecord?id=CVE-2025-48041)** : 🔥 **Severity: High** (Score: 7.1)
 
@@ -544,21 +555,6 @@
 **Debian Version :** bookworm
  **Package Version :** lasso 2.8.1-1+deb12u1 	[trixie] - lasso 2.8.2-9+deb13u1
  **Type :** DSA
-
-------------------------------
-
-**2025-11-14** - **[DLA-4371-1](https://security-tracker.debian.org/tracker/DLA-4371-1)** - gst-plugins-base1.0
-
-**CVE(s) :**
-- **[CVE-2025-47806](https://www.cve.org/CVERecord?id=CVE-2025-47806)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-47807](https://www.cve.org/CVERecord?id=CVE-2025-47807)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-47808](https://www.cve.org/CVERecord?id=CVE-2025-47808)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** gst-plugins-base1.0 1.18.4-2+deb11u4
- **Type :** DLA
 
 ------------------------------
 
