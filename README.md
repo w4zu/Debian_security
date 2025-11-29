@@ -76,7 +76,7 @@
 
 - **[CVE-2024-41128](https://www.cve.org/CVERecord?id=CVE-2024-41128)** : 🟠 **Severity: Medium** (Score: 6.6)
 
-- **[CVE-2024-47887](https://www.cve.org/CVERecord?id=CVE-2024-47887)** : 🟠 **Severity: Medium** (Score: 6.6)
+- **[CVE-2024-47887](https://www.cve.org/CVERecord?id=CVE-2024-47887)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-47888](https://www.cve.org/CVERecord?id=CVE-2024-47888)** : 🟠 **Severity: Medium** (Score: 6.6)
 
@@ -432,11 +432,11 @@
 **CVE(s) :**
 - **[CVE-2025-4748](https://www.cve.org/CVERecord?id=CVE-2025-4748)** : 🟠 **Severity: Medium** (Score: 4.8)
 
-- **[CVE-2025-48038](https://www.cve.org/CVERecord?id=CVE-2025-48038)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-48038](https://www.cve.org/CVERecord?id=CVE-2025-48038)** : 🟠 **Severity: Medium** (Score: 5.3)
 
 - **[CVE-2025-48039](https://www.cve.org/CVERecord?id=CVE-2025-48039)** : 🟠 **Severity: Medium** (Score: 5.3)
 
-- **[CVE-2025-48041](https://www.cve.org/CVERecord?id=CVE-2025-48041)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-48041](https://www.cve.org/CVERecord?id=CVE-2025-48041)** : 🔥 **Severity: High** (Score: 7.1)
 
 **Debian Version :** bullseye
  **Package Version :** erlang 1:23.2.6+dfsg-1+deb11u3
@@ -550,21 +550,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** thunderbird 1:140.5.0esr-1~deb12u1 	[trixie] - thunderbird 1:140.5.0esr-1~deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2025-11-15** - **[DSA-6058-1](https://security-tracker.debian.org/tracker/DSA-6058-1)** - lasso
-
-**CVE(s) :**
-- **[CVE-2025-46404](https://www.cve.org/CVERecord?id=CVE-2025-46404)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-46705](https://www.cve.org/CVERecord?id=CVE-2025-46705)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-47151](https://www.cve.org/CVERecord?id=CVE-2025-47151)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** lasso 2.8.1-1+deb12u1 	[trixie] - lasso 2.8.2-9+deb13u1
  **Type :** DSA
 
 ------------------------------
