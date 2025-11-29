@@ -76,13 +76,13 @@
 
 - **[CVE-2024-41128](https://www.cve.org/CVERecord?id=CVE-2024-41128)** : 🟠 **Severity: Medium** (Score: 6.6)
 
-- **[CVE-2024-47887](https://www.cve.org/CVERecord?id=CVE-2024-47887)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47887](https://www.cve.org/CVERecord?id=CVE-2024-47887)** : 🟠 **Severity: Medium** (Score: 6.6)
 
 - **[CVE-2024-47888](https://www.cve.org/CVERecord?id=CVE-2024-47888)** : 🟠 **Severity: Medium** (Score: 6.6)
 
 - **[CVE-2024-47889](https://www.cve.org/CVERecord?id=CVE-2024-47889)** : 🟠 **Severity: Medium** (Score: 6.6)
 
-- **[CVE-2024-54133](https://www.cve.org/CVERecord?id=CVE-2024-54133)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-54133](https://www.cve.org/CVERecord?id=CVE-2024-54133)** : 🟠 **Severity: Medium** (Score: 2.3)
 
 **Debian Version :** bullseye
  **Package Version :** rails 2:6.0.3.7+dfsg-2+deb11u3
