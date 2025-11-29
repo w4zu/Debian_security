@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-11-29** - **[DLA-4387-1](https://security-tracker.debian.org/tracker/DLA-4387-1)** - qtbase-opensource-src
+
+**CVE(s) :**
+- **[CVE-2024-39936](https://www.cve.org/CVERecord?id=CVE-2024-39936)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** qtbase-opensource-src 5.15.2+dfsg-9+deb11u2
+ **Type :** DLA
+
+------------------------------
+
 **2025-11-28** - **[DLA-4386-1](https://security-tracker.debian.org/tracker/DLA-4386-1)** - sogo
 
 **CVE(s) :**
@@ -76,7 +87,7 @@
 
 - **[CVE-2024-41128](https://www.cve.org/CVERecord?id=CVE-2024-41128)** : 🟠 **Severity: Medium** (Score: 6.6)
 
-- **[CVE-2024-47887](https://www.cve.org/CVERecord?id=CVE-2024-47887)** : 🟠 **Severity: Medium** (Score: 6.6)
+- **[CVE-2024-47887](https://www.cve.org/CVERecord?id=CVE-2024-47887)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-47888](https://www.cve.org/CVERecord?id=CVE-2024-47888)** : 🟠 **Severity: Medium** (Score: 6.6)
 
