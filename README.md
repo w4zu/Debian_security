@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-11-29** - **[DLA-4388-1](https://security-tracker.debian.org/tracker/DLA-4388-1)** - tryton-server
+
+**CVE(s) :**
+- **[CVE-2025-66422](https://www.cve.org/CVERecord?id=CVE-2025-66422)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-66424](https://www.cve.org/CVERecord?id=CVE-2025-66424)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** tryton-server 5.0.33-2+deb11u4
+ **Type :** DLA
+
+------------------------------
+
 **2025-11-29** - **[DLA-4387-1](https://security-tracker.debian.org/tracker/DLA-4387-1)** - qtbase-opensource-src
 
 **CVE(s) :**
@@ -50,6 +63,21 @@
 
 **Debian Version :** bookworm
  **Package Version :** krita 1:5.1.5+dfsg-2+deb12u1 	[trixie] - krita 1:5.2.9+dfsg-1+deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2025-11-27** - **[DSA-6064-1](https://security-tracker.debian.org/tracker/DSA-6064-1)** - tryton-server
+
+**CVE(s) :**
+- **[CVE-2025-66422](https://www.cve.org/CVERecord?id=CVE-2025-66422)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-66423](https://www.cve.org/CVERecord?id=CVE-2025-66423)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-66424](https://www.cve.org/CVERecord?id=CVE-2025-66424)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** tryton-server 6.0.29-2+deb12u4 	[trixie] - tryton-server 7.0.30-1+deb13u1
  **Type :** DSA
 
 ------------------------------
@@ -427,6 +455,17 @@
 
 ------------------------------
 
+**2025-11-25** - **[DSA-6061-1](https://security-tracker.debian.org/tracker/DSA-6061-1)** - tryton-sao
+
+**CVE(s) :**
+- **[CVE-2025-66421](https://www.cve.org/CVERecord?id=CVE-2025-66421)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** tryton-sao 6.0.28+ds1-2+deb12u2 	[trixie] - tryton-sao 7.0.28+ds1-1+deb13u2
+ **Type :** DSA
+
+------------------------------
+
 **2025-11-24** - **[DLA-4377-1](https://security-tracker.debian.org/tracker/DLA-4377-1)** - python-gevent
 
 **CVE(s) :**
@@ -443,7 +482,7 @@
 **CVE(s) :**
 - **[CVE-2025-4748](https://www.cve.org/CVERecord?id=CVE-2025-4748)** : 🟠 **Severity: Medium** (Score: 4.8)
 
-- **[CVE-2025-48038](https://www.cve.org/CVERecord?id=CVE-2025-48038)** : 🟠 **Severity: Medium** (Score: 5.3)
+- **[CVE-2025-48038](https://www.cve.org/CVERecord?id=CVE-2025-48038)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-48039](https://www.cve.org/CVERecord?id=CVE-2025-48039)** : 🟠 **Severity: Medium** (Score: 5.3)
 
