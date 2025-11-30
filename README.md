@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-11-30** - **[DSA-6066-1](https://security-tracker.debian.org/tracker/DSA-6066-1)** - gnome-shell-extension-gsconnect
+
+**CVE(s) :**
+- **[CVE-2025-66270](https://www.cve.org/CVERecord?id=CVE-2025-66270)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** gnome-shell-extension-gsconnect 62-1+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-11-29** - **[DLA-4388-1](https://security-tracker.debian.org/tracker/DLA-4388-1)** - tryton-server
 
 **CVE(s) :**
@@ -115,7 +126,7 @@
 
 - **[CVE-2024-41128](https://www.cve.org/CVERecord?id=CVE-2024-41128)** : 🟠 **Severity: Medium** (Score: 6.6)
 
-- **[CVE-2024-47887](https://www.cve.org/CVERecord?id=CVE-2024-47887)** : 🟠 **Severity: Medium** (Score: 6.6)
+- **[CVE-2024-47887](https://www.cve.org/CVERecord?id=CVE-2024-47887)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-47888](https://www.cve.org/CVERecord?id=CVE-2024-47888)** : 🟠 **Severity: Medium** (Score: 6.6)
 
@@ -482,7 +493,7 @@
 **CVE(s) :**
 - **[CVE-2025-4748](https://www.cve.org/CVERecord?id=CVE-2025-4748)** : 🟠 **Severity: Medium** (Score: 4.8)
 
-- **[CVE-2025-48038](https://www.cve.org/CVERecord?id=CVE-2025-48038)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-48038](https://www.cve.org/CVERecord?id=CVE-2025-48038)** : 🟠 **Severity: Medium** (Score: 5.3)
 
 - **[CVE-2025-48039](https://www.cve.org/CVERecord?id=CVE-2025-48039)** : 🟠 **Severity: Medium** (Score: 5.3)
 
