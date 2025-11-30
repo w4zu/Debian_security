@@ -91,7 +91,7 @@
 
 - **[CVE-2024-47888](https://www.cve.org/CVERecord?id=CVE-2024-47888)** : 🟠 **Severity: Medium** (Score: 6.6)
 
-- **[CVE-2024-47889](https://www.cve.org/CVERecord?id=CVE-2024-47889)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47889](https://www.cve.org/CVERecord?id=CVE-2024-47889)** : 🟠 **Severity: Medium** (Score: 6.6)
 
 - **[CVE-2024-54133](https://www.cve.org/CVERecord?id=CVE-2024-54133)** : 🟠 **Severity: Medium** (Score: 2.3)
 
@@ -508,60 +508,6 @@
 **Debian Version :** bullseye
  **Package Version :** libwebsockets 4.0.20-2+deb11u1
  **Type :** DLA
-
-------------------------------
-
-**2025-11-16** - **[DLA-4372-1](https://security-tracker.debian.org/tracker/DLA-4372-1)** - thunderbird
-
-**CVE(s) :**
-- **[CVE-2025-13012](https://www.cve.org/CVERecord?id=CVE-2025-13012)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-13013](https://www.cve.org/CVERecord?id=CVE-2025-13013)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-13014](https://www.cve.org/CVERecord?id=CVE-2025-13014)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-13015](https://www.cve.org/CVERecord?id=CVE-2025-13015)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-13016](https://www.cve.org/CVERecord?id=CVE-2025-13016)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-13017](https://www.cve.org/CVERecord?id=CVE-2025-13017)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-13018](https://www.cve.org/CVERecord?id=CVE-2025-13018)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-13019](https://www.cve.org/CVERecord?id=CVE-2025-13019)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-13020](https://www.cve.org/CVERecord?id=CVE-2025-13020)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** thunderbird 1:140.5.0esr-1~deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-11-16** - **[DSA-6059-1](https://security-tracker.debian.org/tracker/DSA-6059-1)** - thunderbird
-
-**CVE(s) :**
-- **[CVE-2025-13012](https://www.cve.org/CVERecord?id=CVE-2025-13012)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-13013](https://www.cve.org/CVERecord?id=CVE-2025-13013)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-13014](https://www.cve.org/CVERecord?id=CVE-2025-13014)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-13015](https://www.cve.org/CVERecord?id=CVE-2025-13015)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-13016](https://www.cve.org/CVERecord?id=CVE-2025-13016)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-13017](https://www.cve.org/CVERecord?id=CVE-2025-13017)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-13018](https://www.cve.org/CVERecord?id=CVE-2025-13018)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-13019](https://www.cve.org/CVERecord?id=CVE-2025-13019)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-13020](https://www.cve.org/CVERecord?id=CVE-2025-13020)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** thunderbird 1:140.5.0esr-1~deb12u1 	[trixie] - thunderbird 1:140.5.0esr-1~deb13u1
- **Type :** DSA
 
 ------------------------------
 
