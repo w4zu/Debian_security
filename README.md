@@ -1,5 +1,44 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-12-01** - **[DLA-4390-1](https://security-tracker.debian.org/tracker/DLA-4390-1)** - pagure
+
+**CVE(s) :**
+- **[CVE-2024-4981](https://www.cve.org/CVERecord?id=CVE-2024-4981)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-4982](https://www.cve.org/CVERecord?id=CVE-2024-4982)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-47515](https://www.cve.org/CVERecord?id=CVE-2024-47515)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-47516](https://www.cve.org/CVERecord?id=CVE-2024-47516)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** pagure 5.11.3+dfsg-1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2025-12-01** - **[DLA-4389-1](https://security-tracker.debian.org/tracker/DLA-4389-1)** - pytorch
+
+**CVE(s) :**
+- **[CVE-2025-32434](https://www.cve.org/CVERecord?id=CVE-2025-32434)** : 🔥 **Severity: High** (Score: 9.3)
+
+**Debian Version :** bullseye
+ **Package Version :** pytorch 1.7.1-7+deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2025-11-30** - **[DLA-4365-2](https://security-tracker.debian.org/tracker/DLA-4365-2)** - unbound
+
+**CVE(s) :**
+- **[CVE-2025-11411](https://www.cve.org/CVERecord?id=CVE-2025-11411)** : 🟠 **Severity: Medium** (Score: 5.7)
+
+**Debian Version :** bullseye
+ **Package Version :** unbound 1.13.1-1+deb11u7
+ **Type :** DLA
+
+------------------------------
+
 **2025-11-30** - **[DSA-6066-1](https://security-tracker.debian.org/tracker/DSA-6066-1)** - gnome-shell-extension-gsconnect
 
 **CVE(s) :**
@@ -126,7 +165,7 @@
 
 - **[CVE-2024-41128](https://www.cve.org/CVERecord?id=CVE-2024-41128)** : 🟠 **Severity: Medium** (Score: 6.6)
 
-- **[CVE-2024-47887](https://www.cve.org/CVERecord?id=CVE-2024-47887)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47887](https://www.cve.org/CVERecord?id=CVE-2024-47887)** : 🟠 **Severity: Medium** (Score: 6.6)
 
 - **[CVE-2024-47888](https://www.cve.org/CVERecord?id=CVE-2024-47888)** : 🟠 **Severity: Medium** (Score: 6.6)
 
@@ -544,19 +583,6 @@
 
 **Debian Version :** bullseye
  **Package Version :** pdfminer 20200726-1+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-11-17** - **[DLA-4373-1](https://security-tracker.debian.org/tracker/DLA-4373-1)** - libwebsockets
-
-**CVE(s) :**
-- **[CVE-2025-11677](https://www.cve.org/CVERecord?id=CVE-2025-11677)** : 🟠 **Severity: Medium** (Score: 6.3)
-
-- **[CVE-2025-11678](https://www.cve.org/CVERecord?id=CVE-2025-11678)** : 🔥 **Severity: High** (Score: 7.5)
-
-**Debian Version :** bullseye
- **Package Version :** libwebsockets 4.0.20-2+deb11u1
  **Type :** DLA
 
 ------------------------------
