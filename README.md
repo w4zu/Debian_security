@@ -53,7 +53,7 @@
 **2025-11-30** - **[DLA-4365-2](https://security-tracker.debian.org/tracker/DLA-4365-2)** - unbound
 
 **CVE(s) :**
-- **[CVE-2025-11411](https://www.cve.org/CVERecord?id=CVE-2025-11411)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-11411](https://www.cve.org/CVERecord?id=CVE-2025-11411)** : 🟠 **Severity: Medium** (Score: 5.7)
 
 **Debian Version :** bullseye
  **Package Version :** unbound 1.13.1-1+deb11u7
@@ -191,7 +191,7 @@
 
 - **[CVE-2024-47888](https://www.cve.org/CVERecord?id=CVE-2024-47888)** : 🟠 **Severity: Medium** (Score: 6.6)
 
-- **[CVE-2024-47889](https://www.cve.org/CVERecord?id=CVE-2024-47889)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47889](https://www.cve.org/CVERecord?id=CVE-2024-47889)** : 🟠 **Severity: Medium** (Score: 6.6)
 
 - **[CVE-2024-54133](https://www.cve.org/CVERecord?id=CVE-2024-54133)** : 🟠 **Severity: Medium** (Score: 2.3)
 
@@ -558,7 +558,7 @@
 
 - **[CVE-2025-48039](https://www.cve.org/CVERecord?id=CVE-2025-48039)** : 🟠 **Severity: Medium** (Score: 5.3)
 
-- **[CVE-2025-48041](https://www.cve.org/CVERecord?id=CVE-2025-48041)** : 🔥 **Severity: High** (Score: 7.1)
+- **[CVE-2025-48041](https://www.cve.org/CVERecord?id=CVE-2025-48041)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** erlang 1:23.2.6+dfsg-1+deb11u3
