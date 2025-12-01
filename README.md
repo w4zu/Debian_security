@@ -1,5 +1,27 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-12-01** - **[DLA-4392-1](https://security-tracker.debian.org/tracker/DLA-4392-1)** - mistral-dashboard
+
+**CVE(s) :**
+- **[CVE-2021-4472](https://www.cve.org/CVERecord?id=CVE-2021-4472)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** mistral-dashboard 11.0.0-2+deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2025-12-01** - **[DLA-4391-1](https://security-tracker.debian.org/tracker/DLA-4391-1)** - python-mistralclient
+
+**CVE(s) :**
+- **[CVE-2021-4472](https://www.cve.org/CVERecord?id=CVE-2021-4472)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** python-mistralclient 1:4.1.1-2+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-12-01** - **[DLA-4390-1](https://security-tracker.debian.org/tracker/DLA-4390-1)** - pagure
 
 **CVE(s) :**
@@ -163,7 +185,7 @@
 
 - **[CVE-2023-38037](https://www.cve.org/CVERecord?id=CVE-2023-38037)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2024-41128](https://www.cve.org/CVERecord?id=CVE-2024-41128)** : 🟠 **Severity: Medium** (Score: 6.6)
+- **[CVE-2024-41128](https://www.cve.org/CVERecord?id=CVE-2024-41128)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-47887](https://www.cve.org/CVERecord?id=CVE-2024-47887)** : 🟠 **Severity: Medium** (Score: 6.6)
 
