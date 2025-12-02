@@ -53,7 +53,7 @@
 **2025-11-30** - **[DLA-4365-2](https://security-tracker.debian.org/tracker/DLA-4365-2)** - unbound
 
 **CVE(s) :**
-- **[CVE-2025-11411](https://www.cve.org/CVERecord?id=CVE-2025-11411)** : 🟠 **Severity: Medium** (Score: 5.7)
+- **[CVE-2025-11411](https://www.cve.org/CVERecord?id=CVE-2025-11411)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** unbound 1.13.1-1+deb11u7
@@ -193,7 +193,7 @@
 
 - **[CVE-2024-47889](https://www.cve.org/CVERecord?id=CVE-2024-47889)** : 🟠 **Severity: Medium** (Score: 6.6)
 
-- **[CVE-2024-54133](https://www.cve.org/CVERecord?id=CVE-2024-54133)** : 🟠 **Severity: Medium** (Score: 2.3)
+- **[CVE-2024-54133](https://www.cve.org/CVERecord?id=CVE-2024-54133)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** rails 2:6.0.3.7+dfsg-2+deb11u3
@@ -558,7 +558,7 @@
 
 - **[CVE-2025-48039](https://www.cve.org/CVERecord?id=CVE-2025-48039)** : 🟠 **Severity: Medium** (Score: 5.3)
 
-- **[CVE-2025-48041](https://www.cve.org/CVERecord?id=CVE-2025-48041)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-48041](https://www.cve.org/CVERecord?id=CVE-2025-48041)** : 🔥 **Severity: High** (Score: 7.1)
 
 **Debian Version :** bullseye
  **Package Version :** erlang 1:23.2.6+dfsg-1+deb11u3
@@ -595,17 +595,6 @@
 **Debian Version :** bookworm
  **Package Version :** chromium 142.0.7444.175-1~deb12u1 	[trixie] - chromium 142.0.7444.175-1~deb13u1
  **Type :** DSA
-
-------------------------------
-
-**2025-11-18** - **[DLA-4374-1](https://security-tracker.debian.org/tracker/DLA-4374-1)** - pdfminer
-
-**CVE(s) :**
-- **[CVE-2025-64512](https://www.cve.org/CVERecord?id=CVE-2025-64512)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** pdfminer 20200726-1+deb11u1
- **Type :** DLA
 
 ------------------------------
 
