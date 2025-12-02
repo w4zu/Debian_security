@@ -42,7 +42,7 @@
 **2025-12-01** - **[DLA-4389-1](https://security-tracker.debian.org/tracker/DLA-4389-1)** - pytorch
 
 **CVE(s) :**
-- **[CVE-2025-32434](https://www.cve.org/CVERecord?id=CVE-2025-32434)** : 🔥 **Severity: High** (Score: 9.3)
+- **[CVE-2025-32434](https://www.cve.org/CVERecord?id=CVE-2025-32434)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** pytorch 1.7.1-7+deb11u1
@@ -53,7 +53,7 @@
 **2025-11-30** - **[DLA-4365-2](https://security-tracker.debian.org/tracker/DLA-4365-2)** - unbound
 
 **CVE(s) :**
-- **[CVE-2025-11411](https://www.cve.org/CVERecord?id=CVE-2025-11411)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-11411](https://www.cve.org/CVERecord?id=CVE-2025-11411)** : 🟠 **Severity: Medium** (Score: 5.7)
 
 **Debian Version :** bullseye
  **Package Version :** unbound 1.13.1-1+deb11u7
@@ -193,7 +193,7 @@
 
 - **[CVE-2024-47889](https://www.cve.org/CVERecord?id=CVE-2024-47889)** : 🟠 **Severity: Medium** (Score: 6.6)
 
-- **[CVE-2024-54133](https://www.cve.org/CVERecord?id=CVE-2024-54133)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-54133](https://www.cve.org/CVERecord?id=CVE-2024-54133)** : 🟠 **Severity: Medium** (Score: 2.3)
 
 **Debian Version :** bullseye
  **Package Version :** rails 2:6.0.3.7+dfsg-2+deb11u3
