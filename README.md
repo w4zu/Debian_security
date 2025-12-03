@@ -1,5 +1,51 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-12-02** - **[DSA-6068-1](https://security-tracker.debian.org/tracker/DSA-6068-1)** - xen
+
+**CVE(s) :**
+- **[CVE-2024-28956](https://www.cve.org/CVERecord?id=CVE-2024-28956)** : 🟠 **Severity: Medium** (Score: 5.7)
+
+- **[CVE-2024-36350](https://www.cve.org/CVERecord?id=CVE-2024-36350)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-36357](https://www.cve.org/CVERecord?id=CVE-2024-36357)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-27465](https://www.cve.org/CVERecord?id=CVE-2025-27465)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-27466](https://www.cve.org/CVERecord?id=CVE-2025-27466)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-58142](https://www.cve.org/CVERecord?id=CVE-2025-58142)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-58143](https://www.cve.org/CVERecord?id=CVE-2025-58143)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-58144](https://www.cve.org/CVERecord?id=CVE-2025-58144)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-58145](https://www.cve.org/CVERecord?id=CVE-2025-58145)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-58147](https://www.cve.org/CVERecord?id=CVE-2025-58147)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-58148](https://www.cve.org/CVERecord?id=CVE-2025-58148)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-58149](https://www.cve.org/CVERecord?id=CVE-2025-58149)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** xen 4.17.5+72-g01140da4e8-1 	[trixie] - xen 4.20.2+7-g1badcf5035-0+deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2025-12-02** - **[DSA-6067-1](https://security-tracker.debian.org/tracker/DSA-6067-1)** - containerd
+
+**CVE(s) :**
+- **[CVE-2024-25621](https://www.cve.org/CVERecord?id=CVE-2024-25621)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-64329](https://www.cve.org/CVERecord?id=CVE-2025-64329)** : 🟠 **Severity: Medium** (Score: 6.9)
+
+**Debian Version :** bookworm
+ **Package Version :** containerd 1.6.20~ds1-1+deb12u2 	[trixie] - containerd 1.7.24~ds1-6+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-12-01** - **[DLA-4392-1](https://security-tracker.debian.org/tracker/DLA-4392-1)** - mistral-dashboard
 
 **CVE(s) :**
@@ -53,7 +99,7 @@
 **2025-11-30** - **[DLA-4365-2](https://security-tracker.debian.org/tracker/DLA-4365-2)** - unbound
 
 **CVE(s) :**
-- **[CVE-2025-11411](https://www.cve.org/CVERecord?id=CVE-2025-11411)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-11411](https://www.cve.org/CVERecord?id=CVE-2025-11411)** : 🟠 **Severity: Medium** (Score: 5.7)
 
 **Debian Version :** bullseye
  **Package Version :** unbound 1.13.1-1+deb11u7
@@ -185,9 +231,9 @@
 
 - **[CVE-2023-38037](https://www.cve.org/CVERecord?id=CVE-2023-38037)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2024-41128](https://www.cve.org/CVERecord?id=CVE-2024-41128)** : 🟠 **Severity: Medium** (Score: 6.6)
+- **[CVE-2024-41128](https://www.cve.org/CVERecord?id=CVE-2024-41128)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2024-47887](https://www.cve.org/CVERecord?id=CVE-2024-47887)** : 🟠 **Severity: Medium** (Score: 6.6)
+- **[CVE-2024-47887](https://www.cve.org/CVERecord?id=CVE-2024-47887)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-47888](https://www.cve.org/CVERecord?id=CVE-2024-47888)** : 🟠 **Severity: Medium** (Score: 6.6)
 
@@ -552,7 +598,7 @@
 **2025-11-24** - **[DLA-4376-1](https://security-tracker.debian.org/tracker/DLA-4376-1)** - erlang
 
 **CVE(s) :**
-- **[CVE-2025-4748](https://www.cve.org/CVERecord?id=CVE-2025-4748)** : 🟠 **Severity: Medium** (Score: 4.8)
+- **[CVE-2025-4748](https://www.cve.org/CVERecord?id=CVE-2025-4748)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-48038](https://www.cve.org/CVERecord?id=CVE-2025-48038)** : 🟠 **Severity: Medium** (Score: 5.3)
 
@@ -582,19 +628,6 @@
 **Debian Version :** bullseye
  **Package Version :** webkit2gtk 2.50.1-1~deb11u1
  **Type :** DLA
-
-------------------------------
-
-**2025-11-19** - **[DSA-6060-1](https://security-tracker.debian.org/tracker/DSA-6060-1)** - chromium
-
-**CVE(s) :**
-- **[CVE-2025-13223](https://www.cve.org/CVERecord?id=CVE-2025-13223)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-13224](https://www.cve.org/CVERecord?id=CVE-2025-13224)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** chromium 142.0.7444.175-1~deb12u1 	[trixie] - chromium 142.0.7444.175-1~deb13u1
- **Type :** DSA
 
 ------------------------------
 
