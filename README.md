@@ -1,5 +1,34 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-12-04** - **[DLA-4394-1](https://security-tracker.debian.org/tracker/DLA-4394-1)** - webkit2gtk
+
+**CVE(s) :**
+- **[CVE-2025-43392](https://www.cve.org/CVERecord?id=CVE-2025-43392)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43425](https://www.cve.org/CVERecord?id=CVE-2025-43425)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43427](https://www.cve.org/CVERecord?id=CVE-2025-43427)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43429](https://www.cve.org/CVERecord?id=CVE-2025-43429)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43430](https://www.cve.org/CVERecord?id=CVE-2025-43430)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43431](https://www.cve.org/CVERecord?id=CVE-2025-43431)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43432](https://www.cve.org/CVERecord?id=CVE-2025-43432)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43434](https://www.cve.org/CVERecord?id=CVE-2025-43434)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43440](https://www.cve.org/CVERecord?id=CVE-2025-43440)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43443](https://www.cve.org/CVERecord?id=CVE-2025-43443)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** webkit2gtk 2.50.2-1~deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-12-04** - **[DSA-6070-1](https://security-tracker.debian.org/tracker/DSA-6070-1)** - webkit2gtk
 
 **CVE(s) :**
@@ -288,7 +317,7 @@
 
 - **[CVE-2024-47888](https://www.cve.org/CVERecord?id=CVE-2024-47888)** : 🟠 **Severity: Medium** (Score: 6.6)
 
-- **[CVE-2024-47889](https://www.cve.org/CVERecord?id=CVE-2024-47889)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47889](https://www.cve.org/CVERecord?id=CVE-2024-47889)** : 🟠 **Severity: Medium** (Score: 6.6)
 
 - **[CVE-2024-54133](https://www.cve.org/CVERecord?id=CVE-2024-54133)** : 🟠 **Severity: Medium** (Score: 2.3)
 
@@ -649,7 +678,7 @@
 **2025-11-24** - **[DLA-4376-1](https://security-tracker.debian.org/tracker/DLA-4376-1)** - erlang
 
 **CVE(s) :**
-- **[CVE-2025-4748](https://www.cve.org/CVERecord?id=CVE-2025-4748)** : 🟠 **Severity: Medium** (Score: 4.8)
+- **[CVE-2025-4748](https://www.cve.org/CVERecord?id=CVE-2025-4748)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-48038](https://www.cve.org/CVERecord?id=CVE-2025-48038)** : 🟠 **Severity: Medium** (Score: 5.3)
 
