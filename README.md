@@ -1,5 +1,34 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-12-04** - **[DSA-6070-1](https://security-tracker.debian.org/tracker/DSA-6070-1)** - webkit2gtk
+
+**CVE(s) :**
+- **[CVE-2025-43392](https://www.cve.org/CVERecord?id=CVE-2025-43392)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43425](https://www.cve.org/CVERecord?id=CVE-2025-43425)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43427](https://www.cve.org/CVERecord?id=CVE-2025-43427)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43429](https://www.cve.org/CVERecord?id=CVE-2025-43429)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43430](https://www.cve.org/CVERecord?id=CVE-2025-43430)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43431](https://www.cve.org/CVERecord?id=CVE-2025-43431)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43432](https://www.cve.org/CVERecord?id=CVE-2025-43432)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43434](https://www.cve.org/CVERecord?id=CVE-2025-43434)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43440](https://www.cve.org/CVERecord?id=CVE-2025-43440)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43443](https://www.cve.org/CVERecord?id=CVE-2025-43443)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** webkit2gtk 2.50.2-1~deb12u1 	[trixie] - webkit2gtk 2.50.2-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-12-03** - **[DLA-4393-1](https://security-tracker.debian.org/tracker/DLA-4393-1)** - mako
 
 **CVE(s) :**
@@ -8,6 +37,17 @@
 **Debian Version :** bullseye
  **Package Version :** mako 1.1.3+ds1-2+deb11u1
  **Type :** DLA
+
+------------------------------
+
+**2025-12-03** - **[DSA-6069-1](https://security-tracker.debian.org/tracker/DSA-6069-1)** - openvpn
+
+**CVE(s) :**
+- **[CVE-2025-13086](https://www.cve.org/CVERecord?id=CVE-2025-13086)** : 🟠 **Severity: Medium** (Score: 4.6)
+
+**Debian Version :** bookworm
+ **Package Version :** openvpn 2.6.3-1+deb12u4 	[trixie] - openvpn 2.6.14-1+deb13u1
+ **Type :** DSA
 
 ------------------------------
 
@@ -246,7 +286,7 @@
 
 - **[CVE-2024-47887](https://www.cve.org/CVERecord?id=CVE-2024-47887)** : 🟠 **Severity: Medium** (Score: 6.6)
 
-- **[CVE-2024-47888](https://www.cve.org/CVERecord?id=CVE-2024-47888)** : 🟠 **Severity: Medium** (Score: 6.6)
+- **[CVE-2024-47888](https://www.cve.org/CVERecord?id=CVE-2024-47888)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-47889](https://www.cve.org/CVERecord?id=CVE-2024-47889)** : 🟠 **Severity: Medium** (Score: 6.6)
 
@@ -619,25 +659,6 @@
 
 **Debian Version :** bullseye
  **Package Version :** erlang 1:23.2.6+dfsg-1+deb11u3
- **Type :** DLA
-
-------------------------------
-
-**2025-11-20** - **[DLA-4375-1](https://security-tracker.debian.org/tracker/DLA-4375-1)** - webkit2gtk
-
-**CVE(s) :**
-- **[CVE-2025-43272](https://www.cve.org/CVERecord?id=CVE-2025-43272)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-43342](https://www.cve.org/CVERecord?id=CVE-2025-43342)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-43343](https://www.cve.org/CVERecord?id=CVE-2025-43343)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-43356](https://www.cve.org/CVERecord?id=CVE-2025-43356)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-43368](https://www.cve.org/CVERecord?id=CVE-2025-43368)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** webkit2gtk 2.50.1-1~deb11u1
  **Type :** DLA
 
 ------------------------------
