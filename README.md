@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-12-05** - **[DLA-4395-1](https://security-tracker.debian.org/tracker/DLA-4395-1)** - krita
+
+**CVE(s) :**
+- **[CVE-2025-59820](https://www.cve.org/CVERecord?id=CVE-2025-59820)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** krita 1:4.4.2+dfsg-1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-12-04** - **[DLA-4394-1](https://security-tracker.debian.org/tracker/DLA-4394-1)** - webkit2gtk
 
 **CVE(s) :**
@@ -133,7 +144,7 @@
 **2025-12-02** - **[DSA-6068-1](https://security-tracker.debian.org/tracker/DSA-6068-1)** - xen
 
 **CVE(s) :**
-- **[CVE-2024-28956](https://www.cve.org/CVERecord?id=CVE-2024-28956)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-28956](https://www.cve.org/CVERecord?id=CVE-2024-28956)** : 🟠 **Severity: Medium** (Score: 5.7)
 
 - **[CVE-2024-36350](https://www.cve.org/CVERecord?id=CVE-2024-36350)** : **Severity: Unknown** (Score: N/A)
 
@@ -363,11 +374,11 @@
 
 - **[CVE-2024-41128](https://www.cve.org/CVERecord?id=CVE-2024-41128)** : 🟠 **Severity: Medium** (Score: 6.6)
 
-- **[CVE-2024-47887](https://www.cve.org/CVERecord?id=CVE-2024-47887)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47887](https://www.cve.org/CVERecord?id=CVE-2024-47887)** : 🟠 **Severity: Medium** (Score: 6.6)
 
-- **[CVE-2024-47888](https://www.cve.org/CVERecord?id=CVE-2024-47888)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47888](https://www.cve.org/CVERecord?id=CVE-2024-47888)** : 🟠 **Severity: Medium** (Score: 6.6)
 
-- **[CVE-2024-47889](https://www.cve.org/CVERecord?id=CVE-2024-47889)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-47889](https://www.cve.org/CVERecord?id=CVE-2024-47889)** : 🟠 **Severity: Medium** (Score: 6.6)
 
 - **[CVE-2024-54133](https://www.cve.org/CVERecord?id=CVE-2024-54133)** : 🟠 **Severity: Medium** (Score: 2.3)
 
