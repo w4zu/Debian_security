@@ -133,7 +133,7 @@
 **2025-12-03** - **[DSA-6069-1](https://security-tracker.debian.org/tracker/DSA-6069-1)** - openvpn
 
 **CVE(s) :**
-- **[CVE-2025-13086](https://www.cve.org/CVERecord?id=CVE-2025-13086)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-13086](https://www.cve.org/CVERecord?id=CVE-2025-13086)** : 🟠 **Severity: Medium** (Score: 4.6)
 
 **Debian Version :** bookworm
  **Package Version :** openvpn 2.6.3-1+deb12u4 	[trixie] - openvpn 2.6.14-1+deb13u1
@@ -380,7 +380,7 @@
 
 - **[CVE-2024-47889](https://www.cve.org/CVERecord?id=CVE-2024-47889)** : 🟠 **Severity: Medium** (Score: 6.6)
 
-- **[CVE-2024-54133](https://www.cve.org/CVERecord?id=CVE-2024-54133)** : 🟠 **Severity: Medium** (Score: 2.3)
+- **[CVE-2024-54133](https://www.cve.org/CVERecord?id=CVE-2024-54133)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** rails 2:6.0.3.7+dfsg-2+deb11u3
