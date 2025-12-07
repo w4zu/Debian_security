@@ -19,6 +19,17 @@
 
 ------------------------------
 
+**2025-12-07** - **[DSA-6073-1](https://security-tracker.debian.org/tracker/DSA-6073-1)** - ffmpeg
+
+**CVE(s) :**
+- **[CVE-2025-25473](https://www.cve.org/CVERecord?id=CVE-2025-25473)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** ffmpeg 7:7.1.3-0+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-12-05** - **[DLA-4395-1](https://security-tracker.debian.org/tracker/DLA-4395-1)** - krita
 
 **CVE(s) :**
@@ -99,7 +110,7 @@
 **2025-12-04** - **[DSA-6071-1](https://security-tracker.debian.org/tracker/DSA-6071-1)** - unbound
 
 **CVE(s) :**
-- **[CVE-2025-11411](https://www.cve.org/CVERecord?id=CVE-2025-11411)** : 🟠 **Severity: Medium** (Score: 5.7)
+- **[CVE-2025-11411](https://www.cve.org/CVERecord?id=CVE-2025-11411)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** trixie
  **Package Version :** unbound 1.22.0-2+deb13u1
@@ -259,7 +270,7 @@
 **2025-11-30** - **[DLA-4365-2](https://security-tracker.debian.org/tracker/DLA-4365-2)** - unbound
 
 **CVE(s) :**
-- **[CVE-2025-11411](https://www.cve.org/CVERecord?id=CVE-2025-11411)** : 🟠 **Severity: Medium** (Score: 5.7)
+- **[CVE-2025-11411](https://www.cve.org/CVERecord?id=CVE-2025-11411)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** unbound 1.13.1-1+deb11u7
@@ -391,7 +402,7 @@
 
 - **[CVE-2023-38037](https://www.cve.org/CVERecord?id=CVE-2023-38037)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2024-41128](https://www.cve.org/CVERecord?id=CVE-2024-41128)** : 🟠 **Severity: Medium** (Score: 6.6)
+- **[CVE-2024-41128](https://www.cve.org/CVERecord?id=CVE-2024-41128)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-47887](https://www.cve.org/CVERecord?id=CVE-2024-47887)** : 🟠 **Severity: Medium** (Score: 6.6)
 
@@ -762,7 +773,7 @@
 
 - **[CVE-2025-48038](https://www.cve.org/CVERecord?id=CVE-2025-48038)** : 🟠 **Severity: Medium** (Score: 5.3)
 
-- **[CVE-2025-48039](https://www.cve.org/CVERecord?id=CVE-2025-48039)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-48039](https://www.cve.org/CVERecord?id=CVE-2025-48039)** : 🟠 **Severity: Medium** (Score: 5.3)
 
 - **[CVE-2025-48041](https://www.cve.org/CVERecord?id=CVE-2025-48041)** : 🔥 **Severity: High** (Score: 7.1)
 
