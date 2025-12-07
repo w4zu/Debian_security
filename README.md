@@ -1,5 +1,24 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-12-07** - **[DLA-4396-1](https://security-tracker.debian.org/tracker/DLA-4396-1)** - libpng1.6
+
+**CVE(s) :**
+- **[CVE-2025-64505](https://www.cve.org/CVERecord?id=CVE-2025-64505)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-64506](https://www.cve.org/CVERecord?id=CVE-2025-64506)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-64720](https://www.cve.org/CVERecord?id=CVE-2025-64720)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-65018](https://www.cve.org/CVERecord?id=CVE-2025-65018)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-66293](https://www.cve.org/CVERecord?id=CVE-2025-66293)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** libpng1.6 1.6.37-3+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-12-05** - **[DLA-4395-1](https://security-tracker.debian.org/tracker/DLA-4395-1)** - krita
 
 **CVE(s) :**
@@ -739,11 +758,11 @@
 **2025-11-24** - **[DLA-4376-1](https://security-tracker.debian.org/tracker/DLA-4376-1)** - erlang
 
 **CVE(s) :**
-- **[CVE-2025-4748](https://www.cve.org/CVERecord?id=CVE-2025-4748)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-4748](https://www.cve.org/CVERecord?id=CVE-2025-4748)** : 🟠 **Severity: Medium** (Score: 4.8)
 
-- **[CVE-2025-48038](https://www.cve.org/CVERecord?id=CVE-2025-48038)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-48038](https://www.cve.org/CVERecord?id=CVE-2025-48038)** : 🟠 **Severity: Medium** (Score: 5.3)
 
-- **[CVE-2025-48039](https://www.cve.org/CVERecord?id=CVE-2025-48039)** : 🟠 **Severity: Medium** (Score: 5.3)
+- **[CVE-2025-48039](https://www.cve.org/CVERecord?id=CVE-2025-48039)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-48041](https://www.cve.org/CVERecord?id=CVE-2025-48041)** : 🔥 **Severity: High** (Score: 7.1)
 
