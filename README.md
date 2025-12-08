@@ -1,5 +1,22 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-12-08** - **[DLA-4397-1](https://security-tracker.debian.org/tracker/DLA-4397-1)** - lasso
+
+**CVE(s) :**
+- **[CVE-2025-46404](https://www.cve.org/CVERecord?id=CVE-2025-46404)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-46705](https://www.cve.org/CVERecord?id=CVE-2025-46705)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-46784](https://www.cve.org/CVERecord?id=CVE-2025-46784)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-47151](https://www.cve.org/CVERecord?id=CVE-2025-47151)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** lasso 2.6.1-3+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-12-07** - **[DLA-4396-1](https://security-tracker.debian.org/tracker/DLA-4396-1)** - libpng1.6
 
 **CVE(s) :**
