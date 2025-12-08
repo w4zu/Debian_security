@@ -174,7 +174,7 @@
 **2025-12-02** - **[DSA-6068-1](https://security-tracker.debian.org/tracker/DSA-6068-1)** - xen
 
 **CVE(s) :**
-- **[CVE-2024-28956](https://www.cve.org/CVERecord?id=CVE-2024-28956)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-28956](https://www.cve.org/CVERecord?id=CVE-2024-28956)** : 🟠 **Severity: Medium** (Score: 5.7)
 
 - **[CVE-2024-36350](https://www.cve.org/CVERecord?id=CVE-2024-36350)** : **Severity: Unknown** (Score: N/A)
 
@@ -402,7 +402,7 @@
 
 - **[CVE-2023-38037](https://www.cve.org/CVERecord?id=CVE-2023-38037)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2024-41128](https://www.cve.org/CVERecord?id=CVE-2024-41128)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-41128](https://www.cve.org/CVERecord?id=CVE-2024-41128)** : 🟠 **Severity: Medium** (Score: 6.6)
 
 - **[CVE-2024-47887](https://www.cve.org/CVERecord?id=CVE-2024-47887)** : 🟠 **Severity: Medium** (Score: 6.6)
 
