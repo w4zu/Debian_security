@@ -1,5 +1,24 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-12-10** - **[DSA-6075-1](https://security-tracker.debian.org/tracker/DSA-6075-1)** - wordpress
+
+**CVE(s) :**
+- **[CVE-2024-4439](https://www.cve.org/CVERecord?id=CVE-2024-4439)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-6307](https://www.cve.org/CVERecord?id=CVE-2024-6307)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-31111](https://www.cve.org/CVERecord?id=CVE-2024-31111)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-58246](https://www.cve.org/CVERecord?id=CVE-2025-58246)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-58674](https://www.cve.org/CVERecord?id=CVE-2025-58674)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** wordpress 6.1.9+dfsg1-0+deb12u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-12-09** - **[DLA-4398-1](https://security-tracker.debian.org/tracker/DLA-4398-1)** - libsoup2.4
 
 **CVE(s) :**
@@ -161,7 +180,7 @@
 **2025-12-04** - **[DSA-6071-1](https://security-tracker.debian.org/tracker/DSA-6071-1)** - unbound
 
 **CVE(s) :**
-- **[CVE-2025-11411](https://www.cve.org/CVERecord?id=CVE-2025-11411)** : 🟠 **Severity: Medium** (Score: 5.7)
+- **[CVE-2025-11411](https://www.cve.org/CVERecord?id=CVE-2025-11411)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** trixie
  **Package Version :** unbound 1.22.0-2+deb13u1
@@ -321,7 +340,7 @@
 **2025-11-30** - **[DLA-4365-2](https://security-tracker.debian.org/tracker/DLA-4365-2)** - unbound
 
 **CVE(s) :**
-- **[CVE-2025-11411](https://www.cve.org/CVERecord?id=CVE-2025-11411)** : 🟠 **Severity: Medium** (Score: 5.7)
+- **[CVE-2025-11411](https://www.cve.org/CVERecord?id=CVE-2025-11411)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** unbound 1.13.1-1+deb11u7
@@ -418,28 +437,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** tryton-server 6.0.29-2+deb12u4 	[trixie] - tryton-server 7.0.30-1+deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2025-11-26** - **[DLA-4384-1](https://security-tracker.debian.org/tracker/DLA-4384-1)** - samba
-
-**CVE(s) :**
-- **[CVE-2025-9640](https://www.cve.org/CVERecord?id=CVE-2025-9640)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** samba 2:4.13.13+dfsg-1~deb11u7
- **Type :** DLA
-
-------------------------------
-
-**2025-11-26** - **[DSA-6063-1](https://security-tracker.debian.org/tracker/DSA-6063-1)** - kdeconnect
-
-**CVE(s) :**
-- **[CVE-2025-66270](https://www.cve.org/CVERecord?id=CVE-2025-66270)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** trixie
- **Package Version :** kdeconnect 25.04.2-1+deb13u1
  **Type :** DSA
 
 ------------------------------
