@@ -1,5 +1,52 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-12-10** - **[DLA-4399-1](https://security-tracker.debian.org/tracker/DLA-4399-1)** - webkit2gtk
+
+**CVE(s) :**
+- **[CVE-2025-13947](https://www.cve.org/CVERecord?id=CVE-2025-13947)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43421](https://www.cve.org/CVERecord?id=CVE-2025-43421)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43458](https://www.cve.org/CVERecord?id=CVE-2025-43458)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-66287](https://www.cve.org/CVERecord?id=CVE-2025-66287)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** webkit2gtk 2.50.3-1~deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2025-12-10** - **[DSA-6077-1](https://security-tracker.debian.org/tracker/DSA-6077-1)** - pdns-recursor
+
+**CVE(s) :**
+- **[CVE-2025-59030](https://www.cve.org/CVERecord?id=CVE-2025-59030)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** pdns-recursor 5.2.7-0+deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2025-12-10** - **[DSA-6076-1](https://security-tracker.debian.org/tracker/DSA-6076-1)** - libpng1.6
+
+**CVE(s) :**
+- **[CVE-2025-64505](https://www.cve.org/CVERecord?id=CVE-2025-64505)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-64506](https://www.cve.org/CVERecord?id=CVE-2025-64506)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-64720](https://www.cve.org/CVERecord?id=CVE-2025-64720)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-65018](https://www.cve.org/CVERecord?id=CVE-2025-65018)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-66293](https://www.cve.org/CVERecord?id=CVE-2025-66293)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** libpng1.6 1.6.39-2+deb12u1 	[trixie] - libpng1.6 1.6.48-1+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-12-10** - **[DSA-6075-1](https://security-tracker.debian.org/tracker/DSA-6075-1)** - wordpress
 
 **CVE(s) :**
