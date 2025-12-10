@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-12-10** - **[DLA-4400-1](https://security-tracker.debian.org/tracker/DLA-4400-1)** - rear
+
+**CVE(s) :**
+- **[CVE-2024-23301](https://www.cve.org/CVERecord?id=CVE-2024-23301)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** rear 2.6+dfsg-1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-12-10** - **[DLA-4399-1](https://security-tracker.debian.org/tracker/DLA-4399-1)** - webkit2gtk
 
 **CVE(s) :**
