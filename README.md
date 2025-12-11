@@ -371,7 +371,7 @@
 **2025-12-02** - **[DSA-6068-1](https://security-tracker.debian.org/tracker/DSA-6068-1)** - xen
 
 **CVE(s) :**
-- **[CVE-2024-28956](https://www.cve.org/CVERecord?id=CVE-2024-28956)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-28956](https://www.cve.org/CVERecord?id=CVE-2024-28956)** : 🟠 **Severity: Medium** (Score: 5.7)
 
 - **[CVE-2024-36350](https://www.cve.org/CVERecord?id=CVE-2024-36350)** : **Severity: Unknown** (Score: N/A)
 
@@ -456,7 +456,7 @@
 **2025-12-01** - **[DLA-4389-1](https://security-tracker.debian.org/tracker/DLA-4389-1)** - pytorch
 
 **CVE(s) :**
-- **[CVE-2025-32434](https://www.cve.org/CVERecord?id=CVE-2025-32434)** : 🔥 **Severity: High** (Score: 9.3)
+- **[CVE-2025-32434](https://www.cve.org/CVERecord?id=CVE-2025-32434)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** pytorch 1.7.1-7+deb11u1
