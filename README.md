@@ -28,6 +28,35 @@
 
 ------------------------------
 
+**2025-12-10** - **[DSA-6078-1](https://security-tracker.debian.org/tracker/DSA-6078-1)** - firefox-esr
+
+**CVE(s) :**
+- **[CVE-2025-14321](https://www.cve.org/CVERecord?id=CVE-2025-14321)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-14322](https://www.cve.org/CVERecord?id=CVE-2025-14322)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-14323](https://www.cve.org/CVERecord?id=CVE-2025-14323)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-14324](https://www.cve.org/CVERecord?id=CVE-2025-14324)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-14325](https://www.cve.org/CVERecord?id=CVE-2025-14325)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-14328](https://www.cve.org/CVERecord?id=CVE-2025-14328)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-14329](https://www.cve.org/CVERecord?id=CVE-2025-14329)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-14330](https://www.cve.org/CVERecord?id=CVE-2025-14330)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-14331](https://www.cve.org/CVERecord?id=CVE-2025-14331)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-14333](https://www.cve.org/CVERecord?id=CVE-2025-14333)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** firefox-esr 140.6.0esr-1~deb12u1 	[trixie] - firefox-esr 140.6.0esr-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-12-10** - **[DSA-6077-1](https://security-tracker.debian.org/tracker/DSA-6077-1)** - pdns-recursor
 
 **CVE(s) :**
@@ -337,7 +366,7 @@
 **CVE(s) :**
 - **[CVE-2024-25621](https://www.cve.org/CVERecord?id=CVE-2024-25621)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-64329](https://www.cve.org/CVERecord?id=CVE-2025-64329)** : 🟠 **Severity: Medium** (Score: 6.9)
+- **[CVE-2025-64329](https://www.cve.org/CVERecord?id=CVE-2025-64329)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** containerd 1.6.20~ds1-1+deb12u2 	[trixie] - containerd 1.7.24~ds1-6+deb13u1
@@ -449,53 +478,6 @@
 **Debian Version :** bullseye
  **Package Version :** sogo 5.0.1-4+deb11u2
  **Type :** DLA
-
-------------------------------
-
-**2025-11-27** - **[DLA-4385-1](https://security-tracker.debian.org/tracker/DLA-4385-1)** - libssh
-
-**CVE(s) :**
-- **[CVE-2025-4877](https://www.cve.org/CVERecord?id=CVE-2025-4877)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-4878](https://www.cve.org/CVERecord?id=CVE-2025-4878)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-5318](https://www.cve.org/CVERecord?id=CVE-2025-5318)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-5372](https://www.cve.org/CVERecord?id=CVE-2025-5372)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-8114](https://www.cve.org/CVERecord?id=CVE-2025-8114)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-8277](https://www.cve.org/CVERecord?id=CVE-2025-8277)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** libssh 0.9.8-0+deb11u2
- **Type :** DLA
-
-------------------------------
-
-**2025-11-27** - **[DSA-6065-1](https://security-tracker.debian.org/tracker/DSA-6065-1)** - krita
-
-**CVE(s) :**
-- **[CVE-2025-59820](https://www.cve.org/CVERecord?id=CVE-2025-59820)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** krita 1:5.1.5+dfsg-2+deb12u1 	[trixie] - krita 1:5.2.9+dfsg-1+deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2025-11-27** - **[DSA-6064-1](https://security-tracker.debian.org/tracker/DSA-6064-1)** - tryton-server
-
-**CVE(s) :**
-- **[CVE-2025-66422](https://www.cve.org/CVERecord?id=CVE-2025-66422)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-66423](https://www.cve.org/CVERecord?id=CVE-2025-66423)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-66424](https://www.cve.org/CVERecord?id=CVE-2025-66424)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** tryton-server 6.0.29-2+deb12u4 	[trixie] - tryton-server 7.0.30-1+deb13u1
- **Type :** DSA
 
 ------------------------------
 
