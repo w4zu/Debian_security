@@ -406,7 +406,7 @@
 **CVE(s) :**
 - **[CVE-2024-25621](https://www.cve.org/CVERecord?id=CVE-2024-25621)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-64329](https://www.cve.org/CVERecord?id=CVE-2025-64329)** : 🟠 **Severity: Medium** (Score: 6.9)
+- **[CVE-2025-64329](https://www.cve.org/CVERecord?id=CVE-2025-64329)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** containerd 1.6.20~ds1-1+deb12u2 	[trixie] - containerd 1.7.24~ds1-6+deb13u1
@@ -456,7 +456,7 @@
 **2025-12-01** - **[DLA-4389-1](https://security-tracker.debian.org/tracker/DLA-4389-1)** - pytorch
 
 **CVE(s) :**
-- **[CVE-2025-32434](https://www.cve.org/CVERecord?id=CVE-2025-32434)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-32434](https://www.cve.org/CVERecord?id=CVE-2025-32434)** : 🔥 **Severity: High** (Score: 9.3)
 
 **Debian Version :** bullseye
  **Package Version :** pytorch 1.7.1-7+deb11u1
@@ -506,17 +506,6 @@
 
 **Debian Version :** bullseye
  **Package Version :** qtbase-opensource-src 5.15.2+dfsg-9+deb11u2
- **Type :** DLA
-
-------------------------------
-
-**2025-11-28** - **[DLA-4386-1](https://security-tracker.debian.org/tracker/DLA-4386-1)** - sogo
-
-**CVE(s) :**
-- **[CVE-2025-63498](https://www.cve.org/CVERecord?id=CVE-2025-63498)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** sogo 5.0.1-4+deb11u2
  **Type :** DLA
 
 ------------------------------
