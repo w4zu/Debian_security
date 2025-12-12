@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-12-12** - **[DSA-6080-1](https://security-tracker.debian.org/tracker/DSA-6080-1)** - chromium
+
+**CVE(s) :**
+- **[CVE-2025-14372](https://www.cve.org/CVERecord?id=CVE-2025-14372)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-14373](https://www.cve.org/CVERecord?id=CVE-2025-14373)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** chromium 143.0.7499.109-1~deb12u1 	[trixie] - chromium 143.0.7499.109-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-12-11** - **[DLA-4402-1](https://security-tracker.debian.org/tracker/DLA-4402-1)** - libsndfile
 
 **CVE(s) :**
