@@ -406,7 +406,7 @@
 **CVE(s) :**
 - **[CVE-2024-25621](https://www.cve.org/CVERecord?id=CVE-2024-25621)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-64329](https://www.cve.org/CVERecord?id=CVE-2025-64329)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-64329](https://www.cve.org/CVERecord?id=CVE-2025-64329)** : 🟠 **Severity: Medium** (Score: 6.9)
 
 **Debian Version :** bookworm
  **Package Version :** containerd 1.6.20~ds1-1+deb12u2 	[trixie] - containerd 1.7.24~ds1-6+deb13u1
