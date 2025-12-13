@@ -652,7 +652,7 @@
 **2025-12-03** - **[DSA-6069-1](https://security-tracker.debian.org/tracker/DSA-6069-1)** - openvpn
 
 **CVE(s) :**
-- **[CVE-2025-13086](https://www.cve.org/CVERecord?id=CVE-2025-13086)** : 🟠 **Severity: Medium** (Score: 4.6)
+- **[CVE-2025-13086](https://www.cve.org/CVERecord?id=CVE-2025-13086)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** openvpn 2.6.3-1+deb12u4 	[trixie] - openvpn 2.6.14-1+deb13u1
@@ -775,30 +775,6 @@
 **Debian Version :** trixie
  **Package Version :** gnome-shell-extension-gsconnect 62-1+deb13u1
  **Type :** DSA
-
-------------------------------
-
-**2025-11-29** - **[DLA-4388-1](https://security-tracker.debian.org/tracker/DLA-4388-1)** - tryton-server
-
-**CVE(s) :**
-- **[CVE-2025-66422](https://www.cve.org/CVERecord?id=CVE-2025-66422)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-66424](https://www.cve.org/CVERecord?id=CVE-2025-66424)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** tryton-server 5.0.33-2+deb11u4
- **Type :** DLA
-
-------------------------------
-
-**2025-11-29** - **[DLA-4387-1](https://security-tracker.debian.org/tracker/DLA-4387-1)** - qtbase-opensource-src
-
-**CVE(s) :**
-- **[CVE-2024-39936](https://www.cve.org/CVERecord?id=CVE-2024-39936)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** qtbase-opensource-src 5.15.2+dfsg-9+deb11u2
- **Type :** DLA
 
 ------------------------------
 
