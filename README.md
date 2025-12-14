@@ -692,7 +692,7 @@
 **2025-12-02** - **[DSA-6068-1](https://security-tracker.debian.org/tracker/DSA-6068-1)** - xen
 
 **CVE(s) :**
-- **[CVE-2024-28956](https://www.cve.org/CVERecord?id=CVE-2024-28956)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2024-28956](https://www.cve.org/CVERecord?id=CVE-2024-28956)** : 🟠 **Severity: Medium** (Score: 5.7)
 
 - **[CVE-2024-36350](https://www.cve.org/CVERecord?id=CVE-2024-36350)** : **Severity: Unknown** (Score: N/A)
 
@@ -782,28 +782,6 @@
 **Debian Version :** bullseye
  **Package Version :** pytorch 1.7.1-7+deb11u1
  **Type :** DLA
-
-------------------------------
-
-**2025-11-30** - **[DLA-4365-2](https://security-tracker.debian.org/tracker/DLA-4365-2)** - unbound
-
-**CVE(s) :**
-- **[CVE-2025-11411](https://www.cve.org/CVERecord?id=CVE-2025-11411)** : 🟠 **Severity: Medium** (Score: 5.7)
-
-**Debian Version :** bullseye
- **Package Version :** unbound 1.13.1-1+deb11u7
- **Type :** DLA
-
-------------------------------
-
-**2025-11-30** - **[DSA-6066-1](https://security-tracker.debian.org/tracker/DSA-6066-1)** - gnome-shell-extension-gsconnect
-
-**CVE(s) :**
-- **[CVE-2025-66270](https://www.cve.org/CVERecord?id=CVE-2025-66270)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** trixie
- **Package Version :** gnome-shell-extension-gsconnect 62-1+deb13u1
- **Type :** DSA
 
 ------------------------------
 
