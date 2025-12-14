@@ -1,5 +1,34 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-12-14** - **[DSA-6081-1](https://security-tracker.debian.org/tracker/DSA-6081-1)** - thunderbird
+
+**CVE(s) :**
+- **[CVE-2025-14321](https://www.cve.org/CVERecord?id=CVE-2025-14321)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-14322](https://www.cve.org/CVERecord?id=CVE-2025-14322)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-14323](https://www.cve.org/CVERecord?id=CVE-2025-14323)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-14324](https://www.cve.org/CVERecord?id=CVE-2025-14324)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-14325](https://www.cve.org/CVERecord?id=CVE-2025-14325)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-14328](https://www.cve.org/CVERecord?id=CVE-2025-14328)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-14329](https://www.cve.org/CVERecord?id=CVE-2025-14329)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-14330](https://www.cve.org/CVERecord?id=CVE-2025-14330)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-14331](https://www.cve.org/CVERecord?id=CVE-2025-14331)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-14333](https://www.cve.org/CVERecord?id=CVE-2025-14333)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** thunderbird 1:140.6.0esr-1~deb12u1 	[trixie] - thunderbird 1:140.6.0esr-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-12-13** - **[DLA-4405-1](https://security-tracker.debian.org/tracker/DLA-4405-1)** - thunderbird
 
 **CVE(s) :**
@@ -681,7 +710,7 @@
 **2025-12-03** - **[DSA-6069-1](https://security-tracker.debian.org/tracker/DSA-6069-1)** - openvpn
 
 **CVE(s) :**
-- **[CVE-2025-13086](https://www.cve.org/CVERecord?id=CVE-2025-13086)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-13086](https://www.cve.org/CVERecord?id=CVE-2025-13086)** : 🟠 **Severity: Medium** (Score: 4.6)
 
 **Debian Version :** bookworm
  **Package Version :** openvpn 2.6.3-1+deb12u4 	[trixie] - openvpn 2.6.14-1+deb13u1
