@@ -1,5 +1,33 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-12-15** - **[DLA-4407-1](https://security-tracker.debian.org/tracker/DLA-4407-1)** - ruby-sidekiq
+
+**CVE(s) :**
+- **[CVE-2021-30151](https://www.cve.org/CVERecord?id=CVE-2021-30151)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2022-23837](https://www.cve.org/CVERecord?id=CVE-2022-23837)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** ruby-sidekiq 6.0.4+dfsg-2+deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2025-12-15** - **[DLA-4406-1](https://security-tracker.debian.org/tracker/DLA-4406-1)** - ruby-git
+
+**CVE(s) :**
+- **[CVE-2022-25648](https://www.cve.org/CVERecord?id=CVE-2022-25648)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2022-46648](https://www.cve.org/CVERecord?id=CVE-2022-46648)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2022-47318](https://www.cve.org/CVERecord?id=CVE-2022-47318)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** ruby-git 1.7.0-1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-12-14** - **[DSA-6081-1](https://security-tracker.debian.org/tracker/DSA-6081-1)** - thunderbird
 
 **CVE(s) :**
@@ -721,7 +749,7 @@
 **2025-12-02** - **[DSA-6068-1](https://security-tracker.debian.org/tracker/DSA-6068-1)** - xen
 
 **CVE(s) :**
-- **[CVE-2024-28956](https://www.cve.org/CVERecord?id=CVE-2024-28956)** : 🟠 **Severity: Medium** (Score: 5.7)
+- **[CVE-2024-28956](https://www.cve.org/CVERecord?id=CVE-2024-28956)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2024-36350](https://www.cve.org/CVERecord?id=CVE-2024-36350)** : **Severity: Unknown** (Score: N/A)
 
@@ -761,56 +789,6 @@
 **Debian Version :** bookworm
  **Package Version :** containerd 1.6.20~ds1-1+deb12u2 	[trixie] - containerd 1.7.24~ds1-6+deb13u1
  **Type :** DSA
-
-------------------------------
-
-**2025-12-01** - **[DLA-4392-1](https://security-tracker.debian.org/tracker/DLA-4392-1)** - mistral-dashboard
-
-**CVE(s) :**
-- **[CVE-2021-4472](https://www.cve.org/CVERecord?id=CVE-2021-4472)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** mistral-dashboard 11.0.0-2+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-12-01** - **[DLA-4391-1](https://security-tracker.debian.org/tracker/DLA-4391-1)** - python-mistralclient
-
-**CVE(s) :**
-- **[CVE-2021-4472](https://www.cve.org/CVERecord?id=CVE-2021-4472)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** python-mistralclient 1:4.1.1-2+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-12-01** - **[DLA-4390-1](https://security-tracker.debian.org/tracker/DLA-4390-1)** - pagure
-
-**CVE(s) :**
-- **[CVE-2024-4981](https://www.cve.org/CVERecord?id=CVE-2024-4981)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-4982](https://www.cve.org/CVERecord?id=CVE-2024-4982)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-47515](https://www.cve.org/CVERecord?id=CVE-2024-47515)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-47516](https://www.cve.org/CVERecord?id=CVE-2024-47516)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** pagure 5.11.3+dfsg-1+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-12-01** - **[DLA-4389-1](https://security-tracker.debian.org/tracker/DLA-4389-1)** - pytorch
-
-**CVE(s) :**
-- **[CVE-2025-32434](https://www.cve.org/CVERecord?id=CVE-2025-32434)** : 🔥 **Severity: High** (Score: 9.3)
-
-**Debian Version :** bullseye
- **Package Version :** pytorch 1.7.1-7+deb11u1
- **Type :** DLA
 
 ------------------------------
 
