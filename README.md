@@ -1,5 +1,27 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-12-16** - **[DLA-4409-1](https://security-tracker.debian.org/tracker/DLA-4409-1)** - paramiko
+
+**CVE(s) :**
+- **[CVE-2022-24302](https://www.cve.org/CVERecord?id=CVE-2022-24302)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** paramiko 2.7.2-1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2025-12-16** - **[DLA-4408-1](https://security-tracker.debian.org/tracker/DLA-4408-1)** - python-apt
+
+**CVE(s) :**
+- **[CVE-2025-6966](https://www.cve.org/CVERecord?id=CVE-2025-6966)** : 🟠 **Severity: Medium** (Score: 6.9)
+
+**Debian Version :** bullseye
+ **Package Version :** python-apt 2.2.1.1
+ **Type :** DLA
+
+------------------------------
+
 **2025-12-15** - **[DLA-4407-1](https://security-tracker.debian.org/tracker/DLA-4407-1)** - ruby-sidekiq
 
 **CVE(s) :**
@@ -742,52 +764,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** openvpn 2.6.3-1+deb12u4 	[trixie] - openvpn 2.6.14-1+deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2025-12-02** - **[DSA-6068-1](https://security-tracker.debian.org/tracker/DSA-6068-1)** - xen
-
-**CVE(s) :**
-- **[CVE-2024-28956](https://www.cve.org/CVERecord?id=CVE-2024-28956)** : 🟠 **Severity: Medium** (Score: 5.7)
-
-- **[CVE-2024-36350](https://www.cve.org/CVERecord?id=CVE-2024-36350)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-36357](https://www.cve.org/CVERecord?id=CVE-2024-36357)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-27465](https://www.cve.org/CVERecord?id=CVE-2025-27465)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-27466](https://www.cve.org/CVERecord?id=CVE-2025-27466)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-58142](https://www.cve.org/CVERecord?id=CVE-2025-58142)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-58143](https://www.cve.org/CVERecord?id=CVE-2025-58143)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-58144](https://www.cve.org/CVERecord?id=CVE-2025-58144)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-58145](https://www.cve.org/CVERecord?id=CVE-2025-58145)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-58147](https://www.cve.org/CVERecord?id=CVE-2025-58147)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-58148](https://www.cve.org/CVERecord?id=CVE-2025-58148)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-58149](https://www.cve.org/CVERecord?id=CVE-2025-58149)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** xen 4.17.5+72-g01140da4e8-1 	[trixie] - xen 4.20.2+7-g1badcf5035-0+deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2025-12-02** - **[DSA-6067-1](https://security-tracker.debian.org/tracker/DSA-6067-1)** - containerd
-
-**CVE(s) :**
-- **[CVE-2024-25621](https://www.cve.org/CVERecord?id=CVE-2024-25621)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-64329](https://www.cve.org/CVERecord?id=CVE-2025-64329)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** containerd 1.6.20~ds1-1+deb12u2 	[trixie] - containerd 1.7.24~ds1-6+deb13u1
  **Type :** DSA
 
 ------------------------------
