@@ -1,5 +1,50 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-12-16** - **[DLA-4412-1](https://security-tracker.debian.org/tracker/DLA-4412-1)** - glib2.0
+
+**CVE(s) :**
+- **[CVE-2025-4373](https://www.cve.org/CVERecord?id=CVE-2025-4373)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-7039](https://www.cve.org/CVERecord?id=CVE-2025-7039)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-13601](https://www.cve.org/CVERecord?id=CVE-2025-13601)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-14087](https://www.cve.org/CVERecord?id=CVE-2025-14087)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-14512](https://www.cve.org/CVERecord?id=CVE-2025-14512)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** glib2.0 2.66.8-1+deb11u7
+ **Type :** DLA
+
+------------------------------
+
+**2025-12-16** - **[DLA-4411-1](https://security-tracker.debian.org/tracker/DLA-4411-1)** - libgd2
+
+**CVE(s) :**
+- **[CVE-2021-38115](https://www.cve.org/CVERecord?id=CVE-2021-38115)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2021-40145](https://www.cve.org/CVERecord?id=CVE-2021-40145)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2021-40812](https://www.cve.org/CVERecord?id=CVE-2021-40812)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** libgd2 2.3.0-2+deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2025-12-16** - **[DLA-4410-1](https://security-tracker.debian.org/tracker/DLA-4410-1)** - binwalk
+
+**CVE(s) :**
+- **[CVE-2022-4510](https://www.cve.org/CVERecord?id=CVE-2022-4510)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** binwalk 2.3.1+dfsg1-1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-12-16** - **[DLA-4409-1](https://security-tracker.debian.org/tracker/DLA-4409-1)** - paramiko
 
 **CVE(s) :**
@@ -760,7 +805,7 @@
 **2025-12-03** - **[DSA-6069-1](https://security-tracker.debian.org/tracker/DSA-6069-1)** - openvpn
 
 **CVE(s) :**
-- **[CVE-2025-13086](https://www.cve.org/CVERecord?id=CVE-2025-13086)** : 🟠 **Severity: Medium** (Score: 4.6)
+- **[CVE-2025-13086](https://www.cve.org/CVERecord?id=CVE-2025-13086)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** openvpn 2.6.3-1+deb12u4 	[trixie] - openvpn 2.6.14-1+deb13u1
