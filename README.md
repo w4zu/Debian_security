@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-12-16** - **[DLA-4413-1](https://security-tracker.debian.org/tracker/DLA-4413-1)** - node-url-parse
+
+**CVE(s) :**
+- **[CVE-2022-0639](https://www.cve.org/CVERecord?id=CVE-2022-0639)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** node-url-parse 1.5.3-1+deb11u3
+ **Type :** DLA
+
+------------------------------
+
 **2025-12-16** - **[DLA-4412-1](https://security-tracker.debian.org/tracker/DLA-4412-1)** - glib2.0
 
 **CVE(s) :**
@@ -752,7 +763,7 @@
 **2025-12-04** - **[DSA-6071-1](https://security-tracker.debian.org/tracker/DSA-6071-1)** - unbound
 
 **CVE(s) :**
-- **[CVE-2025-11411](https://www.cve.org/CVERecord?id=CVE-2025-11411)** : 🟠 **Severity: Medium** (Score: 5.7)
+- **[CVE-2025-11411](https://www.cve.org/CVERecord?id=CVE-2025-11411)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** trixie
  **Package Version :** unbound 1.22.0-2+deb13u1
@@ -805,7 +816,7 @@
 **2025-12-03** - **[DSA-6069-1](https://security-tracker.debian.org/tracker/DSA-6069-1)** - openvpn
 
 **CVE(s) :**
-- **[CVE-2025-13086](https://www.cve.org/CVERecord?id=CVE-2025-13086)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-13086](https://www.cve.org/CVERecord?id=CVE-2025-13086)** : 🟠 **Severity: Medium** (Score: 4.6)
 
 **Debian Version :** bookworm
  **Package Version :** openvpn 2.6.3-1+deb12u4 	[trixie] - openvpn 2.6.14-1+deb13u1
