@@ -524,6 +524,19 @@
 
 ------------------------------
 
+**2025-12-10** - **[DSA-6079-1](https://security-tracker.debian.org/tracker/DSA-6079-1)** - ffmpeg
+
+**CVE(s) :**
+- **[CVE-2024-36618](https://www.cve.org/CVERecord?id=CVE-2024-36618)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-1594](https://www.cve.org/CVERecord?id=CVE-2025-1594)** : 🟠 **Severity: Medium** (Score: 5.3)
+
+**Debian Version :** bookworm
+ **Package Version :** ffmpeg 7:5.1.8-0+deb12u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-12-10** - **[DSA-6078-1](https://security-tracker.debian.org/tracker/DSA-6078-1)** - firefox-esr
 
 **CVE(s) :**
