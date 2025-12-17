@@ -776,7 +776,7 @@
 **2025-12-04** - **[DSA-6071-1](https://security-tracker.debian.org/tracker/DSA-6071-1)** - unbound
 
 **CVE(s) :**
-- **[CVE-2025-11411](https://www.cve.org/CVERecord?id=CVE-2025-11411)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-11411](https://www.cve.org/CVERecord?id=CVE-2025-11411)** : 🟠 **Severity: Medium** (Score: 5.7)
 
 **Debian Version :** trixie
  **Package Version :** unbound 1.22.0-2+deb13u1
