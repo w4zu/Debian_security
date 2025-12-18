@@ -1,5 +1,52 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-12-18** - **[DLA-4415-1](https://security-tracker.debian.org/tracker/DLA-4415-1)** - roundcube
+
+**CVE(s) :**
+- **[CVE-2025-68460](https://www.cve.org/CVERecord?id=CVE-2025-68460)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-68461](https://www.cve.org/CVERecord?id=CVE-2025-68461)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** roundcube 1.4.15+dfsg.1-1+deb11u6
+ **Type :** DLA
+
+------------------------------
+
+**2025-12-18** - **[DLA-4414-1](https://security-tracker.debian.org/tracker/DLA-4414-1)** - webkit2gtk
+
+**CVE(s) :**
+- **[CVE-2025-14174](https://www.cve.org/CVERecord?id=CVE-2025-14174)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43501](https://www.cve.org/CVERecord?id=CVE-2025-43501)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43529](https://www.cve.org/CVERecord?id=CVE-2025-43529)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43531](https://www.cve.org/CVERecord?id=CVE-2025-43531)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43535](https://www.cve.org/CVERecord?id=CVE-2025-43535)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43536](https://www.cve.org/CVERecord?id=CVE-2025-43536)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43541](https://www.cve.org/CVERecord?id=CVE-2025-43541)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** webkit2gtk 2.50.4-1~deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2025-12-18** - **[DSA-6084-1](https://security-tracker.debian.org/tracker/DSA-6084-1)** - c-ares
+
+**CVE(s) :**
+- **[CVE-2025-62408](https://www.cve.org/CVERecord?id=CVE-2025-62408)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** c-ares 1.34.5-1+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-12-18** - **[DSA-6083-1](https://security-tracker.debian.org/tracker/DSA-6083-1)** - webkit2gtk
 
 **CVE(s) :**
@@ -552,7 +599,7 @@
 **CVE(s) :**
 - **[CVE-2024-36618](https://www.cve.org/CVERecord?id=CVE-2024-36618)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-1594](https://www.cve.org/CVERecord?id=CVE-2025-1594)** : 🟠 **Severity: Medium** (Score: 5.3)
+- **[CVE-2025-1594](https://www.cve.org/CVERecord?id=CVE-2025-1594)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** ffmpeg 7:5.1.8-0+deb12u1
