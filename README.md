@@ -1,5 +1,28 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-12-18** - **[DSA-6083-1](https://security-tracker.debian.org/tracker/DSA-6083-1)** - webkit2gtk
+
+**CVE(s) :**
+- **[CVE-2025-14174](https://www.cve.org/CVERecord?id=CVE-2025-14174)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43501](https://www.cve.org/CVERecord?id=CVE-2025-43501)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43529](https://www.cve.org/CVERecord?id=CVE-2025-43529)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43531](https://www.cve.org/CVERecord?id=CVE-2025-43531)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43535](https://www.cve.org/CVERecord?id=CVE-2025-43535)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43536](https://www.cve.org/CVERecord?id=CVE-2025-43536)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43541](https://www.cve.org/CVERecord?id=CVE-2025-43541)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** webkit2gtk 2.50.4-1~deb12u1 	[trixie] - webkit2gtk 2.50.4-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-12-16** - **[DLA-4413-1](https://security-tracker.debian.org/tracker/DLA-4413-1)** - node-url-parse
 
 **CVE(s) :**
