@@ -599,7 +599,9 @@
 **CVE(s) :**
 - **[CVE-2024-36618](https://www.cve.org/CVERecord?id=CVE-2024-36618)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-1594](https://www.cve.org/CVERecord?id=CVE-2025-1594)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-1594](https://www.cve.org/CVERecord?id=CVE-2025-1594)** : 🟠 **Severity: Medium** (Score: 5.3)
+
+- **[CVE-2025-63757](https://www.cve.org/CVERecord?id=CVE-2025-63757)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** ffmpeg 7:5.1.8-0+deb12u1
@@ -760,20 +762,11 @@
 **CVE(s) :**
 - **[CVE-2025-25473](https://www.cve.org/CVERecord?id=CVE-2025-25473)** : **Severity: Unknown** (Score: N/A)
 
+- **[CVE-2025-63757](https://www.cve.org/CVERecord?id=CVE-2025-63757)** : **Severity: Unknown** (Score: N/A)
+
 **Debian Version :** trixie
  **Package Version :** ffmpeg 7:7.1.3-0+deb13u1
  **Type :** DSA
-
-------------------------------
-
-**2025-12-05** - **[DLA-4395-1](https://security-tracker.debian.org/tracker/DLA-4395-1)** - krita
-
-**CVE(s) :**
-- **[CVE-2025-59820](https://www.cve.org/CVERecord?id=CVE-2025-59820)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** krita 1:4.4.2+dfsg-1+deb11u1
- **Type :** DLA
 
 ------------------------------
 
