@@ -1,5 +1,76 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-12-19** - **[DSA-6087-1](https://security-tracker.debian.org/tracker/DSA-6087-1)** - roundcube
+
+**CVE(s) :**
+- **[CVE-2025-68460](https://www.cve.org/CVERecord?id=CVE-2025-68460)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-68461](https://www.cve.org/CVERecord?id=CVE-2025-68461)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** roundcube 1.6.5+dfsg-1+deb12u6 	[trixie] - roundcube 1.6.12+dfsg-0+deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2025-12-19** - **[DSA-6086-1](https://security-tracker.debian.org/tracker/DSA-6086-1)** - dropbear
+
+**CVE(s) :**
+- **[CVE-2025-14282](https://www.cve.org/CVERecord?id=CVE-2025-14282)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** dropbear 2025.89-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2025-12-19** - **[DSA-6085-1](https://security-tracker.debian.org/tracker/DSA-6085-1)** - mediawiki
+
+**CVE(s) :**
+- **[CVE-2025-11173](https://www.cve.org/CVERecord?id=CVE-2025-11173)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-11261](https://www.cve.org/CVERecord?id=CVE-2025-11261)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-61635](https://www.cve.org/CVERecord?id=CVE-2025-61635)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-61638](https://www.cve.org/CVERecord?id=CVE-2025-61638)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-61639](https://www.cve.org/CVERecord?id=CVE-2025-61639)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-61640](https://www.cve.org/CVERecord?id=CVE-2025-61640)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-61641](https://www.cve.org/CVERecord?id=CVE-2025-61641)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-61643](https://www.cve.org/CVERecord?id=CVE-2025-61643)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-61646](https://www.cve.org/CVERecord?id=CVE-2025-61646)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-61653](https://www.cve.org/CVERecord?id=CVE-2025-61653)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-61655](https://www.cve.org/CVERecord?id=CVE-2025-61655)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-61656](https://www.cve.org/CVERecord?id=CVE-2025-61656)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-67475](https://www.cve.org/CVERecord?id=CVE-2025-67475)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-67478](https://www.cve.org/CVERecord?id=CVE-2025-67478)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-67479](https://www.cve.org/CVERecord?id=CVE-2025-67479)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-67480](https://www.cve.org/CVERecord?id=CVE-2025-67480)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-67481](https://www.cve.org/CVERecord?id=CVE-2025-67481)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-67482](https://www.cve.org/CVERecord?id=CVE-2025-67482)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-67484](https://www.cve.org/CVERecord?id=CVE-2025-67484)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** mediawiki 1:1.39.17-1~deb12u1 	[trixie] - mediawiki 1:1.43.6+dfsg-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-12-18** - **[DLA-4415-1](https://security-tracker.debian.org/tracker/DLA-4415-1)** - roundcube
 
 **CVE(s) :**
