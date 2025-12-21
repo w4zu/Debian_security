@@ -1,5 +1,44 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-12-21** - **[DLA-4416-1](https://security-tracker.debian.org/tracker/DLA-4416-1)** - rails
+
+**CVE(s) :**
+- **[CVE-2025-24293](https://www.cve.org/CVERecord?id=CVE-2025-24293)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-55193](https://www.cve.org/CVERecord?id=CVE-2025-55193)** : 🟠 **Severity: Medium** (Score: 2.7)
+
+**Debian Version :** bullseye
+ **Package Version :** rails 2:6.0.3.7+dfsg-2+deb11u4
+ **Type :** DLA
+
+------------------------------
+
+**2025-12-21** - **[DSA-6091-1](https://security-tracker.debian.org/tracker/DSA-6091-1)** - wordpress
+
+**CVE(s) :**
+- **[CVE-2025-58246](https://www.cve.org/CVERecord?id=CVE-2025-58246)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-58674](https://www.cve.org/CVERecord?id=CVE-2025-58674)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** wordpress 6.8.3+dfsg1-0+deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2025-12-21** - **[DSA-6090-1](https://security-tracker.debian.org/tracker/DSA-6090-1)** - rails
+
+**CVE(s) :**
+- **[CVE-2025-24293](https://www.cve.org/CVERecord?id=CVE-2025-24293)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-55193](https://www.cve.org/CVERecord?id=CVE-2025-55193)** : 🟠 **Severity: Medium** (Score: 2.7)
+
+**Debian Version :** bookworm
+ **Package Version :** rails 2:6.1.7.10+dfsg-1~deb12u2 	[trixie] - rails 2:7.2.2.2+dfsg-2~deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-12-21** - **[DSA-6089-1](https://security-tracker.debian.org/tracker/DSA-6089-1)** - chromium
 
 **CVE(s) :**
@@ -698,7 +737,7 @@
 **CVE(s) :**
 - **[CVE-2024-36618](https://www.cve.org/CVERecord?id=CVE-2024-36618)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-1594](https://www.cve.org/CVERecord?id=CVE-2025-1594)** : 🟠 **Severity: Medium** (Score: 5.3)
+- **[CVE-2025-1594](https://www.cve.org/CVERecord?id=CVE-2025-1594)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-63757](https://www.cve.org/CVERecord?id=CVE-2025-63757)** : **Severity: Unknown** (Score: N/A)
 
