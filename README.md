@@ -1,5 +1,33 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-12-21** - **[DSA-6089-1](https://security-tracker.debian.org/tracker/DSA-6089-1)** - chromium
+
+**CVE(s) :**
+- **[CVE-2025-14765](https://www.cve.org/CVERecord?id=CVE-2025-14765)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-14766](https://www.cve.org/CVERecord?id=CVE-2025-14766)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** chromium 143.0.7499.169-1~deb12u1 	[trixie] - chromium 143.0.7499.169-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2025-12-21** - **[DSA-6088-1](https://security-tracker.debian.org/tracker/DSA-6088-1)** - php8.4
+
+**CVE(s) :**
+- **[CVE-2025-14177](https://www.cve.org/CVERecord?id=CVE-2025-14177)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-14178](https://www.cve.org/CVERecord?id=CVE-2025-14178)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-14180](https://www.cve.org/CVERecord?id=CVE-2025-14180)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** php8.4 8.4.16-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2025-12-19** - **[DSA-6087-1](https://security-tracker.debian.org/tracker/DSA-6087-1)** - roundcube
 
 **CVE(s) :**
