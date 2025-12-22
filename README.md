@@ -1,5 +1,27 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-12-22** - **[DLA-4418-1](https://security-tracker.debian.org/tracker/DLA-4418-1)** - python-mechanize
+
+**CVE(s) :**
+- **[CVE-2021-32837](https://www.cve.org/CVERecord?id=CVE-2021-32837)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** python-mechanize 1:0.4.5-2+deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2025-12-22** - **[DLA-4417-1](https://security-tracker.debian.org/tracker/DLA-4417-1)** - usbmuxd
+
+**CVE(s) :**
+- **[CVE-2025-66004](https://www.cve.org/CVERecord?id=CVE-2025-66004)** : 🟠 **Severity: Medium** (Score: 5.1)
+
+**Debian Version :** bullseye
+ **Package Version :** usbmuxd 1.1.1-2+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-12-21** - **[DLA-4416-1](https://security-tracker.debian.org/tracker/DLA-4416-1)** - rails
 
 **CVE(s) :**
@@ -737,7 +759,7 @@
 **CVE(s) :**
 - **[CVE-2024-36618](https://www.cve.org/CVERecord?id=CVE-2024-36618)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-1594](https://www.cve.org/CVERecord?id=CVE-2025-1594)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-1594](https://www.cve.org/CVERecord?id=CVE-2025-1594)** : 🟠 **Severity: Medium** (Score: 5.3)
 
 - **[CVE-2025-63757](https://www.cve.org/CVERecord?id=CVE-2025-63757)** : **Severity: Unknown** (Score: N/A)
 
@@ -856,23 +878,6 @@
 **Debian Version :** bookworm
  **Package Version :** webkit2gtk 2.50.3-1~deb12u1 	[trixie] - webkit2gtk 2.50.3-1~deb13u1
  **Type :** DSA
-
-------------------------------
-
-**2025-12-08** - **[DLA-4397-1](https://security-tracker.debian.org/tracker/DLA-4397-1)** - lasso
-
-**CVE(s) :**
-- **[CVE-2025-46404](https://www.cve.org/CVERecord?id=CVE-2025-46404)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-46705](https://www.cve.org/CVERecord?id=CVE-2025-46705)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-46784](https://www.cve.org/CVERecord?id=CVE-2025-46784)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-47151](https://www.cve.org/CVERecord?id=CVE-2025-47151)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** lasso 2.6.1-3+deb11u1
- **Type :** DLA
 
 ------------------------------
 
