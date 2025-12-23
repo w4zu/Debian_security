@@ -300,7 +300,7 @@
 **2025-12-16** - **[DLA-4408-1](https://security-tracker.debian.org/tracker/DLA-4408-1)** - python-apt
 
 **CVE(s) :**
-- **[CVE-2025-6966](https://www.cve.org/CVERecord?id=CVE-2025-6966)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-6966](https://www.cve.org/CVERecord?id=CVE-2025-6966)** : 🟠 **Severity: Medium** (Score: 6.9)
 
 **Debian Version :** bullseye
  **Package Version :** python-apt 2.2.1.1
