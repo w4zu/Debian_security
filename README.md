@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-12-25** - **[DLA-4419-1](https://security-tracker.debian.org/tracker/DLA-4419-1)** - gst-plugins-good1.0
+
+**CVE(s) :**
+- **[CVE-2025-47183](https://www.cve.org/CVERecord?id=CVE-2025-47183)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-47219](https://www.cve.org/CVERecord?id=CVE-2025-47219)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** gst-plugins-good1.0 1.18.4-2+deb11u4
+ **Type :** DLA
+
+------------------------------
+
 **2025-12-22** - **[DLA-4418-1](https://security-tracker.debian.org/tracker/DLA-4418-1)** - python-mechanize
 
 **CVE(s) :**
