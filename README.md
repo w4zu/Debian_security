@@ -14,7 +14,7 @@
 **2025-12-22** - **[DLA-4417-1](https://security-tracker.debian.org/tracker/DLA-4417-1)** - usbmuxd
 
 **CVE(s) :**
-- **[CVE-2025-66004](https://www.cve.org/CVERecord?id=CVE-2025-66004)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-66004](https://www.cve.org/CVERecord?id=CVE-2025-66004)** : 🟠 **Severity: Medium** (Score: 5.1)
 
 **Debian Version :** bullseye
  **Package Version :** usbmuxd 1.1.1-2+deb11u1
@@ -683,46 +683,6 @@
 **Debian Version :** bookworm
  **Package Version :** chromium 143.0.7499.109-1~deb12u1 	[trixie] - chromium 143.0.7499.109-1~deb13u1
  **Type :** DSA
-
-------------------------------
-
-**2025-12-11** - **[DLA-4402-1](https://security-tracker.debian.org/tracker/DLA-4402-1)** - libsndfile
-
-**CVE(s) :**
-- **[CVE-2021-4156](https://www.cve.org/CVERecord?id=CVE-2021-4156)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** libsndfile 1.0.31-2+deb11u2
- **Type :** DLA
-
-------------------------------
-
-**2025-12-11** - **[DLA-4401-1](https://security-tracker.debian.org/tracker/DLA-4401-1)** - firefox-esr
-
-**CVE(s) :**
-- **[CVE-2025-14321](https://www.cve.org/CVERecord?id=CVE-2025-14321)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-14322](https://www.cve.org/CVERecord?id=CVE-2025-14322)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-14323](https://www.cve.org/CVERecord?id=CVE-2025-14323)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-14324](https://www.cve.org/CVERecord?id=CVE-2025-14324)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-14325](https://www.cve.org/CVERecord?id=CVE-2025-14325)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-14328](https://www.cve.org/CVERecord?id=CVE-2025-14328)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-14329](https://www.cve.org/CVERecord?id=CVE-2025-14329)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-14330](https://www.cve.org/CVERecord?id=CVE-2025-14330)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-14331](https://www.cve.org/CVERecord?id=CVE-2025-14331)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-14333](https://www.cve.org/CVERecord?id=CVE-2025-14333)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** firefox-esr 140.6.0esr-1~deb11u1
- **Type :** DLA
 
 ------------------------------
 
