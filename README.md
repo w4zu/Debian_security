@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-12-26** - **[DLA-4421-1](https://security-tracker.debian.org/tracker/DLA-4421-1)** - python-urllib3
+
+**CVE(s) :**
+- **[CVE-2025-50181](https://www.cve.org/CVERecord?id=CVE-2025-50181)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-66418](https://www.cve.org/CVERecord?id=CVE-2025-66418)** : 🔥 **Severity: High** (Score: 8.9)
+
+**Debian Version :** bullseye
+ **Package Version :** python-urllib3 1.26.5-1~exp1+deb11u2
+ **Type :** DLA
+
+------------------------------
+
 **2025-12-26** - **[DLA-4420-1](https://security-tracker.debian.org/tracker/DLA-4420-1)** - postgresql-13
 
 **CVE(s) :**
