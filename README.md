@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-12-27** - **[DLA-4422-1](https://security-tracker.debian.org/tracker/DLA-4422-1)** - pgbouncer
+
+**CVE(s) :**
+- **[CVE-2025-12819](https://www.cve.org/CVERecord?id=CVE-2025-12819)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** pgbouncer 1.15.0-1+deb11u2
+ **Type :** DLA
+
+------------------------------
+
 **2025-12-26** - **[DLA-4421-1](https://security-tracker.debian.org/tracker/DLA-4421-1)** - python-urllib3
 
 **CVE(s) :**
