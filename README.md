@@ -127,11 +127,11 @@
 **2025-12-21** - **[DSA-6088-1](https://security-tracker.debian.org/tracker/DSA-6088-1)** - php8.4
 
 **CVE(s) :**
-- **[CVE-2025-14177](https://www.cve.org/CVERecord?id=CVE-2025-14177)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-14177](https://www.cve.org/CVERecord?id=CVE-2025-14177)** : 🟠 **Severity: Medium** (Score: 6.3)
 
 - **[CVE-2025-14178](https://www.cve.org/CVERecord?id=CVE-2025-14178)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-14180](https://www.cve.org/CVERecord?id=CVE-2025-14180)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-14180](https://www.cve.org/CVERecord?id=CVE-2025-14180)** : 🔥 **Severity: High** (Score: 8.2)
 
 **Debian Version :** trixie
  **Package Version :** php8.4 8.4.16-1~deb13u1
@@ -383,35 +383,6 @@
 **Debian Version :** bullseye
  **Package Version :** ruby-git 1.7.0-1+deb11u1
  **Type :** DLA
-
-------------------------------
-
-**2025-12-14** - **[DSA-6081-1](https://security-tracker.debian.org/tracker/DSA-6081-1)** - thunderbird
-
-**CVE(s) :**
-- **[CVE-2025-14321](https://www.cve.org/CVERecord?id=CVE-2025-14321)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-14322](https://www.cve.org/CVERecord?id=CVE-2025-14322)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-14323](https://www.cve.org/CVERecord?id=CVE-2025-14323)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-14324](https://www.cve.org/CVERecord?id=CVE-2025-14324)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-14325](https://www.cve.org/CVERecord?id=CVE-2025-14325)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-14328](https://www.cve.org/CVERecord?id=CVE-2025-14328)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-14329](https://www.cve.org/CVERecord?id=CVE-2025-14329)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-14330](https://www.cve.org/CVERecord?id=CVE-2025-14330)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-14331](https://www.cve.org/CVERecord?id=CVE-2025-14331)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-14333](https://www.cve.org/CVERecord?id=CVE-2025-14333)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** thunderbird 1:140.6.0esr-1~deb12u1 	[trixie] - thunderbird 1:140.6.0esr-1~deb13u1
- **Type :** DSA
 
 ------------------------------
 
