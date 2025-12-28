@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-12-28** - **[DLA-4423-1](https://security-tracker.debian.org/tracker/DLA-4423-1)** - kodi
+
+**CVE(s) :**
+- **[CVE-2023-23082](https://www.cve.org/CVERecord?id=CVE-2023-23082)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2023-30207](https://www.cve.org/CVERecord?id=CVE-2023-30207)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** kodi 2:19.1+dfsg2-2+deb11u2
+ **Type :** DLA
+
+------------------------------
+
 **2025-12-27** - **[DLA-4422-1](https://security-tracker.debian.org/tracker/DLA-4422-1)** - pgbouncer
 
 **CVE(s) :**
@@ -77,7 +90,7 @@
 **CVE(s) :**
 - **[CVE-2025-24293](https://www.cve.org/CVERecord?id=CVE-2025-24293)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-55193](https://www.cve.org/CVERecord?id=CVE-2025-55193)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-55193](https://www.cve.org/CVERecord?id=CVE-2025-55193)** : 🟠 **Severity: Medium** (Score: 2.7)
 
 **Debian Version :** bullseye
  **Package Version :** rails 2:6.0.3.7+dfsg-2+deb11u4
@@ -103,7 +116,7 @@
 **CVE(s) :**
 - **[CVE-2025-24293](https://www.cve.org/CVERecord?id=CVE-2025-24293)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-55193](https://www.cve.org/CVERecord?id=CVE-2025-55193)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-55193](https://www.cve.org/CVERecord?id=CVE-2025-55193)** : 🟠 **Severity: Medium** (Score: 2.7)
 
 **Debian Version :** bookworm
  **Package Version :** rails 2:6.1.7.10+dfsg-1~deb12u2 	[trixie] - rails 2:7.2.2.2+dfsg-2~deb13u1
@@ -131,7 +144,7 @@
 
 - **[CVE-2025-14178](https://www.cve.org/CVERecord?id=CVE-2025-14178)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-14180](https://www.cve.org/CVERecord?id=CVE-2025-14180)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-14180](https://www.cve.org/CVERecord?id=CVE-2025-14180)** : 🔥 **Severity: High** (Score: 8.2)
 
 **Debian Version :** trixie
  **Package Version :** php8.4 8.4.16-1~deb13u1
