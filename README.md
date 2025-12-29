@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-12-29** - **[DLA-4424-1](https://security-tracker.debian.org/tracker/DLA-4424-1)** - openjpeg2
+
+**CVE(s) :**
+- **[CVE-2025-50952](https://www.cve.org/CVERecord?id=CVE-2025-50952)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** openjpeg2 2.4.0-3+deb11u2
+ **Type :** DLA
+
+------------------------------
+
 **2025-12-28** - **[DLA-4423-1](https://security-tracker.debian.org/tracker/DLA-4423-1)** - kodi
 
 **CVE(s) :**
