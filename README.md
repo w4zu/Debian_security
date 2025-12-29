@@ -144,7 +144,7 @@
 
 - **[CVE-2025-14178](https://www.cve.org/CVERecord?id=CVE-2025-14178)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-14180](https://www.cve.org/CVERecord?id=CVE-2025-14180)** : 🔥 **Severity: High** (Score: 8.2)
+- **[CVE-2025-14180](https://www.cve.org/CVERecord?id=CVE-2025-14180)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** trixie
  **Package Version :** php8.4 8.4.16-1~deb13u1
