@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-12-29** - **[DLA-4425-1](https://security-tracker.debian.org/tracker/DLA-4425-1)** - python-django
+
+**CVE(s) :**
+- **[CVE-2025-64459](https://www.cve.org/CVERecord?id=CVE-2025-64459)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-64460](https://www.cve.org/CVERecord?id=CVE-2025-64460)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** python-django 2:2.2.28-1~deb11u10
+ **Type :** DLA
+
+------------------------------
+
 **2025-12-29** - **[DLA-4424-1](https://security-tracker.debian.org/tracker/DLA-4424-1)** - openjpeg2
 
 **CVE(s) :**
@@ -301,84 +314,6 @@
 **Debian Version :** bookworm
  **Package Version :** webkit2gtk 2.50.4-1~deb12u1 	[trixie] - webkit2gtk 2.50.4-1~deb13u1
  **Type :** DSA
-
-------------------------------
-
-**2025-12-16** - **[DLA-4413-1](https://security-tracker.debian.org/tracker/DLA-4413-1)** - node-url-parse
-
-**CVE(s) :**
-- **[CVE-2022-0639](https://www.cve.org/CVERecord?id=CVE-2022-0639)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** node-url-parse 1.5.3-1+deb11u3
- **Type :** DLA
-
-------------------------------
-
-**2025-12-16** - **[DLA-4412-1](https://security-tracker.debian.org/tracker/DLA-4412-1)** - glib2.0
-
-**CVE(s) :**
-- **[CVE-2025-4373](https://www.cve.org/CVERecord?id=CVE-2025-4373)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-7039](https://www.cve.org/CVERecord?id=CVE-2025-7039)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-13601](https://www.cve.org/CVERecord?id=CVE-2025-13601)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-14087](https://www.cve.org/CVERecord?id=CVE-2025-14087)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-14512](https://www.cve.org/CVERecord?id=CVE-2025-14512)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** glib2.0 2.66.8-1+deb11u7
- **Type :** DLA
-
-------------------------------
-
-**2025-12-16** - **[DLA-4411-1](https://security-tracker.debian.org/tracker/DLA-4411-1)** - libgd2
-
-**CVE(s) :**
-- **[CVE-2021-38115](https://www.cve.org/CVERecord?id=CVE-2021-38115)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2021-40145](https://www.cve.org/CVERecord?id=CVE-2021-40145)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2021-40812](https://www.cve.org/CVERecord?id=CVE-2021-40812)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** libgd2 2.3.0-2+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-12-16** - **[DLA-4410-1](https://security-tracker.debian.org/tracker/DLA-4410-1)** - binwalk
-
-**CVE(s) :**
-- **[CVE-2022-4510](https://www.cve.org/CVERecord?id=CVE-2022-4510)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** binwalk 2.3.1+dfsg1-1+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-12-16** - **[DLA-4409-1](https://security-tracker.debian.org/tracker/DLA-4409-1)** - paramiko
-
-**CVE(s) :**
-- **[CVE-2022-24302](https://www.cve.org/CVERecord?id=CVE-2022-24302)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** paramiko 2.7.2-1+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-12-16** - **[DLA-4408-1](https://security-tracker.debian.org/tracker/DLA-4408-1)** - python-apt
-
-**CVE(s) :**
-- **[CVE-2025-6966](https://www.cve.org/CVERecord?id=CVE-2025-6966)** : 🟠 **Severity: Medium** (Score: 6.9)
-
-**Debian Version :** bullseye
- **Package Version :** python-apt 2.2.1.1
- **Type :** DLA
 
 ------------------------------
 
