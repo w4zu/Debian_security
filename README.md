@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-12-30** - **[DLA-4426-1](https://security-tracker.debian.org/tracker/DLA-4426-1)** - osslsigncode
+
+**CVE(s) :**
+- **[CVE-2023-36377](https://www.cve.org/CVERecord?id=CVE-2023-36377)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** osslsigncode 2.5-4~deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2025-12-29** - **[DLA-4425-1](https://security-tracker.debian.org/tracker/DLA-4425-1)** - python-django
 
 **CVE(s) :**
