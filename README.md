@@ -1,5 +1,28 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-12-30** - **[DLA-4428-1](https://security-tracker.debian.org/tracker/DLA-4428-1)** - mediawiki
+
+**CVE(s) :**
+- **[CVE-2025-67475](https://www.cve.org/CVERecord?id=CVE-2025-67475)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-67478](https://www.cve.org/CVERecord?id=CVE-2025-67478)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-67479](https://www.cve.org/CVERecord?id=CVE-2025-67479)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-67480](https://www.cve.org/CVERecord?id=CVE-2025-67480)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-67481](https://www.cve.org/CVERecord?id=CVE-2025-67481)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-67482](https://www.cve.org/CVERecord?id=CVE-2025-67482)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-67484](https://www.cve.org/CVERecord?id=CVE-2025-67484)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** mediawiki 1:1.35.13-1+deb11u6
+ **Type :** DLA
+
+------------------------------
+
 **2025-12-30** - **[DLA-4427-1](https://security-tracker.debian.org/tracker/DLA-4427-1)** - php-dompdf
 
 **CVE(s) :**
@@ -138,7 +161,7 @@
 **CVE(s) :**
 - **[CVE-2025-24293](https://www.cve.org/CVERecord?id=CVE-2025-24293)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-55193](https://www.cve.org/CVERecord?id=CVE-2025-55193)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-55193](https://www.cve.org/CVERecord?id=CVE-2025-55193)** : 🟠 **Severity: Medium** (Score: 2.7)
 
 **Debian Version :** bullseye
  **Package Version :** rails 2:6.0.3.7+dfsg-2+deb11u4
@@ -164,7 +187,7 @@
 **CVE(s) :**
 - **[CVE-2025-24293](https://www.cve.org/CVERecord?id=CVE-2025-24293)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-55193](https://www.cve.org/CVERecord?id=CVE-2025-55193)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-55193](https://www.cve.org/CVERecord?id=CVE-2025-55193)** : 🟠 **Severity: Medium** (Score: 2.7)
 
 **Debian Version :** bookworm
  **Package Version :** rails 2:6.1.7.10+dfsg-1~deb12u2 	[trixie] - rails 2:7.2.2.2+dfsg-2~deb13u1
@@ -192,7 +215,7 @@
 
 - **[CVE-2025-14178](https://www.cve.org/CVERecord?id=CVE-2025-14178)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-14180](https://www.cve.org/CVERecord?id=CVE-2025-14180)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-14180](https://www.cve.org/CVERecord?id=CVE-2025-14180)** : 🔥 **Severity: High** (Score: 8.2)
 
 **Debian Version :** trixie
  **Package Version :** php8.4 8.4.16-1~deb13u1
