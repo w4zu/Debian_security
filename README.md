@@ -100,7 +100,7 @@
 **CVE(s) :**
 - **[CVE-2025-50181](https://www.cve.org/CVERecord?id=CVE-2025-50181)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-66418](https://www.cve.org/CVERecord?id=CVE-2025-66418)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-66418](https://www.cve.org/CVERecord?id=CVE-2025-66418)** : 🔥 **Severity: High** (Score: 8.9)
 
 **Debian Version :** bullseye
  **Package Version :** python-urllib3 1.26.5-1~exp1+deb11u2
