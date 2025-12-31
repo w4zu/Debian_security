@@ -1,5 +1,26 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2025-12-31** - **[DLA-4429-1](https://security-tracker.debian.org/tracker/DLA-4429-1)** - imagemagick
+
+**CVE(s) :**
+- **[CVE-2025-65955](https://www.cve.org/CVERecord?id=CVE-2025-65955)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-66628](https://www.cve.org/CVERecord?id=CVE-2025-66628)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-68469](https://www.cve.org/CVERecord?id=CVE-2025-68469)** : 🟠 **Severity: Medium** (Score: 2)
+
+- **[CVE-2025-68618](https://www.cve.org/CVERecord?id=CVE-2025-68618)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-68950](https://www.cve.org/CVERecord?id=CVE-2025-68950)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-69204](https://www.cve.org/CVERecord?id=CVE-2025-69204)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** imagemagick 8:6.9.11.60+dfsg-1.3+deb11u8
+ **Type :** DLA
+
+------------------------------
+
 **2025-12-30** - **[DLA-4428-1](https://security-tracker.debian.org/tracker/DLA-4428-1)** - mediawiki
 
 **CVE(s) :**
