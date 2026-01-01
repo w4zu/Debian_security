@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-01-01** - **[DLA-4430-1](https://security-tracker.debian.org/tracker/DLA-4430-1)** - net-snmp
+
+**CVE(s) :**
+- **[CVE-2025-68615](https://www.cve.org/CVERecord?id=CVE-2025-68615)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** net-snmp 5.9+dfsg-4+deb11u3
+ **Type :** DLA
+
+------------------------------
+
 **2025-12-31** - **[DLA-4429-1](https://security-tracker.debian.org/tracker/DLA-4429-1)** - imagemagick
 
 **CVE(s) :**
@@ -121,7 +132,7 @@
 **CVE(s) :**
 - **[CVE-2025-50181](https://www.cve.org/CVERecord?id=CVE-2025-50181)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-66418](https://www.cve.org/CVERecord?id=CVE-2025-66418)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-66418](https://www.cve.org/CVERecord?id=CVE-2025-66418)** : 🔥 **Severity: High** (Score: 8.9)
 
 **Debian Version :** bullseye
  **Package Version :** python-urllib3 1.26.5-1~exp1+deb11u2
