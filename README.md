@@ -1,5 +1,20 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-01-02** - **[DLA-4431-1](https://security-tracker.debian.org/tracker/DLA-4431-1)** - gimp
+
+**CVE(s) :**
+- **[CVE-2022-30067](https://www.cve.org/CVERecord?id=CVE-2022-30067)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-14422](https://www.cve.org/CVERecord?id=CVE-2025-14422)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-14425](https://www.cve.org/CVERecord?id=CVE-2025-14425)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** gimp 2.10.22-4+deb11u5
+ **Type :** DLA
+
+------------------------------
+
 **2026-01-01** - **[DLA-4430-1](https://security-tracker.debian.org/tracker/DLA-4430-1)** - net-snmp
 
 **CVE(s) :**
@@ -206,7 +221,7 @@
 **CVE(s) :**
 - **[CVE-2025-24293](https://www.cve.org/CVERecord?id=CVE-2025-24293)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-55193](https://www.cve.org/CVERecord?id=CVE-2025-55193)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-55193](https://www.cve.org/CVERecord?id=CVE-2025-55193)** : 🟠 **Severity: Medium** (Score: 2.7)
 
 **Debian Version :** bullseye
  **Package Version :** rails 2:6.0.3.7+dfsg-2+deb11u4
@@ -232,7 +247,7 @@
 **CVE(s) :**
 - **[CVE-2025-24293](https://www.cve.org/CVERecord?id=CVE-2025-24293)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-55193](https://www.cve.org/CVERecord?id=CVE-2025-55193)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-55193](https://www.cve.org/CVERecord?id=CVE-2025-55193)** : 🟠 **Severity: Medium** (Score: 2.7)
 
 **Debian Version :** bookworm
  **Package Version :** rails 2:6.1.7.10+dfsg-1~deb12u2 	[trixie] - rails 2:7.2.2.2+dfsg-2~deb13u1
