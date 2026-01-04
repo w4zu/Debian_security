@@ -208,78 +208,11 @@
 **2025-12-22** - **[DLA-4417-1](https://security-tracker.debian.org/tracker/DLA-4417-1)** - usbmuxd
 
 **CVE(s) :**
-- **[CVE-2025-66004](https://www.cve.org/CVERecord?id=CVE-2025-66004)** : 🟠 **Severity: Medium** (Score: 5.1)
+- **[CVE-2025-66004](https://www.cve.org/CVERecord?id=CVE-2025-66004)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** usbmuxd 1.1.1-2+deb11u1
  **Type :** DLA
-
-------------------------------
-
-**2025-12-21** - **[DLA-4416-1](https://security-tracker.debian.org/tracker/DLA-4416-1)** - rails
-
-**CVE(s) :**
-- **[CVE-2025-24293](https://www.cve.org/CVERecord?id=CVE-2025-24293)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-55193](https://www.cve.org/CVERecord?id=CVE-2025-55193)** : 🟠 **Severity: Medium** (Score: 2.7)
-
-**Debian Version :** bullseye
- **Package Version :** rails 2:6.0.3.7+dfsg-2+deb11u4
- **Type :** DLA
-
-------------------------------
-
-**2025-12-21** - **[DSA-6091-1](https://security-tracker.debian.org/tracker/DSA-6091-1)** - wordpress
-
-**CVE(s) :**
-- **[CVE-2025-58246](https://www.cve.org/CVERecord?id=CVE-2025-58246)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-58674](https://www.cve.org/CVERecord?id=CVE-2025-58674)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** trixie
- **Package Version :** wordpress 6.8.3+dfsg1-0+deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2025-12-21** - **[DSA-6090-1](https://security-tracker.debian.org/tracker/DSA-6090-1)** - rails
-
-**CVE(s) :**
-- **[CVE-2025-24293](https://www.cve.org/CVERecord?id=CVE-2025-24293)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-55193](https://www.cve.org/CVERecord?id=CVE-2025-55193)** : 🟠 **Severity: Medium** (Score: 2.7)
-
-**Debian Version :** bookworm
- **Package Version :** rails 2:6.1.7.10+dfsg-1~deb12u2 	[trixie] - rails 2:7.2.2.2+dfsg-2~deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2025-12-21** - **[DSA-6089-1](https://security-tracker.debian.org/tracker/DSA-6089-1)** - chromium
-
-**CVE(s) :**
-- **[CVE-2025-14765](https://www.cve.org/CVERecord?id=CVE-2025-14765)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-14766](https://www.cve.org/CVERecord?id=CVE-2025-14766)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** chromium 143.0.7499.169-1~deb12u1 	[trixie] - chromium 143.0.7499.169-1~deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2025-12-21** - **[DSA-6088-1](https://security-tracker.debian.org/tracker/DSA-6088-1)** - php8.4
-
-**CVE(s) :**
-- **[CVE-2025-14177](https://www.cve.org/CVERecord?id=CVE-2025-14177)** : 🟠 **Severity: Medium** (Score: 6.3)
-
-- **[CVE-2025-14178](https://www.cve.org/CVERecord?id=CVE-2025-14178)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-14180](https://www.cve.org/CVERecord?id=CVE-2025-14180)** : 🔥 **Severity: High** (Score: 8.2)
-
-**Debian Version :** trixie
- **Package Version :** php8.4 8.4.16-1~deb13u1
- **Type :** DSA
 
 ------------------------------
 
