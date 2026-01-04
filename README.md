@@ -160,7 +160,7 @@
 **CVE(s) :**
 - **[CVE-2025-50181](https://www.cve.org/CVERecord?id=CVE-2025-50181)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-66418](https://www.cve.org/CVERecord?id=CVE-2025-66418)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-66418](https://www.cve.org/CVERecord?id=CVE-2025-66418)** : 🔥 **Severity: High** (Score: 8.9)
 
 **Debian Version :** bullseye
  **Package Version :** python-urllib3 1.26.5-1~exp1+deb11u2
@@ -208,7 +208,7 @@
 **2025-12-22** - **[DLA-4417-1](https://security-tracker.debian.org/tracker/DLA-4417-1)** - usbmuxd
 
 **CVE(s) :**
-- **[CVE-2025-66004](https://www.cve.org/CVERecord?id=CVE-2025-66004)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-66004](https://www.cve.org/CVERecord?id=CVE-2025-66004)** : 🟠 **Severity: Medium** (Score: 5.1)
 
 **Debian Version :** bullseye
  **Package Version :** usbmuxd 1.1.1-2+deb11u1
