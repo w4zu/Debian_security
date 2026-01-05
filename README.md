@@ -1,5 +1,29 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-01-04** - **[DLA-4432-1](https://security-tracker.debian.org/tracker/DLA-4432-1)** - curl
+
+**CVE(s) :**
+- **[CVE-2025-9086](https://www.cve.org/CVERecord?id=CVE-2025-9086)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** curl 7.74.0-1.3+deb11u16
+ **Type :** DLA
+
+------------------------------
+
+**2026-01-04** - **[DSA-6093-1](https://security-tracker.debian.org/tracker/DSA-6093-1)** - gimp
+
+**CVE(s) :**
+- **[CVE-2025-14422](https://www.cve.org/CVERecord?id=CVE-2025-14422)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-14425](https://www.cve.org/CVERecord?id=CVE-2025-14425)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** gimp 2.10.34-1+deb12u6 	[trixie] - gimp 3.0.4-3+deb13u4
+ **Type :** DSA
+
+------------------------------
+
 **2026-01-02** - **[DLA-4431-1](https://security-tracker.debian.org/tracker/DLA-4431-1)** - gimp
 
 **CVE(s) :**
@@ -190,28 +214,6 @@
 
 **Debian Version :** bullseye
  **Package Version :** gst-plugins-good1.0 1.18.4-2+deb11u4
- **Type :** DLA
-
-------------------------------
-
-**2025-12-22** - **[DLA-4418-1](https://security-tracker.debian.org/tracker/DLA-4418-1)** - python-mechanize
-
-**CVE(s) :**
-- **[CVE-2021-32837](https://www.cve.org/CVERecord?id=CVE-2021-32837)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** python-mechanize 1:0.4.5-2+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-12-22** - **[DLA-4417-1](https://security-tracker.debian.org/tracker/DLA-4417-1)** - usbmuxd
-
-**CVE(s) :**
-- **[CVE-2025-66004](https://www.cve.org/CVERecord?id=CVE-2025-66004)** : 🟠 **Severity: Medium** (Score: 5.1)
-
-**Debian Version :** bullseye
- **Package Version :** usbmuxd 1.1.1-2+deb11u1
  **Type :** DLA
 
 ------------------------------
