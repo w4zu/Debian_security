@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-01-06** - **[DLA-4434-1](https://security-tracker.debian.org/tracker/DLA-4434-1)** - sogo
+
+**CVE(s) :**
+- **[CVE-2024-34462](https://www.cve.org/CVERecord?id=CVE-2024-34462)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-63499](https://www.cve.org/CVERecord?id=CVE-2025-63499)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** sogo 5.0.1-4+deb11u3
+ **Type :** DLA
+
+------------------------------
+
 **2026-01-06** - **[DLA-4433-1](https://security-tracker.debian.org/tracker/DLA-4433-1)** - ruby-rmagick
 
 **CVE(s) :**
