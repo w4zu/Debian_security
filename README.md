@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-01-07** - **[DLA-4435-1](https://security-tracker.debian.org/tracker/DLA-4435-1)** - libsodium
+
+**CVE(s) :**
+- **[CVE-2025-69277](https://www.cve.org/CVERecord?id=CVE-2025-69277)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** libsodium 1.0.18-1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-01-06** - **[DLA-4434-1](https://security-tracker.debian.org/tracker/DLA-4434-1)** - sogo
 
 **CVE(s) :**
