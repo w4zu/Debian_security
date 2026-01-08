@@ -14,9 +14,9 @@
 **2026-01-07** - **[DSA-6095-1](https://security-tracker.debian.org/tracker/DSA-6095-1)** - foomuuri
 
 **CVE(s) :**
-- **[CVE-2025-67603](https://www.cve.org/CVERecord?id=CVE-2025-67603)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-67603](https://www.cve.org/CVERecord?id=CVE-2025-67603)** : 🟠 **Severity: Medium** (Score: 5.1)
 
-- **[CVE-2025-67858](https://www.cve.org/CVERecord?id=CVE-2025-67858)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-67858](https://www.cve.org/CVERecord?id=CVE-2025-67858)** : 🔥 **Severity: High** (Score: 7)
 
 **Debian Version :** trixie
  **Package Version :** foomuuri 0.27-2+deb13u1
@@ -112,9 +112,9 @@
 **2026-01-01** - **[DSA-6092-1](https://security-tracker.debian.org/tracker/DSA-6092-1)** - smb4k
 
 **CVE(s) :**
-- **[CVE-2025-66002](https://www.cve.org/CVERecord?id=CVE-2025-66002)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-66002](https://www.cve.org/CVERecord?id=CVE-2025-66002)** : 🟠 **Severity: Medium** (Score: 6.9)
 
-- **[CVE-2025-66003](https://www.cve.org/CVERecord?id=CVE-2025-66003)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-66003](https://www.cve.org/CVERecord?id=CVE-2025-66003)** : 🔥 **Severity: High** (Score: 7.3)
 
 **Debian Version :** trixie
  **Package Version :** smb4k 4.0.0-1+deb13u1
