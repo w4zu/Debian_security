@@ -11,6 +11,19 @@
 
 ------------------------------
 
+**2026-01-07** - **[DSA-6095-1](https://security-tracker.debian.org/tracker/DSA-6095-1)** - foomuuri
+
+**CVE(s) :**
+- **[CVE-2025-67603](https://www.cve.org/CVERecord?id=CVE-2025-67603)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-67858](https://www.cve.org/CVERecord?id=CVE-2025-67858)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** foomuuri 0.27-2+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-01-06** - **[DLA-4434-1](https://security-tracker.debian.org/tracker/DLA-4434-1)** - sogo
 
 **CVE(s) :**
@@ -247,19 +260,6 @@
 
 **Debian Version :** bullseye
  **Package Version :** postgresql-13 13.23-0+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-12-25** - **[DLA-4419-1](https://security-tracker.debian.org/tracker/DLA-4419-1)** - gst-plugins-good1.0
-
-**CVE(s) :**
-- **[CVE-2025-47183](https://www.cve.org/CVERecord?id=CVE-2025-47183)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-47219](https://www.cve.org/CVERecord?id=CVE-2025-47219)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** gst-plugins-good1.0 1.18.4-2+deb11u4
  **Type :** DLA
 
 ------------------------------
