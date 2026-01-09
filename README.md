@@ -125,7 +125,7 @@
 **CVE(s) :**
 - **[CVE-2025-66002](https://www.cve.org/CVERecord?id=CVE-2025-66002)** : 🟠 **Severity: Medium** (Score: 6.9)
 
-- **[CVE-2025-66003](https://www.cve.org/CVERecord?id=CVE-2025-66003)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-66003](https://www.cve.org/CVERecord?id=CVE-2025-66003)** : 🔥 **Severity: High** (Score: 7.3)
 
 **Debian Version :** trixie
  **Package Version :** smb4k 4.0.0-1+deb13u1
