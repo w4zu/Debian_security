@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-01-09** - **[DSA-6097-1](https://security-tracker.debian.org/tracker/DSA-6097-1)** - chromium
+
+**CVE(s) :**
+- **[CVE-2026-0628](https://www.cve.org/CVERecord?id=CVE-2026-0628)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** chromium 143.0.7499.192-1~deb12u1 	[trixie] - chromium 143.0.7499.192-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-01-08** - **[DLA-4374-2](https://security-tracker.debian.org/tracker/DLA-4374-2)** - pdfminer
 
 **CVE(s) :**
