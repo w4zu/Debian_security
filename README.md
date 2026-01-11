@@ -236,16 +236,3 @@
 
 ------------------------------
 
-**2025-12-28** - **[DLA-4423-1](https://security-tracker.debian.org/tracker/DLA-4423-1)** - kodi
-
-**CVE(s) :**
-- **[CVE-2023-23082](https://www.cve.org/CVERecord?id=CVE-2023-23082)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2023-30207](https://www.cve.org/CVERecord?id=CVE-2023-30207)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** kodi 2:19.1+dfsg2-2+deb11u2
- **Type :** DLA
-
-------------------------------
-
