@@ -36,7 +36,7 @@
 **2026-01-07** - **[DSA-6095-1](https://security-tracker.debian.org/tracker/DSA-6095-1)** - foomuuri
 
 **CVE(s) :**
-- **[CVE-2025-67603](https://www.cve.org/CVERecord?id=CVE-2025-67603)** : 🟠 **Severity: Medium** (Score: 5.1)
+- **[CVE-2025-67603](https://www.cve.org/CVERecord?id=CVE-2025-67603)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-67858](https://www.cve.org/CVERecord?id=CVE-2025-67858)** : 🔥 **Severity: High** (Score: 7)
 
@@ -208,30 +208,6 @@
 
 **Debian Version :** bullseye
  **Package Version :** osslsigncode 2.5-4~deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-12-29** - **[DLA-4425-1](https://security-tracker.debian.org/tracker/DLA-4425-1)** - python-django
-
-**CVE(s) :**
-- **[CVE-2025-64459](https://www.cve.org/CVERecord?id=CVE-2025-64459)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-64460](https://www.cve.org/CVERecord?id=CVE-2025-64460)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** python-django 2:2.2.28-1~deb11u10
- **Type :** DLA
-
-------------------------------
-
-**2025-12-29** - **[DLA-4424-1](https://security-tracker.debian.org/tracker/DLA-4424-1)** - openjpeg2
-
-**CVE(s) :**
-- **[CVE-2025-50952](https://www.cve.org/CVERecord?id=CVE-2025-50952)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** openjpeg2 2.4.0-3+deb11u2
  **Type :** DLA
 
 ------------------------------
