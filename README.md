@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-01-12** - **[DSA-6098-1](https://security-tracker.debian.org/tracker/DSA-6098-1)** - net-snmp
+
+**CVE(s) :**
+- **[CVE-2025-68615](https://www.cve.org/CVERecord?id=CVE-2025-68615)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** net-snmp 5.9.3+dfsg-2+deb12u1 	[trixie] - net-snmp 5.9.4+dfsg-2+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-01-09** - **[DSA-6097-1](https://security-tracker.debian.org/tracker/DSA-6097-1)** - chromium
 
 **CVE(s) :**
@@ -161,53 +172,6 @@
 
 **Debian Version :** bullseye
  **Package Version :** imagemagick 8:6.9.11.60+dfsg-1.3+deb11u8
- **Type :** DLA
-
-------------------------------
-
-**2025-12-30** - **[DLA-4428-1](https://security-tracker.debian.org/tracker/DLA-4428-1)** - mediawiki
-
-**CVE(s) :**
-- **[CVE-2025-67475](https://www.cve.org/CVERecord?id=CVE-2025-67475)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-67478](https://www.cve.org/CVERecord?id=CVE-2025-67478)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-67479](https://www.cve.org/CVERecord?id=CVE-2025-67479)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-67480](https://www.cve.org/CVERecord?id=CVE-2025-67480)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-67481](https://www.cve.org/CVERecord?id=CVE-2025-67481)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-67482](https://www.cve.org/CVERecord?id=CVE-2025-67482)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-67484](https://www.cve.org/CVERecord?id=CVE-2025-67484)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** mediawiki 1:1.35.13-1+deb11u6
- **Type :** DLA
-
-------------------------------
-
-**2025-12-30** - **[DLA-4427-1](https://security-tracker.debian.org/tracker/DLA-4427-1)** - php-dompdf
-
-**CVE(s) :**
-- **[CVE-2021-3838](https://www.cve.org/CVERecord?id=CVE-2021-3838)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2022-2400](https://www.cve.org/CVERecord?id=CVE-2022-2400)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** php-dompdf 0.6.2+dfsg-3.1+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2025-12-30** - **[DLA-4426-1](https://security-tracker.debian.org/tracker/DLA-4426-1)** - osslsigncode
-
-**CVE(s) :**
-- **[CVE-2023-36377](https://www.cve.org/CVERecord?id=CVE-2023-36377)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** osslsigncode 2.5-4~deb11u1
  **Type :** DLA
 
 ------------------------------
