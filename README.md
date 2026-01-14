@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-01-14** - **[DSA-6099-1](https://security-tracker.debian.org/tracker/DSA-6099-1)** - python-parsl
+
+**CVE(s) :**
+- **[CVE-2026-21892](https://www.cve.org/CVERecord?id=CVE-2026-21892)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** python-parsl 2025.01.13+ds-1+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-01-12** - **[DSA-6098-1](https://security-tracker.debian.org/tracker/DSA-6098-1)** - net-snmp
 
 **CVE(s) :**
