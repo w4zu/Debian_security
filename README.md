@@ -3,7 +3,7 @@
 **2026-01-14** - **[DLA-4438-1](https://security-tracker.debian.org/tracker/DLA-4438-1)** - mongo-c-driver
 
 **CVE(s) :**
-- **[CVE-2025-12119](https://www.cve.org/CVERecord?id=CVE-2025-12119)** : 🟠 **Severity: Medium** (Score: 6.9)
+- **[CVE-2025-12119](https://www.cve.org/CVERecord?id=CVE-2025-12119)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** mongo-c-driver 1.17.6-1+deb11u2
