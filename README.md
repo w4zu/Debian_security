@@ -319,7 +319,7 @@
 **CVE(s) :**
 - **[CVE-2025-67603](https://www.cve.org/CVERecord?id=CVE-2025-67603)** : 🟠 **Severity: Medium** (Score: 5.1)
 
-- **[CVE-2025-67858](https://www.cve.org/CVERecord?id=CVE-2025-67858)** : 🔥 **Severity: High** (Score: 7)
+- **[CVE-2025-67858](https://www.cve.org/CVERecord?id=CVE-2025-67858)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** trixie
  **Package Version :** foomuuri 0.27-2+deb13u1
@@ -362,17 +362,6 @@
 
 ------------------------------
 
-**2026-01-04** - **[DLA-4432-1](https://security-tracker.debian.org/tracker/DLA-4432-1)** - curl
-
-**CVE(s) :**
-- **[CVE-2025-9086](https://www.cve.org/CVERecord?id=CVE-2025-9086)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** curl 7.74.0-1.3+deb11u16
- **Type :** DLA
-
-------------------------------
-
 **2026-01-04** - **[DSA-6093-1](https://security-tracker.debian.org/tracker/DSA-6093-1)** - gimp
 
 **CVE(s) :**
@@ -398,30 +387,6 @@
 **Debian Version :** bullseye
  **Package Version :** gimp 2.10.22-4+deb11u5
  **Type :** DLA
-
-------------------------------
-
-**2026-01-01** - **[DLA-4430-1](https://security-tracker.debian.org/tracker/DLA-4430-1)** - net-snmp
-
-**CVE(s) :**
-- **[CVE-2025-68615](https://www.cve.org/CVERecord?id=CVE-2025-68615)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** net-snmp 5.9+dfsg-4+deb11u3
- **Type :** DLA
-
-------------------------------
-
-**2026-01-01** - **[DSA-6092-1](https://security-tracker.debian.org/tracker/DSA-6092-1)** - smb4k
-
-**CVE(s) :**
-- **[CVE-2025-66002](https://www.cve.org/CVERecord?id=CVE-2025-66002)** : 🟠 **Severity: Medium** (Score: 6.9)
-
-- **[CVE-2025-66003](https://www.cve.org/CVERecord?id=CVE-2025-66003)** : 🔥 **Severity: High** (Score: 7.3)
-
-**Debian Version :** trixie
- **Package Version :** smb4k 4.0.0-1+deb13u1
- **Type :** DSA
 
 ------------------------------
 
