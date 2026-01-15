@@ -259,6 +259,35 @@
 
 ------------------------------
 
+**2026-01-14** - **[DSA-6100-1](https://security-tracker.debian.org/tracker/DSA-6100-1)** - chromium
+
+**CVE(s) :**
+- **[CVE-2026-0899](https://www.cve.org/CVERecord?id=CVE-2026-0899)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0900](https://www.cve.org/CVERecord?id=CVE-2026-0900)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0901](https://www.cve.org/CVERecord?id=CVE-2026-0901)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0902](https://www.cve.org/CVERecord?id=CVE-2026-0902)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0903](https://www.cve.org/CVERecord?id=CVE-2026-0903)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0904](https://www.cve.org/CVERecord?id=CVE-2026-0904)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0905](https://www.cve.org/CVERecord?id=CVE-2026-0905)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0906](https://www.cve.org/CVERecord?id=CVE-2026-0906)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0907](https://www.cve.org/CVERecord?id=CVE-2026-0907)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0908](https://www.cve.org/CVERecord?id=CVE-2026-0908)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** chromium 144.0.7559.59-1~deb12u1 	[trixie] - chromium 144.0.7559.59-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-01-14** - **[DSA-6099-1](https://security-tracker.debian.org/tracker/DSA-6099-1)** - python-parsl
 
 **CVE(s) :**
@@ -319,7 +348,7 @@
 **CVE(s) :**
 - **[CVE-2025-67603](https://www.cve.org/CVERecord?id=CVE-2025-67603)** : 🟠 **Severity: Medium** (Score: 5.1)
 
-- **[CVE-2025-67858](https://www.cve.org/CVERecord?id=CVE-2025-67858)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-67858](https://www.cve.org/CVERecord?id=CVE-2025-67858)** : 🔥 **Severity: High** (Score: 7)
 
 **Debian Version :** trixie
  **Package Version :** foomuuri 0.27-2+deb13u1
