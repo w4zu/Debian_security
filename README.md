@@ -1,9 +1,79 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-01-15** - **[DLA-4439-1](https://security-tracker.debian.org/tracker/DLA-4439-1)** - firefox-esr
+
+**CVE(s) :**
+- **[CVE-2025-14327](https://www.cve.org/CVERecord?id=CVE-2025-14327)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0877](https://www.cve.org/CVERecord?id=CVE-2026-0877)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0878](https://www.cve.org/CVERecord?id=CVE-2026-0878)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0879](https://www.cve.org/CVERecord?id=CVE-2026-0879)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0880](https://www.cve.org/CVERecord?id=CVE-2026-0880)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0882](https://www.cve.org/CVERecord?id=CVE-2026-0882)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0883](https://www.cve.org/CVERecord?id=CVE-2026-0883)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0884](https://www.cve.org/CVERecord?id=CVE-2026-0884)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0885](https://www.cve.org/CVERecord?id=CVE-2026-0885)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0886](https://www.cve.org/CVERecord?id=CVE-2026-0886)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0887](https://www.cve.org/CVERecord?id=CVE-2026-0887)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0890](https://www.cve.org/CVERecord?id=CVE-2026-0890)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0891](https://www.cve.org/CVERecord?id=CVE-2026-0891)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** firefox-esr 140.7.0esr-1~deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2026-01-15** - **[DSA-6101-1](https://security-tracker.debian.org/tracker/DSA-6101-1)** - firefox-esr
+
+**CVE(s) :**
+- **[CVE-2025-14327](https://www.cve.org/CVERecord?id=CVE-2025-14327)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0877](https://www.cve.org/CVERecord?id=CVE-2026-0877)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0878](https://www.cve.org/CVERecord?id=CVE-2026-0878)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0879](https://www.cve.org/CVERecord?id=CVE-2026-0879)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0880](https://www.cve.org/CVERecord?id=CVE-2026-0880)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0882](https://www.cve.org/CVERecord?id=CVE-2026-0882)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0883](https://www.cve.org/CVERecord?id=CVE-2026-0883)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0884](https://www.cve.org/CVERecord?id=CVE-2026-0884)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0885](https://www.cve.org/CVERecord?id=CVE-2026-0885)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0886](https://www.cve.org/CVERecord?id=CVE-2026-0886)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0887](https://www.cve.org/CVERecord?id=CVE-2026-0887)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0890](https://www.cve.org/CVERecord?id=CVE-2026-0890)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0891](https://www.cve.org/CVERecord?id=CVE-2026-0891)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** firefox-esr 140.7.0esr-1~deb12u1 	[trixie] - firefox-esr 140.7.0esr-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-01-14** - **[DLA-4438-1](https://security-tracker.debian.org/tracker/DLA-4438-1)** - mongo-c-driver
 
 **CVE(s) :**
-- **[CVE-2025-12119](https://www.cve.org/CVERecord?id=CVE-2025-12119)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-12119](https://www.cve.org/CVERecord?id=CVE-2025-12119)** : 🟠 **Severity: Medium** (Score: 6.9)
 
 **Debian Version :** bullseye
  **Package Version :** mongo-c-driver 1.17.6-1+deb11u2
@@ -401,21 +471,6 @@
 **Debian Version :** bookworm
  **Package Version :** gimp 2.10.34-1+deb12u6 	[trixie] - gimp 3.0.4-3+deb13u4
  **Type :** DSA
-
-------------------------------
-
-**2026-01-02** - **[DLA-4431-1](https://security-tracker.debian.org/tracker/DLA-4431-1)** - gimp
-
-**CVE(s) :**
-- **[CVE-2022-30067](https://www.cve.org/CVERecord?id=CVE-2022-30067)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-14422](https://www.cve.org/CVERecord?id=CVE-2025-14422)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-14425](https://www.cve.org/CVERecord?id=CVE-2025-14425)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** gimp 2.10.22-4+deb11u5
- **Type :** DLA
 
 ------------------------------
 
