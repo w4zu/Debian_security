@@ -416,7 +416,7 @@
 **2026-01-07** - **[DSA-6095-1](https://security-tracker.debian.org/tracker/DSA-6095-1)** - foomuuri
 
 **CVE(s) :**
-- **[CVE-2025-67603](https://www.cve.org/CVERecord?id=CVE-2025-67603)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-67603](https://www.cve.org/CVERecord?id=CVE-2025-67603)** : 🟠 **Severity: Medium** (Score: 5.1)
 
 - **[CVE-2025-67858](https://www.cve.org/CVERecord?id=CVE-2025-67858)** : **Severity: Unknown** (Score: N/A)
 
