@@ -1,5 +1,28 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-01-16** - **[DLA-4440-1](https://security-tracker.debian.org/tracker/DLA-4440-1)** - ffmpeg
+
+**CVE(s) :**
+- **[CVE-2023-6603](https://www.cve.org/CVERecord?id=CVE-2023-6603)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-36615](https://www.cve.org/CVERecord?id=CVE-2024-36615)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-1594](https://www.cve.org/CVERecord?id=CVE-2025-1594)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-7700](https://www.cve.org/CVERecord?id=CVE-2025-7700)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-9951](https://www.cve.org/CVERecord?id=CVE-2025-9951)** : 🔥 **Severity: High** (Score: 7.2)
+
+- **[CVE-2025-10256](https://www.cve.org/CVERecord?id=CVE-2025-10256)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-63757](https://www.cve.org/CVERecord?id=CVE-2025-63757)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** ffmpeg 7:4.3.9-0+deb11u2
+ **Type :** DLA
+
+------------------------------
+
 **2026-01-15** - **[DLA-4439-1](https://security-tracker.debian.org/tracker/DLA-4439-1)** - firefox-esr
 
 **CVE(s) :**
@@ -418,7 +441,7 @@
 **CVE(s) :**
 - **[CVE-2025-67603](https://www.cve.org/CVERecord?id=CVE-2025-67603)** : 🟠 **Severity: Medium** (Score: 5.1)
 
-- **[CVE-2025-67858](https://www.cve.org/CVERecord?id=CVE-2025-67858)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-67858](https://www.cve.org/CVERecord?id=CVE-2025-67858)** : 🔥 **Severity: High** (Score: 7)
 
 **Debian Version :** trixie
  **Package Version :** foomuuri 0.27-2+deb13u1
