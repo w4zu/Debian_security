@@ -7,7 +7,7 @@
 
 - **[CVE-2024-36615](https://www.cve.org/CVERecord?id=CVE-2024-36615)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-1594](https://www.cve.org/CVERecord?id=CVE-2025-1594)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-1594](https://www.cve.org/CVERecord?id=CVE-2025-1594)** : 🟠 **Severity: Medium** (Score: 5.3)
 
 - **[CVE-2025-7700](https://www.cve.org/CVERecord?id=CVE-2025-7700)** : **Severity: Unknown** (Score: N/A)
 
