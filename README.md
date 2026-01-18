@@ -59,7 +59,7 @@
 
 - **[CVE-2025-7700](https://www.cve.org/CVERecord?id=CVE-2025-7700)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-9951](https://www.cve.org/CVERecord?id=CVE-2025-9951)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-9951](https://www.cve.org/CVERecord?id=CVE-2025-9951)** : 🔥 **Severity: High** (Score: 7.2)
 
 - **[CVE-2025-10256](https://www.cve.org/CVERecord?id=CVE-2025-10256)** : **Severity: Unknown** (Score: N/A)
 
@@ -487,7 +487,7 @@
 **2026-01-07** - **[DSA-6095-1](https://security-tracker.debian.org/tracker/DSA-6095-1)** - foomuuri
 
 **CVE(s) :**
-- **[CVE-2025-67603](https://www.cve.org/CVERecord?id=CVE-2025-67603)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-67603](https://www.cve.org/CVERecord?id=CVE-2025-67603)** : 🟠 **Severity: Medium** (Score: 5.1)
 
 - **[CVE-2025-67858](https://www.cve.org/CVERecord?id=CVE-2025-67858)** : 🔥 **Severity: High** (Score: 7)
 
