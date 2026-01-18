@@ -59,7 +59,7 @@
 
 - **[CVE-2025-7700](https://www.cve.org/CVERecord?id=CVE-2025-7700)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-9951](https://www.cve.org/CVERecord?id=CVE-2025-9951)** : 🔥 **Severity: High** (Score: 7.2)
+- **[CVE-2025-9951](https://www.cve.org/CVERecord?id=CVE-2025-9951)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-10256](https://www.cve.org/CVERecord?id=CVE-2025-10256)** : **Severity: Unknown** (Score: N/A)
 
@@ -487,7 +487,7 @@
 **2026-01-07** - **[DSA-6095-1](https://security-tracker.debian.org/tracker/DSA-6095-1)** - foomuuri
 
 **CVE(s) :**
-- **[CVE-2025-67603](https://www.cve.org/CVERecord?id=CVE-2025-67603)** : 🟠 **Severity: Medium** (Score: 5.1)
+- **[CVE-2025-67603](https://www.cve.org/CVERecord?id=CVE-2025-67603)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-67858](https://www.cve.org/CVERecord?id=CVE-2025-67858)** : 🔥 **Severity: High** (Score: 7)
 
@@ -528,19 +528,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** libsodium 1.0.18-1+deb12u1 	[trixie] - libsodium 1.0.18-1+deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2026-01-04** - **[DSA-6093-1](https://security-tracker.debian.org/tracker/DSA-6093-1)** - gimp
-
-**CVE(s) :**
-- **[CVE-2025-14422](https://www.cve.org/CVERecord?id=CVE-2025-14422)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-14425](https://www.cve.org/CVERecord?id=CVE-2025-14425)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** gimp 2.10.34-1+deb12u6 	[trixie] - gimp 3.0.4-3+deb13u4
  **Type :** DSA
 
 ------------------------------
