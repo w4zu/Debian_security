@@ -1,5 +1,40 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-01-19** - **[DLA-4442-1](https://security-tracker.debian.org/tracker/DLA-4442-1)** - thunderbird
+
+**CVE(s) :**
+- **[CVE-2025-14327](https://www.cve.org/CVERecord?id=CVE-2025-14327)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0877](https://www.cve.org/CVERecord?id=CVE-2026-0877)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0878](https://www.cve.org/CVERecord?id=CVE-2026-0878)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0879](https://www.cve.org/CVERecord?id=CVE-2026-0879)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0880](https://www.cve.org/CVERecord?id=CVE-2026-0880)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0882](https://www.cve.org/CVERecord?id=CVE-2026-0882)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0883](https://www.cve.org/CVERecord?id=CVE-2026-0883)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0884](https://www.cve.org/CVERecord?id=CVE-2026-0884)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0885](https://www.cve.org/CVERecord?id=CVE-2026-0885)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0886](https://www.cve.org/CVERecord?id=CVE-2026-0886)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0887](https://www.cve.org/CVERecord?id=CVE-2026-0887)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0890](https://www.cve.org/CVERecord?id=CVE-2026-0890)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0891](https://www.cve.org/CVERecord?id=CVE-2026-0891)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** thunderbird 1:140.7.0esr-1~deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-01-19** - **[DLA-4441-1](https://security-tracker.debian.org/tracker/DLA-4441-1)** - gpsd
 
 **CVE(s) :**
