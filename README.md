@@ -16,7 +16,7 @@
 **CVE(s) :**
 - **[CVE-2025-14607](https://www.cve.org/CVERecord?id=CVE-2025-14607)** : 🟠 **Severity: Medium** (Score: 5.3)
 
-- **[CVE-2025-14841](https://www.cve.org/CVERecord?id=CVE-2025-14841)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-14841](https://www.cve.org/CVERecord?id=CVE-2025-14841)** : 🟠 **Severity: Medium** (Score: 4.8)
 
 **Debian Version :** bullseye
  **Package Version :** dcmtk 3.6.5-1+deb11u6
