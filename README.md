@@ -1,5 +1,32 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-01-20** - **[DLA-4445-1](https://security-tracker.debian.org/tracker/DLA-4445-1)** - python3.9
+
+**CVE(s) :**
+- **[CVE-2022-37454](https://www.cve.org/CVERecord?id=CVE-2022-37454)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-4516](https://www.cve.org/CVERecord?id=CVE-2025-4516)** : 🟠 **Severity: Medium** (Score: 5.9)
+
+- **[CVE-2025-6069](https://www.cve.org/CVERecord?id=CVE-2025-6069)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-6075](https://www.cve.org/CVERecord?id=CVE-2025-6075)** : 🟠 **Severity: Medium** (Score: 1.8)
+
+- **[CVE-2025-8194](https://www.cve.org/CVERecord?id=CVE-2025-8194)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-8291](https://www.cve.org/CVERecord?id=CVE-2025-8291)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-12084](https://www.cve.org/CVERecord?id=CVE-2025-12084)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+- **[CVE-2025-13836](https://www.cve.org/CVERecord?id=CVE-2025-13836)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+- **[CVE-2025-13837](https://www.cve.org/CVERecord?id=CVE-2025-13837)** : 🟠 **Severity: Medium** (Score: 2.1)
+
+**Debian Version :** bullseye
+ **Package Version :** python3.9 3.9.2-1+deb11u4
+ **Type :** DLA
+
+------------------------------
+
 **2026-01-19** - **[DLA-4444-1](https://security-tracker.debian.org/tracker/DLA-4444-1)** - apache-log4j2
 
 **CVE(s) :**
