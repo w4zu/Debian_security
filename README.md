@@ -1,5 +1,29 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-01-19** - **[DLA-4444-1](https://security-tracker.debian.org/tracker/DLA-4444-1)** - apache-log4j2
+
+**CVE(s) :**
+- **[CVE-2025-68161](https://www.cve.org/CVERecord?id=CVE-2025-68161)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** apache-log4j2 2.17.1-1~deb11u2
+ **Type :** DLA
+
+------------------------------
+
+**2026-01-19** - **[DLA-4443-1](https://security-tracker.debian.org/tracker/DLA-4443-1)** - dcmtk
+
+**CVE(s) :**
+- **[CVE-2025-14607](https://www.cve.org/CVERecord?id=CVE-2025-14607)** : 🟠 **Severity: Medium** (Score: 5.3)
+
+- **[CVE-2025-14841](https://www.cve.org/CVERecord?id=CVE-2025-14841)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** dcmtk 3.6.5-1+deb11u6
+ **Type :** DLA
+
+------------------------------
+
 **2026-01-19** - **[DLA-4442-1](https://security-tracker.debian.org/tracker/DLA-4442-1)** - thunderbird
 
 **CVE(s) :**
@@ -107,7 +131,7 @@
 
 - **[CVE-2025-7700](https://www.cve.org/CVERecord?id=CVE-2025-7700)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-9951](https://www.cve.org/CVERecord?id=CVE-2025-9951)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-9951](https://www.cve.org/CVERecord?id=CVE-2025-9951)** : 🔥 **Severity: High** (Score: 7.2)
 
 - **[CVE-2025-10256](https://www.cve.org/CVERecord?id=CVE-2025-10256)** : **Severity: Unknown** (Score: N/A)
 
@@ -535,37 +559,13 @@
 **2026-01-07** - **[DSA-6095-1](https://security-tracker.debian.org/tracker/DSA-6095-1)** - foomuuri
 
 **CVE(s) :**
-- **[CVE-2025-67603](https://www.cve.org/CVERecord?id=CVE-2025-67603)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-67603](https://www.cve.org/CVERecord?id=CVE-2025-67603)** : 🟠 **Severity: Medium** (Score: 5.1)
 
 - **[CVE-2025-67858](https://www.cve.org/CVERecord?id=CVE-2025-67858)** : 🔥 **Severity: High** (Score: 7)
 
 **Debian Version :** trixie
  **Package Version :** foomuuri 0.27-2+deb13u1
  **Type :** DSA
-
-------------------------------
-
-**2026-01-06** - **[DLA-4434-1](https://security-tracker.debian.org/tracker/DLA-4434-1)** - sogo
-
-**CVE(s) :**
-- **[CVE-2024-34462](https://www.cve.org/CVERecord?id=CVE-2024-34462)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-63499](https://www.cve.org/CVERecord?id=CVE-2025-63499)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** sogo 5.0.1-4+deb11u3
- **Type :** DLA
-
-------------------------------
-
-**2026-01-06** - **[DLA-4433-1](https://security-tracker.debian.org/tracker/DLA-4433-1)** - ruby-rmagick
-
-**CVE(s) :**
-- **[CVE-2023-5349](https://www.cve.org/CVERecord?id=CVE-2023-5349)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** ruby-rmagick 2.16.0-7+deb11u1
- **Type :** DLA
 
 ------------------------------
 
