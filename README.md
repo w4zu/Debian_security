@@ -110,7 +110,7 @@
 **2026-01-17** - **[DSA-6102-1](https://security-tracker.debian.org/tracker/DSA-6102-1)** - python-urllib3
 
 **CVE(s) :**
-- **[CVE-2025-66418](https://www.cve.org/CVERecord?id=CVE-2025-66418)** : 🔥 **Severity: High** (Score: 8.9)
+- **[CVE-2025-66418](https://www.cve.org/CVERecord?id=CVE-2025-66418)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2026-21441](https://www.cve.org/CVERecord?id=CVE-2026-21441)** : 🔥 **Severity: High** (Score: 8.9)
 
