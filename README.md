@@ -27,6 +27,17 @@
 
 ------------------------------
 
+**2026-01-20** - **[DSA-6104-1](https://security-tracker.debian.org/tracker/DSA-6104-1)** - python-keystonemiddleware
+
+**CVE(s) :**
+- **[CVE-2026-22797](https://www.cve.org/CVERecord?id=CVE-2026-22797)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** python-keystonemiddleware 10.9.0-2+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-01-19** - **[DLA-4444-1](https://security-tracker.debian.org/tracker/DLA-4444-1)** - apache-log4j2
 
 **CVE(s) :**
@@ -137,7 +148,7 @@
 **2026-01-17** - **[DSA-6102-1](https://security-tracker.debian.org/tracker/DSA-6102-1)** - python-urllib3
 
 **CVE(s) :**
-- **[CVE-2025-66418](https://www.cve.org/CVERecord?id=CVE-2025-66418)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-66418](https://www.cve.org/CVERecord?id=CVE-2025-66418)** : 🔥 **Severity: High** (Score: 8.9)
 
 - **[CVE-2026-21441](https://www.cve.org/CVERecord?id=CVE-2026-21441)** : 🔥 **Severity: High** (Score: 8.9)
 
@@ -569,30 +580,6 @@
 **Debian Version :** bullseye
  **Package Version :** pdfminer 20200726-1+deb11u2
  **Type :** DLA
-
-------------------------------
-
-**2026-01-07** - **[DLA-4435-1](https://security-tracker.debian.org/tracker/DLA-4435-1)** - libsodium
-
-**CVE(s) :**
-- **[CVE-2025-69277](https://www.cve.org/CVERecord?id=CVE-2025-69277)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** libsodium 1.0.18-1+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2026-01-07** - **[DSA-6095-1](https://security-tracker.debian.org/tracker/DSA-6095-1)** - foomuuri
-
-**CVE(s) :**
-- **[CVE-2025-67603](https://www.cve.org/CVERecord?id=CVE-2025-67603)** : 🟠 **Severity: Medium** (Score: 5.1)
-
-- **[CVE-2025-67858](https://www.cve.org/CVERecord?id=CVE-2025-67858)** : 🔥 **Severity: High** (Score: 7)
-
-**Debian Version :** trixie
- **Package Version :** foomuuri 0.27-2+deb13u1
- **Type :** DSA
 
 ------------------------------
 
