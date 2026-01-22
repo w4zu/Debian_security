@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-01-22** - **[DSA-6106-1](https://security-tracker.debian.org/tracker/DSA-6106-1)** - inetutils
+
+**CVE(s) :**
+- **[CVE-2026-24061](https://www.cve.org/CVERecord?id=CVE-2026-24061)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** inetutils 2:2.4-2+deb12u2 	[trixie] - inetutils 2:2.6-3+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-01-21** - **[DSA-6105-1](https://security-tracker.debian.org/tracker/DSA-6105-1)** - modsecurity-crs
 
 **CVE(s) :**
@@ -26,7 +37,7 @@
 
 - **[CVE-2025-8291](https://www.cve.org/CVERecord?id=CVE-2025-8291)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-12084](https://www.cve.org/CVERecord?id=CVE-2025-12084)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-12084](https://www.cve.org/CVERecord?id=CVE-2025-12084)** : 🟠 **Severity: Medium** (Score: 6.3)
 
 - **[CVE-2025-13836](https://www.cve.org/CVERecord?id=CVE-2025-13836)** : 🟠 **Severity: Medium** (Score: 6.3)
 
