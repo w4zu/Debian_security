@@ -26,7 +26,7 @@
 
 - **[CVE-2025-8291](https://www.cve.org/CVERecord?id=CVE-2025-8291)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-12084](https://www.cve.org/CVERecord?id=CVE-2025-12084)** : 🟠 **Severity: Medium** (Score: 6.3)
+- **[CVE-2025-12084](https://www.cve.org/CVERecord?id=CVE-2025-12084)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-13836](https://www.cve.org/CVERecord?id=CVE-2025-13836)** : 🟠 **Severity: Medium** (Score: 6.3)
 
