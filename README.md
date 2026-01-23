@@ -1,5 +1,38 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-01-22** - **[DSA-6102-2](https://security-tracker.debian.org/tracker/DSA-6102-2)** - python-urllib3
+
+**CVE(s) :**
+- **[CVE-2026-21441](https://www.cve.org/CVERecord?id=CVE-2026-21441)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** python-urllib3 1.26.12-1+deb12u3
+ **Type :** DSA
+
+------------------------------
+
+**2026-01-22** - **[DSA-6108-1](https://security-tracker.debian.org/tracker/DSA-6108-1)** - chromium
+
+**CVE(s) :**
+- **[CVE-2026-1220](https://www.cve.org/CVERecord?id=CVE-2026-1220)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** chromium 144.0.7559.96-1~deb12u1 	[trixie] - chromium 144.0.7559.96-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2026-01-22** - **[DSA-6107-1](https://security-tracker.debian.org/tracker/DSA-6107-1)** - bind9
+
+**CVE(s) :**
+- **[CVE-2025-13878](https://www.cve.org/CVERecord?id=CVE-2025-13878)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** bind9 1:9.18.44-1~deb12u1 	[trixie] - bind9 1:9.20.18-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-01-22** - **[DSA-6106-1](https://security-tracker.debian.org/tracker/DSA-6106-1)** - inetutils
 
 **CVE(s) :**
@@ -172,7 +205,7 @@
 **CVE(s) :**
 - **[CVE-2025-66418](https://www.cve.org/CVERecord?id=CVE-2025-66418)** : 🔥 **Severity: High** (Score: 8.9)
 
-- **[CVE-2026-21441](https://www.cve.org/CVERecord?id=CVE-2026-21441)** : 🔥 **Severity: High** (Score: 8.9)
+- **[CVE-2026-21441](https://www.cve.org/CVERecord?id=CVE-2026-21441)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** python-urllib3 1.26.12-1+deb12u2 	[trixie] - python-urllib3 2.3.0-3+deb13u1
@@ -276,7 +309,7 @@
 **2026-01-14** - **[DLA-4438-1](https://security-tracker.debian.org/tracker/DLA-4438-1)** - mongo-c-driver
 
 **CVE(s) :**
-- **[CVE-2025-12119](https://www.cve.org/CVERecord?id=CVE-2025-12119)** : 🟠 **Severity: Medium** (Score: 6.9)
+- **[CVE-2025-12119](https://www.cve.org/CVERecord?id=CVE-2025-12119)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** mongo-c-driver 1.17.6-1+deb11u2
@@ -579,17 +612,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** net-snmp 5.9.3+dfsg-2+deb12u1 	[trixie] - net-snmp 5.9.4+dfsg-2+deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2026-01-09** - **[DSA-6097-1](https://security-tracker.debian.org/tracker/DSA-6097-1)** - chromium
-
-**CVE(s) :**
-- **[CVE-2026-0628](https://www.cve.org/CVERecord?id=CVE-2026-0628)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** chromium 143.0.7499.192-1~deb12u1 	[trixie] - chromium 143.0.7499.192-1~deb13u1
  **Type :** DSA
 
 ------------------------------
