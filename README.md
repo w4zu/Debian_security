@@ -1,9 +1,20 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-01-24** - **[DLA-4447-1](https://security-tracker.debian.org/tracker/DLA-4447-1)** - php7.4
+
+**CVE(s) :**
+- **[CVE-2025-14178](https://www.cve.org/CVERecord?id=CVE-2025-14178)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** php7.4 7.4.33-1+deb11u10
+ **Type :** DLA
+
+------------------------------
+
 **2026-01-23** - **[DLA-4446-1](https://security-tracker.debian.org/tracker/DLA-4446-1)** - python-urllib3
 
 **CVE(s) :**
-- **[CVE-2026-21441](https://www.cve.org/CVERecord?id=CVE-2026-21441)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2026-21441](https://www.cve.org/CVERecord?id=CVE-2026-21441)** : 🔥 **Severity: High** (Score: 8.9)
 
 **Debian Version :** bullseye
  **Package Version :** python-urllib3 1.26.5-1~exp1+deb11u3
@@ -27,7 +38,7 @@
 **2026-01-22** - **[DSA-6102-2](https://security-tracker.debian.org/tracker/DSA-6102-2)** - python-urllib3
 
 **CVE(s) :**
-- **[CVE-2026-21441](https://www.cve.org/CVERecord?id=CVE-2026-21441)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2026-21441](https://www.cve.org/CVERecord?id=CVE-2026-21441)** : 🔥 **Severity: High** (Score: 8.9)
 
 **Debian Version :** bookworm
  **Package Version :** python-urllib3 1.26.12-1+deb12u3
@@ -84,7 +95,7 @@
 **CVE(s) :**
 - **[CVE-2022-37454](https://www.cve.org/CVERecord?id=CVE-2022-37454)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-4516](https://www.cve.org/CVERecord?id=CVE-2025-4516)** : 🟠 **Severity: Medium** (Score: 5.9)
+- **[CVE-2025-4516](https://www.cve.org/CVERecord?id=CVE-2025-4516)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-6069](https://www.cve.org/CVERecord?id=CVE-2025-6069)** : **Severity: Unknown** (Score: N/A)
 
@@ -98,7 +109,7 @@
 
 - **[CVE-2025-13836](https://www.cve.org/CVERecord?id=CVE-2025-13836)** : 🟠 **Severity: Medium** (Score: 6.3)
 
-- **[CVE-2025-13837](https://www.cve.org/CVERecord?id=CVE-2025-13837)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-13837](https://www.cve.org/CVERecord?id=CVE-2025-13837)** : 🟠 **Severity: Medium** (Score: 2.1)
 
 **Debian Version :** bullseye
  **Package Version :** python3.9 3.9.2-1+deb11u4
@@ -131,9 +142,9 @@
 **2026-01-19** - **[DLA-4443-1](https://security-tracker.debian.org/tracker/DLA-4443-1)** - dcmtk
 
 **CVE(s) :**
-- **[CVE-2025-14607](https://www.cve.org/CVERecord?id=CVE-2025-14607)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-14607](https://www.cve.org/CVERecord?id=CVE-2025-14607)** : 🟠 **Severity: Medium** (Score: 5.3)
 
-- **[CVE-2025-14841](https://www.cve.org/CVERecord?id=CVE-2025-14841)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-14841](https://www.cve.org/CVERecord?id=CVE-2025-14841)** : 🟠 **Severity: Medium** (Score: 4.8)
 
 **Debian Version :** bullseye
  **Package Version :** dcmtk 3.6.5-1+deb11u6
@@ -229,7 +240,7 @@
 **CVE(s) :**
 - **[CVE-2025-66418](https://www.cve.org/CVERecord?id=CVE-2025-66418)** : 🔥 **Severity: High** (Score: 8.9)
 
-- **[CVE-2026-21441](https://www.cve.org/CVERecord?id=CVE-2026-21441)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2026-21441](https://www.cve.org/CVERecord?id=CVE-2026-21441)** : 🔥 **Severity: High** (Score: 8.9)
 
 **Debian Version :** bookworm
  **Package Version :** python-urllib3 1.26.12-1+deb12u2 	[trixie] - python-urllib3 2.3.0-3+deb13u1
@@ -333,7 +344,7 @@
 **2026-01-14** - **[DLA-4438-1](https://security-tracker.debian.org/tracker/DLA-4438-1)** - mongo-c-driver
 
 **CVE(s) :**
-- **[CVE-2025-12119](https://www.cve.org/CVERecord?id=CVE-2025-12119)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-12119](https://www.cve.org/CVERecord?id=CVE-2025-12119)** : 🟠 **Severity: Medium** (Score: 6.9)
 
 **Debian Version :** bullseye
  **Package Version :** mongo-c-driver 1.17.6-1+deb11u2
