@@ -1,5 +1,20 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-01-24** - **[DLA-4448-1](https://security-tracker.debian.org/tracker/DLA-4448-1)** - imagemagick
+
+**CVE(s) :**
+- **[CVE-2026-23874](https://www.cve.org/CVERecord?id=CVE-2026-23874)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-23876](https://www.cve.org/CVERecord?id=CVE-2026-23876)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-23952](https://www.cve.org/CVERecord?id=CVE-2026-23952)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** imagemagick 8:6.9.11.60+dfsg-1.3+deb11u9
+ **Type :** DLA
+
+------------------------------
+
 **2026-01-24** - **[DLA-4447-1](https://security-tracker.debian.org/tracker/DLA-4447-1)** - php7.4
 
 **CVE(s) :**
@@ -95,7 +110,7 @@
 **CVE(s) :**
 - **[CVE-2022-37454](https://www.cve.org/CVERecord?id=CVE-2022-37454)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-4516](https://www.cve.org/CVERecord?id=CVE-2025-4516)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-4516](https://www.cve.org/CVERecord?id=CVE-2025-4516)** : 🟠 **Severity: Medium** (Score: 5.9)
 
 - **[CVE-2025-6069](https://www.cve.org/CVERecord?id=CVE-2025-6069)** : **Severity: Unknown** (Score: N/A)
 
