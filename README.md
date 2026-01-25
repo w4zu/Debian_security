@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-01-25** - **[DLA-4454-1](https://security-tracker.debian.org/tracker/DLA-4454-1)** - libuev
+
+**CVE(s) :**
+- **[CVE-2022-48620](https://www.cve.org/CVERecord?id=CVE-2022-48620)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** libuev 2.3.1-1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-01-25** - **[DLA-4453-1](https://security-tracker.debian.org/tracker/DLA-4453-1)** - inetutils
 
 **CVE(s) :**
@@ -76,7 +87,7 @@
 
 - **[CVE-2025-2174](https://www.cve.org/CVERecord?id=CVE-2025-2174)** : 🟠 **Severity: Medium** (Score: 6.9)
 
-- **[CVE-2025-2175](https://www.cve.org/CVERecord?id=CVE-2025-2175)** : 🟠 **Severity: Medium** (Score: 5.3)
+- **[CVE-2025-2175](https://www.cve.org/CVERecord?id=CVE-2025-2175)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-2176](https://www.cve.org/CVERecord?id=CVE-2025-2176)** : 🟠 **Severity: Medium** (Score: 6.9)
 
@@ -210,7 +221,7 @@
 
 - **[CVE-2025-12084](https://www.cve.org/CVERecord?id=CVE-2025-12084)** : 🟠 **Severity: Medium** (Score: 6.3)
 
-- **[CVE-2025-13836](https://www.cve.org/CVERecord?id=CVE-2025-13836)** : 🟠 **Severity: Medium** (Score: 6.3)
+- **[CVE-2025-13836](https://www.cve.org/CVERecord?id=CVE-2025-13836)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-13837](https://www.cve.org/CVERecord?id=CVE-2025-13837)** : 🟠 **Severity: Medium** (Score: 2.1)
 
@@ -341,7 +352,7 @@
 **2026-01-17** - **[DSA-6102-1](https://security-tracker.debian.org/tracker/DSA-6102-1)** - python-urllib3
 
 **CVE(s) :**
-- **[CVE-2025-66418](https://www.cve.org/CVERecord?id=CVE-2025-66418)** : 🔥 **Severity: High** (Score: 8.9)
+- **[CVE-2025-66418](https://www.cve.org/CVERecord?id=CVE-2025-66418)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2026-21441](https://www.cve.org/CVERecord?id=CVE-2026-21441)** : 🔥 **Severity: High** (Score: 8.9)
 
@@ -358,7 +369,7 @@
 
 - **[CVE-2024-36615](https://www.cve.org/CVERecord?id=CVE-2024-36615)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-1594](https://www.cve.org/CVERecord?id=CVE-2025-1594)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-1594](https://www.cve.org/CVERecord?id=CVE-2025-1594)** : 🟠 **Severity: Medium** (Score: 5.3)
 
 - **[CVE-2025-7700](https://www.cve.org/CVERecord?id=CVE-2025-7700)** : **Severity: Unknown** (Score: N/A)
 
