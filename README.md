@@ -1,5 +1,76 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-01-25** - **[DLA-4453-1](https://security-tracker.debian.org/tracker/DLA-4453-1)** - inetutils
+
+**CVE(s) :**
+- **[CVE-2026-24061](https://www.cve.org/CVERecord?id=CVE-2026-24061)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** inetutils 2:2.0-1+deb11u3
+ **Type :** DLA
+
+------------------------------
+
+**2026-01-24** - **[DLA-4452-1](https://security-tracker.debian.org/tracker/DLA-4452-1)** - apache2
+
+**CVE(s) :**
+- **[CVE-2025-55753](https://www.cve.org/CVERecord?id=CVE-2025-55753)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-58098](https://www.cve.org/CVERecord?id=CVE-2025-58098)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-59775](https://www.cve.org/CVERecord?id=CVE-2025-59775)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-65082](https://www.cve.org/CVERecord?id=CVE-2025-65082)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-66200](https://www.cve.org/CVERecord?id=CVE-2025-66200)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** apache2 2.4.66-1~deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2026-01-24** - **[DLA-4451-1](https://security-tracker.debian.org/tracker/DLA-4451-1)** - shapelib
+
+**CVE(s) :**
+- **[CVE-2022-0699](https://www.cve.org/CVERecord?id=CVE-2022-0699)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** shapelib 1.5.0-2+deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2026-01-24** - **[DLA-4450-1](https://security-tracker.debian.org/tracker/DLA-4450-1)** - taglib
+
+**CVE(s) :**
+- **[CVE-2023-47466](https://www.cve.org/CVERecord?id=CVE-2023-47466)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** taglib 1.11.1+dfsg.1-3+deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2026-01-24** - **[DLA-4449-1](https://security-tracker.debian.org/tracker/DLA-4449-1)** - zvbi
+
+**CVE(s) :**
+- **[CVE-2025-2173](https://www.cve.org/CVERecord?id=CVE-2025-2173)** : 🟠 **Severity: Medium** (Score: 6.9)
+
+- **[CVE-2025-2174](https://www.cve.org/CVERecord?id=CVE-2025-2174)** : 🟠 **Severity: Medium** (Score: 6.9)
+
+- **[CVE-2025-2175](https://www.cve.org/CVERecord?id=CVE-2025-2175)** : 🟠 **Severity: Medium** (Score: 5.3)
+
+- **[CVE-2025-2176](https://www.cve.org/CVERecord?id=CVE-2025-2176)** : 🟠 **Severity: Medium** (Score: 6.9)
+
+- **[CVE-2025-2177](https://www.cve.org/CVERecord?id=CVE-2025-2177)** : 🟠 **Severity: Medium** (Score: 6.9)
+
+**Debian Version :** bullseye
+ **Package Version :** zvbi 0.2.35-18+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-01-24** - **[DLA-4448-1](https://security-tracker.debian.org/tracker/DLA-4448-1)** - imagemagick
 
 **CVE(s) :**
@@ -274,7 +345,7 @@
 
 - **[CVE-2025-7700](https://www.cve.org/CVERecord?id=CVE-2025-7700)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-9951](https://www.cve.org/CVERecord?id=CVE-2025-9951)** : 🔥 **Severity: High** (Score: 7.2)
+- **[CVE-2025-9951](https://www.cve.org/CVERecord?id=CVE-2025-9951)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-10256](https://www.cve.org/CVERecord?id=CVE-2025-10256)** : **Severity: Unknown** (Score: N/A)
 
