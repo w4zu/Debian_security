@@ -11,6 +11,23 @@
 
 ------------------------------
 
+**2026-01-25** - **[DSA-6110-1](https://security-tracker.debian.org/tracker/DSA-6110-1)** - openjdk-17
+
+**CVE(s) :**
+- **[CVE-2026-21925](https://www.cve.org/CVERecord?id=CVE-2026-21925)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-21932](https://www.cve.org/CVERecord?id=CVE-2026-21932)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-21933](https://www.cve.org/CVERecord?id=CVE-2026-21933)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-21945](https://www.cve.org/CVERecord?id=CVE-2026-21945)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** openjdk-17 17.0.18+8-1~deb12u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-01-24** - **[DLA-4452-1](https://security-tracker.debian.org/tracker/DLA-4452-1)** - apache2
 
 **CVE(s) :**
@@ -341,7 +358,7 @@
 
 - **[CVE-2024-36615](https://www.cve.org/CVERecord?id=CVE-2024-36615)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-1594](https://www.cve.org/CVERecord?id=CVE-2025-1594)** : 🟠 **Severity: Medium** (Score: 5.3)
+- **[CVE-2025-1594](https://www.cve.org/CVERecord?id=CVE-2025-1594)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-7700](https://www.cve.org/CVERecord?id=CVE-2025-7700)** : **Severity: Unknown** (Score: N/A)
 
