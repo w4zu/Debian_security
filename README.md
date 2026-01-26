@@ -1,5 +1,39 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-01-26** - **[DLA-4457-1](https://security-tracker.debian.org/tracker/DLA-4457-1)** - openjdk-11
+
+**CVE(s) :**
+- **[CVE-2026-21925](https://www.cve.org/CVERecord?id=CVE-2026-21925)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-21932](https://www.cve.org/CVERecord?id=CVE-2026-21932)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-21933](https://www.cve.org/CVERecord?id=CVE-2026-21933)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-21945](https://www.cve.org/CVERecord?id=CVE-2026-21945)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** openjdk-11 11.0.30+7-1~deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2026-01-26** - **[DLA-4456-1](https://security-tracker.debian.org/tracker/DLA-4456-1)** - openjdk-17
+
+**CVE(s) :**
+- **[CVE-2026-21925](https://www.cve.org/CVERecord?id=CVE-2026-21925)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-21932](https://www.cve.org/CVERecord?id=CVE-2026-21932)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-21933](https://www.cve.org/CVERecord?id=CVE-2026-21933)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-21945](https://www.cve.org/CVERecord?id=CVE-2026-21945)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** openjdk-17 17.0.18+8-1~deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-01-25** - **[DLA-4455-1](https://security-tracker.debian.org/tracker/DLA-4455-1)** - python3.9
 
 **CVE(s) :**
@@ -110,7 +144,7 @@
 
 - **[CVE-2025-2174](https://www.cve.org/CVERecord?id=CVE-2025-2174)** : 🟠 **Severity: Medium** (Score: 6.9)
 
-- **[CVE-2025-2175](https://www.cve.org/CVERecord?id=CVE-2025-2175)** : 🟠 **Severity: Medium** (Score: 5.3)
+- **[CVE-2025-2175](https://www.cve.org/CVERecord?id=CVE-2025-2175)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-2176](https://www.cve.org/CVERecord?id=CVE-2025-2176)** : 🟠 **Severity: Medium** (Score: 6.9)
 
@@ -232,7 +266,7 @@
 **CVE(s) :**
 - **[CVE-2022-37454](https://www.cve.org/CVERecord?id=CVE-2022-37454)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-4516](https://www.cve.org/CVERecord?id=CVE-2025-4516)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-4516](https://www.cve.org/CVERecord?id=CVE-2025-4516)** : 🟠 **Severity: Medium** (Score: 5.9)
 
 - **[CVE-2025-6069](https://www.cve.org/CVERecord?id=CVE-2025-6069)** : **Severity: Unknown** (Score: N/A)
 
