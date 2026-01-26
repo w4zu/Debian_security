@@ -1,5 +1,30 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-01-25** - **[DLA-4455-1](https://security-tracker.debian.org/tracker/DLA-4455-1)** - python3.9
+
+**CVE(s) :**
+- **[CVE-2025-11468](https://www.cve.org/CVERecord?id=CVE-2025-11468)** : 🟠 **Severity: Medium** (Score: 5.7)
+
+- **[CVE-2025-12084](https://www.cve.org/CVERecord?id=CVE-2025-12084)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+- **[CVE-2025-15282](https://www.cve.org/CVERecord?id=CVE-2025-15282)** : 🟠 **Severity: Medium** (Score: 6)
+
+- **[CVE-2025-15366](https://www.cve.org/CVERecord?id=CVE-2025-15366)** : 🟠 **Severity: Medium** (Score: 5.9)
+
+- **[CVE-2025-15367](https://www.cve.org/CVERecord?id=CVE-2025-15367)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0672](https://www.cve.org/CVERecord?id=CVE-2026-0672)** : 🟠 **Severity: Medium** (Score: 6)
+
+- **[CVE-2026-0865](https://www.cve.org/CVERecord?id=CVE-2026-0865)** : 🟠 **Severity: Medium** (Score: 5.9)
+
+- **[CVE-2026-1299](https://www.cve.org/CVERecord?id=CVE-2026-1299)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** python3.9 3.9.2-1+deb11u5
+ **Type :** DLA
+
+------------------------------
+
 **2026-01-25** - **[DLA-4454-1](https://security-tracker.debian.org/tracker/DLA-4454-1)** - libuev
 
 **CVE(s) :**
@@ -46,8 +71,6 @@
 
 - **[CVE-2025-58098](https://www.cve.org/CVERecord?id=CVE-2025-58098)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-59775](https://www.cve.org/CVERecord?id=CVE-2025-59775)** : **Severity: Unknown** (Score: N/A)
-
 - **[CVE-2025-65082](https://www.cve.org/CVERecord?id=CVE-2025-65082)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-66200](https://www.cve.org/CVERecord?id=CVE-2025-66200)** : **Severity: Unknown** (Score: N/A)
@@ -87,7 +110,7 @@
 
 - **[CVE-2025-2174](https://www.cve.org/CVERecord?id=CVE-2025-2174)** : 🟠 **Severity: Medium** (Score: 6.9)
 
-- **[CVE-2025-2175](https://www.cve.org/CVERecord?id=CVE-2025-2175)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-2175](https://www.cve.org/CVERecord?id=CVE-2025-2175)** : 🟠 **Severity: Medium** (Score: 5.3)
 
 - **[CVE-2025-2176](https://www.cve.org/CVERecord?id=CVE-2025-2176)** : 🟠 **Severity: Medium** (Score: 6.9)
 
@@ -209,7 +232,7 @@
 **CVE(s) :**
 - **[CVE-2022-37454](https://www.cve.org/CVERecord?id=CVE-2022-37454)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-4516](https://www.cve.org/CVERecord?id=CVE-2025-4516)** : 🟠 **Severity: Medium** (Score: 5.9)
+- **[CVE-2025-4516](https://www.cve.org/CVERecord?id=CVE-2025-4516)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-6069](https://www.cve.org/CVERecord?id=CVE-2025-6069)** : **Severity: Unknown** (Score: N/A)
 
@@ -221,7 +244,7 @@
 
 - **[CVE-2025-12084](https://www.cve.org/CVERecord?id=CVE-2025-12084)** : 🟠 **Severity: Medium** (Score: 6.3)
 
-- **[CVE-2025-13836](https://www.cve.org/CVERecord?id=CVE-2025-13836)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-13836](https://www.cve.org/CVERecord?id=CVE-2025-13836)** : 🟠 **Severity: Medium** (Score: 6.3)
 
 - **[CVE-2025-13837](https://www.cve.org/CVERecord?id=CVE-2025-13837)** : 🟠 **Severity: Medium** (Score: 2.1)
 
@@ -352,7 +375,7 @@
 **2026-01-17** - **[DSA-6102-1](https://security-tracker.debian.org/tracker/DSA-6102-1)** - python-urllib3
 
 **CVE(s) :**
-- **[CVE-2025-66418](https://www.cve.org/CVERecord?id=CVE-2025-66418)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-66418](https://www.cve.org/CVERecord?id=CVE-2025-66418)** : 🔥 **Severity: High** (Score: 8.9)
 
 - **[CVE-2026-21441](https://www.cve.org/CVERecord?id=CVE-2026-21441)** : 🔥 **Severity: High** (Score: 8.9)
 
@@ -750,17 +773,6 @@
 
 **Debian Version :** trixie
  **Package Version :** python-parsl 2025.01.13+ds-1+deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2026-01-12** - **[DSA-6098-1](https://security-tracker.debian.org/tracker/DSA-6098-1)** - net-snmp
-
-**CVE(s) :**
-- **[CVE-2025-68615](https://www.cve.org/CVERecord?id=CVE-2025-68615)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** net-snmp 5.9.3+dfsg-2+deb12u1 	[trixie] - net-snmp 5.9.4+dfsg-2+deb13u1
  **Type :** DSA
 
 ------------------------------
