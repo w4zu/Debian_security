@@ -13,7 +13,7 @@
 
 - **[CVE-2025-15367](https://www.cve.org/CVERecord?id=CVE-2025-15367)** : 🟠 **Severity: Medium** (Score: 5.9)
 
-- **[CVE-2026-0672](https://www.cve.org/CVERecord?id=CVE-2026-0672)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2026-0672](https://www.cve.org/CVERecord?id=CVE-2026-0672)** : 🟠 **Severity: Medium** (Score: 6)
 
 - **[CVE-2026-0865](https://www.cve.org/CVERecord?id=CVE-2026-0865)** : 🟠 **Severity: Medium** (Score: 5.9)
 
@@ -246,7 +246,7 @@
 
 - **[CVE-2025-13836](https://www.cve.org/CVERecord?id=CVE-2025-13836)** : 🟠 **Severity: Medium** (Score: 6.3)
 
-- **[CVE-2025-13837](https://www.cve.org/CVERecord?id=CVE-2025-13837)** : 🟠 **Severity: Medium** (Score: 2.1)
+- **[CVE-2025-13837](https://www.cve.org/CVERecord?id=CVE-2025-13837)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** python3.9 3.9.2-1+deb11u4
