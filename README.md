@@ -1,5 +1,22 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-01-27** - **[DSA-6112-1](https://security-tracker.debian.org/tracker/DSA-6112-1)** - openjdk-21
+
+**CVE(s) :**
+- **[CVE-2026-21925](https://www.cve.org/CVERecord?id=CVE-2026-21925)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-21932](https://www.cve.org/CVERecord?id=CVE-2026-21932)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-21933](https://www.cve.org/CVERecord?id=CVE-2026-21933)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-21945](https://www.cve.org/CVERecord?id=CVE-2026-21945)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** openjdk-21 21.0.10+7-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-01-26** - **[DLA-4457-1](https://security-tracker.debian.org/tracker/DLA-4457-1)** - openjdk-11
 
 **CVE(s) :**
@@ -34,12 +51,27 @@
 
 ------------------------------
 
+**2026-01-26** - **[DSA-6111-1](https://security-tracker.debian.org/tracker/DSA-6111-1)** - imagemagick
+
+**CVE(s) :**
+- **[CVE-2026-23874](https://www.cve.org/CVERecord?id=CVE-2026-23874)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-23876](https://www.cve.org/CVERecord?id=CVE-2026-23876)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-23952](https://www.cve.org/CVERecord?id=CVE-2026-23952)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** imagemagick 8:6.9.11.60+dfsg-1.6+deb12u6 	[trixie] - imagemagick 8:7.1.1.43+dfsg1-1+deb13u5
+ **Type :** DSA
+
+------------------------------
+
 **2026-01-25** - **[DLA-4455-1](https://security-tracker.debian.org/tracker/DLA-4455-1)** - python3.9
 
 **CVE(s) :**
 - **[CVE-2025-11468](https://www.cve.org/CVERecord?id=CVE-2025-11468)** : 🟠 **Severity: Medium** (Score: 5.7)
 
-- **[CVE-2025-12084](https://www.cve.org/CVERecord?id=CVE-2025-12084)** : 🟠 **Severity: Medium** (Score: 6.3)
+- **[CVE-2025-12084](https://www.cve.org/CVERecord?id=CVE-2025-12084)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-15282](https://www.cve.org/CVERecord?id=CVE-2025-15282)** : 🟠 **Severity: Medium** (Score: 6)
 
@@ -51,7 +83,7 @@
 
 - **[CVE-2026-0865](https://www.cve.org/CVERecord?id=CVE-2026-0865)** : 🟠 **Severity: Medium** (Score: 5.9)
 
-- **[CVE-2026-1299](https://www.cve.org/CVERecord?id=CVE-2026-1299)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2026-1299](https://www.cve.org/CVERecord?id=CVE-2026-1299)** : 🟠 **Severity: Medium** (Score: 6)
 
 **Debian Version :** bullseye
  **Package Version :** python3.9 3.9.2-1+deb11u5
@@ -276,9 +308,9 @@
 
 - **[CVE-2025-8291](https://www.cve.org/CVERecord?id=CVE-2025-8291)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-12084](https://www.cve.org/CVERecord?id=CVE-2025-12084)** : 🟠 **Severity: Medium** (Score: 6.3)
+- **[CVE-2025-12084](https://www.cve.org/CVERecord?id=CVE-2025-12084)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-13836](https://www.cve.org/CVERecord?id=CVE-2025-13836)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-13836](https://www.cve.org/CVERecord?id=CVE-2025-13836)** : 🟠 **Severity: Medium** (Score: 6.3)
 
 - **[CVE-2025-13837](https://www.cve.org/CVERecord?id=CVE-2025-13837)** : 🟠 **Severity: Medium** (Score: 2.1)
 
