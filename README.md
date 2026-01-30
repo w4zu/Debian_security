@@ -154,7 +154,7 @@
 **2026-01-25** - **[DLA-4455-1](https://security-tracker.debian.org/tracker/DLA-4455-1)** - python3.9
 
 **CVE(s) :**
-- **[CVE-2025-11468](https://www.cve.org/CVERecord?id=CVE-2025-11468)** : 🟠 **Severity: Medium** (Score: 5.7)
+- **[CVE-2025-11468](https://www.cve.org/CVERecord?id=CVE-2025-11468)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-12084](https://www.cve.org/CVERecord?id=CVE-2025-12084)** : 🟠 **Severity: Medium** (Score: 6.3)
 
@@ -265,7 +265,7 @@
 
 - **[CVE-2025-2176](https://www.cve.org/CVERecord?id=CVE-2025-2176)** : 🟠 **Severity: Medium** (Score: 6.9)
 
-- **[CVE-2025-2177](https://www.cve.org/CVERecord?id=CVE-2025-2177)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-2177](https://www.cve.org/CVERecord?id=CVE-2025-2177)** : 🟠 **Severity: Medium** (Score: 6.9)
 
 **Debian Version :** bullseye
  **Package Version :** zvbi 0.2.35-18+deb11u1
@@ -430,9 +430,9 @@
 **2026-01-19** - **[DLA-4443-1](https://security-tracker.debian.org/tracker/DLA-4443-1)** - dcmtk
 
 **CVE(s) :**
-- **[CVE-2025-14607](https://www.cve.org/CVERecord?id=CVE-2025-14607)** : 🟠 **Severity: Medium** (Score: 5.3)
+- **[CVE-2025-14607](https://www.cve.org/CVERecord?id=CVE-2025-14607)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-14841](https://www.cve.org/CVERecord?id=CVE-2025-14841)** : 🟠 **Severity: Medium** (Score: 4.8)
+- **[CVE-2025-14841](https://www.cve.org/CVERecord?id=CVE-2025-14841)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** dcmtk 3.6.5-1+deb11u6
