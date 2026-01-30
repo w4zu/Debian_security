@@ -166,7 +166,7 @@
 
 - **[CVE-2026-0672](https://www.cve.org/CVERecord?id=CVE-2026-0672)** : 🟠 **Severity: Medium** (Score: 6)
 
-- **[CVE-2026-0865](https://www.cve.org/CVERecord?id=CVE-2026-0865)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2026-0865](https://www.cve.org/CVERecord?id=CVE-2026-0865)** : 🟠 **Severity: Medium** (Score: 5.9)
 
 - **[CVE-2026-1299](https://www.cve.org/CVERecord?id=CVE-2026-1299)** : 🟠 **Severity: Medium** (Score: 6)
 
@@ -265,7 +265,7 @@
 
 - **[CVE-2025-2176](https://www.cve.org/CVERecord?id=CVE-2025-2176)** : 🟠 **Severity: Medium** (Score: 6.9)
 
-- **[CVE-2025-2177](https://www.cve.org/CVERecord?id=CVE-2025-2177)** : 🟠 **Severity: Medium** (Score: 6.9)
+- **[CVE-2025-2177](https://www.cve.org/CVERecord?id=CVE-2025-2177)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** zvbi 0.2.35-18+deb11u1
@@ -533,29 +533,6 @@
 **Debian Version :** bookworm
  **Package Version :** python-urllib3 1.26.12-1+deb12u2 	[trixie] - python-urllib3 2.3.0-3+deb13u1
  **Type :** DSA
-
-------------------------------
-
-**2026-01-16** - **[DLA-4440-1](https://security-tracker.debian.org/tracker/DLA-4440-1)** - ffmpeg
-
-**CVE(s) :**
-- **[CVE-2023-6603](https://www.cve.org/CVERecord?id=CVE-2023-6603)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-36615](https://www.cve.org/CVERecord?id=CVE-2024-36615)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-1594](https://www.cve.org/CVERecord?id=CVE-2025-1594)** : 🟠 **Severity: Medium** (Score: 5.3)
-
-- **[CVE-2025-7700](https://www.cve.org/CVERecord?id=CVE-2025-7700)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-9951](https://www.cve.org/CVERecord?id=CVE-2025-9951)** : 🔥 **Severity: High** (Score: 7.2)
-
-- **[CVE-2025-10256](https://www.cve.org/CVERecord?id=CVE-2025-10256)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-63757](https://www.cve.org/CVERecord?id=CVE-2025-63757)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** ffmpeg 7:4.3.9-0+deb11u2
- **Type :** DLA
 
 ------------------------------
 
