@@ -1,5 +1,26 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-01-31** - **[DSA-6117-1](https://security-tracker.debian.org/tracker/DSA-6117-1)** - python-django
+
+**CVE(s) :**
+- **[CVE-2025-13372](https://www.cve.org/CVERecord?id=CVE-2025-13372)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-57833](https://www.cve.org/CVERecord?id=CVE-2025-57833)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-59681](https://www.cve.org/CVERecord?id=CVE-2025-59681)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-59682](https://www.cve.org/CVERecord?id=CVE-2025-59682)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-64459](https://www.cve.org/CVERecord?id=CVE-2025-64459)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-64460](https://www.cve.org/CVERecord?id=CVE-2025-64460)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** python-django 3:4.2.27-0+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-01-30** - **[DSA-6116-1](https://security-tracker.debian.org/tracker/DSA-6116-1)** - chromium
 
 **CVE(s) :**
@@ -272,7 +293,7 @@
 
 - **[CVE-2025-2174](https://www.cve.org/CVERecord?id=CVE-2025-2174)** : 🟠 **Severity: Medium** (Score: 6.9)
 
-- **[CVE-2025-2175](https://www.cve.org/CVERecord?id=CVE-2025-2175)** : 🟠 **Severity: Medium** (Score: 5.3)
+- **[CVE-2025-2175](https://www.cve.org/CVERecord?id=CVE-2025-2175)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-2176](https://www.cve.org/CVERecord?id=CVE-2025-2176)** : 🟠 **Severity: Medium** (Score: 6.9)
 
@@ -406,9 +427,9 @@
 
 - **[CVE-2025-12084](https://www.cve.org/CVERecord?id=CVE-2025-12084)** : 🟠 **Severity: Medium** (Score: 6.3)
 
-- **[CVE-2025-13836](https://www.cve.org/CVERecord?id=CVE-2025-13836)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-13836](https://www.cve.org/CVERecord?id=CVE-2025-13836)** : 🟠 **Severity: Medium** (Score: 6.3)
 
-- **[CVE-2025-13837](https://www.cve.org/CVERecord?id=CVE-2025-13837)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-13837](https://www.cve.org/CVERecord?id=CVE-2025-13837)** : 🟠 **Severity: Medium** (Score: 2.1)
 
 **Debian Version :** bullseye
  **Package Version :** python3.9 3.9.2-1+deb11u4
