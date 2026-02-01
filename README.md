@@ -340,7 +340,7 @@
 
 - **[CVE-2025-2176](https://www.cve.org/CVERecord?id=CVE-2025-2176)** : 🟠 **Severity: Medium** (Score: 6.9)
 
-- **[CVE-2025-2177](https://www.cve.org/CVERecord?id=CVE-2025-2177)** : 🟠 **Severity: Medium** (Score: 6.9)
+- **[CVE-2025-2177](https://www.cve.org/CVERecord?id=CVE-2025-2177)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** zvbi 0.2.35-18+deb11u1
@@ -472,7 +472,7 @@
 
 - **[CVE-2025-13836](https://www.cve.org/CVERecord?id=CVE-2025-13836)** : 🟠 **Severity: Medium** (Score: 6.3)
 
-- **[CVE-2025-13837](https://www.cve.org/CVERecord?id=CVE-2025-13837)** : 🟠 **Severity: Medium** (Score: 2.1)
+- **[CVE-2025-13837](https://www.cve.org/CVERecord?id=CVE-2025-13837)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** python3.9 3.9.2-1+deb11u4
