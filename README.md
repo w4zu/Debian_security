@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-02-01** - **[DLA-4460-1](https://security-tracker.debian.org/tracker/DLA-4460-1)** - ceph
+
+**CVE(s) :**
+- **[CVE-2022-0670](https://www.cve.org/CVERecord?id=CVE-2022-0670)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-47866](https://www.cve.org/CVERecord?id=CVE-2024-47866)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** ceph 14.2.21-1+deb11u2
+ **Type :** DLA
+
+------------------------------
+
 **2026-01-31** - **[DSA-6117-1](https://security-tracker.debian.org/tracker/DSA-6117-1)** - python-django
 
 **CVE(s) :**
@@ -186,13 +199,13 @@
 **2026-01-25** - **[DLA-4455-1](https://security-tracker.debian.org/tracker/DLA-4455-1)** - python3.9
 
 **CVE(s) :**
-- **[CVE-2025-11468](https://www.cve.org/CVERecord?id=CVE-2025-11468)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-11468](https://www.cve.org/CVERecord?id=CVE-2025-11468)** : 🟠 **Severity: Medium** (Score: 5.7)
 
 - **[CVE-2025-12084](https://www.cve.org/CVERecord?id=CVE-2025-12084)** : 🟠 **Severity: Medium** (Score: 6.3)
 
-- **[CVE-2025-15282](https://www.cve.org/CVERecord?id=CVE-2025-15282)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-15282](https://www.cve.org/CVERecord?id=CVE-2025-15282)** : 🟠 **Severity: Medium** (Score: 6)
 
-- **[CVE-2025-15366](https://www.cve.org/CVERecord?id=CVE-2025-15366)** : 🟠 **Severity: Medium** (Score: 5.9)
+- **[CVE-2025-15366](https://www.cve.org/CVERecord?id=CVE-2025-15366)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-15367](https://www.cve.org/CVERecord?id=CVE-2025-15367)** : 🟠 **Severity: Medium** (Score: 5.9)
 
@@ -427,7 +440,7 @@
 
 - **[CVE-2025-12084](https://www.cve.org/CVERecord?id=CVE-2025-12084)** : 🟠 **Severity: Medium** (Score: 6.3)
 
-- **[CVE-2025-13836](https://www.cve.org/CVERecord?id=CVE-2025-13836)** : 🟠 **Severity: Medium** (Score: 6.3)
+- **[CVE-2025-13836](https://www.cve.org/CVERecord?id=CVE-2025-13836)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-13837](https://www.cve.org/CVERecord?id=CVE-2025-13837)** : 🟠 **Severity: Medium** (Score: 2.1)
 
