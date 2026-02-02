@@ -388,7 +388,7 @@
 **2026-01-23** - **[DLA-4446-1](https://security-tracker.debian.org/tracker/DLA-4446-1)** - python-urllib3
 
 **CVE(s) :**
-- **[CVE-2026-21441](https://www.cve.org/CVERecord?id=CVE-2026-21441)** : 🔥 **Severity: High** (Score: 8.9)
+- **[CVE-2026-21441](https://www.cve.org/CVERecord?id=CVE-2026-21441)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** python-urllib3 1.26.5-1~exp1+deb11u3
@@ -412,7 +412,7 @@
 **2026-01-22** - **[DSA-6102-2](https://security-tracker.debian.org/tracker/DSA-6102-2)** - python-urllib3
 
 **CVE(s) :**
-- **[CVE-2026-21441](https://www.cve.org/CVERecord?id=CVE-2026-21441)** : 🔥 **Severity: High** (Score: 8.9)
+- **[CVE-2026-21441](https://www.cve.org/CVERecord?id=CVE-2026-21441)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** python-urllib3 1.26.12-1+deb12u3
