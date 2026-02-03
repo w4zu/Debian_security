@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-02-03** - **[DLA-4464-1](https://security-tracker.debian.org/tracker/DLA-4464-1)** - xrdp
+
+**CVE(s) :**
+- **[CVE-2025-68670](https://www.cve.org/CVERecord?id=CVE-2025-68670)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** xrdp 0.9.21.1-1~deb11u3
+ **Type :** DLA
+
+------------------------------
+
 **2026-02-01** - **[DLA-4463-1](https://security-tracker.debian.org/tracker/DLA-4463-1)** - pyasn1
 
 **CVE(s) :**
@@ -252,7 +263,7 @@
 
 - **[CVE-2026-0672](https://www.cve.org/CVERecord?id=CVE-2026-0672)** : 🟠 **Severity: Medium** (Score: 6)
 
-- **[CVE-2026-0865](https://www.cve.org/CVERecord?id=CVE-2026-0865)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2026-0865](https://www.cve.org/CVERecord?id=CVE-2026-0865)** : 🟠 **Severity: Medium** (Score: 5.9)
 
 - **[CVE-2026-1299](https://www.cve.org/CVERecord?id=CVE-2026-1299)** : 🟠 **Severity: Medium** (Score: 6)
 
@@ -460,44 +471,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** modsecurity-crs 3.3.4-1+deb12u1 	[trixie] - modsecurity-crs 3.3.7-1+deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2026-01-20** - **[DLA-4445-1](https://security-tracker.debian.org/tracker/DLA-4445-1)** - python3.9
-
-**CVE(s) :**
-- **[CVE-2022-37454](https://www.cve.org/CVERecord?id=CVE-2022-37454)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-4516](https://www.cve.org/CVERecord?id=CVE-2025-4516)** : 🟠 **Severity: Medium** (Score: 5.9)
-
-- **[CVE-2025-6069](https://www.cve.org/CVERecord?id=CVE-2025-6069)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-6075](https://www.cve.org/CVERecord?id=CVE-2025-6075)** : 🟠 **Severity: Medium** (Score: 1.8)
-
-- **[CVE-2025-8194](https://www.cve.org/CVERecord?id=CVE-2025-8194)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-8291](https://www.cve.org/CVERecord?id=CVE-2025-8291)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-12084](https://www.cve.org/CVERecord?id=CVE-2025-12084)** : 🟠 **Severity: Medium** (Score: 6.3)
-
-- **[CVE-2025-13836](https://www.cve.org/CVERecord?id=CVE-2025-13836)** : 🟠 **Severity: Medium** (Score: 6.3)
-
-- **[CVE-2025-13837](https://www.cve.org/CVERecord?id=CVE-2025-13837)** : 🟠 **Severity: Medium** (Score: 2.1)
-
-**Debian Version :** bullseye
- **Package Version :** python3.9 3.9.2-1+deb11u4
- **Type :** DLA
-
-------------------------------
-
-**2026-01-20** - **[DSA-6104-1](https://security-tracker.debian.org/tracker/DSA-6104-1)** - python-keystonemiddleware
-
-**CVE(s) :**
-- **[CVE-2026-22797](https://www.cve.org/CVERecord?id=CVE-2026-22797)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** trixie
- **Package Version :** python-keystonemiddleware 10.9.0-2+deb13u1
  **Type :** DSA
 
 ------------------------------
