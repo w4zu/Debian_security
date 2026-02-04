@@ -11,6 +11,17 @@
 
 ------------------------------
 
+**2026-02-03** - **[DSA-6118-1](https://security-tracker.debian.org/tracker/DSA-6118-1)** - thunderbird
+
+**CVE(s) :**
+- **[CVE-2026-0818](https://www.cve.org/CVERecord?id=CVE-2026-0818)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** thunderbird 1:140.7.1esr-1~deb12u1 	[trixie] - thunderbird 1:140.7.1esr-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-02-01** - **[DLA-4463-1](https://security-tracker.debian.org/tracker/DLA-4463-1)** - pyasn1
 
 **CVE(s) :**
@@ -460,17 +471,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** inetutils 2:2.4-2+deb12u2 	[trixie] - inetutils 2:2.6-3+deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2026-01-21** - **[DSA-6105-1](https://security-tracker.debian.org/tracker/DSA-6105-1)** - modsecurity-crs
-
-**CVE(s) :**
-- **[CVE-2026-21876](https://www.cve.org/CVERecord?id=CVE-2026-21876)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** modsecurity-crs 3.3.4-1+deb12u1 	[trixie] - modsecurity-crs 3.3.7-1+deb13u1
  **Type :** DSA
 
 ------------------------------
