@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-02-04** - **[DLA-4466-1](https://security-tracker.debian.org/tracker/DLA-4466-1)** - thunderbird
+
+**CVE(s) :**
+- **[CVE-2026-0818](https://www.cve.org/CVERecord?id=CVE-2026-0818)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** thunderbird 1:140.7.1esr-1~deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-02-03** - **[DLA-4464-1](https://security-tracker.debian.org/tracker/DLA-4464-1)** - xrdp
 
 **CVE(s) :**
