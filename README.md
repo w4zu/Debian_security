@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-02-05** - **[DLA-4467-1](https://security-tracker.debian.org/tracker/DLA-4467-1)** - containerd
+
+**CVE(s) :**
+- **[CVE-2024-25621](https://www.cve.org/CVERecord?id=CVE-2024-25621)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-64329](https://www.cve.org/CVERecord?id=CVE-2025-64329)** : 🟠 **Severity: Medium** (Score: 6.9)
+
+**Debian Version :** bullseye
+ **Package Version :** containerd 1.4.13~ds1-1~deb11u6
+ **Type :** DLA
+
+------------------------------
+
 **2026-02-04** - **[DLA-4466-1](https://security-tracker.debian.org/tracker/DLA-4466-1)** - thunderbird
 
 **CVE(s) :**
