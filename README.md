@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-02-06** - **[DLA-4470-1](https://security-tracker.debian.org/tracker/DLA-4470-1)** - phpunit
+
+**CVE(s) :**
+- **[CVE-2026-24765](https://www.cve.org/CVERecord?id=CVE-2026-24765)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** phpunit 9.5.2-1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-02-05** - **[DLA-4469-1](https://security-tracker.debian.org/tracker/DLA-4469-1)** - alsa-lib
 
 **CVE(s) :**
