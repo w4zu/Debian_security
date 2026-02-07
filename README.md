@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-02-07** - **[DSA-6123-1](https://security-tracker.debian.org/tracker/DSA-6123-1)** - xrdp
+
+**CVE(s) :**
+- **[CVE-2025-68670](https://www.cve.org/CVERecord?id=CVE-2025-68670)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** xrdp 0.9.21.1-1+deb12u2 	[trixie] - xrdp 0.10.1-3.1+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-02-06** - **[DLA-4472-1](https://security-tracker.debian.org/tracker/DLA-4472-1)** - sudo
 
 **CVE(s) :**
