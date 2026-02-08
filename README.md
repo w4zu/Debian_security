@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-02-08** - **[DLA-4473-1](https://security-tracker.debian.org/tracker/DLA-4473-1)** - zabbix
+
+**CVE(s) :**
+- **[CVE-2025-27234](https://www.cve.org/CVERecord?id=CVE-2025-27234)** : 🔥 **Severity: High** (Score: 7.3)
+
+**Debian Version :** bullseye
+ **Package Version :** zabbix 1:5.0.47+dfsg-0+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-02-07** - **[DSA-6123-1](https://security-tracker.debian.org/tracker/DSA-6123-1)** - xrdp
 
 **CVE(s) :**
