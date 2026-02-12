@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-02-12** - **[DSA-6130-1](https://security-tracker.debian.org/tracker/DSA-6130-1)** - haproxy
+
+**CVE(s) :**
+- **[CVE-2026-26081](https://www.cve.org/CVERecord?id=CVE-2026-26081)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** haproxy 3.0.11-1+deb13u2
+ **Type :** DSA
+
+------------------------------
+
 **2026-02-10** - **[DLA-4478-1](https://security-tracker.debian.org/tracker/DLA-4478-1)** - tcpflow
 
 **CVE(s) :**
