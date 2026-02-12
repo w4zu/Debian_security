@@ -2269,29 +2269,3 @@
 
 ------------------------------
 
-**2026-01-29** - **[DLA-4459-1](https://security-tracker.debian.org/tracker/DLA-4459-1)** - libmatio
-
-**CVE(s) :**
-- **[CVE-2022-1515](https://www.cve.org/CVERecord?id=CVE-2022-1515)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-2338](https://www.cve.org/CVERecord?id=CVE-2025-2338)** : 🟠 **Severity: Medium** (Score: 5.3)
-
-- **[CVE-2025-50343](https://www.cve.org/CVERecord?id=CVE-2025-50343)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** libmatio 1.5.19-2+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2026-01-29** - **[DSA-6115-1](https://security-tracker.debian.org/tracker/DSA-6115-1)** - gimp
-
-**CVE(s) :**
-- **[CVE-2025-15059](https://www.cve.org/CVERecord?id=CVE-2025-15059)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** gimp 2.10.34-1+deb12u7 	[trixie] - gimp 3.0.4-3+deb13u5
- **Type :** DSA
-
-------------------------------
-
