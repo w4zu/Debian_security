@@ -1,5 +1,50 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-02-12** - **[DSA-6133-1](https://security-tracker.debian.org/tracker/DSA-6133-1)** - postgresql-17
+
+**CVE(s) :**
+- **[CVE-2026-2003](https://www.cve.org/CVERecord?id=CVE-2026-2003)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-2004](https://www.cve.org/CVERecord?id=CVE-2026-2004)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-2005](https://www.cve.org/CVERecord?id=CVE-2026-2005)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-2006](https://www.cve.org/CVERecord?id=CVE-2026-2006)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** postgresql-17 17.8-0+deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2026-02-12** - **[DSA-6132-1](https://security-tracker.debian.org/tracker/DSA-6132-1)** - postgresql-15
+
+**CVE(s) :**
+- **[CVE-2026-2003](https://www.cve.org/CVERecord?id=CVE-2026-2003)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-2004](https://www.cve.org/CVERecord?id=CVE-2026-2004)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-2005](https://www.cve.org/CVERecord?id=CVE-2026-2005)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-2006](https://www.cve.org/CVERecord?id=CVE-2026-2006)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** postgresql-15 15.16-0+deb12u1
+ **Type :** DSA
+
+------------------------------
+
+**2026-02-12** - **[DSA-6131-1](https://security-tracker.debian.org/tracker/DSA-6131-1)** - nginx
+
+**CVE(s) :**
+- **[CVE-2026-1642](https://www.cve.org/CVERecord?id=CVE-2026-1642)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** nginx 1.22.1-9+deb12u4 	[trixie] - nginx 1.26.3-3+deb13u2
+ **Type :** DSA
+
+------------------------------
+
 **2026-02-12** - **[DSA-6130-1](https://security-tracker.debian.org/tracker/DSA-6130-1)** - haproxy
 
 **CVE(s) :**
@@ -2265,17 +2310,6 @@
 
 **Debian Version :** trixie
  **Package Version :** python-django 3:4.2.27-0+deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2026-01-30** - **[DSA-6116-1](https://security-tracker.debian.org/tracker/DSA-6116-1)** - chromium
-
-**CVE(s) :**
-- **[CVE-2026-1504](https://www.cve.org/CVERecord?id=CVE-2026-1504)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** chromium 144.0.7559.109-1~deb12u1 	[trixie] - chromium 144.0.7559.109-1~deb13u1
  **Type :** DSA
 
 ------------------------------
