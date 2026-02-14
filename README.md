@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-02-13** - **[DSA-6134-1](https://security-tracker.debian.org/tracker/DSA-6134-1)** - pdns-recursor
+
+**CVE(s) :**
+- **[CVE-2026-0398](https://www.cve.org/CVERecord?id=CVE-2026-0398)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-24027](https://www.cve.org/CVERecord?id=CVE-2026-24027)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** pdns-recursor 5.2.8-0+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-02-12** - **[DSA-6133-1](https://security-tracker.debian.org/tracker/DSA-6133-1)** - postgresql-17
 
 **CVE(s) :**
@@ -2290,27 +2303,6 @@
 **Debian Version :** bullseye
  **Package Version :** ceph 14.2.21-1+deb11u2
  **Type :** DLA
-
-------------------------------
-
-**2026-01-31** - **[DSA-6117-1](https://security-tracker.debian.org/tracker/DSA-6117-1)** - python-django
-
-**CVE(s) :**
-- **[CVE-2025-13372](https://www.cve.org/CVERecord?id=CVE-2025-13372)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-57833](https://www.cve.org/CVERecord?id=CVE-2025-57833)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-59681](https://www.cve.org/CVERecord?id=CVE-2025-59681)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-59682](https://www.cve.org/CVERecord?id=CVE-2025-59682)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-64459](https://www.cve.org/CVERecord?id=CVE-2025-64459)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-64460](https://www.cve.org/CVERecord?id=CVE-2025-64460)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** trixie
- **Package Version :** python-django 3:4.2.27-0+deb13u1
- **Type :** DSA
 
 ------------------------------
 
