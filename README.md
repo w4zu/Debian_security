@@ -1,5 +1,38 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-02-14** - **[DSA-6135-1](https://security-tracker.debian.org/tracker/DSA-6135-1)** - chromium
+
+**CVE(s) :**
+- **[CVE-2026-2313](https://www.cve.org/CVERecord?id=CVE-2026-2313)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-2314](https://www.cve.org/CVERecord?id=CVE-2026-2314)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-2315](https://www.cve.org/CVERecord?id=CVE-2026-2315)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-2316](https://www.cve.org/CVERecord?id=CVE-2026-2316)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-2317](https://www.cve.org/CVERecord?id=CVE-2026-2317)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-2318](https://www.cve.org/CVERecord?id=CVE-2026-2318)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-2319](https://www.cve.org/CVERecord?id=CVE-2026-2319)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-2320](https://www.cve.org/CVERecord?id=CVE-2026-2320)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-2321](https://www.cve.org/CVERecord?id=CVE-2026-2321)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-2322](https://www.cve.org/CVERecord?id=CVE-2026-2322)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-2323](https://www.cve.org/CVERecord?id=CVE-2026-2323)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-2441](https://www.cve.org/CVERecord?id=CVE-2026-2441)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** chromium 145.0.7632.75-1~deb12u1 	[trixie] - chromium 145.0.7632.75-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-02-13** - **[DSA-6134-1](https://security-tracker.debian.org/tracker/DSA-6134-1)** - pdns-recursor
 
 **CVE(s) :**
@@ -2249,60 +2282,6 @@
 **Debian Version :** bookworm
  **Package Version :** thunderbird 1:140.7.1esr-1~deb12u1 	[trixie] - thunderbird 1:140.7.1esr-1~deb13u1
  **Type :** DSA
-
-------------------------------
-
-**2026-02-01** - **[DLA-4463-1](https://security-tracker.debian.org/tracker/DLA-4463-1)** - pyasn1
-
-**CVE(s) :**
-- **[CVE-2026-23490](https://www.cve.org/CVERecord?id=CVE-2026-23490)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** pyasn1 0.4.8-1+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2026-02-01** - **[DLA-4462-1](https://security-tracker.debian.org/tracker/DLA-4462-1)** - pillow
-
-**CVE(s) :**
-- **[CVE-2021-23437](https://www.cve.org/CVERecord?id=CVE-2021-23437)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2022-24303](https://www.cve.org/CVERecord?id=CVE-2022-24303)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2022-45198](https://www.cve.org/CVERecord?id=CVE-2022-45198)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** pillow 8.1.2+dfsg-0.3+deb11u3
- **Type :** DLA
-
-------------------------------
-
-**2026-02-01** - **[DLA-4461-1](https://security-tracker.debian.org/tracker/DLA-4461-1)** - python-tornado
-
-**CVE(s) :**
-- **[CVE-2025-67724](https://www.cve.org/CVERecord?id=CVE-2025-67724)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-67725](https://www.cve.org/CVERecord?id=CVE-2025-67725)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-67726](https://www.cve.org/CVERecord?id=CVE-2025-67726)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** python-tornado 6.1.0-1+deb11u3
- **Type :** DLA
-
-------------------------------
-
-**2026-02-01** - **[DLA-4460-1](https://security-tracker.debian.org/tracker/DLA-4460-1)** - ceph
-
-**CVE(s) :**
-- **[CVE-2022-0670](https://www.cve.org/CVERecord?id=CVE-2022-0670)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-47866](https://www.cve.org/CVERecord?id=CVE-2024-47866)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** ceph 14.2.21-1+deb11u2
- **Type :** DLA
 
 ------------------------------
 
