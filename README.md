@@ -1,5 +1,60 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-02-15** - **[DSA-6136-1](https://security-tracker.debian.org/tracker/DSA-6136-1)** - python-django
+
+**CVE(s) :**
+- **[CVE-2019-14232](https://www.cve.org/CVERecord?id=CVE-2019-14232)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2023-41164](https://www.cve.org/CVERecord?id=CVE-2023-41164)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2023-43665](https://www.cve.org/CVERecord?id=CVE-2023-43665)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-24680](https://www.cve.org/CVERecord?id=CVE-2024-24680)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-27351](https://www.cve.org/CVERecord?id=CVE-2024-27351)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-39329](https://www.cve.org/CVERecord?id=CVE-2024-39329)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-39330](https://www.cve.org/CVERecord?id=CVE-2024-39330)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-39614](https://www.cve.org/CVERecord?id=CVE-2024-39614)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-41989](https://www.cve.org/CVERecord?id=CVE-2024-41989)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-41991](https://www.cve.org/CVERecord?id=CVE-2024-41991)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-42005](https://www.cve.org/CVERecord?id=CVE-2024-42005)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-45231](https://www.cve.org/CVERecord?id=CVE-2024-45231)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-53907](https://www.cve.org/CVERecord?id=CVE-2024-53907)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-56374](https://www.cve.org/CVERecord?id=CVE-2024-56374)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-13372](https://www.cve.org/CVERecord?id=CVE-2025-13372)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-26699](https://www.cve.org/CVERecord?id=CVE-2025-26699)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-32873](https://www.cve.org/CVERecord?id=CVE-2025-32873)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-48432](https://www.cve.org/CVERecord?id=CVE-2025-48432)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-57833](https://www.cve.org/CVERecord?id=CVE-2025-57833)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-59681](https://www.cve.org/CVERecord?id=CVE-2025-59681)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-59682](https://www.cve.org/CVERecord?id=CVE-2025-59682)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-64459](https://www.cve.org/CVERecord?id=CVE-2025-64459)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-64460](https://www.cve.org/CVERecord?id=CVE-2025-64460)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** python-django 3:3.2.25-0+deb12u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-02-14** - **[DSA-6135-1](https://security-tracker.debian.org/tracker/DSA-6135-1)** - chromium
 
 **CVE(s) :**
