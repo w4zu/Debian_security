@@ -1,5 +1,30 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-02-16** - **[DLA-4479-1](https://security-tracker.debian.org/tracker/DLA-4479-1)** - wireshark
+
+**CVE(s) :**
+- **[CVE-2024-9781](https://www.cve.org/CVERecord?id=CVE-2024-9781)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-11596](https://www.cve.org/CVERecord?id=CVE-2024-11596)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-5601](https://www.cve.org/CVERecord?id=CVE-2025-5601)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-11626](https://www.cve.org/CVERecord?id=CVE-2025-11626)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-13499](https://www.cve.org/CVERecord?id=CVE-2025-13499)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-13945](https://www.cve.org/CVERecord?id=CVE-2025-13945)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-13946](https://www.cve.org/CVERecord?id=CVE-2025-13946)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0960](https://www.cve.org/CVERecord?id=CVE-2026-0960)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** wireshark 3.4.16-0+deb11u2
+ **Type :** DLA
+
+------------------------------
+
 **2026-02-15** - **[DSA-6136-1](https://security-tracker.debian.org/tracker/DSA-6136-1)** - python-django
 
 **CVE(s) :**
