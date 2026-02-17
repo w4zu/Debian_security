@@ -2343,25 +2343,3 @@
 
 ------------------------------
 
-**2026-02-03** - **[DLA-4464-1](https://security-tracker.debian.org/tracker/DLA-4464-1)** - xrdp
-
-**CVE(s) :**
-- **[CVE-2025-68670](https://www.cve.org/CVERecord?id=CVE-2025-68670)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** xrdp 0.9.21.1-1~deb11u3
- **Type :** DLA
-
-------------------------------
-
-**2026-02-03** - **[DSA-6118-1](https://security-tracker.debian.org/tracker/DSA-6118-1)** - thunderbird
-
-**CVE(s) :**
-- **[CVE-2026-0818](https://www.cve.org/CVERecord?id=CVE-2026-0818)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** thunderbird 1:140.7.1esr-1~deb12u1 	[trixie] - thunderbird 1:140.7.1esr-1~deb13u1
- **Type :** DSA
-
-------------------------------
-
