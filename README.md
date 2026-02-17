@@ -1,5 +1,31 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-02-17** - **[DLA-4480-1](https://security-tracker.debian.org/tracker/DLA-4480-1)** - roundcube
+
+**CVE(s) :**
+- **[CVE-2026-25916](https://www.cve.org/CVERecord?id=CVE-2026-25916)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-26079](https://www.cve.org/CVERecord?id=CVE-2026-26079)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** roundcube 1.4.15+dfsg.1-1+deb11u7
+ **Type :** DLA
+
+------------------------------
+
+**2026-02-17** - **[DSA-6137-1](https://security-tracker.debian.org/tracker/DSA-6137-1)** - roundcube
+
+**CVE(s) :**
+- **[CVE-2026-25916](https://www.cve.org/CVERecord?id=CVE-2026-25916)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-26079](https://www.cve.org/CVERecord?id=CVE-2026-26079)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** roundcube 1.6.5+dfsg-1+deb12u7 	[trixie] - roundcube 1.6.13+dfsg-0+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-02-16** - **[DLA-4479-1](https://security-tracker.debian.org/tracker/DLA-4479-1)** - wireshark
 
 **CVE(s) :**
