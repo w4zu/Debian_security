@@ -1,5 +1,31 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-02-18** - **[DSA-6140-1](https://security-tracker.debian.org/tracker/DSA-6140-1)** - gnutls28
+
+**CVE(s) :**
+- **[CVE-2025-14831](https://www.cve.org/CVERecord?id=CVE-2025-14831)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** gnutls28 3.7.9-2+deb12u6 	[trixie] - gnutls28 3.8.9-3+deb13u2
+ **Type :** DSA
+
+------------------------------
+
+**2026-02-18** - **[DSA-6139-1](https://security-tracker.debian.org/tracker/DSA-6139-1)** - gimp
+
+**CVE(s) :**
+- **[CVE-2026-2239](https://www.cve.org/CVERecord?id=CVE-2026-2239)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-2271](https://www.cve.org/CVERecord?id=CVE-2026-2271)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-2272](https://www.cve.org/CVERecord?id=CVE-2026-2272)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** gimp 2.10.34-1+deb12u8 	[trixie] - gimp 3.0.4-3+deb13u6
+ **Type :** DSA
+
+------------------------------
+
 **2026-02-17** - **[DLA-4482-1](https://security-tracker.debian.org/tracker/DLA-4482-1)** - ceph
 
 **CVE(s) :**
