@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-02-17** - **[DLA-4482-1](https://security-tracker.debian.org/tracker/DLA-4482-1)** - ceph
+
+**CVE(s) :**
+- **[CVE-2024-31884](https://www.cve.org/CVERecord?id=CVE-2024-31884)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** ceph 14.2.21-1+deb11u3
+ **Type :** DLA
+
+------------------------------
+
 **2026-02-17** - **[DLA-4481-1](https://security-tracker.debian.org/tracker/DLA-4481-1)** - libpng1.6
 
 **CVE(s) :**
@@ -25,6 +36,17 @@
 **Debian Version :** bullseye
  **Package Version :** roundcube 1.4.15+dfsg.1-1+deb11u7
  **Type :** DLA
+
+------------------------------
+
+**2026-02-17** - **[DSA-6138-1](https://security-tracker.debian.org/tracker/DSA-6138-1)** - libpng1.6
+
+**CVE(s) :**
+- **[CVE-2026-25646](https://www.cve.org/CVERecord?id=CVE-2026-25646)** : 🔥 **Severity: High** (Score: 8.3)
+
+**Debian Version :** bookworm
+ **Package Version :** libpng1.6 1.6.39-2+deb12u3 	[trixie] - libpng1.6 1.6.48-1+deb13u3
+ **Type :** DSA
 
 ------------------------------
 
@@ -2319,6 +2341,10 @@
 
 - **[CVE-2025-61795](https://www.cve.org/CVERecord?id=CVE-2025-61795)** : **Severity: Unknown** (Score: N/A)
 
+- **[CVE-2025-66614](https://www.cve.org/CVERecord?id=CVE-2025-66614)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-24733](https://www.cve.org/CVERecord?id=CVE-2026-24733)** : **Severity: Unknown** (Score: N/A)
+
 **Debian Version :** trixie
  **Package Version :** tomcat11 11.0.15-1~deb13u1
  **Type :** DSA
@@ -2350,6 +2376,12 @@
 
 - **[CVE-2025-61795](https://www.cve.org/CVERecord?id=CVE-2025-61795)** : **Severity: Unknown** (Score: N/A)
 
+- **[CVE-2025-66614](https://www.cve.org/CVERecord?id=CVE-2025-66614)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-24733](https://www.cve.org/CVERecord?id=CVE-2026-24733)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-24734](https://www.cve.org/CVERecord?id=CVE-2026-24734)** : **Severity: Unknown** (Score: N/A)
+
 **Debian Version :** bookworm
  **Package Version :** tomcat10 10.1.52-1~deb12u1 	[trixie] - tomcat10 10.1.52-1~deb13u1
  **Type :** DSA
@@ -2370,17 +2402,6 @@
 **Debian Version :** trixie
  **Package Version :** openjdk-25 25.0.2+10-1~deb13u2
  **Type :** DSA
-
-------------------------------
-
-**2026-02-04** - **[DLA-4466-1](https://security-tracker.debian.org/tracker/DLA-4466-1)** - thunderbird
-
-**CVE(s) :**
-- **[CVE-2026-0818](https://www.cve.org/CVERecord?id=CVE-2026-0818)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** thunderbird 1:140.7.1esr-1~deb11u1
- **Type :** DLA
 
 ------------------------------
 
