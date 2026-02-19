@@ -1,5 +1,24 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-02-19** - **[DLA-4484-1](https://security-tracker.debian.org/tracker/DLA-4484-1)** - python-django
+
+**CVE(s) :**
+- **[CVE-2025-13473](https://www.cve.org/CVERecord?id=CVE-2025-13473)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-1207](https://www.cve.org/CVERecord?id=CVE-2026-1207)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-1285](https://www.cve.org/CVERecord?id=CVE-2026-1285)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-1287](https://www.cve.org/CVERecord?id=CVE-2026-1287)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-1312](https://www.cve.org/CVERecord?id=CVE-2026-1312)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** python-django 2:2.2.28-1~deb11u12
+ **Type :** DLA
+
+------------------------------
+
 **2026-02-18** - **[DLA-4483-1](https://security-tracker.debian.org/tracker/DLA-4483-1)** - gimp
 
 **CVE(s) :**
