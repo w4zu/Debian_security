@@ -19,6 +19,41 @@
 
 ------------------------------
 
+**2026-02-19** - **[DSA-6145-1](https://security-tracker.debian.org/tracker/DSA-6145-1)** - nova
+
+**CVE(s) :**
+- **[CVE-2026-24708](https://www.cve.org/CVERecord?id=CVE-2026-24708)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** nova 2:26.2.2-1~deb12u4 	[trixie] - nova 2:31.0.0-6+deb13u2
+ **Type :** DSA
+
+------------------------------
+
+**2026-02-19** - **[DSA-6143-1](https://security-tracker.debian.org/tracker/DSA-6143-1)** - libvpx
+
+**CVE(s) :**
+- **[CVE-2026-2447](https://www.cve.org/CVERecord?id=CVE-2026-2447)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** libvpx 1.12.0-1+deb12u5 	[trixie] - libvpx 1.15.0-2.1+deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2026-02-19** - **[DSA-6142-1](https://security-tracker.debian.org/tracker/DSA-6142-1)** - gegl
+
+**CVE(s) :**
+- **[CVE-2026-2049](https://www.cve.org/CVERecord?id=CVE-2026-2049)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-2050](https://www.cve.org/CVERecord?id=CVE-2026-2050)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** gegl 1:0.4.42-2+deb12u2 	[trixie] - gegl 1:0.4.62-2+deb13u2
+ **Type :** DSA
+
+------------------------------
+
 **2026-02-18** - **[DLA-4483-1](https://security-tracker.debian.org/tracker/DLA-4483-1)** - gimp
 
 **CVE(s) :**
@@ -2416,30 +2451,6 @@
 **Debian Version :** bookworm
  **Package Version :** xrdp 0.9.21.1-1+deb12u2 	[trixie] - xrdp 0.10.1-3.1+deb13u1
  **Type :** DSA
-
-------------------------------
-
-**2026-02-06** - **[DLA-4472-1](https://security-tracker.debian.org/tracker/DLA-4472-1)** - sudo
-
-**CVE(s) :**
-- **[CVE-2023-28486](https://www.cve.org/CVERecord?id=CVE-2023-28486)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2023-28487](https://www.cve.org/CVERecord?id=CVE-2023-28487)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** sudo 1.9.5p2-3+deb11u3
- **Type :** DLA
-
-------------------------------
-
-**2026-02-06** - **[DLA-4470-1](https://security-tracker.debian.org/tracker/DLA-4470-1)** - phpunit
-
-**CVE(s) :**
-- **[CVE-2026-24765](https://www.cve.org/CVERecord?id=CVE-2026-24765)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** phpunit 9.5.2-1+deb11u1
- **Type :** DLA
 
 ------------------------------
 
