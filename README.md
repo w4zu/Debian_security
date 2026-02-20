@@ -1,5 +1,20 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-02-20** - **[DSA-6146-1](https://security-tracker.debian.org/tracker/DSA-6146-1)** - chromium
+
+**CVE(s) :**
+- **[CVE-2026-2648](https://www.cve.org/CVERecord?id=CVE-2026-2648)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-2649](https://www.cve.org/CVERecord?id=CVE-2026-2649)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-2650](https://www.cve.org/CVERecord?id=CVE-2026-2650)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** chromium 145.0.7632.109-1~deb12u3 	[trixie] - chromium 145.0.7632.109-1~deb13u3
+ **Type :** DSA
+
+------------------------------
+
 **2026-02-19** - **[DLA-4484-1](https://security-tracker.debian.org/tracker/DLA-4484-1)** - python-django
 
 **CVE(s) :**
