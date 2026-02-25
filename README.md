@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-02-25** - **[DLA-4492-1](https://security-tracker.debian.org/tracker/DLA-4492-1)** - gnutls28
+
+**CVE(s) :**
+- **[CVE-2025-9820](https://www.cve.org/CVERecord?id=CVE-2025-9820)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-14831](https://www.cve.org/CVERecord?id=CVE-2025-14831)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** gnutls28 3.7.1-5+deb11u9
+ **Type :** DLA
+
+------------------------------
+
 **2026-02-23** - **[DLA-4491-1](https://security-tracker.debian.org/tracker/DLA-4491-1)** - glib2.0
 
 **CVE(s) :**
