@@ -1,5 +1,24 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-02-26** - **[DLA-4493-1](https://security-tracker.debian.org/tracker/DLA-4493-1)** - libstb
+
+**CVE(s) :**
+- **[CVE-2021-28021](https://www.cve.org/CVERecord?id=CVE-2021-28021)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2021-37789](https://www.cve.org/CVERecord?id=CVE-2021-37789)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2021-42715](https://www.cve.org/CVERecord?id=CVE-2021-42715)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2022-28041](https://www.cve.org/CVERecord?id=CVE-2022-28041)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2022-28042](https://www.cve.org/CVERecord?id=CVE-2022-28042)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** libstb 0.0~git20200713.b42009b+ds-1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-02-25** - **[DLA-4492-1](https://security-tracker.debian.org/tracker/DLA-4492-1)** - gnutls28
 
 **CVE(s) :**
