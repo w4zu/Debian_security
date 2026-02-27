@@ -154,6 +154,8 @@
 
 - **[CVE-2026-2793](https://www.cve.org/CVERecord?id=CVE-2026-2793)** : **Severity: Unknown** (Score: N/A)
 
+- **[CVE-2026-2776](https://www.cve.org/CVERecord?id=CVE-2026-2776)** : **Severity: Unknown** (Score: N/A)
+
 **Debian Version :** bookworm
  **Package Version :** firefox-esr 140.8.0esr-1~deb12u1 	[trixie] - firefox-esr 140.8.0esr-1~deb13u1
  **Type :** DSA
