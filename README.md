@@ -19,6 +19,53 @@
 
 ------------------------------
 
+**2026-02-26** - **[DSA-6151-1](https://security-tracker.debian.org/tracker/DSA-6151-1)** - chromium
+
+**CVE(s) :**
+- **[CVE-2026-3061](https://www.cve.org/CVERecord?id=CVE-2026-3061)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-3062](https://www.cve.org/CVERecord?id=CVE-2026-3062)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-3063](https://www.cve.org/CVERecord?id=CVE-2026-3063)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** chromium 145.0.7632.116-1~deb12u1 	[trixie] - chromium 145.0.7632.116-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2026-02-26** - **[DSA-6150-1](https://security-tracker.debian.org/tracker/DSA-6150-1)** - python-django
+
+**CVE(s) :**
+- **[CVE-2025-13473](https://www.cve.org/CVERecord?id=CVE-2025-13473)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-14550](https://www.cve.org/CVERecord?id=CVE-2025-14550)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-1207](https://www.cve.org/CVERecord?id=CVE-2026-1207)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-1285](https://www.cve.org/CVERecord?id=CVE-2026-1285)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-1287](https://www.cve.org/CVERecord?id=CVE-2026-1287)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-1312](https://www.cve.org/CVERecord?id=CVE-2026-1312)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** python-django 3:3.2.25-0+deb12u2 	[trixie] - python-django 3:4.2.28-0+deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2026-02-26** - **[DSA-6149-1](https://security-tracker.debian.org/tracker/DSA-6149-1)** - nss
+
+**CVE(s) :**
+- **[CVE-2026-2781](https://www.cve.org/CVERecord?id=CVE-2026-2781)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** nss 2:3.87.1-1+deb12u2 	[trixie] - nss 2:3.110-1+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-02-25** - **[DLA-4492-1](https://security-tracker.debian.org/tracker/DLA-4492-1)** - gnutls28
 
 **CVE(s) :**
@@ -319,8 +366,6 @@
 
 - **[CVE-2025-71225](https://www.cve.org/CVERecord?id=CVE-2025-71225)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2025-71228](https://www.cve.org/CVERecord?id=CVE-2025-71228)** : **Severity: Unknown** (Score: N/A)
-
 - **[CVE-2025-71229](https://www.cve.org/CVERecord?id=CVE-2025-71229)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-71231](https://www.cve.org/CVERecord?id=CVE-2025-71231)** : **Severity: Unknown** (Score: N/A)
@@ -613,19 +658,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** chromium 145.0.7632.75-1~deb12u1 	[trixie] - chromium 145.0.7632.75-1~deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2026-02-13** - **[DSA-6134-1](https://security-tracker.debian.org/tracker/DSA-6134-1)** - pdns-recursor
-
-**CVE(s) :**
-- **[CVE-2026-0398](https://www.cve.org/CVERecord?id=CVE-2026-0398)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-24027](https://www.cve.org/CVERecord?id=CVE-2026-24027)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** trixie
- **Package Version :** pdns-recursor 5.2.8-0+deb13u1
  **Type :** DSA
 
 ------------------------------
