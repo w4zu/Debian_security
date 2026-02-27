@@ -304,6 +304,17 @@
 
 ------------------------------
 
+**2026-02-19** - **[DSA-6144-1](https://security-tracker.debian.org/tracker/DSA-6144-1)** - inetutils
+
+**CVE(s) :**
+- **[CVE-2026-28372](https://www.cve.org/CVERecord?id=CVE-2026-28372)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** inetutils 2:2.6-3+deb13u2
+ **Type :** DSA
+
+------------------------------
+
 **2026-02-19** - **[DSA-6143-1](https://security-tracker.debian.org/tracker/DSA-6143-1)** - libvpx
 
 **CVE(s) :**
