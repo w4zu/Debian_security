@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-03-01** - **[DSA-6153-1](https://security-tracker.debian.org/tracker/DSA-6153-1)** - lxd
+
+**CVE(s) :**
+- **[CVE-2026-23953](https://www.cve.org/CVERecord?id=CVE-2026-23953)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-23954](https://www.cve.org/CVERecord?id=CVE-2026-23954)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** lxd 5.0.2-5+deb12u3 	[trixie] - lxd 5.0.2+git20231211.1364ae4-9+deb13u3
+ **Type :** DSA
+
+------------------------------
+
 **2026-02-28** - **[DLA-4495-1](https://security-tracker.debian.org/tracker/DLA-4495-1)** - thunderbird
 
 **CVE(s) :**
