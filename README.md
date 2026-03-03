@@ -83,6 +83,21 @@
 
 ------------------------------
 
+**2026-03-02** - **[DSA-6154-1](https://security-tracker.debian.org/tracker/DSA-6154-1)** - php8.2
+
+**CVE(s) :**
+- **[CVE-2025-14177](https://www.cve.org/CVERecord?id=CVE-2025-14177)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+- **[CVE-2025-14178](https://www.cve.org/CVERecord?id=CVE-2025-14178)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-14180](https://www.cve.org/CVERecord?id=CVE-2025-14180)** : 🔥 **Severity: High** (Score: 8.2)
+
+**Debian Version :** bookworm
+ **Package Version :** php8.2 8.2.30-1~deb12u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-03-01** - **[DSA-6153-1](https://security-tracker.debian.org/tracker/DSA-6153-1)** - lxd
 
 **CVE(s) :**
@@ -764,69 +779,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** gimp 2.10.34-1+deb12u8 	[trixie] - gimp 3.0.4-3+deb13u6
- **Type :** DSA
-
-------------------------------
-
-**2026-02-17** - **[DLA-4482-1](https://security-tracker.debian.org/tracker/DLA-4482-1)** - ceph
-
-**CVE(s) :**
-- **[CVE-2024-31884](https://www.cve.org/CVERecord?id=CVE-2024-31884)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** ceph 14.2.21-1+deb11u3
- **Type :** DLA
-
-------------------------------
-
-**2026-02-17** - **[DLA-4481-1](https://security-tracker.debian.org/tracker/DLA-4481-1)** - libpng1.6
-
-**CVE(s) :**
-- **[CVE-2026-22695](https://www.cve.org/CVERecord?id=CVE-2026-22695)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-22801](https://www.cve.org/CVERecord?id=CVE-2026-22801)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-25646](https://www.cve.org/CVERecord?id=CVE-2026-25646)** : 🔥 **Severity: High** (Score: 8.3)
-
-**Debian Version :** bullseye
- **Package Version :** libpng1.6 1.6.37-3+deb11u2
- **Type :** DLA
-
-------------------------------
-
-**2026-02-17** - **[DLA-4480-1](https://security-tracker.debian.org/tracker/DLA-4480-1)** - roundcube
-
-**CVE(s) :**
-- **[CVE-2026-25916](https://www.cve.org/CVERecord?id=CVE-2026-25916)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-26079](https://www.cve.org/CVERecord?id=CVE-2026-26079)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** roundcube 1.4.15+dfsg.1-1+deb11u7
- **Type :** DLA
-
-------------------------------
-
-**2026-02-17** - **[DSA-6138-1](https://security-tracker.debian.org/tracker/DSA-6138-1)** - libpng1.6
-
-**CVE(s) :**
-- **[CVE-2026-25646](https://www.cve.org/CVERecord?id=CVE-2026-25646)** : 🔥 **Severity: High** (Score: 8.3)
-
-**Debian Version :** bookworm
- **Package Version :** libpng1.6 1.6.39-2+deb12u3 	[trixie] - libpng1.6 1.6.48-1+deb13u3
- **Type :** DSA
-
-------------------------------
-
-**2026-02-17** - **[DSA-6137-1](https://security-tracker.debian.org/tracker/DSA-6137-1)** - roundcube
-
-**CVE(s) :**
-- **[CVE-2026-25916](https://www.cve.org/CVERecord?id=CVE-2026-25916)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-26079](https://www.cve.org/CVERecord?id=CVE-2026-26079)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** roundcube 1.6.5+dfsg-1+deb12u7 	[trixie] - roundcube 1.6.13+dfsg-0+deb13u1
  **Type :** DSA
 
 ------------------------------
