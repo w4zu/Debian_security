@@ -1,5 +1,30 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-03-03** - **[DSA-6155-1](https://security-tracker.debian.org/tracker/DSA-6155-1)** - spip
+
+**CVE(s) :**
+- **[CVE-2026-22205](https://www.cve.org/CVERecord?id=CVE-2026-22205)** : 🔥 **Severity: High** (Score: 8.7)
+
+- **[CVE-2026-22206](https://www.cve.org/CVERecord?id=CVE-2026-22206)** : 🔥 **Severity: High** (Score: 8.7)
+
+- **[CVE-2026-26223](https://www.cve.org/CVERecord?id=CVE-2026-26223)** : 🟠 **Severity: Medium** (Score: 5.1)
+
+- **[CVE-2026-26345](https://www.cve.org/CVERecord?id=CVE-2026-26345)** : 🔥 **Severity: High** (Score: 8.6)
+
+- **[CVE-2026-27472](https://www.cve.org/CVERecord?id=CVE-2026-27472)** : 🟠 **Severity: Medium** (Score: 5.3)
+
+- **[CVE-2026-27473](https://www.cve.org/CVERecord?id=CVE-2026-27473)** : 🟠 **Severity: Medium** (Score: 5.1)
+
+- **[CVE-2026-27474](https://www.cve.org/CVERecord?id=CVE-2026-27474)** : 🟠 **Severity: Medium** (Score: 4.8)
+
+- **[CVE-2026-27475](https://www.cve.org/CVERecord?id=CVE-2026-27475)** : 🔥 **Severity: High** (Score: 9.2)
+
+**Debian Version :** trixie
+ **Package Version :** spip 4.4.11+dfsg-0+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-03-02** - **[DLA-4496-1](https://security-tracker.debian.org/tracker/DLA-4496-1)** - firefox-esr
 
 **CVE(s) :**
