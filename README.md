@@ -1,5 +1,34 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-03-05** - **[DSA-6157-1](https://security-tracker.debian.org/tracker/DSA-6157-1)** - chromium
+
+**CVE(s) :**
+- **[CVE-2026-3536](https://www.cve.org/CVERecord?id=CVE-2026-3536)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-3537](https://www.cve.org/CVERecord?id=CVE-2026-3537)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-3538](https://www.cve.org/CVERecord?id=CVE-2026-3538)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-3539](https://www.cve.org/CVERecord?id=CVE-2026-3539)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-3540](https://www.cve.org/CVERecord?id=CVE-2026-3540)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-3541](https://www.cve.org/CVERecord?id=CVE-2026-3541)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-3542](https://www.cve.org/CVERecord?id=CVE-2026-3542)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-3543](https://www.cve.org/CVERecord?id=CVE-2026-3543)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-3544](https://www.cve.org/CVERecord?id=CVE-2026-3544)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-3545](https://www.cve.org/CVERecord?id=CVE-2026-3545)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** chromium 145.0.7632.159-1~deb12u1 	[trixie] - chromium 145.0.7632.159-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-03-03** - **[DSA-6156-1](https://security-tracker.debian.org/tracker/DSA-6156-1)** - gimp
 
 **CVE(s) :**
@@ -562,43 +591,6 @@
 **Debian Version :** bullseye
  **Package Version :** gegl 1:0.4.26-2+deb11u2
  **Type :** DLA
-
-------------------------------
-
-**2026-02-20** - **[DLA-4486-1](https://security-tracker.debian.org/tracker/DLA-4486-1)** - nova
-
-**CVE(s) :**
-- **[CVE-2026-24708](https://www.cve.org/CVERecord?id=CVE-2026-24708)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** nova 2:22.4.0-1~deb11u7
- **Type :** DLA
-
-------------------------------
-
-**2026-02-20** - **[DSA-6147-1](https://security-tracker.debian.org/tracker/DSA-6147-1)** - pillow
-
-**CVE(s) :**
-- **[CVE-2026-25990](https://www.cve.org/CVERecord?id=CVE-2026-25990)** : 🔥 **Severity: High** (Score: 8.9)
-
-**Debian Version :** trixie
- **Package Version :** pillow 11.1.0-5+deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2026-02-20** - **[DSA-6146-1](https://security-tracker.debian.org/tracker/DSA-6146-1)** - chromium
-
-**CVE(s) :**
-- **[CVE-2026-2648](https://www.cve.org/CVERecord?id=CVE-2026-2648)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-2649](https://www.cve.org/CVERecord?id=CVE-2026-2649)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-2650](https://www.cve.org/CVERecord?id=CVE-2026-2650)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** chromium 145.0.7632.109-1~deb12u3 	[trixie] - chromium 145.0.7632.109-1~deb13u3
- **Type :** DSA
 
 ------------------------------
 
