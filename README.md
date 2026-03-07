@@ -581,16 +581,3 @@
 
 ------------------------------
 
-**2026-02-21** - **[DLA-4487-1](https://security-tracker.debian.org/tracker/DLA-4487-1)** - gegl
-
-**CVE(s) :**
-- **[CVE-2026-2049](https://www.cve.org/CVERecord?id=CVE-2026-2049)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-2050](https://www.cve.org/CVERecord?id=CVE-2026-2050)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** gegl 1:0.4.26-2+deb11u2
- **Type :** DLA
-
-------------------------------
-
