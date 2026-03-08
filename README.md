@@ -557,27 +557,3 @@
 
 ------------------------------
 
-**2026-02-22** - **[DLA-4489-1](https://security-tracker.debian.org/tracker/DLA-4489-1)** - libvpx
-
-**CVE(s) :**
-- **[CVE-2026-2447](https://www.cve.org/CVERecord?id=CVE-2026-2447)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** libvpx 1.9.0-1+deb11u5
- **Type :** DLA
-
-------------------------------
-
-**2026-02-22** - **[DLA-4488-1](https://security-tracker.debian.org/tracker/DLA-4488-1)** - modsecurity-crs
-
-**CVE(s) :**
-- **[CVE-2023-38199](https://www.cve.org/CVERecord?id=CVE-2023-38199)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-21876](https://www.cve.org/CVERecord?id=CVE-2026-21876)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** modsecurity-crs 3.3.4-1~deb11u2
- **Type :** DLA
-
-------------------------------
-
