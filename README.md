@@ -12,7 +12,7 @@
 - **[CVE-2026-2048](https://www.cve.org/CVERecord?id=CVE-2026-2048)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
- **Package Version :** gimp 2.10.22-4+deb11u6
+ **Package Version :** gimp 2.10.22-4+deb11u7
  **Type :** DLA
 
 ------------------------------
