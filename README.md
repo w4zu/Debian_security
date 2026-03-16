@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-03-16** - **[DSA-6165-1](https://security-tracker.debian.org/tracker/DSA-6165-1)** - chromium
+
+**CVE(s) :**
+- **[CVE-2026-3909](https://www.cve.org/CVERecord?id=CVE-2026-3909)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-3910](https://www.cve.org/CVERecord?id=CVE-2026-3910)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** chromium 146.0.7680.80-1~deb12u1 	[trixie] - chromium 146.0.7680.80-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-03-14** - **[DLA-4500-1](https://security-tracker.debian.org/tracker/DLA-4500-1)** - gimp
 
 **CVE(s) :**
