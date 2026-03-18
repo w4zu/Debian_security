@@ -1,5 +1,50 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-03-17** - **[DLA-4502-1](https://security-tracker.debian.org/tracker/DLA-4502-1)** - ansible
+
+**CVE(s) :**
+- **[CVE-2024-11079](https://www.cve.org/CVERecord?id=CVE-2024-11079)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** ansible 2.10.7+merged+base+2.10.17+dfsg-0+deb11u4
+ **Type :** DLA
+
+------------------------------
+
+**2026-03-17** - **[DSA-6167-1](https://security-tracker.debian.org/tracker/DSA-6167-1)** - gst-plugins-base1.0
+
+**CVE(s) :**
+- **[CVE-2026-2921](https://www.cve.org/CVERecord?id=CVE-2026-2921)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** gst-plugins-base1.0 1.22.0-3+deb12u6 	[trixie] - gst-plugins-base1.0 1.26.2-1+deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2026-03-17** - **[DSA-6166-1](https://security-tracker.debian.org/tracker/DSA-6166-1)** - nodejs
+
+**CVE(s) :**
+- **[CVE-2025-23085](https://www.cve.org/CVERecord?id=CVE-2025-23085)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-55130](https://www.cve.org/CVERecord?id=CVE-2025-55130)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-55131](https://www.cve.org/CVERecord?id=CVE-2025-55131)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-55132](https://www.cve.org/CVERecord?id=CVE-2025-55132)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-59465](https://www.cve.org/CVERecord?id=CVE-2025-59465)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-59466](https://www.cve.org/CVERecord?id=CVE-2025-59466)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-21637](https://www.cve.org/CVERecord?id=CVE-2026-21637)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** nodejs 20.19.2+dfsg-1+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-03-16** - **[DSA-6165-1](https://security-tracker.debian.org/tracker/DSA-6165-1)** - chromium
 
 **CVE(s) :**
