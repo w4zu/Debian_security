@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-03-19** - **[DLA-4503-1](https://security-tracker.debian.org/tracker/DLA-4503-1)** - evolution-data-server
+
+**CVE(s) :**
+- **[CVE-2026-2604](https://www.cve.org/CVERecord?id=CVE-2026-2604)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** evolution-data-server 3.38.3-1+deb11u3
+ **Type :** DLA
+
+------------------------------
+
 **2026-03-18** - **[DSA-6168-1](https://security-tracker.debian.org/tracker/DSA-6168-1)** - freetype
 
 **CVE(s) :**
