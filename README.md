@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-03-18** - **[DSA-6168-1](https://security-tracker.debian.org/tracker/DSA-6168-1)** - freetype
+
+**CVE(s) :**
+- **[CVE-2026-23865](https://www.cve.org/CVERecord?id=CVE-2026-23865)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** freetype 2.13.3+dfsg-1+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-03-17** - **[DLA-4502-1](https://security-tracker.debian.org/tracker/DLA-4502-1)** - ansible
 
 **CVE(s) :**
@@ -671,35 +682,6 @@
 
 **Debian Version :** trixie
  **Package Version :** imagemagick 8:7.1.1.43+dfsg1-1+deb13u6
- **Type :** DSA
-
-------------------------------
-
-**2026-03-05** - **[DSA-6157-1](https://security-tracker.debian.org/tracker/DSA-6157-1)** - chromium
-
-**CVE(s) :**
-- **[CVE-2026-3536](https://www.cve.org/CVERecord?id=CVE-2026-3536)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-3537](https://www.cve.org/CVERecord?id=CVE-2026-3537)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-3538](https://www.cve.org/CVERecord?id=CVE-2026-3538)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-3539](https://www.cve.org/CVERecord?id=CVE-2026-3539)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-3540](https://www.cve.org/CVERecord?id=CVE-2026-3540)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-3541](https://www.cve.org/CVERecord?id=CVE-2026-3541)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-3542](https://www.cve.org/CVERecord?id=CVE-2026-3542)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-3543](https://www.cve.org/CVERecord?id=CVE-2026-3543)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-3544](https://www.cve.org/CVERecord?id=CVE-2026-3544)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-3545](https://www.cve.org/CVERecord?id=CVE-2026-3545)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** chromium 145.0.7632.159-1~deb12u1 	[trixie] - chromium 145.0.7632.159-1~deb13u1
  **Type :** DSA
 
 ------------------------------
