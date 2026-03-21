@@ -1,5 +1,32 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-03-21** - **[DSA-6172-1](https://security-tracker.debian.org/tracker/DSA-6172-1)** - webkit2gtk
+
+**CVE(s) :**
+- **[CVE-2025-43214](https://www.cve.org/CVERecord?id=CVE-2025-43214)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43457](https://www.cve.org/CVERecord?id=CVE-2025-43457)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43511](https://www.cve.org/CVERecord?id=CVE-2025-43511)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-20608](https://www.cve.org/CVERecord?id=CVE-2026-20608)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-20635](https://www.cve.org/CVERecord?id=CVE-2026-20635)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-20636](https://www.cve.org/CVERecord?id=CVE-2026-20636)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-20644](https://www.cve.org/CVERecord?id=CVE-2026-20644)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-20652](https://www.cve.org/CVERecord?id=CVE-2026-20652)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-20676](https://www.cve.org/CVERecord?id=CVE-2026-20676)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** webkit2gtk 2.50.6-1~deb12u1 	[trixie] - webkit2gtk 2.50.6-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-03-20** - **[DSA-6171-1](https://security-tracker.debian.org/tracker/DSA-6171-1)** - chromium
 
 **CVE(s) :**
