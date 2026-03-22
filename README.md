@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-03-21** - **[DSA-6173-1](https://security-tracker.debian.org/tracker/DSA-6173-1)** - freeciv
+
+**CVE(s) :**
+- **[CVE-2026-33250](https://www.cve.org/CVERecord?id=CVE-2026-33250)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** freeciv 3.0.6-1+deb12u1 	[trixie] - freeciv 3.1.4+ds-2+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-03-21** - **[DSA-6172-1](https://security-tracker.debian.org/tracker/DSA-6172-1)** - webkit2gtk
 
 **CVE(s) :**
