@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-03-22** - **[DSA-6174-1](https://security-tracker.debian.org/tracker/DSA-6174-1)** - spip
+
+**CVE(s) :**
+- **[CVE-2026-33549](https://www.cve.org/CVERecord?id=CVE-2026-33549)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** spip 4.4.13+dfsg-0+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-03-21** - **[DSA-6173-1](https://security-tracker.debian.org/tracker/DSA-6173-1)** - freeciv
 
 **CVE(s) :**
