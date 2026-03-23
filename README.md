@@ -37,6 +37,17 @@
 
 ------------------------------
 
+**2026-03-23** - **[DSA-6176-1](https://security-tracker.debian.org/tracker/DSA-6176-1)** - strongswan
+
+**CVE(s) :**
+- **[CVE-2026-25075](https://www.cve.org/CVERecord?id=CVE-2026-25075)** : 🔥 **Severity: High** (Score: 8.7)
+
+**Debian Version :** bookworm
+ **Package Version :** strongswan 5.9.8-5+deb12u3 	[trixie] - strongswan 6.0.1-6+deb13u4
+ **Type :** DSA
+
+------------------------------
+
 **2026-03-22** - **[DSA-6175-1](https://security-tracker.debian.org/tracker/DSA-6175-1)** - libyaml-syck-perl
 
 **CVE(s) :**
