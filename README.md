@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-03-23** - **[DLA-4507-1](https://security-tracker.debian.org/tracker/DLA-4507-1)** - vlc
+
+**CVE(s) :**
+- **[CVE-2025-51602](https://www.cve.org/CVERecord?id=CVE-2025-51602)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** vlc 3.0.23-0+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-03-23** - **[DLA-4506-1](https://security-tracker.debian.org/tracker/DLA-4506-1)** - mapserver
 
 **CVE(s) :**
