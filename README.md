@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-03-23** - **[DLA-4506-1](https://security-tracker.debian.org/tracker/DLA-4506-1)** - mapserver
+
+**CVE(s) :**
+- **[CVE-2021-32062](https://www.cve.org/CVERecord?id=CVE-2021-32062)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-59431](https://www.cve.org/CVERecord?id=CVE-2025-59431)** : 🔥 **Severity: High** (Score: 8.9)
+
+**Debian Version :** bullseye
+ **Package Version :** mapserver 7.6.2-1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-03-23** - **[DLA-4505-1](https://security-tracker.debian.org/tracker/DLA-4505-1)** - ruby-rack
 
 **CVE(s) :**
