@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-03-25** - **[DLA-4508-1](https://security-tracker.debian.org/tracker/DLA-4508-1)** - nss
+
+**CVE(s) :**
+- **[CVE-2026-2781](https://www.cve.org/CVERecord?id=CVE-2026-2781)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** nss 2:3.61-1+deb11u5
+ **Type :** DLA
+
+------------------------------
+
 **2026-03-25** - **[DSA-6177-1](https://security-tracker.debian.org/tracker/DSA-6177-1)** - chromium
 
 **CVE(s) :**
