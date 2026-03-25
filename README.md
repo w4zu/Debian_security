@@ -1,5 +1,30 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-03-25** - **[DSA-6177-1](https://security-tracker.debian.org/tracker/DSA-6177-1)** - chromium
+
+**CVE(s) :**
+- **[CVE-2026-4673](https://www.cve.org/CVERecord?id=CVE-2026-4673)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-4674](https://www.cve.org/CVERecord?id=CVE-2026-4674)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-4675](https://www.cve.org/CVERecord?id=CVE-2026-4675)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-4676](https://www.cve.org/CVERecord?id=CVE-2026-4676)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-4677](https://www.cve.org/CVERecord?id=CVE-2026-4677)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-4678](https://www.cve.org/CVERecord?id=CVE-2026-4678)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-4679](https://www.cve.org/CVERecord?id=CVE-2026-4679)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-4680](https://www.cve.org/CVERecord?id=CVE-2026-4680)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** chromium 146.0.7680.164-1~deb12u1 	[trixie] - chromium 146.0.7680.164-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-03-23** - **[DLA-4507-1](https://security-tracker.debian.org/tracker/DLA-4507-1)** - vlc
 
 **CVE(s) :**
