@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-03-27** - **[DLA-4512-1](https://security-tracker.debian.org/tracker/DLA-4512-1)** - strongswan
+
+**CVE(s) :**
+- **[CVE-2026-25075](https://www.cve.org/CVERecord?id=CVE-2026-25075)** : 🔥 **Severity: High** (Score: 8.7)
+
+**Debian Version :** bullseye
+ **Package Version :** strongswan 5.9.1-1+deb11u6
+ **Type :** DLA
+
+------------------------------
+
 **2026-03-26** - **[DLA-4511-1](https://security-tracker.debian.org/tracker/DLA-4511-1)** - thunderbird
 
 **CVE(s) :**
