@@ -11,6 +11,17 @@
 
 ------------------------------
 
+**2026-03-27** - **[DSA-6181-1](https://security-tracker.debian.org/tracker/DSA-6181-1)** - bind9
+
+**CVE(s) :**
+- **[CVE-2026-1519](https://www.cve.org/CVERecord?id=CVE-2026-1519)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** bind9 1:9.18.47-1~deb12u1 	[trixie] - bind9 1:9.20.21-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-03-26** - **[DLA-4511-1](https://security-tracker.debian.org/tracker/DLA-4511-1)** - thunderbird
 
 **CVE(s) :**
@@ -705,23 +716,6 @@
 **Debian Version :** bookworm
  **Package Version :** chromium 146.0.7680.80-1~deb12u1 	[trixie] - chromium 146.0.7680.80-1~deb13u1
  **Type :** DSA
-
-------------------------------
-
-**2026-03-14** - **[DLA-4500-1](https://security-tracker.debian.org/tracker/DLA-4500-1)** - gimp
-
-**CVE(s) :**
-- **[CVE-2026-0797](https://www.cve.org/CVERecord?id=CVE-2026-0797)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-2044](https://www.cve.org/CVERecord?id=CVE-2026-2044)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-2045](https://www.cve.org/CVERecord?id=CVE-2026-2045)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-2048](https://www.cve.org/CVERecord?id=CVE-2026-2048)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** gimp 2.10.22-4+deb11u7
- **Type :** DLA
 
 ------------------------------
 
