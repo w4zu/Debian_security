@@ -13,6 +13,17 @@
 
 ------------------------------
 
+**2026-03-28** - **[DSA-6182-1](https://security-tracker.debian.org/tracker/DSA-6182-1)** - libxml-parser-perl
+
+**CVE(s) :**
+- **[CVE-2006-10003](https://www.cve.org/CVERecord?id=CVE-2006-10003)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** libxml-parser-perl 2.46-4+deb12u1 	[trixie] - libxml-parser-perl 2.47-2~deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-03-27** - **[DLA-4512-1](https://security-tracker.debian.org/tracker/DLA-4512-1)** - strongswan
 
 **CVE(s) :**
