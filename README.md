@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-03-29** - **[DLA-4514-1](https://security-tracker.debian.org/tracker/DLA-4514-1)** - gst-plugins-base1.0
+
+**CVE(s) :**
+- **[CVE-2026-2921](https://www.cve.org/CVERecord?id=CVE-2026-2921)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** gst-plugins-base1.0 1.18.4-2+deb11u5
+ **Type :** DLA
+
+------------------------------
+
 **2026-03-28** - **[DLA-4513-1](https://security-tracker.debian.org/tracker/DLA-4513-1)** - gvfs
 
 **CVE(s) :**
