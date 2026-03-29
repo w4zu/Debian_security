@@ -1,5 +1,22 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-03-29** - **[DLA-4515-1](https://security-tracker.debian.org/tracker/DLA-4515-1)** - asterisk
+
+**CVE(s) :**
+- **[CVE-2026-23738](https://www.cve.org/CVERecord?id=CVE-2026-23738)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-23739](https://www.cve.org/CVERecord?id=CVE-2026-23739)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-23740](https://www.cve.org/CVERecord?id=CVE-2026-23740)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-23741](https://www.cve.org/CVERecord?id=CVE-2026-23741)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** asterisk 1:16.28.0~dfsg-0+deb11u9
+ **Type :** DLA
+
+------------------------------
+
 **2026-03-29** - **[DLA-4514-1](https://security-tracker.debian.org/tracker/DLA-4514-1)** - gst-plugins-base1.0
 
 **CVE(s) :**
@@ -8,6 +25,46 @@
 **Debian Version :** bullseye
  **Package Version :** gst-plugins-base1.0 1.18.4-2+deb11u5
  **Type :** DLA
+
+------------------------------
+
+**2026-03-29** - **[DSA-6184-1](https://security-tracker.debian.org/tracker/DSA-6184-1)** - incus
+
+**CVE(s) :**
+- **[CVE-2026-28384](https://www.cve.org/CVERecord?id=CVE-2026-28384)** : 🔥 **Severity: High** (Score: 9.4)
+
+- **[CVE-2026-33542](https://www.cve.org/CVERecord?id=CVE-2026-33542)** : 🟠 **Severity: Medium** (Score: 5.7)
+
+- **[CVE-2026-33743](https://www.cve.org/CVERecord?id=CVE-2026-33743)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-33897](https://www.cve.org/CVERecord?id=CVE-2026-33897)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** incus 6.0.4-2+deb13u5
+ **Type :** DSA
+
+------------------------------
+
+**2026-03-29** - **[DSA-6183-1](https://security-tracker.debian.org/tracker/DSA-6183-1)** - nodejs
+
+**CVE(s) :**
+- **[CVE-2026-21637](https://www.cve.org/CVERecord?id=CVE-2026-21637)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-21710](https://www.cve.org/CVERecord?id=CVE-2026-21710)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-21713](https://www.cve.org/CVERecord?id=CVE-2026-21713)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-21714](https://www.cve.org/CVERecord?id=CVE-2026-21714)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-21715](https://www.cve.org/CVERecord?id=CVE-2026-21715)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-21716](https://www.cve.org/CVERecord?id=CVE-2026-21716)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-21717](https://www.cve.org/CVERecord?id=CVE-2026-21717)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** nodejs 20.19.2+dfsg-1+deb13u2
+ **Type :** DSA
 
 ------------------------------
 
