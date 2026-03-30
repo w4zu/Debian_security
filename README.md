@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-03-30** - **[DLA-4518-1](https://security-tracker.debian.org/tracker/DLA-4518-1)** - phpseclib
+
+**CVE(s) :**
+- **[CVE-2023-52892](https://www.cve.org/CVERecord?id=CVE-2023-52892)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-32935](https://www.cve.org/CVERecord?id=CVE-2026-32935)** : 🔥 **Severity: High** (Score: 8.2)
+
+**Debian Version :** bullseye
+ **Package Version :** phpseclib 1.0.19-3+deb11u3
+ **Type :** DLA
+
+------------------------------
+
 **2026-03-30** - **[DLA-4516-1](https://security-tracker.debian.org/tracker/DLA-4516-1)** - gst-plugins-ugly1.0
 
 **CVE(s) :**
