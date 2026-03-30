@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-03-30** - **[DLA-4516-1](https://security-tracker.debian.org/tracker/DLA-4516-1)** - gst-plugins-ugly1.0
+
+**CVE(s) :**
+- **[CVE-2026-2920](https://www.cve.org/CVERecord?id=CVE-2026-2920)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-2922](https://www.cve.org/CVERecord?id=CVE-2026-2922)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** gst-plugins-ugly1.0 1.18.4-2+deb11u2
+ **Type :** DLA
+
+------------------------------
+
 **2026-03-29** - **[DLA-4515-1](https://security-tracker.debian.org/tracker/DLA-4515-1)** - asterisk
 
 **CVE(s) :**
@@ -25,6 +38,39 @@
 **Debian Version :** bullseye
  **Package Version :** gst-plugins-base1.0 1.18.4-2+deb11u5
  **Type :** DLA
+
+------------------------------
+
+**2026-03-29** - **[DSA-6187-1](https://security-tracker.debian.org/tracker/DSA-6187-1)** - php-phpseclib3
+
+**CVE(s) :**
+- **[CVE-2026-32935](https://www.cve.org/CVERecord?id=CVE-2026-32935)** : 🔥 **Severity: High** (Score: 8.2)
+
+**Debian Version :** bookworm
+ **Package Version :** php-phpseclib3 3.0.19-1+deb12u4 	[trixie] - php-phpseclib3 3.0.43-2+deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2026-03-29** - **[DSA-6186-1](https://security-tracker.debian.org/tracker/DSA-6186-1)** - php-phpseclib
+
+**CVE(s) :**
+- **[CVE-2026-32935](https://www.cve.org/CVERecord?id=CVE-2026-32935)** : 🔥 **Severity: High** (Score: 8.2)
+
+**Debian Version :** bookworm
+ **Package Version :** php-phpseclib 2.0.42-1+deb12u3 	[trixie] - php-phpseclib 2.0.48-3+deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2026-03-29** - **[DSA-6185-1](https://security-tracker.debian.org/tracker/DSA-6185-1)** - phpseclib
+
+**CVE(s) :**
+- **[CVE-2026-32935](https://www.cve.org/CVERecord?id=CVE-2026-32935)** : 🔥 **Severity: High** (Score: 8.2)
+
+**Debian Version :** bookworm
+ **Package Version :** phpseclib 1.0.20-1+deb12u3 	[trixie] - phpseclib 1.0.23-6+deb13u1
+ **Type :** DSA
 
 ------------------------------
 
@@ -794,19 +840,6 @@
 
 **Debian Version :** trixie
  **Package Version :** nodejs 20.19.2+dfsg-1+deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2026-03-16** - **[DSA-6165-1](https://security-tracker.debian.org/tracker/DSA-6165-1)** - chromium
-
-**CVE(s) :**
-- **[CVE-2026-3909](https://www.cve.org/CVERecord?id=CVE-2026-3909)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-3910](https://www.cve.org/CVERecord?id=CVE-2026-3910)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** chromium 146.0.7680.80-1~deb12u1 	[trixie] - chromium 146.0.7680.80-1~deb13u1
  **Type :** DSA
 
 ------------------------------
