@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-04-01** - **[DLA-4520-1](https://security-tracker.debian.org/tracker/DLA-4520-1)** - python-tornado
+
+**CVE(s) :**
+- **[CVE-2026-31958](https://www.cve.org/CVERecord?id=CVE-2026-31958)** : 🔥 **Severity: High** (Score: 8.7)
+
+**Debian Version :** bullseye
+ **Package Version :** python-tornado 6.1.0-1+deb11u4
+ **Type :** DLA
+
+------------------------------
+
 **2026-03-31** - **[DLA-4519-1](https://security-tracker.debian.org/tracker/DLA-4519-1)** - netty
 
 **CVE(s) :**
