@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-04-02** - **[DLA-4521-1](https://security-tracker.debian.org/tracker/DLA-4521-1)** - libpng1.6
+
+**CVE(s) :**
+- **[CVE-2026-33416](https://www.cve.org/CVERecord?id=CVE-2026-33416)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-33636](https://www.cve.org/CVERecord?id=CVE-2026-33636)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** libpng1.6 1.6.37-3+deb11u3
+ **Type :** DLA
+
+------------------------------
+
 **2026-04-01** - **[DLA-4520-1](https://security-tracker.debian.org/tracker/DLA-4520-1)** - python-tornado
 
 **CVE(s) :**
