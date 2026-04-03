@@ -69,6 +69,8 @@
 **CVE(s) :**
 - **[CVE-2026-31958](https://www.cve.org/CVERecord?id=CVE-2026-31958)** : 🔥 **Severity: High** (Score: 8.7)
 
+- **[CVE-2026-35536](https://www.cve.org/CVERecord?id=CVE-2026-35536)** : **Severity: Unknown** (Score: N/A)
+
 **Debian Version :** bullseye
  **Package Version :** python-tornado 6.1.0-1+deb11u4
  **Type :** DLA
