@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-04-03** - **[DSA-6194-1](https://security-tracker.debian.org/tracker/DSA-6194-1)** - pyasn1
+
+**CVE(s) :**
+- **[CVE-2026-30922](https://www.cve.org/CVERecord?id=CVE-2026-30922)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** pyasn1 0.4.8-3+deb12u2 	[trixie] - pyasn1 0.6.1-1+deb13u2
+ **Type :** DSA
+
+------------------------------
+
 **2026-04-03** - **[DSA-6193-1](https://security-tracker.debian.org/tracker/DSA-6193-1)** - inetutils
 
 **CVE(s) :**
