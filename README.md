@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-04-03** - **[DSA-6193-1](https://security-tracker.debian.org/tracker/DSA-6193-1)** - inetutils
+
+**CVE(s) :**
+- **[CVE-2026-32746](https://www.cve.org/CVERecord?id=CVE-2026-32746)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-32772](https://www.cve.org/CVERecord?id=CVE-2026-32772)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** inetutils 2:2.4-2+deb12u3 	[trixie] - inetutils 2:2.6-3+deb13u3
+ **Type :** DSA
+
+------------------------------
+
 **2026-04-02** - **[DLA-4521-1](https://security-tracker.debian.org/tracker/DLA-4521-1)** - libpng1.6
 
 **CVE(s) :**
@@ -161,6 +174,31 @@
 
 **Debian Version :** bullseye
  **Package Version :** phpseclib 1.0.19-3+deb11u3
+ **Type :** DLA
+
+------------------------------
+
+**2026-03-30** - **[DLA-4517-1](https://security-tracker.debian.org/tracker/DLA-4517-1)** - roundcube
+
+**CVE(s) :**
+- **[CVE-2026-35538](https://www.cve.org/CVERecord?id=CVE-2026-35538)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-35539](https://www.cve.org/CVERecord?id=CVE-2026-35539)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-35540](https://www.cve.org/CVERecord?id=CVE-2026-35540)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-35541](https://www.cve.org/CVERecord?id=CVE-2026-35541)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-35542](https://www.cve.org/CVERecord?id=CVE-2026-35542)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-35543](https://www.cve.org/CVERecord?id=CVE-2026-35543)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-35544](https://www.cve.org/CVERecord?id=CVE-2026-35544)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-35545](https://www.cve.org/CVERecord?id=CVE-2026-35545)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** roundcube 1.4.15+dfsg.1-1+deb11u8
  **Type :** DLA
 
 ------------------------------
