@@ -13,6 +13,57 @@
 
 ------------------------------
 
+**2026-04-02** - **[DSA-6192-1](https://security-tracker.debian.org/tracker/DSA-6192-1)** - chromium
+
+**CVE(s) :**
+- **[CVE-2026-5272](https://www.cve.org/CVERecord?id=CVE-2026-5272)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-5273](https://www.cve.org/CVERecord?id=CVE-2026-5273)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-5274](https://www.cve.org/CVERecord?id=CVE-2026-5274)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-5275](https://www.cve.org/CVERecord?id=CVE-2026-5275)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-5276](https://www.cve.org/CVERecord?id=CVE-2026-5276)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-5277](https://www.cve.org/CVERecord?id=CVE-2026-5277)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-5278](https://www.cve.org/CVERecord?id=CVE-2026-5278)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-5279](https://www.cve.org/CVERecord?id=CVE-2026-5279)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-5280](https://www.cve.org/CVERecord?id=CVE-2026-5280)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-5281](https://www.cve.org/CVERecord?id=CVE-2026-5281)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-5282](https://www.cve.org/CVERecord?id=CVE-2026-5282)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-5283](https://www.cve.org/CVERecord?id=CVE-2026-5283)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-5284](https://www.cve.org/CVERecord?id=CVE-2026-5284)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-5285](https://www.cve.org/CVERecord?id=CVE-2026-5285)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-5286](https://www.cve.org/CVERecord?id=CVE-2026-5286)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-5287](https://www.cve.org/CVERecord?id=CVE-2026-5287)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-5288](https://www.cve.org/CVERecord?id=CVE-2026-5288)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-5289](https://www.cve.org/CVERecord?id=CVE-2026-5289)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-5290](https://www.cve.org/CVERecord?id=CVE-2026-5290)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-5291](https://www.cve.org/CVERecord?id=CVE-2026-5291)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-5292](https://www.cve.org/CVERecord?id=CVE-2026-5292)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** chromium 146.0.7680.177-1~deb12u1 	[trixie] - chromium 146.0.7680.177-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-04-01** - **[DLA-4520-1](https://security-tracker.debian.org/tracker/DLA-4520-1)** - python-tornado
 
 **CVE(s) :**
@@ -768,67 +819,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** webkit2gtk 2.50.6-1~deb12u1 	[trixie] - webkit2gtk 2.50.6-1~deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2026-03-20** - **[DSA-6171-1](https://security-tracker.debian.org/tracker/DSA-6171-1)** - chromium
-
-**CVE(s) :**
-- **[CVE-2026-4439](https://www.cve.org/CVERecord?id=CVE-2026-4439)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4440](https://www.cve.org/CVERecord?id=CVE-2026-4440)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4441](https://www.cve.org/CVERecord?id=CVE-2026-4441)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4442](https://www.cve.org/CVERecord?id=CVE-2026-4442)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4443](https://www.cve.org/CVERecord?id=CVE-2026-4443)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4444](https://www.cve.org/CVERecord?id=CVE-2026-4444)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4445](https://www.cve.org/CVERecord?id=CVE-2026-4445)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4446](https://www.cve.org/CVERecord?id=CVE-2026-4446)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4447](https://www.cve.org/CVERecord?id=CVE-2026-4447)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4448](https://www.cve.org/CVERecord?id=CVE-2026-4448)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4449](https://www.cve.org/CVERecord?id=CVE-2026-4449)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4450](https://www.cve.org/CVERecord?id=CVE-2026-4450)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4451](https://www.cve.org/CVERecord?id=CVE-2026-4451)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4452](https://www.cve.org/CVERecord?id=CVE-2026-4452)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4453](https://www.cve.org/CVERecord?id=CVE-2026-4453)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4454](https://www.cve.org/CVERecord?id=CVE-2026-4454)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4455](https://www.cve.org/CVERecord?id=CVE-2026-4455)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4456](https://www.cve.org/CVERecord?id=CVE-2026-4456)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4457](https://www.cve.org/CVERecord?id=CVE-2026-4457)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4458](https://www.cve.org/CVERecord?id=CVE-2026-4458)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4459](https://www.cve.org/CVERecord?id=CVE-2026-4459)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4460](https://www.cve.org/CVERecord?id=CVE-2026-4460)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4461](https://www.cve.org/CVERecord?id=CVE-2026-4461)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4462](https://www.cve.org/CVERecord?id=CVE-2026-4462)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4463](https://www.cve.org/CVERecord?id=CVE-2026-4463)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4464](https://www.cve.org/CVERecord?id=CVE-2026-4464)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** chromium 146.0.7680.153-1~deb12u1 	[trixie] - chromium 146.0.7680.153-1~deb13u1
  **Type :** DSA
 
 ------------------------------
