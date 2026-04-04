@@ -1,5 +1,20 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-04-03** - **[DSA-6195-1](https://security-tracker.debian.org/tracker/DSA-6195-1)** - python-tornado
+
+**CVE(s) :**
+- **[CVE-2025-67724](https://www.cve.org/CVERecord?id=CVE-2025-67724)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-67725](https://www.cve.org/CVERecord?id=CVE-2025-67725)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-67726](https://www.cve.org/CVERecord?id=CVE-2025-67726)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** python-tornado 6.2.0-3+deb12u4 	[trixie] - python-tornado 6.4.2-3+deb13u2
+ **Type :** DSA
+
+------------------------------
+
 **2026-04-03** - **[DSA-6194-1](https://security-tracker.debian.org/tracker/DSA-6194-1)** - pyasn1
 
 **CVE(s) :**
@@ -832,44 +847,6 @@
 
 **Debian Version :** trixie
  **Package Version :** spip 4.4.13+dfsg-0+deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2026-03-21** - **[DSA-6173-1](https://security-tracker.debian.org/tracker/DSA-6173-1)** - freeciv
-
-**CVE(s) :**
-- **[CVE-2026-33250](https://www.cve.org/CVERecord?id=CVE-2026-33250)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** freeciv 3.0.6-1+deb12u1 	[trixie] - freeciv 3.1.4+ds-2+deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2026-03-21** - **[DSA-6172-1](https://security-tracker.debian.org/tracker/DSA-6172-1)** - webkit2gtk
-
-**CVE(s) :**
-- **[CVE-2025-43214](https://www.cve.org/CVERecord?id=CVE-2025-43214)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-43457](https://www.cve.org/CVERecord?id=CVE-2025-43457)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-43511](https://www.cve.org/CVERecord?id=CVE-2025-43511)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-20608](https://www.cve.org/CVERecord?id=CVE-2026-20608)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-20635](https://www.cve.org/CVERecord?id=CVE-2026-20635)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-20636](https://www.cve.org/CVERecord?id=CVE-2026-20636)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-20644](https://www.cve.org/CVERecord?id=CVE-2026-20644)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-20652](https://www.cve.org/CVERecord?id=CVE-2026-20652)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-20676](https://www.cve.org/CVERecord?id=CVE-2026-20676)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** webkit2gtk 2.50.6-1~deb12u1 	[trixie] - webkit2gtk 2.50.6-1~deb13u1
  **Type :** DSA
 
 ------------------------------
