@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-04-04** - **[DLA-4522-1](https://security-tracker.debian.org/tracker/DLA-4522-1)** - libxml-parser-perl
+
+**CVE(s) :**
+- **[CVE-2006-10003](https://www.cve.org/CVERecord?id=CVE-2006-10003)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** libxml-parser-perl 2.46-2+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-04-03** - **[DSA-6195-1](https://security-tracker.debian.org/tracker/DSA-6195-1)** - python-tornado
 
 **CVE(s) :**
