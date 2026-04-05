@@ -11,6 +11,33 @@
 
 ------------------------------
 
+**2026-04-04** - **[DSA-6196-1](https://security-tracker.debian.org/tracker/DSA-6196-1)** - roundcube
+
+**CVE(s) :**
+- **[CVE-2026-35537](https://www.cve.org/CVERecord?id=CVE-2026-35537)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-35538](https://www.cve.org/CVERecord?id=CVE-2026-35538)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-35539](https://www.cve.org/CVERecord?id=CVE-2026-35539)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-35540](https://www.cve.org/CVERecord?id=CVE-2026-35540)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-35541](https://www.cve.org/CVERecord?id=CVE-2026-35541)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-35542](https://www.cve.org/CVERecord?id=CVE-2026-35542)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-35543](https://www.cve.org/CVERecord?id=CVE-2026-35543)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-35544](https://www.cve.org/CVERecord?id=CVE-2026-35544)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-35545](https://www.cve.org/CVERecord?id=CVE-2026-35545)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** roundcube 1.6.5+dfsg-1+deb12u8 	[trixie] - roundcube 1.6.15+dfsg-0+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-04-03** - **[DSA-6195-1](https://security-tracker.debian.org/tracker/DSA-6195-1)** - python-tornado
 
 **CVE(s) :**
@@ -836,28 +863,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** strongswan 5.9.8-5+deb12u3 	[trixie] - strongswan 6.0.1-6+deb13u4
- **Type :** DSA
-
-------------------------------
-
-**2026-03-22** - **[DSA-6175-1](https://security-tracker.debian.org/tracker/DSA-6175-1)** - libyaml-syck-perl
-
-**CVE(s) :**
-- **[CVE-2026-4177](https://www.cve.org/CVERecord?id=CVE-2026-4177)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** libyaml-syck-perl 1.34-2+deb12u2 	[trixie] - libyaml-syck-perl 1.34-2+deb13u2
- **Type :** DSA
-
-------------------------------
-
-**2026-03-22** - **[DSA-6174-1](https://security-tracker.debian.org/tracker/DSA-6174-1)** - spip
-
-**CVE(s) :**
-- **[CVE-2026-33549](https://www.cve.org/CVERecord?id=CVE-2026-33549)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** trixie
- **Package Version :** spip 4.4.13+dfsg-0+deb13u1
  **Type :** DSA
 
 ------------------------------
