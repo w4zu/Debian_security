@@ -1,5 +1,41 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-04-05** - **[DSA-6198-1](https://security-tracker.debian.org/tracker/DSA-6198-1)** - valkey
+
+**CVE(s) :**
+- **[CVE-2025-67733](https://www.cve.org/CVERecord?id=CVE-2025-67733)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-21863](https://www.cve.org/CVERecord?id=CVE-2026-21863)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** valkey 8.1.1+dfsg1-3+deb13u2
+ **Type :** DSA
+
+------------------------------
+
+**2026-04-05** - **[DSA-6197-1](https://security-tracker.debian.org/tracker/DSA-6197-1)** - dovecot
+
+**CVE(s) :**
+- **[CVE-2025-59031](https://www.cve.org/CVERecord?id=CVE-2025-59031)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-59032](https://www.cve.org/CVERecord?id=CVE-2025-59032)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-27855](https://www.cve.org/CVERecord?id=CVE-2026-27855)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-27856](https://www.cve.org/CVERecord?id=CVE-2026-27856)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-27857](https://www.cve.org/CVERecord?id=CVE-2026-27857)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-27858](https://www.cve.org/CVERecord?id=CVE-2026-27858)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-27859](https://www.cve.org/CVERecord?id=CVE-2026-27859)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** dovecot 1:2.3.19.1+dfsg1-2.1+deb12u2 	[trixie] - dovecot 1:2.4.1+dfsg1-6+deb13u4
+ **Type :** DSA
+
+------------------------------
+
 **2026-04-04** - **[DLA-4522-1](https://security-tracker.debian.org/tracker/DLA-4522-1)** - libxml-parser-perl
 
 **CVE(s) :**
