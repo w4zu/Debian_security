@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-04-05** - **[DSA-6200-1](https://security-tracker.debian.org/tracker/DSA-6200-1)** - tor
+
+**CVE(s) :**
+- **[CVE-2025-4444](https://www.cve.org/CVERecord?id=CVE-2025-4444)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+**Debian Version :** bookworm
+ **Package Version :** tor 0.4.9.6-0+deb12u1 	[trixie] - tor 0.4.9.6-0+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-04-05** - **[DSA-6199-1](https://security-tracker.debian.org/tracker/DSA-6199-1)** - trafficserver
 
 **CVE(s) :**
