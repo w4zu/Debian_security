@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-04-05** - **[DSA-6199-1](https://security-tracker.debian.org/tracker/DSA-6199-1)** - trafficserver
+
+**CVE(s) :**
+- **[CVE-2025-58136](https://www.cve.org/CVERecord?id=CVE-2025-58136)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-65114](https://www.cve.org/CVERecord?id=CVE-2025-65114)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** trafficserver 9.2.5+ds-0+deb12u4
+ **Type :** DSA
+
+------------------------------
+
 **2026-04-05** - **[DSA-6198-1](https://security-tracker.debian.org/tracker/DSA-6198-1)** - valkey
 
 **CVE(s) :**
@@ -851,54 +864,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** chromium 146.0.7680.164-1~deb12u1 	[trixie] - chromium 146.0.7680.164-1~deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2026-03-23** - **[DLA-4507-1](https://security-tracker.debian.org/tracker/DLA-4507-1)** - vlc
-
-**CVE(s) :**
-- **[CVE-2025-51602](https://www.cve.org/CVERecord?id=CVE-2025-51602)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** vlc 3.0.23-0+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2026-03-23** - **[DLA-4506-1](https://security-tracker.debian.org/tracker/DLA-4506-1)** - mapserver
-
-**CVE(s) :**
-- **[CVE-2021-32062](https://www.cve.org/CVERecord?id=CVE-2021-32062)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-59431](https://www.cve.org/CVERecord?id=CVE-2025-59431)** : 🔥 **Severity: High** (Score: 8.9)
-
-**Debian Version :** bullseye
- **Package Version :** mapserver 7.6.2-1+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2026-03-23** - **[DLA-4505-1](https://security-tracker.debian.org/tracker/DLA-4505-1)** - ruby-rack
-
-**CVE(s) :**
-- **[CVE-2026-22860](https://www.cve.org/CVERecord?id=CVE-2026-22860)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-25500](https://www.cve.org/CVERecord?id=CVE-2026-25500)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** ruby-rack 2.1.4-3+deb11u5
- **Type :** DLA
-
-------------------------------
-
-**2026-03-23** - **[DSA-6176-1](https://security-tracker.debian.org/tracker/DSA-6176-1)** - strongswan
-
-**CVE(s) :**
-- **[CVE-2026-25075](https://www.cve.org/CVERecord?id=CVE-2026-25075)** : 🔥 **Severity: High** (Score: 8.7)
-
-**Debian Version :** bookworm
- **Package Version :** strongswan 5.9.8-5+deb12u3 	[trixie] - strongswan 6.0.1-6+deb13u4
  **Type :** DSA
 
 ------------------------------
