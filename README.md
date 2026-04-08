@@ -1,5 +1,26 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-04-07** - **[DSA-6201-1](https://security-tracker.debian.org/tracker/DSA-6201-1)** - openssl
+
+**CVE(s) :**
+- **[CVE-2026-28387](https://www.cve.org/CVERecord?id=CVE-2026-28387)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-28388](https://www.cve.org/CVERecord?id=CVE-2026-28388)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-28389](https://www.cve.org/CVERecord?id=CVE-2026-28389)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-28390](https://www.cve.org/CVERecord?id=CVE-2026-28390)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-31789](https://www.cve.org/CVERecord?id=CVE-2026-31789)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-31790](https://www.cve.org/CVERecord?id=CVE-2026-31790)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** openssl 3.0.19-1~deb12u2 	[trixie] - openssl 3.5.5-1~deb13u2
+ **Type :** DSA
+
+------------------------------
+
 **2026-04-05** - **[DSA-6200-1](https://security-tracker.debian.org/tracker/DSA-6200-1)** - tor
 
 **CVE(s) :**
@@ -747,134 +768,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** thunderbird 1:140.9.0esr-1~deb12u1 	[trixie] - thunderbird 1:140.9.0esr-1~deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2026-03-25** - **[DLA-4509-1](https://security-tracker.debian.org/tracker/DLA-4509-1)** - awstats
-
-**CVE(s) :**
-- **[CVE-2025-63261](https://www.cve.org/CVERecord?id=CVE-2025-63261)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** awstats 7.8-2+deb11u2
- **Type :** DLA
-
-------------------------------
-
-**2026-03-25** - **[DLA-4508-1](https://security-tracker.debian.org/tracker/DLA-4508-1)** - nss
-
-**CVE(s) :**
-- **[CVE-2026-2781](https://www.cve.org/CVERecord?id=CVE-2026-2781)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** nss 2:3.61-1+deb11u5
- **Type :** DLA
-
-------------------------------
-
-**2026-03-25** - **[DSA-6178-1](https://security-tracker.debian.org/tracker/DSA-6178-1)** - firefox-esr
-
-**CVE(s) :**
-- **[CVE-2025-59375](https://www.cve.org/CVERecord?id=CVE-2025-59375)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4684](https://www.cve.org/CVERecord?id=CVE-2026-4684)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4685](https://www.cve.org/CVERecord?id=CVE-2026-4685)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4686](https://www.cve.org/CVERecord?id=CVE-2026-4686)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4687](https://www.cve.org/CVERecord?id=CVE-2026-4687)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4688](https://www.cve.org/CVERecord?id=CVE-2026-4688)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4689](https://www.cve.org/CVERecord?id=CVE-2026-4689)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4690](https://www.cve.org/CVERecord?id=CVE-2026-4690)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4691](https://www.cve.org/CVERecord?id=CVE-2026-4691)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4692](https://www.cve.org/CVERecord?id=CVE-2026-4692)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4693](https://www.cve.org/CVERecord?id=CVE-2026-4693)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4694](https://www.cve.org/CVERecord?id=CVE-2026-4694)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4695](https://www.cve.org/CVERecord?id=CVE-2026-4695)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4696](https://www.cve.org/CVERecord?id=CVE-2026-4696)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4697](https://www.cve.org/CVERecord?id=CVE-2026-4697)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4698](https://www.cve.org/CVERecord?id=CVE-2026-4698)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4699](https://www.cve.org/CVERecord?id=CVE-2026-4699)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4700](https://www.cve.org/CVERecord?id=CVE-2026-4700)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4701](https://www.cve.org/CVERecord?id=CVE-2026-4701)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4702](https://www.cve.org/CVERecord?id=CVE-2026-4702)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4704](https://www.cve.org/CVERecord?id=CVE-2026-4704)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4705](https://www.cve.org/CVERecord?id=CVE-2026-4705)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4706](https://www.cve.org/CVERecord?id=CVE-2026-4706)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4707](https://www.cve.org/CVERecord?id=CVE-2026-4707)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4708](https://www.cve.org/CVERecord?id=CVE-2026-4708)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4709](https://www.cve.org/CVERecord?id=CVE-2026-4709)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4710](https://www.cve.org/CVERecord?id=CVE-2026-4710)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4713](https://www.cve.org/CVERecord?id=CVE-2026-4713)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4714](https://www.cve.org/CVERecord?id=CVE-2026-4714)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4715](https://www.cve.org/CVERecord?id=CVE-2026-4715)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4716](https://www.cve.org/CVERecord?id=CVE-2026-4716)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4717](https://www.cve.org/CVERecord?id=CVE-2026-4717)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4718](https://www.cve.org/CVERecord?id=CVE-2026-4718)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4719](https://www.cve.org/CVERecord?id=CVE-2026-4719)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4720](https://www.cve.org/CVERecord?id=CVE-2026-4720)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4721](https://www.cve.org/CVERecord?id=CVE-2026-4721)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** firefox-esr 140.9.0esr-1~deb12u1 	[trixie] - firefox-esr 140.9.0esr-1~deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2026-03-25** - **[DSA-6177-1](https://security-tracker.debian.org/tracker/DSA-6177-1)** - chromium
-
-**CVE(s) :**
-- **[CVE-2026-4673](https://www.cve.org/CVERecord?id=CVE-2026-4673)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4674](https://www.cve.org/CVERecord?id=CVE-2026-4674)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4675](https://www.cve.org/CVERecord?id=CVE-2026-4675)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4676](https://www.cve.org/CVERecord?id=CVE-2026-4676)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4677](https://www.cve.org/CVERecord?id=CVE-2026-4677)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4678](https://www.cve.org/CVERecord?id=CVE-2026-4678)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4679](https://www.cve.org/CVERecord?id=CVE-2026-4679)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4680](https://www.cve.org/CVERecord?id=CVE-2026-4680)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** chromium 146.0.7680.164-1~deb12u1 	[trixie] - chromium 146.0.7680.164-1~deb13u1
  **Type :** DSA
 
 ------------------------------
