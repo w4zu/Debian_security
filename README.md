@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-04-09** - **[DLA-4525-1](https://security-tracker.debian.org/tracker/DLA-4525-1)** - libyaml-syck-perl
+
+**CVE(s) :**
+- **[CVE-2025-11683](https://www.cve.org/CVERecord?id=CVE-2025-11683)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-4177](https://www.cve.org/CVERecord?id=CVE-2026-4177)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** libyaml-syck-perl 1.34-1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-04-08** - **[DLA-4524-1](https://security-tracker.debian.org/tracker/DLA-4524-1)** - postgresql-13
 
 **CVE(s) :**
