@@ -13,6 +13,17 @@
 
 ------------------------------
 
+**2026-04-09** - **[DSA-6204-1](https://security-tracker.debian.org/tracker/DSA-6204-1)** - openssh
+
+**CVE(s) :**
+- **[CVE-2026-3497](https://www.cve.org/CVERecord?id=CVE-2026-3497)** : 🟠 **Severity: Medium** (Score: 2.7)
+
+**Debian Version :** bookworm
+ **Package Version :** openssh 1:9.2p1-2+deb12u9 	[trixie] - openssh 1:10.0p1-7+deb13u2
+ **Type :** DSA
+
+------------------------------
+
 **2026-04-08** - **[DLA-4524-1](https://security-tracker.debian.org/tracker/DLA-4524-1)** - postgresql-13
 
 **CVE(s) :**
@@ -549,28 +560,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** libxml-parser-perl 2.46-4+deb12u1 	[trixie] - libxml-parser-perl 2.47-2~deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2026-03-27** - **[DLA-4512-1](https://security-tracker.debian.org/tracker/DLA-4512-1)** - strongswan
-
-**CVE(s) :**
-- **[CVE-2026-25075](https://www.cve.org/CVERecord?id=CVE-2026-25075)** : 🔥 **Severity: High** (Score: 8.7)
-
-**Debian Version :** bullseye
- **Package Version :** strongswan 5.9.1-1+deb11u6
- **Type :** DLA
-
-------------------------------
-
-**2026-03-27** - **[DSA-6181-1](https://security-tracker.debian.org/tracker/DSA-6181-1)** - bind9
-
-**CVE(s) :**
-- **[CVE-2026-1519](https://www.cve.org/CVERecord?id=CVE-2026-1519)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** bind9 1:9.18.47-1~deb12u1 	[trixie] - bind9 1:9.20.21-1~deb13u1
  **Type :** DSA
 
 ------------------------------
