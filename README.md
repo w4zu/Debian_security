@@ -1,5 +1,49 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-04-11** - **[DLA-4528-1](https://security-tracker.debian.org/tracker/DLA-4528-1)** - webkit2gtk
+
+**CVE(s) :**
+- **[CVE-2025-43214](https://www.cve.org/CVERecord?id=CVE-2025-43214)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43457](https://www.cve.org/CVERecord?id=CVE-2025-43457)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-43511](https://www.cve.org/CVERecord?id=CVE-2025-43511)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-20608](https://www.cve.org/CVERecord?id=CVE-2026-20608)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-20635](https://www.cve.org/CVERecord?id=CVE-2026-20635)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-20636](https://www.cve.org/CVERecord?id=CVE-2026-20636)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-20644](https://www.cve.org/CVERecord?id=CVE-2026-20644)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-20652](https://www.cve.org/CVERecord?id=CVE-2026-20652)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-20676](https://www.cve.org/CVERecord?id=CVE-2026-20676)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** webkit2gtk 2.50.6-1~deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2026-04-11** - **[DLA-4527-1](https://security-tracker.debian.org/tracker/DLA-4527-1)** - inetutils
+
+**CVE(s) :**
+- **[CVE-2026-24061](https://www.cve.org/CVERecord?id=CVE-2026-24061)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-28372](https://www.cve.org/CVERecord?id=CVE-2026-28372)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-32746](https://www.cve.org/CVERecord?id=CVE-2026-32746)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-32772](https://www.cve.org/CVERecord?id=CVE-2026-32772)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** inetutils 2:2.0-1+deb11u4
+ **Type :** DLA
+
+------------------------------
+
 **2026-04-11** - **[DLA-4526-1](https://security-tracker.debian.org/tracker/DLA-4526-1)** - firefox-esr
 
 **CVE(s) :**
