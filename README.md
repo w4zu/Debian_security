@@ -1,5 +1,20 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-04-11** - **[DLA-4526-1](https://security-tracker.debian.org/tracker/DLA-4526-1)** - firefox-esr
+
+**CVE(s) :**
+- **[CVE-2026-5731](https://www.cve.org/CVERecord?id=CVE-2026-5731)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-5732](https://www.cve.org/CVERecord?id=CVE-2026-5732)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-5734](https://www.cve.org/CVERecord?id=CVE-2026-5734)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** firefox-esr 140.9.1esr-1~deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-04-10** - **[DSA-6205-1](https://security-tracker.debian.org/tracker/DSA-6205-1)** - chromium
 
 **CVE(s) :**
@@ -665,30 +680,6 @@
 
 **Debian Version :** trixie
  **Package Version :** nodejs 20.19.2+dfsg-1+deb13u2
- **Type :** DSA
-
-------------------------------
-
-**2026-03-28** - **[DLA-4513-1](https://security-tracker.debian.org/tracker/DLA-4513-1)** - gvfs
-
-**CVE(s) :**
-- **[CVE-2026-28295](https://www.cve.org/CVERecord?id=CVE-2026-28295)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-28296](https://www.cve.org/CVERecord?id=CVE-2026-28296)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** gvfs 1.46.2-2+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2026-03-28** - **[DSA-6182-1](https://security-tracker.debian.org/tracker/DSA-6182-1)** - libxml-parser-perl
-
-**CVE(s) :**
-- **[CVE-2006-10003](https://www.cve.org/CVERecord?id=CVE-2006-10003)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** libxml-parser-perl 2.46-4+deb12u1 	[trixie] - libxml-parser-perl 2.47-2~deb13u1
  **Type :** DSA
 
 ------------------------------
