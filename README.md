@@ -1,5 +1,37 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-04-12** - **[DSA-6208-1](https://security-tracker.debian.org/tracker/DSA-6208-1)** - mediawiki
+
+**CVE(s) :**
+- **[CVE-2026-34087](https://www.cve.org/CVERecord?id=CVE-2026-34087)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-34088](https://www.cve.org/CVERecord?id=CVE-2026-34088)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-34092](https://www.cve.org/CVERecord?id=CVE-2026-34092)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-34093](https://www.cve.org/CVERecord?id=CVE-2026-34093)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-34095](https://www.cve.org/CVERecord?id=CVE-2026-34095)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** mediawiki 1:1.39.17-1+deb12u2 	[trixie] - mediawiki 1:1.43.8+dfsg-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2026-04-12** - **[DSA-6207-1](https://security-tracker.debian.org/tracker/DSA-6207-1)** - flatpak
+
+**CVE(s) :**
+- **[CVE-2026-34078](https://www.cve.org/CVERecord?id=CVE-2026-34078)** : 🔥 **Severity: High** (Score: 9.3)
+
+- **[CVE-2026-34079](https://www.cve.org/CVERecord?id=CVE-2026-34079)** : 🔥 **Severity: High** (Score: 8.7)
+
+**Debian Version :** trixie
+ **Package Version :** flatpak 1.16.6-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-04-11** - **[DLA-4528-1](https://security-tracker.debian.org/tracker/DLA-4528-1)** - webkit2gtk
 
 **CVE(s) :**
