@@ -59,6 +59,17 @@
 
 ------------------------------
 
+**2026-04-11** - **[DSA-6206-1](https://security-tracker.debian.org/tracker/DSA-6206-1)** - gdk-pixbuf
+
+**CVE(s) :**
+- **[CVE-2026-5201](https://www.cve.org/CVERecord?id=CVE-2026-5201)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** gdk-pixbuf 2.42.10+dfsg-1+deb12u4 	[trixie] - gdk-pixbuf 2.42.12+dfsg-4+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-04-10** - **[DSA-6205-1](https://security-tracker.debian.org/tracker/DSA-6205-1)** - chromium
 
 **CVE(s) :**
@@ -624,107 +635,6 @@
 **Debian Version :** bullseye
  **Package Version :** gst-plugins-ugly1.0 1.18.4-2+deb11u2
  **Type :** DLA
-
-------------------------------
-
-**2026-03-29** - **[DLA-4515-1](https://security-tracker.debian.org/tracker/DLA-4515-1)** - asterisk
-
-**CVE(s) :**
-- **[CVE-2026-23738](https://www.cve.org/CVERecord?id=CVE-2026-23738)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-23739](https://www.cve.org/CVERecord?id=CVE-2026-23739)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-23740](https://www.cve.org/CVERecord?id=CVE-2026-23740)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-23741](https://www.cve.org/CVERecord?id=CVE-2026-23741)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** asterisk 1:16.28.0~dfsg-0+deb11u9
- **Type :** DLA
-
-------------------------------
-
-**2026-03-29** - **[DLA-4514-1](https://security-tracker.debian.org/tracker/DLA-4514-1)** - gst-plugins-base1.0
-
-**CVE(s) :**
-- **[CVE-2026-2921](https://www.cve.org/CVERecord?id=CVE-2026-2921)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** gst-plugins-base1.0 1.18.4-2+deb11u5
- **Type :** DLA
-
-------------------------------
-
-**2026-03-29** - **[DSA-6187-1](https://security-tracker.debian.org/tracker/DSA-6187-1)** - php-phpseclib3
-
-**CVE(s) :**
-- **[CVE-2026-32935](https://www.cve.org/CVERecord?id=CVE-2026-32935)** : 🔥 **Severity: High** (Score: 8.2)
-
-**Debian Version :** bookworm
- **Package Version :** php-phpseclib3 3.0.19-1+deb12u4 	[trixie] - php-phpseclib3 3.0.43-2+deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2026-03-29** - **[DSA-6186-1](https://security-tracker.debian.org/tracker/DSA-6186-1)** - php-phpseclib
-
-**CVE(s) :**
-- **[CVE-2026-32935](https://www.cve.org/CVERecord?id=CVE-2026-32935)** : 🔥 **Severity: High** (Score: 8.2)
-
-**Debian Version :** bookworm
- **Package Version :** php-phpseclib 2.0.42-1+deb12u3 	[trixie] - php-phpseclib 2.0.48-3+deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2026-03-29** - **[DSA-6185-1](https://security-tracker.debian.org/tracker/DSA-6185-1)** - phpseclib
-
-**CVE(s) :**
-- **[CVE-2026-32935](https://www.cve.org/CVERecord?id=CVE-2026-32935)** : 🔥 **Severity: High** (Score: 8.2)
-
-**Debian Version :** bookworm
- **Package Version :** phpseclib 1.0.20-1+deb12u3 	[trixie] - phpseclib 1.0.23-6+deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2026-03-29** - **[DSA-6184-1](https://security-tracker.debian.org/tracker/DSA-6184-1)** - incus
-
-**CVE(s) :**
-- **[CVE-2026-28384](https://www.cve.org/CVERecord?id=CVE-2026-28384)** : 🔥 **Severity: High** (Score: 9.4)
-
-- **[CVE-2026-33542](https://www.cve.org/CVERecord?id=CVE-2026-33542)** : 🟠 **Severity: Medium** (Score: 5.7)
-
-- **[CVE-2026-33743](https://www.cve.org/CVERecord?id=CVE-2026-33743)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-33897](https://www.cve.org/CVERecord?id=CVE-2026-33897)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** trixie
- **Package Version :** incus 6.0.4-2+deb13u5
- **Type :** DSA
-
-------------------------------
-
-**2026-03-29** - **[DSA-6183-1](https://security-tracker.debian.org/tracker/DSA-6183-1)** - nodejs
-
-**CVE(s) :**
-- **[CVE-2026-21637](https://www.cve.org/CVERecord?id=CVE-2026-21637)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-21710](https://www.cve.org/CVERecord?id=CVE-2026-21710)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-21713](https://www.cve.org/CVERecord?id=CVE-2026-21713)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-21714](https://www.cve.org/CVERecord?id=CVE-2026-21714)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-21715](https://www.cve.org/CVERecord?id=CVE-2026-21715)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-21716](https://www.cve.org/CVERecord?id=CVE-2026-21716)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-21717](https://www.cve.org/CVERecord?id=CVE-2026-21717)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** trixie
- **Package Version :** nodejs 20.19.2+dfsg-1+deb13u2
- **Type :** DSA
 
 ------------------------------
 
