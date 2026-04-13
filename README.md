@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-04-13** - **[DLA-4530-1](https://security-tracker.debian.org/tracker/DLA-4530-1)** - gst-plugins-bad1.0
+
+**CVE(s) :**
+- **[CVE-2026-2923](https://www.cve.org/CVERecord?id=CVE-2026-2923)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-3082](https://www.cve.org/CVERecord?id=CVE-2026-3082)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** gst-plugins-bad1.0 1.18.4-3+deb11u6
+ **Type :** DLA
+
+------------------------------
+
 **2026-04-13** - **[DLA-4529-1](https://security-tracker.debian.org/tracker/DLA-4529-1)** - bind9
 
 **CVE(s) :**
