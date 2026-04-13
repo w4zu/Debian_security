@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-04-13** - **[DLA-4529-1](https://security-tracker.debian.org/tracker/DLA-4529-1)** - bind9
+
+**CVE(s) :**
+- **[CVE-2026-1519](https://www.cve.org/CVERecord?id=CVE-2026-1519)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** bind9 1:9.16.50-1~deb11u5
+ **Type :** DLA
+
+------------------------------
+
 **2026-04-12** - **[DSA-6208-1](https://security-tracker.debian.org/tracker/DSA-6208-1)** - mediawiki
 
 **CVE(s) :**
