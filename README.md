@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-04-14** - **[DLA-4531-1](https://security-tracker.debian.org/tracker/DLA-4531-1)** - gdk-pixbuf
+
+**CVE(s) :**
+- **[CVE-2026-5201](https://www.cve.org/CVERecord?id=CVE-2026-5201)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** gdk-pixbuf 2.42.2+dfsg-1+deb11u5
+ **Type :** DLA
+
+------------------------------
+
 **2026-04-13** - **[DLA-4530-1](https://security-tracker.debian.org/tracker/DLA-4530-1)** - gst-plugins-bad1.0
 
 **CVE(s) :**
