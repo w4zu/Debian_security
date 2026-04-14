@@ -24,6 +24,17 @@
 
 ------------------------------
 
+**2026-04-13** - **[DSA-6209-1](https://security-tracker.debian.org/tracker/DSA-6209-1)** - xdg-dbus-proxy
+
+**CVE(s) :**
+- **[CVE-2026-34080](https://www.cve.org/CVERecord?id=CVE-2026-34080)** : 🟠 **Severity: Medium** (Score: 6.8)
+
+**Debian Version :** trixie
+ **Package Version :** xdg-dbus-proxy 0.1.6-1+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-04-12** - **[DSA-6208-1](https://security-tracker.debian.org/tracker/DSA-6208-1)** - mediawiki
 
 **CVE(s) :**
@@ -590,55 +601,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** gst-plugins-bad1.0 1.22.0-4+deb12u7 	[trixie] - gst-plugins-bad1.0 1.26.2-3+deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2026-03-31** - **[DLA-4519-1](https://security-tracker.debian.org/tracker/DLA-4519-1)** - netty
-
-**CVE(s) :**
-- **[CVE-2024-29025](https://www.cve.org/CVERecord?id=CVE-2024-29025)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-55163](https://www.cve.org/CVERecord?id=CVE-2025-55163)** : 🔥 **Severity: High** (Score: 8.2)
-
-- **[CVE-2025-58056](https://www.cve.org/CVERecord?id=CVE-2025-58056)** : 🟠 **Severity: Medium** (Score: 2.9)
-
-- **[CVE-2025-58057](https://www.cve.org/CVERecord?id=CVE-2025-58057)** : 🟠 **Severity: Medium** (Score: 6.9)
-
-- **[CVE-2025-59419](https://www.cve.org/CVERecord?id=CVE-2025-59419)** : 🟠 **Severity: Medium** (Score: 5.5)
-
-- **[CVE-2025-67735](https://www.cve.org/CVERecord?id=CVE-2025-67735)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** netty 1:4.1.48-4+deb11u3
- **Type :** DLA
-
-------------------------------
-
-**2026-03-31** - **[DSA-6189-1](https://security-tracker.debian.org/tracker/DSA-6189-1)** - libpng1.6
-
-**CVE(s) :**
-- **[CVE-2026-33416](https://www.cve.org/CVERecord?id=CVE-2026-33416)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-33636](https://www.cve.org/CVERecord?id=CVE-2026-33636)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** libpng1.6 1.6.39-2+deb12u4 	[trixie] - libpng1.6 1.6.48-1+deb13u4
- **Type :** DSA
-
-------------------------------
-
-**2026-03-31** - **[DSA-6188-1](https://security-tracker.debian.org/tracker/DSA-6188-1)** - lxd
-
-**CVE(s) :**
-- **[CVE-2026-28384](https://www.cve.org/CVERecord?id=CVE-2026-28384)** : 🔥 **Severity: High** (Score: 9.4)
-
-- **[CVE-2026-33542](https://www.cve.org/CVERecord?id=CVE-2026-33542)** : 🟠 **Severity: Medium** (Score: 5.7)
-
-- **[CVE-2026-33897](https://www.cve.org/CVERecord?id=CVE-2026-33897)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** lxd 5.0.2-5+deb12u4 	[trixie] - lxd 5.0.2+git20231211.1364ae4-9+deb13u4
  **Type :** DSA
 
 ------------------------------
