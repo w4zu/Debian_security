@@ -11,6 +11,72 @@
 
 ------------------------------
 
+**2026-04-14** - **[DSA-6211-1](https://security-tracker.debian.org/tracker/DSA-6211-1)** - thunderbird
+
+**CVE(s) :**
+- **[CVE-2026-5731](https://www.cve.org/CVERecord?id=CVE-2026-5731)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-5732](https://www.cve.org/CVERecord?id=CVE-2026-5732)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-5734](https://www.cve.org/CVERecord?id=CVE-2026-5734)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** thunderbird 1:140.9.1esr-1~deb12u1 	[trixie] - thunderbird 1:140.9.1esr-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2026-04-14** - **[DSA-6210-1](https://security-tracker.debian.org/tracker/DSA-6210-1)** - imagemagick
+
+**CVE(s) :**
+- **[CVE-2026-25796](https://www.cve.org/CVERecord?id=CVE-2026-25796)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-25985](https://www.cve.org/CVERecord?id=CVE-2026-25985)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-26284](https://www.cve.org/CVERecord?id=CVE-2026-26284)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-26983](https://www.cve.org/CVERecord?id=CVE-2026-26983)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-28494](https://www.cve.org/CVERecord?id=CVE-2026-28494)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-28686](https://www.cve.org/CVERecord?id=CVE-2026-28686)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-28687](https://www.cve.org/CVERecord?id=CVE-2026-28687)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-28688](https://www.cve.org/CVERecord?id=CVE-2026-28688)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-28689](https://www.cve.org/CVERecord?id=CVE-2026-28689)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-28690](https://www.cve.org/CVERecord?id=CVE-2026-28690)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-28691](https://www.cve.org/CVERecord?id=CVE-2026-28691)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-28692](https://www.cve.org/CVERecord?id=CVE-2026-28692)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-28693](https://www.cve.org/CVERecord?id=CVE-2026-28693)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-30883](https://www.cve.org/CVERecord?id=CVE-2026-30883)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-30936](https://www.cve.org/CVERecord?id=CVE-2026-30936)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-30937](https://www.cve.org/CVERecord?id=CVE-2026-30937)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-31853](https://www.cve.org/CVERecord?id=CVE-2026-31853)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-32259](https://www.cve.org/CVERecord?id=CVE-2026-32259)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-32636](https://www.cve.org/CVERecord?id=CVE-2026-32636)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-33535](https://www.cve.org/CVERecord?id=CVE-2026-33535)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-33536](https://www.cve.org/CVERecord?id=CVE-2026-33536)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** imagemagick 8:6.9.11.60+dfsg-1.6+deb12u8
+ **Type :** DSA
+
+------------------------------
+
 **2026-04-13** - **[DLA-4530-1](https://security-tracker.debian.org/tracker/DLA-4530-1)** - gst-plugins-bad1.0
 
 **CVE(s) :**
@@ -573,45 +639,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** chromium 146.0.7680.177-1~deb12u1 	[trixie] - chromium 146.0.7680.177-1~deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2026-04-01** - **[DLA-4520-1](https://security-tracker.debian.org/tracker/DLA-4520-1)** - python-tornado
-
-**CVE(s) :**
-- **[CVE-2026-31958](https://www.cve.org/CVERecord?id=CVE-2026-31958)** : 🔥 **Severity: High** (Score: 8.7)
-
-- **[CVE-2026-35536](https://www.cve.org/CVERecord?id=CVE-2026-35536)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** python-tornado 6.1.0-1+deb11u4
- **Type :** DLA
-
-------------------------------
-
-**2026-04-01** - **[DSA-6191-1](https://security-tracker.debian.org/tracker/DSA-6191-1)** - gst-plugins-ugly1.0
-
-**CVE(s) :**
-- **[CVE-2026-2920](https://www.cve.org/CVERecord?id=CVE-2026-2920)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-2922](https://www.cve.org/CVERecord?id=CVE-2026-2922)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** gst-plugins-ugly1.0 1.22.0-2+deb12u2 	[trixie] - gst-plugins-ugly1.0 1.26.3-4+deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2026-04-01** - **[DSA-6190-1](https://security-tracker.debian.org/tracker/DSA-6190-1)** - gst-plugins-bad1.0
-
-**CVE(s) :**
-- **[CVE-2026-2923](https://www.cve.org/CVERecord?id=CVE-2026-2923)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-3082](https://www.cve.org/CVERecord?id=CVE-2026-3082)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** gst-plugins-bad1.0 1.22.0-4+deb12u7 	[trixie] - gst-plugins-bad1.0 1.26.2-3+deb13u1
  **Type :** DSA
 
 ------------------------------
