@@ -1,5 +1,33 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-04-15** - **[DLA-4533-1](https://security-tracker.debian.org/tracker/DLA-4533-1)** - systemd
+
+**CVE(s) :**
+- **[CVE-2026-4105](https://www.cve.org/CVERecord?id=CVE-2026-4105)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-29111](https://www.cve.org/CVERecord?id=CVE-2026-29111)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-40225](https://www.cve.org/CVERecord?id=CVE-2026-40225)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-40226](https://www.cve.org/CVERecord?id=CVE-2026-40226)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** systemd 247.3-7+deb11u8
+ **Type :** DLA
+
+------------------------------
+
+**2026-04-15** - **[DLA-4532-1](https://security-tracker.debian.org/tracker/DLA-4532-1)** - python3.9
+
+**CVE(s) :**
+- **[CVE-2026-6100](https://www.cve.org/CVERecord?id=CVE-2026-6100)** : 🔥 **Severity: High** (Score: 9.1)
+
+**Debian Version :** bullseye
+ **Package Version :** python3.9 3.9.2-1+deb11u6
+ **Type :** DLA
+
+------------------------------
+
 **2026-04-14** - **[DLA-4531-1](https://security-tracker.debian.org/tracker/DLA-4531-1)** - gdk-pixbuf
 
 **CVE(s) :**
