@@ -1,5 +1,31 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-04-16** - **[DLA-4535-1](https://security-tracker.debian.org/tracker/DLA-4535-1)** - openssh
+
+**CVE(s) :**
+- **[CVE-2026-3497](https://www.cve.org/CVERecord?id=CVE-2026-3497)** : 🟠 **Severity: Medium** (Score: 2.7)
+
+**Debian Version :** bullseye
+ **Package Version :** openssh 1:8.4p1-5+deb11u6
+ **Type :** DLA
+
+------------------------------
+
+**2026-04-16** - **[DLA-4534-1](https://security-tracker.debian.org/tracker/DLA-4534-1)** - thunderbird
+
+**CVE(s) :**
+- **[CVE-2026-5731](https://www.cve.org/CVERecord?id=CVE-2026-5731)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-5732](https://www.cve.org/CVERecord?id=CVE-2026-5732)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-5734](https://www.cve.org/CVERecord?id=CVE-2026-5734)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** thunderbird 1:140.9.1esr-1~deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-04-15** - **[DLA-4533-1](https://security-tracker.debian.org/tracker/DLA-4533-1)** - systemd
 
 **CVE(s) :**
