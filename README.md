@@ -1,5 +1,27 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-04-17** - **[DLA-4537-1](https://security-tracker.debian.org/tracker/DLA-4537-1)** - mapserver
+
+**CVE(s) :**
+- **[CVE-2026-33721](https://www.cve.org/CVERecord?id=CVE-2026-33721)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** mapserver 7.6.2-1+deb11u2
+ **Type :** DLA
+
+------------------------------
+
+**2026-04-17** - **[DLA-4536-1](https://security-tracker.debian.org/tracker/DLA-4536-1)** - tiff
+
+**CVE(s) :**
+- **[CVE-2026-4775](https://www.cve.org/CVERecord?id=CVE-2026-4775)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** tiff 4.2.0-1+deb11u8
+ **Type :** DLA
+
+------------------------------
+
 **2026-04-17** - **[DSA-6214-1](https://security-tracker.debian.org/tracker/DSA-6214-1)** - chromium
 
 **CVE(s) :**
