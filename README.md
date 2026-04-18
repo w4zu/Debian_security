@@ -11,6 +11,17 @@
 
 ------------------------------
 
+**2026-04-18** - **[DSA-6218-1](https://security-tracker.debian.org/tracker/DSA-6218-1)** - mupdf
+
+**CVE(s) :**
+- **[CVE-2026-3308](https://www.cve.org/CVERecord?id=CVE-2026-3308)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** mupdf 1.21.1+ds2-1+deb12u1 	[trixie] - mupdf 1.25.1+ds1-6+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-04-17** - **[DLA-4537-1](https://security-tracker.debian.org/tracker/DLA-4537-1)** - mapserver
 
 **CVE(s) :**
