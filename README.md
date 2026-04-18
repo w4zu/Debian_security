@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-04-18** - **[DLA-4538-1](https://security-tracker.debian.org/tracker/DLA-4538-1)** - perl
+
+**CVE(s) :**
+- **[CVE-2025-40909](https://www.cve.org/CVERecord?id=CVE-2025-40909)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** perl 5.32.1-4+deb11u5
+ **Type :** DLA
+
+------------------------------
+
 **2026-04-17** - **[DLA-4537-1](https://security-tracker.debian.org/tracker/DLA-4537-1)** - mapserver
 
 **CVE(s) :**
