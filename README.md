@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-04-20** - **[DSA-6220-1](https://security-tracker.debian.org/tracker/DSA-6220-1)** - simpleeval
+
+**CVE(s) :**
+- **[CVE-2026-32640](https://www.cve.org/CVERecord?id=CVE-2026-32640)** : 🔥 **Severity: High** (Score: 8.7)
+
+**Debian Version :** bookworm
+ **Package Version :** simpleeval 0.9.12-1+deb12u1 	[trixie] - simpleeval 1.0.3-1+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-04-19** - **[DLA-4539-1](https://security-tracker.debian.org/tracker/DLA-4539-1)** - imagemagick
 
 **CVE(s) :**
