@@ -730,24 +730,3 @@
 
 ------------------------------
 
-**2026-04-07** - **[DSA-6201-1](https://security-tracker.debian.org/tracker/DSA-6201-1)** - openssl
-
-**CVE(s) :**
-- **[CVE-2026-28387](https://www.cve.org/CVERecord?id=CVE-2026-28387)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-28388](https://www.cve.org/CVERecord?id=CVE-2026-28388)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-28389](https://www.cve.org/CVERecord?id=CVE-2026-28389)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-28390](https://www.cve.org/CVERecord?id=CVE-2026-28390)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-31789](https://www.cve.org/CVERecord?id=CVE-2026-31789)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-31790](https://www.cve.org/CVERecord?id=CVE-2026-31790)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** openssl 3.0.19-1~deb12u2 	[trixie] - openssl 3.5.5-1~deb13u2
- **Type :** DSA
-
-------------------------------
-
