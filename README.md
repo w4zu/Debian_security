@@ -1,5 +1,27 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-04-21** - **[DLA-4544-1](https://security-tracker.debian.org/tracker/DLA-4544-1)** - ntfs-3g
+
+**CVE(s) :**
+- **[CVE-2026-40706](https://www.cve.org/CVERecord?id=CVE-2026-40706)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** ntfs-3g 1:2017.3.23AR.3-4+deb11u5
+ **Type :** DLA
+
+------------------------------
+
+**2026-04-21** - **[DLA-4543-1](https://security-tracker.debian.org/tracker/DLA-4543-1)** - simpleeval
+
+**CVE(s) :**
+- **[CVE-2026-32640](https://www.cve.org/CVERecord?id=CVE-2026-32640)** : 🔥 **Severity: High** (Score: 8.7)
+
+**Debian Version :** bullseye
+ **Package Version :** simpleeval 0.9.10-1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-04-21** - **[DLA-4542-1](https://security-tracker.debian.org/tracker/DLA-4542-1)** - xdg-dbus-proxy
 
 **CVE(s) :**
@@ -30,6 +52,28 @@
 **Debian Version :** bullseye
  **Package Version :** mupdf 1.17.0+ds1-2+deb11u2
  **Type :** DLA
+
+------------------------------
+
+**2026-04-21** - **[DSA-6222-1](https://security-tracker.debian.org/tracker/DSA-6222-1)** - ngtcp2
+
+**CVE(s) :**
+- **[CVE-2026-40170](https://www.cve.org/CVERecord?id=CVE-2026-40170)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** ngtcp2 0.12.1+dfsg-1+deb12u1 	[trixie] - ngtcp2 1.11.0-1+deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2026-04-21** - **[DSA-6221-1](https://security-tracker.debian.org/tracker/DSA-6221-1)** - ntfs-3g
+
+**CVE(s) :**
+- **[CVE-2026-40706](https://www.cve.org/CVERecord?id=CVE-2026-40706)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** ntfs-3g 1:2022.10.3-1+deb12u3 	[trixie] - ntfs-3g 1:2022.10.3-5+deb13u1
+ **Type :** DSA
 
 ------------------------------
 
