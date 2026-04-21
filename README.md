@@ -1,5 +1,38 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-04-21** - **[DLA-4542-1](https://security-tracker.debian.org/tracker/DLA-4542-1)** - xdg-dbus-proxy
+
+**CVE(s) :**
+- **[CVE-2026-34080](https://www.cve.org/CVERecord?id=CVE-2026-34080)** : 🟠 **Severity: Medium** (Score: 6.8)
+
+**Debian Version :** bullseye
+ **Package Version :** xdg-dbus-proxy 0.1.2-2+deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2026-04-21** - **[DLA-4541-1](https://security-tracker.debian.org/tracker/DLA-4541-1)** - opam
+
+**CVE(s) :**
+- **[CVE-2026-41082](https://www.cve.org/CVERecord?id=CVE-2026-41082)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** opam 2.0.8-1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2026-04-21** - **[DLA-4540-1](https://security-tracker.debian.org/tracker/DLA-4540-1)** - mupdf
+
+**CVE(s) :**
+- **[CVE-2026-3308](https://www.cve.org/CVERecord?id=CVE-2026-3308)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** mupdf 1.17.0+ds1-2+deb11u2
+ **Type :** DLA
+
+------------------------------
+
 **2026-04-20** - **[DSA-6220-1](https://security-tracker.debian.org/tracker/DSA-6220-1)** - simpleeval
 
 **CVE(s) :**
