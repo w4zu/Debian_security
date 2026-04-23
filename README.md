@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-04-22** - **[DLA-4545-1](https://security-tracker.debian.org/tracker/DLA-4545-1)** - packagekit
+
+**CVE(s) :**
+- **[CVE-2026-41651](https://www.cve.org/CVERecord?id=CVE-2026-41651)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** packagekit 1.2.2-2+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-04-22** - **[DSA-6228-1](https://security-tracker.debian.org/tracker/DSA-6228-1)** - cpp-httplib
 
 **CVE(s) :**
@@ -853,30 +864,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** chromium 147.0.7727.55-1~deb12u1 	[trixie] - chromium 147.0.7727.55-1~deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2026-04-09** - **[DLA-4525-1](https://security-tracker.debian.org/tracker/DLA-4525-1)** - libyaml-syck-perl
-
-**CVE(s) :**
-- **[CVE-2025-11683](https://www.cve.org/CVERecord?id=CVE-2025-11683)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4177](https://www.cve.org/CVERecord?id=CVE-2026-4177)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** libyaml-syck-perl 1.34-1+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2026-04-09** - **[DSA-6204-1](https://security-tracker.debian.org/tracker/DSA-6204-1)** - openssh
-
-**CVE(s) :**
-- **[CVE-2026-3497](https://www.cve.org/CVERecord?id=CVE-2026-3497)** : 🟠 **Severity: Medium** (Score: 2.7)
-
-**Debian Version :** bookworm
- **Package Version :** openssh 1:9.2p1-2+deb12u9 	[trixie] - openssh 1:10.0p1-7+deb13u2
  **Type :** DSA
 
 ------------------------------
