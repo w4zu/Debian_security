@@ -574,8 +574,6 @@
 **CVE(s) :**
 - **[CVE-2026-34177](https://www.cve.org/CVERecord?id=CVE-2026-34177)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2026-34178](https://www.cve.org/CVERecord?id=CVE-2026-34178)** : **Severity: Unknown** (Score: N/A)
-
 - **[CVE-2026-34179](https://www.cve.org/CVERecord?id=CVE-2026-34179)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
