@@ -7,8 +7,6 @@
 
 - **[CVE-2026-6920](https://www.cve.org/CVERecord?id=CVE-2026-6920)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2026-6921](https://www.cve.org/CVERecord?id=CVE-2026-6921)** : **Severity: Unknown** (Score: N/A)
-
 **Debian Version :** bookworm
  **Package Version :** chromium 147.0.7727.116-1~deb12u1 	[trixie] - chromium 147.0.7727.116-1~deb13u1
  **Type :** DSA
