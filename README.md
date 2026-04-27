@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-04-27** - **[DLA-4551-1](https://security-tracker.debian.org/tracker/DLA-4551-1)** - mbedtls
+
+**CVE(s) :**
+- **[CVE-2025-59438](https://www.cve.org/CVERecord?id=CVE-2025-59438)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-34871](https://www.cve.org/CVERecord?id=CVE-2026-34871)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** mbedtls 2.16.9-0.1+deb11u4
+ **Type :** DLA
+
+------------------------------
+
 **2026-04-27** - **[DLA-4550-1](https://security-tracker.debian.org/tracker/DLA-4550-1)** - libde265
 
 **CVE(s) :**
