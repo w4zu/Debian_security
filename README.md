@@ -1,5 +1,32 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-04-28** - **[DSA-6232-1](https://security-tracker.debian.org/tracker/DSA-6232-1)** - webkit2gtk
+
+**CVE(s) :**
+- **[CVE-2025-46299](https://www.cve.org/CVERecord?id=CVE-2025-46299)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-20643](https://www.cve.org/CVERecord?id=CVE-2026-20643)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-20664](https://www.cve.org/CVERecord?id=CVE-2026-20664)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-20665](https://www.cve.org/CVERecord?id=CVE-2026-20665)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-20691](https://www.cve.org/CVERecord?id=CVE-2026-20691)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-28857](https://www.cve.org/CVERecord?id=CVE-2026-28857)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-28859](https://www.cve.org/CVERecord?id=CVE-2026-28859)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-28861](https://www.cve.org/CVERecord?id=CVE-2026-28861)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-28871](https://www.cve.org/CVERecord?id=CVE-2026-28871)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** webkit2gtk 2.52.3-2~deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-04-27** - **[DLA-4551-1](https://security-tracker.debian.org/tracker/DLA-4551-1)** - mbedtls
 
 **CVE(s) :**
