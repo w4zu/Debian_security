@@ -1,5 +1,94 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-04-28** - **[DSA-6235-1](https://security-tracker.debian.org/tracker/DSA-6235-1)** - dnsdist
+
+**CVE(s) :**
+- **[CVE-2026-0396](https://www.cve.org/CVERecord?id=CVE-2026-0396)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0397](https://www.cve.org/CVERecord?id=CVE-2026-0397)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-24028](https://www.cve.org/CVERecord?id=CVE-2026-24028)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-24029](https://www.cve.org/CVERecord?id=CVE-2026-24029)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-24030](https://www.cve.org/CVERecord?id=CVE-2026-24030)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-27853](https://www.cve.org/CVERecord?id=CVE-2026-27853)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-27854](https://www.cve.org/CVERecord?id=CVE-2026-27854)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-33254](https://www.cve.org/CVERecord?id=CVE-2026-33254)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-33257](https://www.cve.org/CVERecord?id=CVE-2026-33257)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-33260](https://www.cve.org/CVERecord?id=CVE-2026-33260)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-33593](https://www.cve.org/CVERecord?id=CVE-2026-33593)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-33594](https://www.cve.org/CVERecord?id=CVE-2026-33594)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-33595](https://www.cve.org/CVERecord?id=CVE-2026-33595)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-33596](https://www.cve.org/CVERecord?id=CVE-2026-33596)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-33597](https://www.cve.org/CVERecord?id=CVE-2026-33597)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-33598](https://www.cve.org/CVERecord?id=CVE-2026-33598)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-33599](https://www.cve.org/CVERecord?id=CVE-2026-33599)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-33602](https://www.cve.org/CVERecord?id=CVE-2026-33602)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** dnsdist 1.9.14-0+deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2026-04-28** - **[DSA-6234-1](https://security-tracker.debian.org/tracker/DSA-6234-1)** - pdns-recursor
+
+**CVE(s) :**
+- **[CVE-2026-33257](https://www.cve.org/CVERecord?id=CVE-2026-33257)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-33258](https://www.cve.org/CVERecord?id=CVE-2026-33258)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-33259](https://www.cve.org/CVERecord?id=CVE-2026-33259)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-33260](https://www.cve.org/CVERecord?id=CVE-2026-33260)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-33261](https://www.cve.org/CVERecord?id=CVE-2026-33261)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-33600](https://www.cve.org/CVERecord?id=CVE-2026-33600)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-33601](https://www.cve.org/CVERecord?id=CVE-2026-33601)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** pdns-recursor 5.2.9-0+deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2026-04-28** - **[DSA-6233-1](https://security-tracker.debian.org/tracker/DSA-6233-1)** - pdns
+
+**CVE(s) :**
+- **[CVE-2026-33257](https://www.cve.org/CVERecord?id=CVE-2026-33257)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-33260](https://www.cve.org/CVERecord?id=CVE-2026-33260)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-33608](https://www.cve.org/CVERecord?id=CVE-2026-33608)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-33609](https://www.cve.org/CVERecord?id=CVE-2026-33609)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-33610](https://www.cve.org/CVERecord?id=CVE-2026-33610)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-33611](https://www.cve.org/CVERecord?id=CVE-2026-33611)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** pdns 4.9.14-0+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-04-28** - **[DSA-6232-1](https://security-tracker.debian.org/tracker/DSA-6232-1)** - webkit2gtk
 
 **CVE(s) :**
