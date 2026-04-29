@@ -1,5 +1,26 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-04-29** - **[DLA-4552-1](https://security-tracker.debian.org/tracker/DLA-4552-1)** - node-tar
+
+**CVE(s) :**
+- **[CVE-2024-28863](https://www.cve.org/CVERecord?id=CVE-2024-28863)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-23745](https://www.cve.org/CVERecord?id=CVE-2026-23745)** : 🔥 **Severity: High** (Score: 8.2)
+
+- **[CVE-2026-24842](https://www.cve.org/CVERecord?id=CVE-2026-24842)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-26960](https://www.cve.org/CVERecord?id=CVE-2026-26960)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-29786](https://www.cve.org/CVERecord?id=CVE-2026-29786)** : 🔥 **Severity: High** (Score: 8.2)
+
+- **[CVE-2026-31802](https://www.cve.org/CVERecord?id=CVE-2026-31802)** : 🔥 **Severity: High** (Score: 8.2)
+
+**Debian Version :** bullseye
+ **Package Version :** node-tar 6.0.5+ds1+~cs11.3.9-1+deb11u3
+ **Type :** DLA
+
+------------------------------
+
 **2026-04-28** - **[DSA-6235-1](https://security-tracker.debian.org/tracker/DSA-6235-1)** - dnsdist
 
 **CVE(s) :**
