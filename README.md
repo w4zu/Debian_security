@@ -1,5 +1,37 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-04-29** - **[DLA-4554-1](https://security-tracker.debian.org/tracker/DLA-4554-1)** - calibre
+
+**CVE(s) :**
+- **[CVE-2025-64486](https://www.cve.org/CVERecord?id=CVE-2025-64486)** : 🔥 **Severity: High** (Score: 9.3)
+
+- **[CVE-2026-25635](https://www.cve.org/CVERecord?id=CVE-2026-25635)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-25636](https://www.cve.org/CVERecord?id=CVE-2026-25636)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-26064](https://www.cve.org/CVERecord?id=CVE-2026-26064)** : 🔥 **Severity: High** (Score: 9.3)
+
+- **[CVE-2026-26065](https://www.cve.org/CVERecord?id=CVE-2026-26065)** : 🔥 **Severity: High** (Score: 9.3)
+
+**Debian Version :** bullseye
+ **Package Version :** calibre 5.12.0+dfsg-1+deb11u4
+ **Type :** DLA
+
+------------------------------
+
+**2026-04-29** - **[DLA-4553-1](https://security-tracker.debian.org/tracker/DLA-4553-1)** - policykit-1
+
+**CVE(s) :**
+- **[CVE-2021-4115](https://www.cve.org/CVERecord?id=CVE-2021-4115)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-4897](https://www.cve.org/CVERecord?id=CVE-2026-4897)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** policykit-1 0.105-31+deb11u2
+ **Type :** DLA
+
+------------------------------
+
 **2026-04-29** - **[DLA-4552-1](https://security-tracker.debian.org/tracker/DLA-4552-1)** - node-tar
 
 **CVE(s) :**
