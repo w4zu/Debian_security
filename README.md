@@ -1,5 +1,22 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-04-30** - **[DLA-4555-1](https://security-tracker.debian.org/tracker/DLA-4555-1)** - firefox-esr
+
+**CVE(s) :**
+- **[CVE-2026-7320](https://www.cve.org/CVERecord?id=CVE-2026-7320)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-7321](https://www.cve.org/CVERecord?id=CVE-2026-7321)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-7322](https://www.cve.org/CVERecord?id=CVE-2026-7322)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-7323](https://www.cve.org/CVERecord?id=CVE-2026-7323)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** firefox-esr 140.10.1esr-1~deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-04-29** - **[DLA-4554-1](https://security-tracker.debian.org/tracker/DLA-4554-1)** - calibre
 
 **CVE(s) :**
