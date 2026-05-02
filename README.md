@@ -1,5 +1,30 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-05-01** - **[DLA-4559-1](https://security-tracker.debian.org/tracker/DLA-4559-1)** - imagemagick
+
+**CVE(s) :**
+- **[CVE-2026-33899](https://www.cve.org/CVERecord?id=CVE-2026-33899)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-33900](https://www.cve.org/CVERecord?id=CVE-2026-33900)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-33901](https://www.cve.org/CVERecord?id=CVE-2026-33901)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-33905](https://www.cve.org/CVERecord?id=CVE-2026-33905)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-33908](https://www.cve.org/CVERecord?id=CVE-2026-33908)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-34238](https://www.cve.org/CVERecord?id=CVE-2026-34238)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-40310](https://www.cve.org/CVERecord?id=CVE-2026-40310)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-40311](https://www.cve.org/CVERecord?id=CVE-2026-40311)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** imagemagick 8:6.9.11.60+dfsg-1.3+deb11u12
+ **Type :** DLA
+
+------------------------------
+
 **2026-05-01** - **[DLA-4558-1](https://security-tracker.debian.org/tracker/DLA-4558-1)** - libexif
 
 **CVE(s) :**
@@ -2376,28 +2401,6 @@
 
 **Debian Version :** trixie
  **Package Version :** pillow 11.1.0-5+deb13u2
- **Type :** DSA
-
-------------------------------
-
-**2026-04-18** - **[DLA-4538-1](https://security-tracker.debian.org/tracker/DLA-4538-1)** - perl
-
-**CVE(s) :**
-- **[CVE-2025-40909](https://www.cve.org/CVERecord?id=CVE-2025-40909)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** perl 5.32.1-4+deb11u5
- **Type :** DLA
-
-------------------------------
-
-**2026-04-18** - **[DSA-6218-1](https://security-tracker.debian.org/tracker/DSA-6218-1)** - mupdf
-
-**CVE(s) :**
-- **[CVE-2026-3308](https://www.cve.org/CVERecord?id=CVE-2026-3308)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** mupdf 1.21.1+ds2-1+deb12u1 	[trixie] - mupdf 1.25.1+ds1-6+deb13u1
  **Type :** DSA
 
 ------------------------------
