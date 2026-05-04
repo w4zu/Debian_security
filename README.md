@@ -17,6 +17,25 @@
 
 ------------------------------
 
+**2026-05-04** - **[DSA-6247-1](https://security-tracker.debian.org/tracker/DSA-6247-1)** - lxd
+
+**CVE(s) :**
+- **[CVE-2026-40197](https://www.cve.org/CVERecord?id=CVE-2026-40197)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-40251](https://www.cve.org/CVERecord?id=CVE-2026-40251)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-41648](https://www.cve.org/CVERecord?id=CVE-2026-41648)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-41684](https://www.cve.org/CVERecord?id=CVE-2026-41684)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-41685](https://www.cve.org/CVERecord?id=CVE-2026-41685)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** lxd 5.0.2-5+deb12u6 	[trixie] - lxd 5.0.2+git20231211.1364ae4-9+deb13u6
+ **Type :** DSA
+
+------------------------------
+
 **2026-05-03** - **[DSA-6246-1](https://security-tracker.debian.org/tracker/DSA-6246-1)** - openjdk-25
 
 **CVE(s) :**
