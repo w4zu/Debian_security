@@ -1,5 +1,22 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-05-05** - **[DLA-4563-1](https://security-tracker.debian.org/tracker/DLA-4563-1)** - libarchive
+
+**CVE(s) :**
+- **[CVE-2026-4111](https://www.cve.org/CVERecord?id=CVE-2026-4111)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-4424](https://www.cve.org/CVERecord?id=CVE-2026-4424)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-4426](https://www.cve.org/CVERecord?id=CVE-2026-4426)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-5121](https://www.cve.org/CVERecord?id=CVE-2026-5121)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** libarchive 3.4.3-2+deb11u4
+ **Type :** DLA
+
+------------------------------
+
 **2026-05-04** - **[DLA-4562-1](https://security-tracker.debian.org/tracker/DLA-4562-1)** - thunderbird
 
 **CVE(s) :**
