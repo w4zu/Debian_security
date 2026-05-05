@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-05-05** - **[DLA-4564-1](https://security-tracker.debian.org/tracker/DLA-4564-1)** - pyjwt
+
+**CVE(s) :**
+- **[CVE-2026-32597](https://www.cve.org/CVERecord?id=CVE-2026-32597)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** pyjwt 1.7.1-2+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-05-05** - **[DLA-4563-1](https://security-tracker.debian.org/tracker/DLA-4563-1)** - libarchive
 
 **CVE(s) :**
