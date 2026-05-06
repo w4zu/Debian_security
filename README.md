@@ -1,5 +1,51 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-05-06** - **[DLA-4566-1](https://security-tracker.debian.org/tracker/DLA-4566-1)** - openjdk-11
+
+**CVE(s) :**
+- **[CVE-2026-22007](https://www.cve.org/CVERecord?id=CVE-2026-22007)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-22013](https://www.cve.org/CVERecord?id=CVE-2026-22013)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-22016](https://www.cve.org/CVERecord?id=CVE-2026-22016)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-22018](https://www.cve.org/CVERecord?id=CVE-2026-22018)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-22021](https://www.cve.org/CVERecord?id=CVE-2026-22021)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-34268](https://www.cve.org/CVERecord?id=CVE-2026-34268)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-34282](https://www.cve.org/CVERecord?id=CVE-2026-34282)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** openjdk-11 11.0.31+11-1~deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2026-05-06** - **[DLA-4565-1](https://security-tracker.debian.org/tracker/DLA-4565-1)** - openjdk-17
+
+**CVE(s) :**
+- **[CVE-2026-22007](https://www.cve.org/CVERecord?id=CVE-2026-22007)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-22013](https://www.cve.org/CVERecord?id=CVE-2026-22013)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-22016](https://www.cve.org/CVERecord?id=CVE-2026-22016)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-22018](https://www.cve.org/CVERecord?id=CVE-2026-22018)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-22021](https://www.cve.org/CVERecord?id=CVE-2026-22021)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-34268](https://www.cve.org/CVERecord?id=CVE-2026-34268)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-34282](https://www.cve.org/CVERecord?id=CVE-2026-34282)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** openjdk-17 17.0.19+10-1~deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-05-05** - **[DLA-4564-1](https://security-tracker.debian.org/tracker/DLA-4564-1)** - pyjwt
 
 **CVE(s) :**
