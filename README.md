@@ -1,5 +1,27 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-05-06** - **[DLA-4568-1](https://security-tracker.debian.org/tracker/DLA-4568-1)** - lcms2
+
+**CVE(s) :**
+- **[CVE-2026-41254](https://www.cve.org/CVERecord?id=CVE-2026-41254)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** lcms2 2.12~rc1-2+deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2026-05-06** - **[DLA-4567-1](https://security-tracker.debian.org/tracker/DLA-4567-1)** - lrzip
+
+**CVE(s) :**
+- **[CVE-2025-15570](https://www.cve.org/CVERecord?id=CVE-2025-15570)** : 🟠 **Severity: Medium** (Score: 4.8)
+
+**Debian Version :** bullseye
+ **Package Version :** lrzip 0.641-1+deb11u2
+ **Type :** DLA
+
+------------------------------
+
 **2026-05-06** - **[DLA-4566-1](https://security-tracker.debian.org/tracker/DLA-4566-1)** - openjdk-11
 
 **CVE(s) :**
@@ -43,6 +65,35 @@
 **Debian Version :** bullseye
  **Package Version :** openjdk-17 17.0.19+10-1~deb11u1
  **Type :** DLA
+
+------------------------------
+
+**2026-05-06** - **[DSA-6248-1](https://security-tracker.debian.org/tracker/DSA-6248-1)** - apache2
+
+**CVE(s) :**
+- **[CVE-2026-24072](https://www.cve.org/CVERecord?id=CVE-2026-24072)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-28780](https://www.cve.org/CVERecord?id=CVE-2026-28780)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-29168](https://www.cve.org/CVERecord?id=CVE-2026-29168)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-29169](https://www.cve.org/CVERecord?id=CVE-2026-29169)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-33006](https://www.cve.org/CVERecord?id=CVE-2026-33006)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-33007](https://www.cve.org/CVERecord?id=CVE-2026-33007)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-33523](https://www.cve.org/CVERecord?id=CVE-2026-33523)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-33857](https://www.cve.org/CVERecord?id=CVE-2026-33857)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-34032](https://www.cve.org/CVERecord?id=CVE-2026-34032)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-34059](https://www.cve.org/CVERecord?id=CVE-2026-34059)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** apache2 2.4.67-1~deb12u2 	[trixie] - apache2 2.4.67-1~deb13u2
+ **Type :** DSA
 
 ------------------------------
 
