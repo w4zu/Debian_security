@@ -1,5 +1,30 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-05-08** - **[DLA-4571-1](https://security-tracker.debian.org/tracker/DLA-4571-1)** - apache2
+
+**CVE(s) :**
+- **[CVE-2026-24072](https://www.cve.org/CVERecord?id=CVE-2026-24072)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-29169](https://www.cve.org/CVERecord?id=CVE-2026-29169)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-33006](https://www.cve.org/CVERecord?id=CVE-2026-33006)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-33007](https://www.cve.org/CVERecord?id=CVE-2026-33007)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-33523](https://www.cve.org/CVERecord?id=CVE-2026-33523)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-33857](https://www.cve.org/CVERecord?id=CVE-2026-33857)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-34032](https://www.cve.org/CVERecord?id=CVE-2026-34032)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-34059](https://www.cve.org/CVERecord?id=CVE-2026-34059)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** apache2 2.4.67-1~deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-05-07** - **[DSA-6252-1](https://security-tracker.debian.org/tracker/DSA-6252-1)** - prosody
 
 **CVE(s) :**
@@ -509,6 +534,8 @@
 - **[CVE-2026-7322](https://www.cve.org/CVERecord?id=CVE-2026-7322)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2026-7323](https://www.cve.org/CVERecord?id=CVE-2026-7323)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-8091](https://www.cve.org/CVERecord?id=CVE-2026-8091)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** thunderbird 1:140.10.1esr-1~deb11u1
@@ -2089,6 +2116,8 @@
 - **[CVE-2026-7322](https://www.cve.org/CVERecord?id=CVE-2026-7322)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2026-7323](https://www.cve.org/CVERecord?id=CVE-2026-7323)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-8091](https://www.cve.org/CVERecord?id=CVE-2026-8091)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bullseye
  **Package Version :** firefox-esr 140.10.1esr-1~deb11u1
