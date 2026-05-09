@@ -1,5 +1,27 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-05-09** - **[DLA-4573-1](https://security-tracker.debian.org/tracker/DLA-4573-1)** - libpng1.6
+
+**CVE(s) :**
+- **[CVE-2026-34757](https://www.cve.org/CVERecord?id=CVE-2026-34757)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** libpng1.6 1.6.37-3+deb11u4
+ **Type :** DLA
+
+------------------------------
+
+**2026-05-09** - **[DSA-6259-1](https://security-tracker.debian.org/tracker/DSA-6259-1)** - pyjwt
+
+**CVE(s) :**
+- **[CVE-2026-32597](https://www.cve.org/CVERecord?id=CVE-2026-32597)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** pyjwt 2.6.0-1+deb12u1 	[trixie] - pyjwt 2.10.1-2+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-05-09** - **[DSA-6258-1](https://security-tracker.debian.org/tracker/DSA-6258-1)** - linux
 
 **CVE(s) :**
