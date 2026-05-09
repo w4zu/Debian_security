@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-05-09** - **[DSA-6258-1](https://security-tracker.debian.org/tracker/DSA-6258-1)** - linux
+
+**CVE(s) :**
+- **[CVE-2026-43284](https://www.cve.org/CVERecord?id=CVE-2026-43284)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-43500](https://www.cve.org/CVERecord?id=CVE-2026-43500)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** linux 6.1.170-3
+ **Type :** DSA
+
+------------------------------
+
 **2026-05-08** - **[DLA-4572-1](https://security-tracker.debian.org/tracker/DLA-4572-1)** - linux
 
 **CVE(s) :**
