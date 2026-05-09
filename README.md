@@ -1,5 +1,33 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-05-09** - **[DLA-4575-1](https://security-tracker.debian.org/tracker/DLA-4575-1)** - firefox-esr
+
+**CVE(s) :**
+- **[CVE-2026-8090](https://www.cve.org/CVERecord?id=CVE-2026-8090)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-8092](https://www.cve.org/CVERecord?id=CVE-2026-8092)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-8094](https://www.cve.org/CVERecord?id=CVE-2026-8094)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** firefox-esr 140.10.2esr-1~deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2026-05-09** - **[DLA-4574-1](https://security-tracker.debian.org/tracker/DLA-4574-1)** - linux-6.1
+
+**CVE(s) :**
+- **[CVE-2026-43284](https://www.cve.org/CVERecord?id=CVE-2026-43284)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-43500](https://www.cve.org/CVERecord?id=CVE-2026-43500)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** linux-6.1 6.1.170-3~deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-05-09** - **[DLA-4573-1](https://security-tracker.debian.org/tracker/DLA-4573-1)** - libpng1.6
 
 **CVE(s) :**
