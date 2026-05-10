@@ -115,25 +115,25 @@
 **2026-05-08** - **[DSA-6256-1](https://security-tracker.debian.org/tracker/DSA-6256-1)** - php8.4
 
 **CVE(s) :**
-- **[CVE-2025-14179](https://www.cve.org/CVERecord?id=CVE-2025-14179)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-14179](https://www.cve.org/CVERecord?id=CVE-2025-14179)** : 🔥 **Severity: High** (Score: 7.4)
 
-- **[CVE-2026-6104](https://www.cve.org/CVERecord?id=CVE-2026-6104)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2026-6104](https://www.cve.org/CVERecord?id=CVE-2026-6104)** : 🟠 **Severity: Medium** (Score: 6.3)
 
-- **[CVE-2026-6722](https://www.cve.org/CVERecord?id=CVE-2026-6722)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2026-6722](https://www.cve.org/CVERecord?id=CVE-2026-6722)** : 🔥 **Severity: High** (Score: 9.5)
 
-- **[CVE-2026-6735](https://www.cve.org/CVERecord?id=CVE-2026-6735)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2026-6735](https://www.cve.org/CVERecord?id=CVE-2026-6735)** : 🔥 **Severity: High** (Score: 7.3)
 
-- **[CVE-2026-7258](https://www.cve.org/CVERecord?id=CVE-2026-7258)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2026-7258](https://www.cve.org/CVERecord?id=CVE-2026-7258)** : 🟠 **Severity: Medium** (Score: 6.3)
 
-- **[CVE-2026-7259](https://www.cve.org/CVERecord?id=CVE-2026-7259)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2026-7259](https://www.cve.org/CVERecord?id=CVE-2026-7259)** : 🟠 **Severity: Medium** (Score: 2.1)
 
-- **[CVE-2026-7261](https://www.cve.org/CVERecord?id=CVE-2026-7261)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2026-7261](https://www.cve.org/CVERecord?id=CVE-2026-7261)** : 🟠 **Severity: Medium** (Score: 6.3)
 
-- **[CVE-2026-7262](https://www.cve.org/CVERecord?id=CVE-2026-7262)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2026-7262](https://www.cve.org/CVERecord?id=CVE-2026-7262)** : 🟠 **Severity: Medium** (Score: 2.9)
 
-- **[CVE-2026-7263](https://www.cve.org/CVERecord?id=CVE-2026-7263)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2026-7263](https://www.cve.org/CVERecord?id=CVE-2026-7263)** : 🟠 **Severity: Medium** (Score: 6.3)
 
-- **[CVE-2026-7568](https://www.cve.org/CVERecord?id=CVE-2026-7568)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2026-7568](https://www.cve.org/CVERecord?id=CVE-2026-7568)** : 🟠 **Severity: Medium** (Score: 6.3)
 
 **Debian Version :** trixie
  **Package Version :** php8.4 8.4.21-1~deb13u1
@@ -144,21 +144,21 @@
 **2026-05-08** - **[DSA-6255-1](https://security-tracker.debian.org/tracker/DSA-6255-1)** - php8.2
 
 **CVE(s) :**
-- **[CVE-2025-14179](https://www.cve.org/CVERecord?id=CVE-2025-14179)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2025-14179](https://www.cve.org/CVERecord?id=CVE-2025-14179)** : 🔥 **Severity: High** (Score: 7.4)
 
-- **[CVE-2026-6722](https://www.cve.org/CVERecord?id=CVE-2026-6722)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2026-6722](https://www.cve.org/CVERecord?id=CVE-2026-6722)** : 🔥 **Severity: High** (Score: 9.5)
 
-- **[CVE-2026-6735](https://www.cve.org/CVERecord?id=CVE-2026-6735)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2026-6735](https://www.cve.org/CVERecord?id=CVE-2026-6735)** : 🔥 **Severity: High** (Score: 7.3)
 
-- **[CVE-2026-7258](https://www.cve.org/CVERecord?id=CVE-2026-7258)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2026-7258](https://www.cve.org/CVERecord?id=CVE-2026-7258)** : 🟠 **Severity: Medium** (Score: 6.3)
 
-- **[CVE-2026-7259](https://www.cve.org/CVERecord?id=CVE-2026-7259)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2026-7259](https://www.cve.org/CVERecord?id=CVE-2026-7259)** : 🟠 **Severity: Medium** (Score: 2.1)
 
-- **[CVE-2026-7261](https://www.cve.org/CVERecord?id=CVE-2026-7261)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2026-7261](https://www.cve.org/CVERecord?id=CVE-2026-7261)** : 🟠 **Severity: Medium** (Score: 6.3)
 
-- **[CVE-2026-7262](https://www.cve.org/CVERecord?id=CVE-2026-7262)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2026-7262](https://www.cve.org/CVERecord?id=CVE-2026-7262)** : 🟠 **Severity: Medium** (Score: 2.9)
 
-- **[CVE-2026-7568](https://www.cve.org/CVERecord?id=CVE-2026-7568)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2026-7568](https://www.cve.org/CVERecord?id=CVE-2026-7568)** : 🟠 **Severity: Medium** (Score: 6.3)
 
 **Debian Version :** bookworm
  **Package Version :** php8.2 8.2.31-1~deb12u1
