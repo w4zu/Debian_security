@@ -1,5 +1,27 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-05-10** - **[DSA-6263-1](https://security-tracker.debian.org/tracker/DSA-6263-1)** - libpng1.6
+
+**CVE(s) :**
+- **[CVE-2026-34757](https://www.cve.org/CVERecord?id=CVE-2026-34757)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** libpng1.6 1.6.39-2+deb12u5 	[trixie] - libpng1.6 1.6.48-1+deb13u5
+ **Type :** DSA
+
+------------------------------
+
+**2026-05-10** - **[DSA-6262-1](https://security-tracker.debian.org/tracker/DSA-6262-1)** - lcms2
+
+**CVE(s) :**
+- **[CVE-2026-41254](https://www.cve.org/CVERecord?id=CVE-2026-41254)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** lcms2 2.14-2+deb12u1 	[trixie] - lcms2 2.16-2+deb13u2
+ **Type :** DSA
+
+------------------------------
+
 **2026-05-10** - **[DSA-6261-1](https://security-tracker.debian.org/tracker/DSA-6261-1)** - corosync
 
 **CVE(s) :**
