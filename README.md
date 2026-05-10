@@ -1,5 +1,39 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-05-10** - **[DSA-6261-1](https://security-tracker.debian.org/tracker/DSA-6261-1)** - corosync
+
+**CVE(s) :**
+- **[CVE-2026-35091](https://www.cve.org/CVERecord?id=CVE-2026-35091)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-35092](https://www.cve.org/CVERecord?id=CVE-2026-35092)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** corosync 3.1.7-1+deb12u2 	[trixie] - corosync 3.1.9-2+deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2026-05-10** - **[DSA-6260-1](https://security-tracker.debian.org/tracker/DSA-6260-1)** - tor
+
+**CVE(s) :**
+- **[CVE-2026-44597](https://www.cve.org/CVERecord?id=CVE-2026-44597)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-44599](https://www.cve.org/CVERecord?id=CVE-2026-44599)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-44600](https://www.cve.org/CVERecord?id=CVE-2026-44600)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-44601](https://www.cve.org/CVERecord?id=CVE-2026-44601)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-44602](https://www.cve.org/CVERecord?id=CVE-2026-44602)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-44603](https://www.cve.org/CVERecord?id=CVE-2026-44603)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** tor 0.4.9.8-0+deb12u1 	[trixie] - tor 0.4.9.8-0+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-05-09** - **[DLA-4575-1](https://security-tracker.debian.org/tracker/DLA-4575-1)** - firefox-esr
 
 **CVE(s) :**
