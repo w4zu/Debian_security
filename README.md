@@ -1,5 +1,56 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-05-11** - **[DLA-4578-1](https://security-tracker.debian.org/tracker/DLA-4578-1)** - rails
+
+**CVE(s) :**
+- **[CVE-2022-32224](https://www.cve.org/CVERecord?id=CVE-2022-32224)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** rails 2:6.0.3.7+dfsg-2+deb11u5
+ **Type :** DLA
+
+------------------------------
+
+**2026-05-11** - **[DLA-4577-1](https://security-tracker.debian.org/tracker/DLA-4577-1)** - p7zip-rar
+
+**CVE(s) :**
+- **[CVE-2025-53816](https://www.cve.org/CVERecord?id=CVE-2025-53816)** : 🟠 **Severity: Medium** (Score: 5.5)
+
+**Debian Version :** bullseye
+ **Package Version :** p7zip-rar 16.02+really25.00+ds-0+deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2026-05-11** - **[DLA-4576-1](https://security-tracker.debian.org/tracker/DLA-4576-1)** - p7zip
+
+**CVE(s) :**
+- **[CVE-2022-47069](https://www.cve.org/CVERecord?id=CVE-2022-47069)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2023-31102](https://www.cve.org/CVERecord?id=CVE-2023-31102)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2023-40481](https://www.cve.org/CVERecord?id=CVE-2023-40481)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2023-52168](https://www.cve.org/CVERecord?id=CVE-2023-52168)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2023-52169](https://www.cve.org/CVERecord?id=CVE-2023-52169)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-11612](https://www.cve.org/CVERecord?id=CVE-2024-11612)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-11001](https://www.cve.org/CVERecord?id=CVE-2025-11001)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-11002](https://www.cve.org/CVERecord?id=CVE-2025-11002)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-53817](https://www.cve.org/CVERecord?id=CVE-2025-53817)** : 🟠 **Severity: Medium** (Score: 5.5)
+
+- **[CVE-2025-55188](https://www.cve.org/CVERecord?id=CVE-2025-55188)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** p7zip 16.02+really25.01+dfsg-0+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-05-10** - **[DSA-6263-1](https://security-tracker.debian.org/tracker/DSA-6263-1)** - libpng1.6
 
 **CVE(s) :**
