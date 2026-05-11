@@ -1,5 +1,20 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-05-11** - **[DLA-4579-1](https://security-tracker.debian.org/tracker/DLA-4579-1)** - python-authlib
+
+**CVE(s) :**
+- **[CVE-2026-27962](https://www.cve.org/CVERecord?id=CVE-2026-27962)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-28490](https://www.cve.org/CVERecord?id=CVE-2026-28490)** : 🔥 **Severity: High** (Score: 8.3)
+
+- **[CVE-2026-28498](https://www.cve.org/CVERecord?id=CVE-2026-28498)** : 🔥 **Severity: High** (Score: 8.2)
+
+**Debian Version :** bullseye
+ **Package Version :** python-authlib 0.15.4-1+deb11u2
+ **Type :** DLA
+
+------------------------------
+
 **2026-05-11** - **[DLA-4578-1](https://security-tracker.debian.org/tracker/DLA-4578-1)** - rails
 
 **CVE(s) :**
@@ -48,6 +63,27 @@
 **Debian Version :** bullseye
  **Package Version :** p7zip 16.02+really25.01+dfsg-0+deb11u1
  **Type :** DLA
+
+------------------------------
+
+**2026-05-11** - **[DSA-6264-1](https://security-tracker.debian.org/tracker/DSA-6264-1)** - dnsmasq
+
+**CVE(s) :**
+- **[CVE-2026-2291](https://www.cve.org/CVERecord?id=CVE-2026-2291)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-4890](https://www.cve.org/CVERecord?id=CVE-2026-4890)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-4891](https://www.cve.org/CVERecord?id=CVE-2026-4891)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-4892](https://www.cve.org/CVERecord?id=CVE-2026-4892)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-4893](https://www.cve.org/CVERecord?id=CVE-2026-4893)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-5172](https://www.cve.org/CVERecord?id=CVE-2026-5172)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** dnsmasq 2.90-4~deb12u2 	[trixie] - dnsmasq 2.91-1+deb13u1
+ **Type :** DSA
 
 ------------------------------
 
