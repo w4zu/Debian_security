@@ -1,5 +1,22 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-05-12** - **[DSA-6265-1](https://security-tracker.debian.org/tracker/DSA-6265-1)** - exim4
+
+**CVE(s) :**
+- **[CVE-2026-40684](https://www.cve.org/CVERecord?id=CVE-2026-40684)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-40685](https://www.cve.org/CVERecord?id=CVE-2026-40685)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-40686](https://www.cve.org/CVERecord?id=CVE-2026-40686)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-40687](https://www.cve.org/CVERecord?id=CVE-2026-40687)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** exim4 4.96-15+deb12u9 	[trixie] - exim4 4.98.2-1+deb13u2
+ **Type :** DSA
+
+------------------------------
+
 **2026-05-11** - **[DLA-4579-1](https://security-tracker.debian.org/tracker/DLA-4579-1)** - python-authlib
 
 **CVE(s) :**
