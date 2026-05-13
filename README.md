@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-05-13** - **[DLA-4581-1](https://security-tracker.debian.org/tracker/DLA-4581-1)** - nghttp2
+
+**CVE(s) :**
+- **[CVE-2026-27135](https://www.cve.org/CVERecord?id=CVE-2026-27135)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** nghttp2 1.43.0-1+deb11u3
+ **Type :** DLA
+
+------------------------------
+
 **2026-05-12** - **[DLA-4580-1](https://security-tracker.debian.org/tracker/DLA-4580-1)** - exim4
 
 **CVE(s) :**
