@@ -1,5 +1,31 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-05-14** - **[DSA-6267-1](https://security-tracker.debian.org/tracker/DSA-6267-1)** - thunderbird
+
+**CVE(s) :**
+- **[CVE-2026-8090](https://www.cve.org/CVERecord?id=CVE-2026-8090)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-8092](https://www.cve.org/CVERecord?id=CVE-2026-8092)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-8094](https://www.cve.org/CVERecord?id=CVE-2026-8094)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** thunderbird 1:140.10.2esr-1~deb12u1 	[trixie] - thunderbird 1:140.10.2esr-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2026-05-14** - **[DSA-6266-1](https://security-tracker.debian.org/tracker/DSA-6266-1)** - nghttp2
+
+**CVE(s) :**
+- **[CVE-2026-27135](https://www.cve.org/CVERecord?id=CVE-2026-27135)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** nghttp2 1.52.0-1+deb12u3 	[trixie] - nghttp2 1.64.0-1.1+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-05-13** - **[DLA-4581-1](https://security-tracker.debian.org/tracker/DLA-4581-1)** - nghttp2
 
 **CVE(s) :**
