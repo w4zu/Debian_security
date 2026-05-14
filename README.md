@@ -1,5 +1,74 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-05-14** - **[DLA-4582-1](https://security-tracker.debian.org/tracker/DLA-4582-1)** - thunderbird
+
+**CVE(s) :**
+- **[CVE-2026-8090](https://www.cve.org/CVERecord?id=CVE-2026-8090)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-8092](https://www.cve.org/CVERecord?id=CVE-2026-8092)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-8094](https://www.cve.org/CVERecord?id=CVE-2026-8094)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** thunderbird 1:140.10.2esr-1~deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2026-05-14** - **[DSA-6270-1](https://security-tracker.debian.org/tracker/DSA-6270-1)** - postgresql-17
+
+**CVE(s) :**
+- **[CVE-2026-6472](https://www.cve.org/CVERecord?id=CVE-2026-6472)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-6473](https://www.cve.org/CVERecord?id=CVE-2026-6473)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-6474](https://www.cve.org/CVERecord?id=CVE-2026-6474)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-6475](https://www.cve.org/CVERecord?id=CVE-2026-6475)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-6476](https://www.cve.org/CVERecord?id=CVE-2026-6476)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-6477](https://www.cve.org/CVERecord?id=CVE-2026-6477)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-6478](https://www.cve.org/CVERecord?id=CVE-2026-6478)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-6479](https://www.cve.org/CVERecord?id=CVE-2026-6479)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-6637](https://www.cve.org/CVERecord?id=CVE-2026-6637)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-6638](https://www.cve.org/CVERecord?id=CVE-2026-6638)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** postgresql-17 17.10-0+deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2026-05-14** - **[DSA-6269-1](https://security-tracker.debian.org/tracker/DSA-6269-1)** - postgresql-15
+
+**CVE(s) :**
+- **[CVE-2026-6472](https://www.cve.org/CVERecord?id=CVE-2026-6472)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-6473](https://www.cve.org/CVERecord?id=CVE-2026-6473)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-6474](https://www.cve.org/CVERecord?id=CVE-2026-6474)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-6475](https://www.cve.org/CVERecord?id=CVE-2026-6475)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-6477](https://www.cve.org/CVERecord?id=CVE-2026-6477)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-6478](https://www.cve.org/CVERecord?id=CVE-2026-6478)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-6479](https://www.cve.org/CVERecord?id=CVE-2026-6479)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-6637](https://www.cve.org/CVERecord?id=CVE-2026-6637)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** postgresql-15 15.18-0+deb12u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-05-14** - **[DSA-6267-1](https://security-tracker.debian.org/tracker/DSA-6267-1)** - thunderbird
 
 **CVE(s) :**
@@ -290,6 +359,10 @@
 
 **CVE(s) :**
 - **[CVE-2026-24072](https://www.cve.org/CVERecord?id=CVE-2026-24072)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-28780](https://www.cve.org/CVERecord?id=CVE-2026-28780)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-29168](https://www.cve.org/CVERecord?id=CVE-2026-29168)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2026-29169](https://www.cve.org/CVERecord?id=CVE-2026-29169)** : **Severity: Unknown** (Score: N/A)
 
