@@ -1,5 +1,26 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-05-15** - **[DLA-4583-1](https://security-tracker.debian.org/tracker/DLA-4583-1)** - python3.9
+
+**CVE(s) :**
+- **[CVE-2025-13462](https://www.cve.org/CVERecord?id=CVE-2025-13462)** : 🟠 **Severity: Medium** (Score: 2)
+
+- **[CVE-2026-0672](https://www.cve.org/CVERecord?id=CVE-2026-0672)** : 🟠 **Severity: Medium** (Score: 6)
+
+- **[CVE-2026-2297](https://www.cve.org/CVERecord?id=CVE-2026-2297)** : 🟠 **Severity: Medium** (Score: 5.7)
+
+- **[CVE-2026-3644](https://www.cve.org/CVERecord?id=CVE-2026-3644)** : 🟠 **Severity: Medium** (Score: 6)
+
+- **[CVE-2026-4224](https://www.cve.org/CVERecord?id=CVE-2026-4224)** : 🟠 **Severity: Medium** (Score: 6)
+
+- **[CVE-2026-4519](https://www.cve.org/CVERecord?id=CVE-2026-4519)** : 🔥 **Severity: High** (Score: 7)
+
+**Debian Version :** bullseye
+ **Package Version :** python3.9 3.9.2-1+deb11u7
+ **Type :** DLA
+
+------------------------------
+
 **2026-05-14** - **[DLA-4582-1](https://security-tracker.debian.org/tracker/DLA-4582-1)** - thunderbird
 
 **CVE(s) :**
