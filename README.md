@@ -115,6 +115,17 @@
 
 ------------------------------
 
+**2026-05-14** - **[DSA-6268-1](https://security-tracker.debian.org/tracker/DSA-6268-1)** - ffmpeg
+
+**CVE(s) :**
+- **[CVE-2026-40962](https://www.cve.org/CVERecord?id=CVE-2026-40962)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** ffmpeg 7:7.1.4-0+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-05-14** - **[DSA-6267-1](https://security-tracker.debian.org/tracker/DSA-6267-1)** - thunderbird
 
 **CVE(s) :**
