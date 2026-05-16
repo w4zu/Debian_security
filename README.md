@@ -43,6 +43,23 @@
 
 ------------------------------
 
+**2026-05-16** - **[DSA-6278-1](https://security-tracker.debian.org/tracker/DSA-6278-1)** - nginx
+
+**CVE(s) :**
+- **[CVE-2026-40701](https://www.cve.org/CVERecord?id=CVE-2026-40701)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-42934](https://www.cve.org/CVERecord?id=CVE-2026-42934)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-42945](https://www.cve.org/CVERecord?id=CVE-2026-42945)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-42946](https://www.cve.org/CVERecord?id=CVE-2026-42946)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** nginx 1.22.1-9+deb12u7 	[trixie] - nginx 1.26.3-3+deb13u5
+ **Type :** DSA
+
+------------------------------
+
 **2026-05-15** - **[DLA-4585-1](https://security-tracker.debian.org/tracker/DLA-4585-1)** - firewalld
 
 **CVE(s) :**
