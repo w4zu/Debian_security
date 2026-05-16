@@ -1,5 +1,27 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-05-16** - **[DLA-4588-1](https://security-tracker.debian.org/tracker/DLA-4588-1)** - linux-6.1
+
+**CVE(s) :**
+- **[CVE-2026-46333](https://www.cve.org/CVERecord?id=CVE-2026-46333)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** linux-6.1 6.1.172-1~deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2026-05-16** - **[DLA-4587-1](https://security-tracker.debian.org/tracker/DLA-4587-1)** - linux
+
+**CVE(s) :**
+- **[CVE-2026-46333](https://www.cve.org/CVERecord?id=CVE-2026-46333)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** linux 5.10.251-5
+ **Type :** DLA
+
+------------------------------
+
 **2026-05-16** - **[DLA-4586-1](https://security-tracker.debian.org/tracker/DLA-4586-1)** - php7.4
 
 **CVE(s) :**
