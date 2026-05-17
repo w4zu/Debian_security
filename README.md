@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-05-17** - **[DSA-6279-1](https://security-tracker.debian.org/tracker/DSA-6279-1)** - redis
+
+**CVE(s) :**
+- **[CVE-2025-67733](https://www.cve.org/CVERecord?id=CVE-2025-67733)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-21863](https://www.cve.org/CVERecord?id=CVE-2026-21863)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** redis 5:7.0.15-1~deb12u7 	[trixie] - redis 8.0.2-3+deb13u2
+ **Type :** DSA
+
+------------------------------
+
 **2026-05-16** - **[DLA-4588-1](https://security-tracker.debian.org/tracker/DLA-4588-1)** - linux-6.1
 
 **CVE(s) :**
