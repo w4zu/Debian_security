@@ -31,6 +31,55 @@
 
 ------------------------------
 
+**2026-05-18** - **[DSA-6280-1](https://security-tracker.debian.org/tracker/DSA-6280-1)** - netatalk
+
+**CVE(s) :**
+- **[CVE-2026-44047](https://www.cve.org/CVERecord?id=CVE-2026-44047)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-44048](https://www.cve.org/CVERecord?id=CVE-2026-44048)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-44049](https://www.cve.org/CVERecord?id=CVE-2026-44049)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-44050](https://www.cve.org/CVERecord?id=CVE-2026-44050)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-44051](https://www.cve.org/CVERecord?id=CVE-2026-44051)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-44052](https://www.cve.org/CVERecord?id=CVE-2026-44052)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-44054](https://www.cve.org/CVERecord?id=CVE-2026-44054)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-44055](https://www.cve.org/CVERecord?id=CVE-2026-44055)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-44057](https://www.cve.org/CVERecord?id=CVE-2026-44057)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-44060](https://www.cve.org/CVERecord?id=CVE-2026-44060)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-44062](https://www.cve.org/CVERecord?id=CVE-2026-44062)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-44064](https://www.cve.org/CVERecord?id=CVE-2026-44064)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-44066](https://www.cve.org/CVERecord?id=CVE-2026-44066)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-44068](https://www.cve.org/CVERecord?id=CVE-2026-44068)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-44076](https://www.cve.org/CVERecord?id=CVE-2026-44076)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-45354](https://www.cve.org/CVERecord?id=CVE-2026-45354)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-45355](https://www.cve.org/CVERecord?id=CVE-2026-45355)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-45356](https://www.cve.org/CVERecord?id=CVE-2026-45356)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-45698](https://www.cve.org/CVERecord?id=CVE-2026-45698)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-45699](https://www.cve.org/CVERecord?id=CVE-2026-45699)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** netatalk 4.2.3~ds-1+deb13u2
+ **Type :** DSA
+
+------------------------------
+
 **2026-05-17** - **[DSA-6279-1](https://security-tracker.debian.org/tracker/DSA-6279-1)** - redis
 
 **CVE(s) :**
