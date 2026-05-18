@@ -1,5 +1,36 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-05-18** - **[DLA-4589-1](https://security-tracker.debian.org/tracker/DLA-4589-1)** - nginx
+
+**CVE(s) :**
+- **[CVE-2025-53859](https://www.cve.org/CVERecord?id=CVE-2025-53859)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-1642](https://www.cve.org/CVERecord?id=CVE-2026-1642)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-27651](https://www.cve.org/CVERecord?id=CVE-2026-27651)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-27654](https://www.cve.org/CVERecord?id=CVE-2026-27654)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-27784](https://www.cve.org/CVERecord?id=CVE-2026-27784)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-28753](https://www.cve.org/CVERecord?id=CVE-2026-28753)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-32647](https://www.cve.org/CVERecord?id=CVE-2026-32647)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-40701](https://www.cve.org/CVERecord?id=CVE-2026-40701)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-42934](https://www.cve.org/CVERecord?id=CVE-2026-42934)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-42945](https://www.cve.org/CVERecord?id=CVE-2026-42945)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-42946](https://www.cve.org/CVERecord?id=CVE-2026-42946)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** nginx 1.18.0-6.1+deb11u6
+ **Type :** DLA
+
+------------------------------
+
 **2026-05-17** - **[DSA-6279-1](https://security-tracker.debian.org/tracker/DSA-6279-1)** - redis
 
 **CVE(s) :**
