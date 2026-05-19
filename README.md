@@ -1,5 +1,22 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-05-18** - **[DLA-4590-1](https://security-tracker.debian.org/tracker/DLA-4590-1)** - erlang
+
+**CVE(s) :**
+- **[CVE-2026-21620](https://www.cve.org/CVERecord?id=CVE-2026-21620)** : 🟠 **Severity: Medium** (Score: 2.3)
+
+- **[CVE-2026-23941](https://www.cve.org/CVERecord?id=CVE-2026-23941)** : 🔥 **Severity: High** (Score: 7)
+
+- **[CVE-2026-23942](https://www.cve.org/CVERecord?id=CVE-2026-23942)** : 🟠 **Severity: Medium** (Score: 5.3)
+
+- **[CVE-2026-23943](https://www.cve.org/CVERecord?id=CVE-2026-23943)** : 🟠 **Severity: Medium** (Score: 6.9)
+
+**Debian Version :** bullseye
+ **Package Version :** erlang 1:23.2.6+dfsg-1+deb11u4
+ **Type :** DLA
+
+------------------------------
+
 **2026-05-18** - **[DLA-4589-1](https://security-tracker.debian.org/tracker/DLA-4589-1)** - nginx
 
 **CVE(s) :**
@@ -88,7 +105,7 @@
 - **[CVE-2026-21863](https://www.cve.org/CVERecord?id=CVE-2026-21863)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
- **Package Version :** redis 5:7.0.15-1~deb12u7 	[trixie] - redis 8.0.2-3+deb13u2
+ **Package Version :** redis 5:7.0.15-1~deb12u7 	[trixie] - redis 5:8.0.2-3+deb13u2
  **Type :** DSA
 
 ------------------------------
@@ -1420,34 +1437,6 @@
 **Debian Version :** bookworm
  **Package Version :** apache2 2.4.67-1~deb12u2 	[trixie] - apache2 2.4.67-1~deb13u2
  **Type :** DSA
-
-------------------------------
-
-**2026-05-05** - **[DLA-4564-1](https://security-tracker.debian.org/tracker/DLA-4564-1)** - pyjwt
-
-**CVE(s) :**
-- **[CVE-2026-32597](https://www.cve.org/CVERecord?id=CVE-2026-32597)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** pyjwt 1.7.1-2+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2026-05-05** - **[DLA-4563-1](https://security-tracker.debian.org/tracker/DLA-4563-1)** - libarchive
-
-**CVE(s) :**
-- **[CVE-2026-4111](https://www.cve.org/CVERecord?id=CVE-2026-4111)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4424](https://www.cve.org/CVERecord?id=CVE-2026-4424)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4426](https://www.cve.org/CVERecord?id=CVE-2026-4426)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-5121](https://www.cve.org/CVERecord?id=CVE-2026-5121)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** libarchive 3.4.3-2+deb11u4
- **Type :** DLA
 
 ------------------------------
 
