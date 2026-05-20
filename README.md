@@ -195,8 +195,6 @@
 
 - **[CVE-2026-42945](https://www.cve.org/CVERecord?id=CVE-2026-42945)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2026-42946](https://www.cve.org/CVERecord?id=CVE-2026-42946)** : **Severity: Unknown** (Score: N/A)
-
 **Debian Version :** bookworm
  **Package Version :** nginx 1.22.1-9+deb12u7 	[trixie] - nginx 1.26.3-3+deb13u5
  **Type :** DSA
