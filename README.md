@@ -1,5 +1,43 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-05-20** - **[DLA-4591-1](https://security-tracker.debian.org/tracker/DLA-4591-1)** - rsync
+
+**CVE(s) :**
+- **[CVE-2026-29518](https://www.cve.org/CVERecord?id=CVE-2026-29518)** : 🔥 **Severity: High** (Score: 7.3)
+
+- **[CVE-2026-43617](https://www.cve.org/CVERecord?id=CVE-2026-43617)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+- **[CVE-2026-43618](https://www.cve.org/CVERecord?id=CVE-2026-43618)** : 🟠 **Severity: Medium** (Score: 6.1)
+
+- **[CVE-2026-43619](https://www.cve.org/CVERecord?id=CVE-2026-43619)** : 🔥 **Severity: High** (Score: 7.2)
+
+- **[CVE-2026-43620](https://www.cve.org/CVERecord?id=CVE-2026-43620)** : 🟠 **Severity: Medium** (Score: 6.9)
+
+**Debian Version :** bullseye
+ **Package Version :** rsync 3.2.3-4+deb11u4
+ **Type :** DLA
+
+------------------------------
+
+**2026-05-20** - **[DSA-6282-1](https://security-tracker.debian.org/tracker/DSA-6282-1)** - rsync
+
+**CVE(s) :**
+- **[CVE-2026-29518](https://www.cve.org/CVERecord?id=CVE-2026-29518)** : 🔥 **Severity: High** (Score: 7.3)
+
+- **[CVE-2026-43617](https://www.cve.org/CVERecord?id=CVE-2026-43617)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+- **[CVE-2026-43618](https://www.cve.org/CVERecord?id=CVE-2026-43618)** : 🟠 **Severity: Medium** (Score: 6.1)
+
+- **[CVE-2026-43619](https://www.cve.org/CVERecord?id=CVE-2026-43619)** : 🔥 **Severity: High** (Score: 7.2)
+
+- **[CVE-2026-43620](https://www.cve.org/CVERecord?id=CVE-2026-43620)** : 🟠 **Severity: Medium** (Score: 6.9)
+
+**Debian Version :** bookworm
+ **Package Version :** rsync 3.2.7-1+deb12u5 	[trixie] - rsync 3.4.1+ds1-5+deb13u3
+ **Type :** DSA
+
+------------------------------
+
 **2026-05-19** - **[DSA-6281-1](https://security-tracker.debian.org/tracker/DSA-6281-1)** - gnutls28
 
 **CVE(s) :**
