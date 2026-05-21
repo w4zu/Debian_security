@@ -1,5 +1,27 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-05-21** - **[DLA-4593-1](https://security-tracker.debian.org/tracker/DLA-4593-1)** - openjpeg2
+
+**CVE(s) :**
+- **[CVE-2026-6192](https://www.cve.org/CVERecord?id=CVE-2026-6192)** : 🟠 **Severity: Medium** (Score: 4.8)
+
+**Debian Version :** bullseye
+ **Package Version :** openjpeg2 2.4.0-3+deb11u3
+ **Type :** DLA
+
+------------------------------
+
+**2026-05-21** - **[DSA-6286-1](https://security-tracker.debian.org/tracker/DSA-6286-1)** - evince
+
+**CVE(s) :**
+- **[CVE-2026-46529](https://www.cve.org/CVERecord?id=CVE-2026-46529)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** evince 43.1-2+deb12u1 	[trixie] - evince 48.1-3+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-05-20** - **[DLA-4592-1](https://security-tracker.debian.org/tracker/DLA-4592-1)** - firefox-esr
 
 **CVE(s) :**
