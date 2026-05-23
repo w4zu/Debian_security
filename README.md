@@ -1,5 +1,27 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-05-22** - **[DLA-4597-1](https://security-tracker.debian.org/tracker/DLA-4597-1)** - atril
+
+**CVE(s) :**
+- **[CVE-2026-46529](https://www.cve.org/CVERecord?id=CVE-2026-46529)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** atril 1.24.0-1+deb11u2
+ **Type :** DLA
+
+------------------------------
+
+**2026-05-22** - **[DLA-4596-1](https://security-tracker.debian.org/tracker/DLA-4596-1)** - evince
+
+**CVE(s) :**
+- **[CVE-2026-46529](https://www.cve.org/CVERecord?id=CVE-2026-46529)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** evince 3.38.2-1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-05-22** - **[DLA-4595-1](https://security-tracker.debian.org/tracker/DLA-4595-1)** - gnutls28
 
 **CVE(s) :**
@@ -73,6 +95,50 @@
 **Debian Version :** bullseye
  **Package Version :** thunderbird 1:140.11.0esr-1~deb11u1
  **Type :** DLA
+
+------------------------------
+
+**2026-05-22** - **[DSA-6294-1](https://security-tracker.debian.org/tracker/DSA-6294-1)** - libgcrypt20
+
+**CVE(s) :**
+- **[CVE-2026-41989](https://www.cve.org/CVERecord?id=CVE-2026-41989)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** libgcrypt20 1.10.1-3+deb12u1 	[trixie] - libgcrypt20 1.11.0-7+deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2026-05-22** - **[DSA-6293-1](https://security-tracker.debian.org/tracker/DSA-6293-1)** - krb5
+
+**CVE(s) :**
+- **[CVE-2026-40355](https://www.cve.org/CVERecord?id=CVE-2026-40355)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** krb5 1.20.1-2+deb12u5 	[trixie] - krb5 1.21.3-5+deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2026-05-22** - **[DSA-6292-1](https://security-tracker.debian.org/tracker/DSA-6292-1)** - haveged
+
+**CVE(s) :**
+- **[CVE-2026-41054](https://www.cve.org/CVERecord?id=CVE-2026-41054)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** haveged 1.9.14-1+deb12u1 	[trixie] - haveged 1.9.19-12+deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2026-05-22** - **[DSA-6291-1](https://security-tracker.debian.org/tracker/DSA-6291-1)** - haproxy
+
+**CVE(s) :**
+- **[CVE-2026-33555](https://www.cve.org/CVERecord?id=CVE-2026-33555)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** haproxy 3.0.11-1+deb13u3
+ **Type :** DSA
 
 ------------------------------
 
@@ -1162,69 +1228,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** tor 0.4.9.8-0+deb12u1 	[trixie] - tor 0.4.9.8-0+deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2026-05-09** - **[DLA-4575-1](https://security-tracker.debian.org/tracker/DLA-4575-1)** - firefox-esr
-
-**CVE(s) :**
-- **[CVE-2026-8090](https://www.cve.org/CVERecord?id=CVE-2026-8090)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-8092](https://www.cve.org/CVERecord?id=CVE-2026-8092)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-8094](https://www.cve.org/CVERecord?id=CVE-2026-8094)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** firefox-esr 140.10.2esr-1~deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2026-05-09** - **[DLA-4574-1](https://security-tracker.debian.org/tracker/DLA-4574-1)** - linux-6.1
-
-**CVE(s) :**
-- **[CVE-2026-43284](https://www.cve.org/CVERecord?id=CVE-2026-43284)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-43500](https://www.cve.org/CVERecord?id=CVE-2026-43500)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** linux-6.1 6.1.170-3~deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2026-05-09** - **[DLA-4573-1](https://security-tracker.debian.org/tracker/DLA-4573-1)** - libpng1.6
-
-**CVE(s) :**
-- **[CVE-2026-34757](https://www.cve.org/CVERecord?id=CVE-2026-34757)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** libpng1.6 1.6.37-3+deb11u4
- **Type :** DLA
-
-------------------------------
-
-**2026-05-09** - **[DSA-6259-1](https://security-tracker.debian.org/tracker/DSA-6259-1)** - pyjwt
-
-**CVE(s) :**
-- **[CVE-2026-32597](https://www.cve.org/CVERecord?id=CVE-2026-32597)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** pyjwt 2.6.0-1+deb12u1 	[trixie] - pyjwt 2.10.1-2+deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2026-05-09** - **[DSA-6258-1](https://security-tracker.debian.org/tracker/DSA-6258-1)** - linux
-
-**CVE(s) :**
-- **[CVE-2026-43284](https://www.cve.org/CVERecord?id=CVE-2026-43284)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-43500](https://www.cve.org/CVERecord?id=CVE-2026-43500)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** linux 6.1.170-3
  **Type :** DSA
 
 ------------------------------
