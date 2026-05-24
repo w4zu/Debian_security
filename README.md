@@ -1,5 +1,20 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-05-23** - **[DSA-6295-1](https://security-tracker.debian.org/tracker/DSA-6295-1)** - linux
+
+**CVE(s) :**
+- **[CVE-2026-23171](https://www.cve.org/CVERecord?id=CVE-2026-23171)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-43503](https://www.cve.org/CVERecord?id=CVE-2026-43503)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-46300](https://www.cve.org/CVERecord?id=CVE-2026-46300)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** linux 6.12.90-1
+ **Type :** DSA
+
+------------------------------
+
 **2026-05-22** - **[DLA-4597-1](https://security-tracker.debian.org/tracker/DLA-4597-1)** - atril
 
 **CVE(s) :**
@@ -1172,62 +1187,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** dnsmasq 2.90-4~deb12u2 	[trixie] - dnsmasq 2.91-1+deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2026-05-10** - **[DSA-6263-1](https://security-tracker.debian.org/tracker/DSA-6263-1)** - libpng1.6
-
-**CVE(s) :**
-- **[CVE-2026-34757](https://www.cve.org/CVERecord?id=CVE-2026-34757)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** libpng1.6 1.6.39-2+deb12u5 	[trixie] - libpng1.6 1.6.48-1+deb13u5
- **Type :** DSA
-
-------------------------------
-
-**2026-05-10** - **[DSA-6262-1](https://security-tracker.debian.org/tracker/DSA-6262-1)** - lcms2
-
-**CVE(s) :**
-- **[CVE-2026-41254](https://www.cve.org/CVERecord?id=CVE-2026-41254)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** lcms2 2.14-2+deb12u1 	[trixie] - lcms2 2.16-2+deb13u2
- **Type :** DSA
-
-------------------------------
-
-**2026-05-10** - **[DSA-6261-1](https://security-tracker.debian.org/tracker/DSA-6261-1)** - corosync
-
-**CVE(s) :**
-- **[CVE-2026-35091](https://www.cve.org/CVERecord?id=CVE-2026-35091)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-35092](https://www.cve.org/CVERecord?id=CVE-2026-35092)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** corosync 3.1.7-1+deb12u2 	[trixie] - corosync 3.1.9-2+deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2026-05-10** - **[DSA-6260-1](https://security-tracker.debian.org/tracker/DSA-6260-1)** - tor
-
-**CVE(s) :**
-- **[CVE-2026-44597](https://www.cve.org/CVERecord?id=CVE-2026-44597)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-44599](https://www.cve.org/CVERecord?id=CVE-2026-44599)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-44600](https://www.cve.org/CVERecord?id=CVE-2026-44600)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-44601](https://www.cve.org/CVERecord?id=CVE-2026-44601)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-44602](https://www.cve.org/CVERecord?id=CVE-2026-44602)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-44603](https://www.cve.org/CVERecord?id=CVE-2026-44603)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** tor 0.4.9.8-0+deb12u1 	[trixie] - tor 0.4.9.8-0+deb13u1
  **Type :** DSA
 
 ------------------------------
