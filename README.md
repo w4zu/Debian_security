@@ -1,5 +1,20 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-05-24** - **[DLA-4598-1](https://security-tracker.debian.org/tracker/DLA-4598-1)** - nodejs
+
+**CVE(s) :**
+- **[CVE-2025-59465](https://www.cve.org/CVERecord?id=CVE-2025-59465)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-21637](https://www.cve.org/CVERecord?id=CVE-2026-21637)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-21714](https://www.cve.org/CVERecord?id=CVE-2026-21714)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** nodejs 12.22.12~dfsg-1~deb11u8
+ **Type :** DLA
+
+------------------------------
+
 **2026-05-23** - **[DSA-6295-1](https://security-tracker.debian.org/tracker/DSA-6295-1)** - linux
 
 **CVE(s) :**
@@ -968,6 +983,17 @@
 
 **Debian Version :** bookworm
  **Package Version :** nodejs 18.20.4+dfsg-1~deb12u2
+ **Type :** DSA
+
+------------------------------
+
+**2026-05-14** - **[DSA-6271-1](https://security-tracker.debian.org/tracker/DSA-6271-1)** - gsasl
+
+**CVE(s) :**
+- **[CVE-2026-48829](https://www.cve.org/CVERecord?id=CVE-2026-48829)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** gsasl 2.2.0-1+deb12u1 	[trixie] - gsasl 2.2.2-1.1+deb13u1
  **Type :** DSA
 
 ------------------------------
