@@ -1,5 +1,36 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-05-25** - **[DLA-4599-1](https://security-tracker.debian.org/tracker/DLA-4599-1)** - jq
+
+**CVE(s) :**
+- **[CVE-2026-32316](https://www.cve.org/CVERecord?id=CVE-2026-32316)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-33947](https://www.cve.org/CVERecord?id=CVE-2026-33947)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-33948](https://www.cve.org/CVERecord?id=CVE-2026-33948)** : 🟠 **Severity: Medium** (Score: 2.9)
+
+- **[CVE-2026-39956](https://www.cve.org/CVERecord?id=CVE-2026-39956)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-39979](https://www.cve.org/CVERecord?id=CVE-2026-39979)** : 🟠 **Severity: Medium** (Score: 6.9)
+
+- **[CVE-2026-40164](https://www.cve.org/CVERecord?id=CVE-2026-40164)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-41256](https://www.cve.org/CVERecord?id=CVE-2026-41256)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-41257](https://www.cve.org/CVERecord?id=CVE-2026-41257)** : 🟠 **Severity: Medium** (Score: 6.4)
+
+- **[CVE-2026-43895](https://www.cve.org/CVERecord?id=CVE-2026-43895)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-43896](https://www.cve.org/CVERecord?id=CVE-2026-43896)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-44777](https://www.cve.org/CVERecord?id=CVE-2026-44777)** : 🟠 **Severity: Medium** (Score: 5.4)
+
+**Debian Version :** bullseye
+ **Package Version :** jq 1.6-2.1+deb11u2
+ **Type :** DLA
+
+------------------------------
+
 **2026-05-24** - **[DLA-4598-1](https://security-tracker.debian.org/tracker/DLA-4598-1)** - nodejs
 
 **CVE(s) :**
