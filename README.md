@@ -175,6 +175,8 @@
 **CVE(s) :**
 - **[CVE-2026-40355](https://www.cve.org/CVERecord?id=CVE-2026-40355)** : **Severity: Unknown** (Score: N/A)
 
+- **[CVE-2026-40356](https://www.cve.org/CVERecord?id=CVE-2026-40356)** : **Severity: Unknown** (Score: N/A)
+
 **Debian Version :** bookworm
  **Package Version :** krb5 1.20.1-2+deb12u5 	[trixie] - krb5 1.21.3-5+deb13u1
  **Type :** DSA
