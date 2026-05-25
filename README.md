@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-05-25** - **[DLA-4600-1](https://security-tracker.debian.org/tracker/DLA-4600-1)** - postorius
+
+**CVE(s) :**
+- **[CVE-2026-44742](https://www.cve.org/CVERecord?id=CVE-2026-44742)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** postorius 1.3.4-2+deb11u2
+ **Type :** DLA
+
+------------------------------
+
 **2026-05-25** - **[DLA-4599-1](https://security-tracker.debian.org/tracker/DLA-4599-1)** - jq
 
 **CVE(s) :**
@@ -28,6 +39,21 @@
 **Debian Version :** bullseye
  **Package Version :** jq 1.6-2.1+deb11u2
  **Type :** DLA
+
+------------------------------
+
+**2026-05-25** - **[DSA-6296-1](https://security-tracker.debian.org/tracker/DSA-6296-1)** - spip
+
+**CVE(s) :**
+- **[CVE-2026-8429](https://www.cve.org/CVERecord?id=CVE-2026-8429)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-8430](https://www.cve.org/CVERecord?id=CVE-2026-8430)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-48832](https://www.cve.org/CVERecord?id=CVE-2026-48832)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** spip 4.4.15+dfsg-0+deb13u1
+ **Type :** DSA
 
 ------------------------------
 
