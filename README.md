@@ -1,5 +1,24 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-05-26** - **[DSA-6297-1](https://security-tracker.debian.org/tracker/DSA-6297-1)** - samba
+
+**CVE(s) :**
+- **[CVE-2026-2340](https://www.cve.org/CVERecord?id=CVE-2026-2340)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-3012](https://www.cve.org/CVERecord?id=CVE-2026-3012)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-3238](https://www.cve.org/CVERecord?id=CVE-2026-3238)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-4408](https://www.cve.org/CVERecord?id=CVE-2026-4408)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-4480](https://www.cve.org/CVERecord?id=CVE-2026-4480)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** samba 2:4.17.12+dfsg-0+deb12u4 	[trixie] - samba 2:4.22.8+dfsg-0+deb13u2
+ **Type :** DSA
+
+------------------------------
+
 **2026-05-25** - **[DLA-4600-1](https://security-tracker.debian.org/tracker/DLA-4600-1)** - postorius
 
 **CVE(s) :**
