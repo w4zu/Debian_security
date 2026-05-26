@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-05-26** - **[DLA-4601-1](https://security-tracker.debian.org/tracker/DLA-4601-1)** - memcached
+
+**CVE(s) :**
+- **[CVE-2026-47783](https://www.cve.org/CVERecord?id=CVE-2026-47783)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-47784](https://www.cve.org/CVERecord?id=CVE-2026-47784)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** memcached 1.6.9+dfsg-1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-05-26** - **[DSA-6297-1](https://security-tracker.debian.org/tracker/DSA-6297-1)** - samba
 
 **CVE(s) :**
