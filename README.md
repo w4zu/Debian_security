@@ -29,8 +29,8 @@
 **CVE(s) :**
 - **[CVE-2026-45184](https://www.cve.org/CVERecord?id=CVE-2026-45184)** : **Severity: Unknown** (Score: N/A)
 
-**Debian Version :** trixie
- **Package Version :** kdenlive 24.12.3-2+deb13u1
+**Debian Version :** bookworm
+ **Package Version :** kdenlive 22.12.3-2+deb12u2 	[trixie] - kdenlive 24.12.3-2+deb13u1
  **Type :** DSA
 
 ------------------------------
