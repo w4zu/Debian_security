@@ -13,6 +13,71 @@
 
 ------------------------------
 
+**2026-05-26** - **[DSA-6300-1](https://security-tracker.debian.org/tracker/DSA-6300-1)** - node-shell-quote
+
+**CVE(s) :**
+- **[CVE-2026-9277](https://www.cve.org/CVERecord?id=CVE-2026-9277)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** node-shell-quote 1.7.4+~1.7.1-1+deb12u1 	[trixie] - node-shell-quote 1.7.4+~1.7.1-1+deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2026-05-26** - **[DSA-6299-1](https://security-tracker.debian.org/tracker/DSA-6299-1)** - kdenlive
+
+**CVE(s) :**
+- **[CVE-2026-45184](https://www.cve.org/CVERecord?id=CVE-2026-45184)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** kdenlive 24.12.3-2+deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2026-05-26** - **[DSA-6298-1](https://security-tracker.debian.org/tracker/DSA-6298-1)** - imagemagick
+
+**CVE(s) :**
+- **[CVE-2026-42050](https://www.cve.org/CVERecord?id=CVE-2026-42050)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-42326](https://www.cve.org/CVERecord?id=CVE-2026-42326)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-45031](https://www.cve.org/CVERecord?id=CVE-2026-45031)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-45358](https://www.cve.org/CVERecord?id=CVE-2026-45358)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-45359](https://www.cve.org/CVERecord?id=CVE-2026-45359)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-45624](https://www.cve.org/CVERecord?id=CVE-2026-45624)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-45664](https://www.cve.org/CVERecord?id=CVE-2026-45664)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-46520](https://www.cve.org/CVERecord?id=CVE-2026-46520)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-46521](https://www.cve.org/CVERecord?id=CVE-2026-46521)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-46522](https://www.cve.org/CVERecord?id=CVE-2026-46522)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-46523](https://www.cve.org/CVERecord?id=CVE-2026-46523)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-46557](https://www.cve.org/CVERecord?id=CVE-2026-46557)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-46559](https://www.cve.org/CVERecord?id=CVE-2026-46559)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-46692](https://www.cve.org/CVERecord?id=CVE-2026-46692)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-46693](https://www.cve.org/CVERecord?id=CVE-2026-46693)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-47165](https://www.cve.org/CVERecord?id=CVE-2026-47165)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-47166](https://www.cve.org/CVERecord?id=CVE-2026-47166)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** imagemagick 8:7.1.1.43+dfsg1-1+deb13u9
+ **Type :** DSA
+
+------------------------------
+
 **2026-05-26** - **[DSA-6297-1](https://security-tracker.debian.org/tracker/DSA-6297-1)** - samba
 
 **CVE(s) :**
@@ -1177,17 +1242,6 @@
 **Debian Version :** bookworm
  **Package Version :** nghttp2 1.52.0-1+deb12u3 	[trixie] - nghttp2 1.64.0-1.1+deb13u1
  **Type :** DSA
-
-------------------------------
-
-**2026-05-13** - **[DLA-4581-1](https://security-tracker.debian.org/tracker/DLA-4581-1)** - nghttp2
-
-**CVE(s) :**
-- **[CVE-2026-27135](https://www.cve.org/CVERecord?id=CVE-2026-27135)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** nghttp2 1.43.0-1+deb11u3
- **Type :** DLA
 
 ------------------------------
 
