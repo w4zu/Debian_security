@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-05-28** - **[DLA-4605-1](https://security-tracker.debian.org/tracker/DLA-4605-1)** - python-flask-httpauth
+
+**CVE(s) :**
+- **[CVE-2026-34531](https://www.cve.org/CVERecord?id=CVE-2026-34531)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** python-flask-httpauth 3.2.4-3.1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-05-28** - **[DLA-4604-1](https://security-tracker.debian.org/tracker/DLA-4604-1)** - roundcube
 
 **CVE(s) :**
@@ -48,6 +59,19 @@
 **Debian Version :** bullseye
  **Package Version :** lemonldap-ng 2.0.11+ds-4+deb11u8
  **Type :** DLA
+
+------------------------------
+
+**2026-05-28** - **[DSA-6307-1](https://security-tracker.debian.org/tracker/DSA-6307-1)** - kitty
+
+**CVE(s) :**
+- **[CVE-2026-33633](https://www.cve.org/CVERecord?id=CVE-2026-33633)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-33642](https://www.cve.org/CVERecord?id=CVE-2026-33642)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** kitty 0.41.1-2+deb13u1
+ **Type :** DSA
 
 ------------------------------
 
