@@ -1,5 +1,43 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-05-28** - **[DLA-4604-1](https://security-tracker.debian.org/tracker/DLA-4604-1)** - roundcube
+
+**CVE(s) :**
+- **[CVE-2026-48842](https://www.cve.org/CVERecord?id=CVE-2026-48842)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-48843](https://www.cve.org/CVERecord?id=CVE-2026-48843)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-48844](https://www.cve.org/CVERecord?id=CVE-2026-48844)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-48845](https://www.cve.org/CVERecord?id=CVE-2026-48845)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-48846](https://www.cve.org/CVERecord?id=CVE-2026-48846)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-48847](https://www.cve.org/CVERecord?id=CVE-2026-48847)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-48848](https://www.cve.org/CVERecord?id=CVE-2026-48848)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-48849](https://www.cve.org/CVERecord?id=CVE-2026-48849)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** roundcube 1.4.15+dfsg.1-1+deb11u9
+ **Type :** DLA
+
+------------------------------
+
+**2026-05-28** - **[DLA-4603-1](https://security-tracker.debian.org/tracker/DLA-4603-1)** - krb5
+
+**CVE(s) :**
+- **[CVE-2026-40355](https://www.cve.org/CVERecord?id=CVE-2026-40355)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-40356](https://www.cve.org/CVERecord?id=CVE-2026-40356)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** krb5 1.18.3-6+deb11u8
+ **Type :** DLA
+
+------------------------------
+
 **2026-05-28** - **[DLA-4602-1](https://security-tracker.debian.org/tracker/DLA-4602-1)** - lemonldap-ng
 
 **CVE(s) :**
@@ -10,6 +48,32 @@
 **Debian Version :** bullseye
  **Package Version :** lemonldap-ng 2.0.11+ds-4+deb11u8
  **Type :** DLA
+
+------------------------------
+
+**2026-05-28** - **[DSA-6306-1](https://security-tracker.debian.org/tracker/DSA-6306-1)** - linux
+
+**CVE(s) :**
+- **[CVE-2026-43503](https://www.cve.org/CVERecord?id=CVE-2026-43503)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-46174](https://www.cve.org/CVERecord?id=CVE-2026-46174)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-46300](https://www.cve.org/CVERecord?id=CVE-2026-46300)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** linux 6.1.174-1
+ **Type :** DSA
+
+------------------------------
+
+**2026-05-28** - **[DSA-6305-1](https://security-tracker.debian.org/tracker/DSA-6305-1)** - linux
+
+**CVE(s) :**
+- **[CVE-2026-43494](https://www.cve.org/CVERecord?id=CVE-2026-43494)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** linux 6.12.90-2
+ **Type :** DSA
 
 ------------------------------
 
