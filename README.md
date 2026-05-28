@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-05-28** - **[DLA-4602-1](https://security-tracker.debian.org/tracker/DLA-4602-1)** - lemonldap-ng
+
+**CVE(s) :**
+- **[CVE-2024-52948](https://www.cve.org/CVERecord?id=CVE-2024-52948)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-59518](https://www.cve.org/CVERecord?id=CVE-2025-59518)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** lemonldap-ng 2.0.11+ds-4+deb11u8
+ **Type :** DLA
+
+------------------------------
+
 **2026-05-27** - **[DSA-6304-1](https://security-tracker.debian.org/tracker/DSA-6304-1)** - unbound
 
 **CVE(s) :**
