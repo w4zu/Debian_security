@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-05-30** - **[DLA-4608-1](https://security-tracker.debian.org/tracker/DLA-4608-1)** - corosync
+
+**CVE(s) :**
+- **[CVE-2026-35091](https://www.cve.org/CVERecord?id=CVE-2026-35091)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-35092](https://www.cve.org/CVERecord?id=CVE-2026-35092)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** corosync 3.1.2-2+deb11u2
+ **Type :** DLA
+
+------------------------------
+
 **2026-05-29** - **[DLA-4607-1](https://security-tracker.debian.org/tracker/DLA-4607-1)** - linux-6.1
 
 **CVE(s) :**
