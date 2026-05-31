@@ -1,5 +1,48 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-05-30** - **[DLA-4609-1](https://security-tracker.debian.org/tracker/DLA-4609-1)** - imagemagick
+
+**CVE(s) :**
+- **[CVE-2026-33901](https://www.cve.org/CVERecord?id=CVE-2026-33901)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-42050](https://www.cve.org/CVERecord?id=CVE-2026-42050)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-42326](https://www.cve.org/CVERecord?id=CVE-2026-42326)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-45031](https://www.cve.org/CVERecord?id=CVE-2026-45031)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-45358](https://www.cve.org/CVERecord?id=CVE-2026-45358)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-45359](https://www.cve.org/CVERecord?id=CVE-2026-45359)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-45624](https://www.cve.org/CVERecord?id=CVE-2026-45624)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-45664](https://www.cve.org/CVERecord?id=CVE-2026-45664)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-46520](https://www.cve.org/CVERecord?id=CVE-2026-46520)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-46521](https://www.cve.org/CVERecord?id=CVE-2026-46521)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-46522](https://www.cve.org/CVERecord?id=CVE-2026-46522)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-46523](https://www.cve.org/CVERecord?id=CVE-2026-46523)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-46559](https://www.cve.org/CVERecord?id=CVE-2026-46559)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-46692](https://www.cve.org/CVERecord?id=CVE-2026-46692)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-46693](https://www.cve.org/CVERecord?id=CVE-2026-46693)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-47165](https://www.cve.org/CVERecord?id=CVE-2026-47165)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-47166](https://www.cve.org/CVERecord?id=CVE-2026-47166)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** imagemagick 8:6.9.11.60+dfsg-1.3+deb11u13
+ **Type :** DLA
+
+------------------------------
+
 **2026-05-30** - **[DLA-4608-1](https://security-tracker.debian.org/tracker/DLA-4608-1)** - corosync
 
 **CVE(s) :**
@@ -1729,19 +1772,6 @@
 
 **Debian Version :** trixie
  **Package Version :** netatalk 4.2.3~ds-1+deb13u2
- **Type :** DSA
-
-------------------------------
-
-**2026-05-17** - **[DSA-6279-1](https://security-tracker.debian.org/tracker/DSA-6279-1)** - redis
-
-**CVE(s) :**
-- **[CVE-2025-67733](https://www.cve.org/CVERecord?id=CVE-2025-67733)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-21863](https://www.cve.org/CVERecord?id=CVE-2026-21863)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** redis 5:7.0.15-1~deb12u7 	[trixie] - redis 5:8.0.2-3+deb13u2
  **Type :** DSA
 
 ------------------------------
