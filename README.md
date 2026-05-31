@@ -11,6 +11,100 @@
 
 ------------------------------
 
+**2026-05-31** - **[DSA-6315-1](https://security-tracker.debian.org/tracker/DSA-6315-1)** - cyborg
+
+**CVE(s) :**
+- **[CVE-2026-40213](https://www.cve.org/CVERecord?id=CVE-2026-40213)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-40214](https://www.cve.org/CVERecord?id=CVE-2026-40214)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** cyborg 14.0.0-3+deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2026-05-31** - **[DSA-6314-1](https://security-tracker.debian.org/tracker/DSA-6314-1)** - swift
+
+**CVE(s) :**
+- **[CVE-2026-49017](https://www.cve.org/CVERecord?id=CVE-2026-49017)** : 🔥 **Severity: High** (Score: 7.1)
+
+**Debian Version :** trixie
+ **Package Version :** swift 2.35.1-0+deb13u2
+ **Type :** DSA
+
+------------------------------
+
+**2026-05-31** - **[DSA-6313-1](https://security-tracker.debian.org/tracker/DSA-6313-1)** - dovecot
+
+**CVE(s) :**
+- **[CVE-2026-33603](https://www.cve.org/CVERecord?id=CVE-2026-33603)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-40016](https://www.cve.org/CVERecord?id=CVE-2026-40016)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-40020](https://www.cve.org/CVERecord?id=CVE-2026-40020)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-42006](https://www.cve.org/CVERecord?id=CVE-2026-42006)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** dovecot 1:2.3.19.1+dfsg1-2.1+deb12u6 	[trixie] - dovecot 1:2.4.1+dfsg1-6+deb13u6
+ **Type :** DSA
+
+------------------------------
+
+**2026-05-31** - **[DSA-6312-1](https://security-tracker.debian.org/tracker/DSA-6312-1)** - symfony
+
+**CVE(s) :**
+- **[CVE-2024-50340](https://www.cve.org/CVERecord?id=CVE-2024-50340)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-45063](https://www.cve.org/CVERecord?id=CVE-2026-45063)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-45064](https://www.cve.org/CVERecord?id=CVE-2026-45064)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-45065](https://www.cve.org/CVERecord?id=CVE-2026-45065)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-45066](https://www.cve.org/CVERecord?id=CVE-2026-45066)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-45067](https://www.cve.org/CVERecord?id=CVE-2026-45067)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-45068](https://www.cve.org/CVERecord?id=CVE-2026-45068)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-45069](https://www.cve.org/CVERecord?id=CVE-2026-45069)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-45071](https://www.cve.org/CVERecord?id=CVE-2026-45071)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-45072](https://www.cve.org/CVERecord?id=CVE-2026-45072)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-45073](https://www.cve.org/CVERecord?id=CVE-2026-45073)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-45077](https://www.cve.org/CVERecord?id=CVE-2026-45077)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-45133](https://www.cve.org/CVERecord?id=CVE-2026-45133)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-45304](https://www.cve.org/CVERecord?id=CVE-2026-45304)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-45305](https://www.cve.org/CVERecord?id=CVE-2026-45305)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-45754](https://www.cve.org/CVERecord?id=CVE-2026-45754)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-46626](https://www.cve.org/CVERecord?id=CVE-2026-46626)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-48489](https://www.cve.org/CVERecord?id=CVE-2026-48489)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-48736](https://www.cve.org/CVERecord?id=CVE-2026-48736)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-48760](https://www.cve.org/CVERecord?id=CVE-2026-48760)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-48761](https://www.cve.org/CVERecord?id=CVE-2026-48761)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-48784](https://www.cve.org/CVERecord?id=CVE-2026-48784)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** symfony 6.4.41+dfsg-0+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-05-30** - **[DLA-4609-1](https://security-tracker.debian.org/tracker/DLA-4609-1)** - imagemagick
 
 **CVE(s) :**
