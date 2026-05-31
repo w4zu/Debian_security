@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-05-31** - **[DLA-4610-1](https://security-tracker.debian.org/tracker/DLA-4610-1)** - git-lfs
+
+**CVE(s) :**
+- **[CVE-2025-26625](https://www.cve.org/CVERecord?id=CVE-2025-26625)** : 🔥 **Severity: High** (Score: 8.6)
+
+**Debian Version :** bullseye
+ **Package Version :** git-lfs 2.13.2-1+deb11u2
+ **Type :** DLA
+
+------------------------------
+
 **2026-05-30** - **[DLA-4609-1](https://security-tracker.debian.org/tracker/DLA-4609-1)** - imagemagick
 
 **CVE(s) :**
@@ -799,6 +810,8 @@
 - **[CVE-2026-42326](https://www.cve.org/CVERecord?id=CVE-2026-42326)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2026-45031](https://www.cve.org/CVERecord?id=CVE-2026-45031)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-45358](https://www.cve.org/CVERecord?id=CVE-2026-45358)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2026-45359](https://www.cve.org/CVERecord?id=CVE-2026-45359)** : **Severity: Unknown** (Score: N/A)
 
