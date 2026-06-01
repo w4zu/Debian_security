@@ -41,6 +41,60 @@
 
 ------------------------------
 
+**2026-06-01** - **[DSA-6318-1](https://security-tracker.debian.org/tracker/DSA-6318-1)** - gst-plugins-good1.0
+
+**CVE(s) :**
+- **[CVE-2026-5056](https://www.cve.org/CVERecord?id=CVE-2026-5056)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-46469](https://www.cve.org/CVERecord?id=CVE-2026-46469)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-46470](https://www.cve.org/CVERecord?id=CVE-2026-46470)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** gst-plugins-good1.0 1.26.2-1+deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2026-06-01** - **[DSA-6317-1](https://security-tracker.debian.org/tracker/DSA-6317-1)** - symfony
+
+**CVE(s) :**
+- **[CVE-2024-50340](https://www.cve.org/CVERecord?id=CVE-2024-50340)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-45063](https://www.cve.org/CVERecord?id=CVE-2026-45063)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-45065](https://www.cve.org/CVERecord?id=CVE-2026-45065)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-45067](https://www.cve.org/CVERecord?id=CVE-2026-45067)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-45068](https://www.cve.org/CVERecord?id=CVE-2026-45068)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-45071](https://www.cve.org/CVERecord?id=CVE-2026-45071)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-45073](https://www.cve.org/CVERecord?id=CVE-2026-45073)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-45077](https://www.cve.org/CVERecord?id=CVE-2026-45077)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-45133](https://www.cve.org/CVERecord?id=CVE-2026-45133)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-45304](https://www.cve.org/CVERecord?id=CVE-2026-45304)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-45305](https://www.cve.org/CVERecord?id=CVE-2026-45305)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-46626](https://www.cve.org/CVERecord?id=CVE-2026-46626)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-48489](https://www.cve.org/CVERecord?id=CVE-2026-48489)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-48736](https://www.cve.org/CVERecord?id=CVE-2026-48736)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-48784](https://www.cve.org/CVERecord?id=CVE-2026-48784)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** symfony 5.4.53+dfsg-0+deb12u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-05-31** - **[DLA-4612-1](https://security-tracker.debian.org/tracker/DLA-4612-1)** - sentry-python
 
 **CVE(s) :**
@@ -1230,8 +1284,6 @@
 - **[CVE-2026-45974](https://www.cve.org/CVERecord?id=CVE-2026-45974)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2026-45978](https://www.cve.org/CVERecord?id=CVE-2026-45978)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-45981](https://www.cve.org/CVERecord?id=CVE-2026-45981)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2026-45983](https://www.cve.org/CVERecord?id=CVE-2026-45983)** : **Severity: Unknown** (Score: N/A)
 
