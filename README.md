@@ -1,5 +1,46 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-06-01** - **[DLA-4613-1](https://security-tracker.debian.org/tracker/DLA-4613-1)** - python-aiohttp
+
+**CVE(s) :**
+- **[CVE-2025-53643](https://www.cve.org/CVERecord?id=CVE-2025-53643)** : 🟠 **Severity: Medium** (Score: 1.7)
+
+- **[CVE-2025-69224](https://www.cve.org/CVERecord?id=CVE-2025-69224)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+- **[CVE-2025-69225](https://www.cve.org/CVERecord?id=CVE-2025-69225)** : 🟠 **Severity: Medium** (Score: 2.7)
+
+- **[CVE-2025-69226](https://www.cve.org/CVERecord?id=CVE-2025-69226)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+- **[CVE-2025-69227](https://www.cve.org/CVERecord?id=CVE-2025-69227)** : 🟠 **Severity: Medium** (Score: 6.6)
+
+- **[CVE-2025-69228](https://www.cve.org/CVERecord?id=CVE-2025-69228)** : 🟠 **Severity: Medium** (Score: 6.6)
+
+- **[CVE-2025-69229](https://www.cve.org/CVERecord?id=CVE-2025-69229)** : 🟠 **Severity: Medium** (Score: 6.6)
+
+- **[CVE-2026-22815](https://www.cve.org/CVERecord?id=CVE-2026-22815)** : 🟠 **Severity: Medium** (Score: 6.9)
+
+- **[CVE-2026-34513](https://www.cve.org/CVERecord?id=CVE-2026-34513)** : 🟠 **Severity: Medium** (Score: 2.7)
+
+- **[CVE-2026-34514](https://www.cve.org/CVERecord?id=CVE-2026-34514)** : 🟠 **Severity: Medium** (Score: 2.7)
+
+- **[CVE-2026-34516](https://www.cve.org/CVERecord?id=CVE-2026-34516)** : 🟠 **Severity: Medium** (Score: 6.6)
+
+- **[CVE-2026-34517](https://www.cve.org/CVERecord?id=CVE-2026-34517)** : 🟠 **Severity: Medium** (Score: 2.7)
+
+- **[CVE-2026-34518](https://www.cve.org/CVERecord?id=CVE-2026-34518)** : 🟠 **Severity: Medium** (Score: 2.7)
+
+- **[CVE-2026-34519](https://www.cve.org/CVERecord?id=CVE-2026-34519)** : 🟠 **Severity: Medium** (Score: 2.7)
+
+- **[CVE-2026-34520](https://www.cve.org/CVERecord?id=CVE-2026-34520)** : 🟠 **Severity: Medium** (Score: 2.7)
+
+- **[CVE-2026-34525](https://www.cve.org/CVERecord?id=CVE-2026-34525)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+**Debian Version :** bullseye
+ **Package Version :** python-aiohttp 3.7.4-1+deb11u2
+ **Type :** DLA
+
+------------------------------
+
 **2026-05-31** - **[DLA-4612-1](https://security-tracker.debian.org/tracker/DLA-4612-1)** - sentry-python
 
 **CVE(s) :**
