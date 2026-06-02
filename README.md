@@ -1,5 +1,26 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-06-02** - **[DSA-6320-1](https://security-tracker.debian.org/tracker/DSA-6320-1)** - php-twig
+
+**CVE(s) :**
+- **[CVE-2024-51754](https://www.cve.org/CVERecord?id=CVE-2024-51754)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-46628](https://www.cve.org/CVERecord?id=CVE-2026-46628)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-46629](https://www.cve.org/CVERecord?id=CVE-2026-46629)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-46633](https://www.cve.org/CVERecord?id=CVE-2026-46633)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-46637](https://www.cve.org/CVERecord?id=CVE-2026-46637)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-47730](https://www.cve.org/CVERecord?id=CVE-2026-47730)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** php-twig 3.5.1-1+deb12u3
+ **Type :** DSA
+
+------------------------------
+
 **2026-06-01** - **[DLA-4613-1](https://security-tracker.debian.org/tracker/DLA-4613-1)** - python-aiohttp
 
 **CVE(s) :**
