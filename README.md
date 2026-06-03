@@ -1552,6 +1552,8 @@
 **CVE(s) :**
 - **[CVE-2025-8671](https://www.cve.org/CVERecord?id=CVE-2025-8671)** : **Severity: Unknown** (Score: N/A)
 
+- **[CVE-2026-50052](https://www.cve.org/CVERecord?id=CVE-2026-50052)** : 🟠 **Severity: Medium** (Score: 2.3)
+
 **Debian Version :** trixie
  **Package Version :** varnish 7.7.0-3+deb13u1
  **Type :** DSA
