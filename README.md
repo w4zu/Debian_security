@@ -1,5 +1,50 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-06-05** - **[DSA-6322-1](https://security-tracker.debian.org/tracker/DSA-6322-1)** - frr
+
+**CVE(s) :**
+- **[CVE-2023-3748](https://www.cve.org/CVERecord?id=CVE-2023-3748)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-27913](https://www.cve.org/CVERecord?id=CVE-2024-27913)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-31950](https://www.cve.org/CVERecord?id=CVE-2024-31950)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-31951](https://www.cve.org/CVERecord?id=CVE-2024-31951)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-34088](https://www.cve.org/CVERecord?id=CVE-2024-34088)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-61099](https://www.cve.org/CVERecord?id=CVE-2025-61099)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-61100](https://www.cve.org/CVERecord?id=CVE-2025-61100)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-61101](https://www.cve.org/CVERecord?id=CVE-2025-61101)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-61102](https://www.cve.org/CVERecord?id=CVE-2025-61102)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-61103](https://www.cve.org/CVERecord?id=CVE-2025-61103)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-61104](https://www.cve.org/CVERecord?id=CVE-2025-61104)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-61105](https://www.cve.org/CVERecord?id=CVE-2025-61105)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-61106](https://www.cve.org/CVERecord?id=CVE-2025-61106)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-61107](https://www.cve.org/CVERecord?id=CVE-2025-61107)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-5107](https://www.cve.org/CVERecord?id=CVE-2026-5107)** : 🟠 **Severity: Medium** (Score: 2.3)
+
+- **[CVE-2026-28532](https://www.cve.org/CVERecord?id=CVE-2026-28532)** : 🟠 **Severity: Medium** (Score: 6)
+
+- **[CVE-2026-37457](https://www.cve.org/CVERecord?id=CVE-2026-37457)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-37458](https://www.cve.org/CVERecord?id=CVE-2026-37458)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** frr 8.4.4-1.1~deb12u2 	[trixie] - frr 10.3-3+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-06-04** - **[DLA-4614-1](https://security-tracker.debian.org/tracker/DLA-4614-1)** - sudo
 
 **CVE(s) :**
