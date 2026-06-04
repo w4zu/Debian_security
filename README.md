@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-06-04** - **[DLA-4614-1](https://security-tracker.debian.org/tracker/DLA-4614-1)** - sudo
+
+**CVE(s) :**
+- **[CVE-2026-35535](https://www.cve.org/CVERecord?id=CVE-2026-35535)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** sudo 1.9.5p2-3+deb11u4
+ **Type :** DLA
+
+------------------------------
+
 **2026-06-03** - **[DSA-6321-1](https://security-tracker.debian.org/tracker/DSA-6321-1)** - ceph
 
 **CVE(s) :**
