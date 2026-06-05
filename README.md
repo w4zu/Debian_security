@@ -1,5 +1,42 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-06-05** - **[DLA-4618-1](https://security-tracker.debian.org/tracker/DLA-4618-1)** - gsasl
+
+**CVE(s) :**
+- **[CVE-2026-48829](https://www.cve.org/CVERecord?id=CVE-2026-48829)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** gsasl 1.10.0-4+deb11u2
+ **Type :** DLA
+
+------------------------------
+
+**2026-06-05** - **[DLA-4617-1](https://security-tracker.debian.org/tracker/DLA-4617-1)** - dovecot
+
+**CVE(s) :**
+- **[CVE-2026-33603](https://www.cve.org/CVERecord?id=CVE-2026-33603)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-40020](https://www.cve.org/CVERecord?id=CVE-2026-40020)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-42006](https://www.cve.org/CVERecord?id=CVE-2026-42006)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** dovecot 1:2.3.13+dfsg1-2+deb11u4
+ **Type :** DLA
+
+------------------------------
+
+**2026-06-05** - **[DLA-4616-1](https://security-tracker.debian.org/tracker/DLA-4616-1)** - haveged
+
+**CVE(s) :**
+- **[CVE-2026-41054](https://www.cve.org/CVERecord?id=CVE-2026-41054)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** haveged 1.9.14-1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-06-05** - **[DLA-4615-1](https://security-tracker.debian.org/tracker/DLA-4615-1)** - exim4
 
 **CVE(s) :**
