@@ -51,15 +51,7 @@
 **2026-06-05** - **[DSA-6322-1](https://security-tracker.debian.org/tracker/DSA-6322-1)** - frr
 
 **CVE(s) :**
-- **[CVE-2023-3748](https://www.cve.org/CVERecord?id=CVE-2023-3748)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-27913](https://www.cve.org/CVERecord?id=CVE-2024-27913)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-31950](https://www.cve.org/CVERecord?id=CVE-2024-31950)** : **Severity: Unknown** (Score: N/A)
-
 - **[CVE-2024-31951](https://www.cve.org/CVERecord?id=CVE-2024-31951)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-34088](https://www.cve.org/CVERecord?id=CVE-2024-34088)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2025-61099](https://www.cve.org/CVERecord?id=CVE-2025-61099)** : **Severity: Unknown** (Score: N/A)
 
