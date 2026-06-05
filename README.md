@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-06-05** - **[DLA-4615-1](https://security-tracker.debian.org/tracker/DLA-4615-1)** - exim4
+
+**CVE(s) :**
+- **[CVE-2026-48840](https://www.cve.org/CVERecord?id=CVE-2026-48840)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** exim4 4.94.2-7+deb11u6
+ **Type :** DLA
+
+------------------------------
+
 **2026-06-05** - **[DSA-6322-1](https://security-tracker.debian.org/tracker/DSA-6322-1)** - frr
 
 **CVE(s) :**
