@@ -1874,18 +1874,3 @@
 
 ------------------------------
 
-**2026-05-23** - **[DSA-6295-1](https://security-tracker.debian.org/tracker/DSA-6295-1)** - linux
-
-**CVE(s) :**
-- **[CVE-2026-23171](https://www.cve.org/CVERecord?id=CVE-2026-23171)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-43503](https://www.cve.org/CVERecord?id=CVE-2026-43503)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-46300](https://www.cve.org/CVERecord?id=CVE-2026-46300)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** trixie
- **Package Version :** linux 6.12.90-1
- **Type :** DSA
-
-------------------------------
-
