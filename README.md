@@ -1,5 +1,37 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-06-06** - **[DSA-6324-1](https://security-tracker.debian.org/tracker/DSA-6324-1)** - request-tracker5
+
+**CVE(s) :**
+- **[CVE-2026-6841](https://www.cve.org/CVERecord?id=CVE-2026-6841)** : 🟠 **Severity: Medium** (Score: 5.1)
+
+- **[CVE-2026-41073](https://www.cve.org/CVERecord?id=CVE-2026-41073)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-41075](https://www.cve.org/CVERecord?id=CVE-2026-41075)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-41076](https://www.cve.org/CVERecord?id=CVE-2026-41076)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-44229](https://www.cve.org/CVERecord?id=CVE-2026-44229)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-44231](https://www.cve.org/CVERecord?id=CVE-2026-44231)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** request-tracker5 5.0.3+dfsg-3~deb12u6 	[trixie] - request-tracker5 5.0.7+dfsg-4+deb13u3
+ **Type :** DSA
+
+------------------------------
+
+**2026-06-06** - **[DSA-6323-1](https://security-tracker.debian.org/tracker/DSA-6323-1)** - apache2
+
+**CVE(s) :**
+- **[CVE-2026-49975](https://www.cve.org/CVERecord?id=CVE-2026-49975)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** apache2 2.4.67-1~deb12u3 	[trixie] - apache2 2.4.67-1~deb13u3
+ **Type :** DSA
+
+------------------------------
+
 **2026-06-05** - **[DLA-4618-1](https://security-tracker.debian.org/tracker/DLA-4618-1)** - gsasl
 
 **CVE(s) :**
