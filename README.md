@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-06-07** - **[DLA-4620-1](https://security-tracker.debian.org/tracker/DLA-4620-1)** - apache2
+
+**CVE(s) :**
+- **[CVE-2026-49975](https://www.cve.org/CVERecord?id=CVE-2026-49975)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** apache2 2.4.67-1~deb11u2
+ **Type :** DLA
+
+------------------------------
+
 **2026-06-07** - **[DLA-4619-1](https://security-tracker.debian.org/tracker/DLA-4619-1)** - tomcat9
 
 **CVE(s) :**
