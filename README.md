@@ -1,5 +1,46 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-06-07** - **[DLA-4619-1](https://security-tracker.debian.org/tracker/DLA-4619-1)** - tomcat9
+
+**CVE(s) :**
+- **[CVE-2026-24880](https://www.cve.org/CVERecord?id=CVE-2026-24880)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-25854](https://www.cve.org/CVERecord?id=CVE-2026-25854)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-29129](https://www.cve.org/CVERecord?id=CVE-2026-29129)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-29145](https://www.cve.org/CVERecord?id=CVE-2026-29145)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-29146](https://www.cve.org/CVERecord?id=CVE-2026-29146)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-32990](https://www.cve.org/CVERecord?id=CVE-2026-32990)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-34483](https://www.cve.org/CVERecord?id=CVE-2026-34483)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-34487](https://www.cve.org/CVERecord?id=CVE-2026-34487)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-34500](https://www.cve.org/CVERecord?id=CVE-2026-34500)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-41284](https://www.cve.org/CVERecord?id=CVE-2026-41284)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-41293](https://www.cve.org/CVERecord?id=CVE-2026-41293)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-42498](https://www.cve.org/CVERecord?id=CVE-2026-42498)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-43512](https://www.cve.org/CVERecord?id=CVE-2026-43512)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-43513](https://www.cve.org/CVERecord?id=CVE-2026-43513)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-43514](https://www.cve.org/CVERecord?id=CVE-2026-43514)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-43515](https://www.cve.org/CVERecord?id=CVE-2026-43515)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** tomcat9 9.0.118-0+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-06-06** - **[DSA-6324-1](https://security-tracker.debian.org/tracker/DSA-6324-1)** - request-tracker5
 
 **CVE(s) :**
@@ -1888,21 +1929,6 @@
 **Debian Version :** trixie
  **Package Version :** spip 4.4.15+dfsg-0+deb13u1
  **Type :** DSA
-
-------------------------------
-
-**2026-05-24** - **[DLA-4598-1](https://security-tracker.debian.org/tracker/DLA-4598-1)** - nodejs
-
-**CVE(s) :**
-- **[CVE-2025-59465](https://www.cve.org/CVERecord?id=CVE-2025-59465)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-21637](https://www.cve.org/CVERecord?id=CVE-2026-21637)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-21714](https://www.cve.org/CVERecord?id=CVE-2026-21714)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** nodejs 12.22.12~dfsg-1~deb11u8
- **Type :** DLA
 
 ------------------------------
 
