@@ -1,5 +1,24 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-06-08** - **[DLA-4621-1](https://security-tracker.debian.org/tracker/DLA-4621-1)** - glibc
+
+**CVE(s) :**
+- **[CVE-2025-8058](https://www.cve.org/CVERecord?id=CVE-2025-8058)** : 🟠 **Severity: Medium** (Score: 5.9)
+
+- **[CVE-2025-15281](https://www.cve.org/CVERecord?id=CVE-2025-15281)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0861](https://www.cve.org/CVERecord?id=CVE-2026-0861)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0915](https://www.cve.org/CVERecord?id=CVE-2026-0915)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-4046](https://www.cve.org/CVERecord?id=CVE-2026-4046)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** glibc 2.31-13+deb11u14
+ **Type :** DLA
+
+------------------------------
+
 **2026-06-07** - **[DLA-4620-1](https://security-tracker.debian.org/tracker/DLA-4620-1)** - apache2
 
 **CVE(s) :**
@@ -49,6 +68,27 @@
 **Debian Version :** bullseye
  **Package Version :** tomcat9 9.0.118-0+deb11u1
  **Type :** DLA
+
+------------------------------
+
+**2026-06-07** - **[DSA-6327-1](https://security-tracker.debian.org/tracker/DSA-6327-1)** - request-tracker4
+
+**CVE(s) :**
+- **[CVE-2026-6841](https://www.cve.org/CVERecord?id=CVE-2026-6841)** : 🟠 **Severity: Medium** (Score: 5.1)
+
+- **[CVE-2026-41073](https://www.cve.org/CVERecord?id=CVE-2026-41073)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-41075](https://www.cve.org/CVERecord?id=CVE-2026-41075)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-41076](https://www.cve.org/CVERecord?id=CVE-2026-41076)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-44229](https://www.cve.org/CVERecord?id=CVE-2026-44229)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-44231](https://www.cve.org/CVERecord?id=CVE-2026-44231)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** request-tracker4 4.4.6+dfsg-1.1+deb12u4
+ **Type :** DSA
 
 ------------------------------
 
@@ -2762,63 +2802,6 @@
 
 **Debian Version :** bookworm
  **Package Version :** samba 2:4.17.12+dfsg-0+deb12u4 	[trixie] - samba 2:4.22.8+dfsg-0+deb13u2
- **Type :** DSA
-
-------------------------------
-
-**2026-05-25** - **[DLA-4600-1](https://security-tracker.debian.org/tracker/DLA-4600-1)** - postorius
-
-**CVE(s) :**
-- **[CVE-2026-44742](https://www.cve.org/CVERecord?id=CVE-2026-44742)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** postorius 1.3.4-2+deb11u2
- **Type :** DLA
-
-------------------------------
-
-**2026-05-25** - **[DLA-4599-1](https://security-tracker.debian.org/tracker/DLA-4599-1)** - jq
-
-**CVE(s) :**
-- **[CVE-2026-32316](https://www.cve.org/CVERecord?id=CVE-2026-32316)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-33947](https://www.cve.org/CVERecord?id=CVE-2026-33947)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-33948](https://www.cve.org/CVERecord?id=CVE-2026-33948)** : 🟠 **Severity: Medium** (Score: 2.9)
-
-- **[CVE-2026-39956](https://www.cve.org/CVERecord?id=CVE-2026-39956)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-39979](https://www.cve.org/CVERecord?id=CVE-2026-39979)** : 🟠 **Severity: Medium** (Score: 6.9)
-
-- **[CVE-2026-40164](https://www.cve.org/CVERecord?id=CVE-2026-40164)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-41256](https://www.cve.org/CVERecord?id=CVE-2026-41256)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-41257](https://www.cve.org/CVERecord?id=CVE-2026-41257)** : 🟠 **Severity: Medium** (Score: 6.4)
-
-- **[CVE-2026-43895](https://www.cve.org/CVERecord?id=CVE-2026-43895)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-43896](https://www.cve.org/CVERecord?id=CVE-2026-43896)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-44777](https://www.cve.org/CVERecord?id=CVE-2026-44777)** : 🟠 **Severity: Medium** (Score: 5.4)
-
-**Debian Version :** bullseye
- **Package Version :** jq 1.6-2.1+deb11u2
- **Type :** DLA
-
-------------------------------
-
-**2026-05-25** - **[DSA-6296-1](https://security-tracker.debian.org/tracker/DSA-6296-1)** - spip
-
-**CVE(s) :**
-- **[CVE-2026-8429](https://www.cve.org/CVERecord?id=CVE-2026-8429)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-8430](https://www.cve.org/CVERecord?id=CVE-2026-8430)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-48832](https://www.cve.org/CVERecord?id=CVE-2026-48832)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** trixie
- **Package Version :** spip 4.4.15+dfsg-0+deb13u1
  **Type :** DSA
 
 ------------------------------
