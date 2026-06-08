@@ -1,5 +1,24 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-06-08** - **[DLA-4622-1](https://security-tracker.debian.org/tracker/DLA-4622-1)** - libxml2
+
+**CVE(s) :**
+- **[CVE-2025-8732](https://www.cve.org/CVERecord?id=CVE-2025-8732)** : 🟠 **Severity: Medium** (Score: 4.8)
+
+- **[CVE-2026-0989](https://www.cve.org/CVERecord?id=CVE-2026-0989)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0990](https://www.cve.org/CVERecord?id=CVE-2026-0990)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0992](https://www.cve.org/CVERecord?id=CVE-2026-0992)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-1757](https://www.cve.org/CVERecord?id=CVE-2026-1757)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** libxml2 2.9.10+dfsg-6.7+deb11u10
+ **Type :** DLA
+
+------------------------------
+
 **2026-06-08** - **[DLA-4621-1](https://security-tracker.debian.org/tracker/DLA-4621-1)** - glibc
 
 **CVE(s) :**
