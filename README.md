@@ -51,6 +51,25 @@
 
 ------------------------------
 
+**2026-06-08** - **[DSA-6331-1](https://security-tracker.debian.org/tracker/DSA-6331-1)** - keystone
+
+**CVE(s) :**
+- **[CVE-2026-42998](https://www.cve.org/CVERecord?id=CVE-2026-42998)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-42999](https://www.cve.org/CVERecord?id=CVE-2026-42999)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-43000](https://www.cve.org/CVERecord?id=CVE-2026-43000)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-43001](https://www.cve.org/CVERecord?id=CVE-2026-43001)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-44394](https://www.cve.org/CVERecord?id=CVE-2026-44394)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** keystone 2:22.0.2-0+deb12u3 	[trixie] - keystone 2:27.0.0-3+deb13u4
+ **Type :** DSA
+
+------------------------------
+
 **2026-06-08** - **[DSA-6330-1](https://security-tracker.debian.org/tracker/DSA-6330-1)** - strongswan
 
 **CVE(s) :**
