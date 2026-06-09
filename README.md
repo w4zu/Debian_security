@@ -17,6 +17,17 @@
 
 ------------------------------
 
+**2026-06-09** - **[DSA-6333-1](https://security-tracker.debian.org/tracker/DSA-6333-1)** - mistral
+
+**CVE(s) :**
+- **[CVE-2026-41283](https://www.cve.org/CVERecord?id=CVE-2026-41283)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** mistral 15.0.0-1+deb12u1 	[trixie] - mistral 20.0.0-2+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-06-08** - **[DLA-4623-1](https://security-tracker.debian.org/tracker/DLA-4623-1)** - jackson-core
 
 **CVE(s) :**
