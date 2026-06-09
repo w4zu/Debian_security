@@ -1,5 +1,22 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-06-09** - **[DLA-4624-1](https://security-tracker.debian.org/tracker/DLA-4624-1)** - openssl
+
+**CVE(s) :**
+- **[CVE-2026-28387](https://www.cve.org/CVERecord?id=CVE-2026-28387)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-28388](https://www.cve.org/CVERecord?id=CVE-2026-28388)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-28389](https://www.cve.org/CVERecord?id=CVE-2026-28389)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-28390](https://www.cve.org/CVERecord?id=CVE-2026-28390)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** openssl 1.1.1w-0+deb11u7
+ **Type :** DLA
+
+------------------------------
+
 **2026-06-08** - **[DLA-4623-1](https://security-tracker.debian.org/tracker/DLA-4623-1)** - jackson-core
 
 **CVE(s) :**
