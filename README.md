@@ -1,5 +1,24 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-06-10** - **[DLA-4625-1](https://security-tracker.debian.org/tracker/DLA-4625-1)** - dnsmasq
+
+**CVE(s) :**
+- **[CVE-2026-2291](https://www.cve.org/CVERecord?id=CVE-2026-2291)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-4890](https://www.cve.org/CVERecord?id=CVE-2026-4890)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-4891](https://www.cve.org/CVERecord?id=CVE-2026-4891)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-4892](https://www.cve.org/CVERecord?id=CVE-2026-4892)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-4893](https://www.cve.org/CVERecord?id=CVE-2026-4893)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** dnsmasq 2.85-1+deb11u2
+ **Type :** DLA
+
+------------------------------
+
 **2026-06-09** - **[DLA-4624-1](https://security-tracker.debian.org/tracker/DLA-4624-1)** - openssl
 
 **CVE(s) :**
