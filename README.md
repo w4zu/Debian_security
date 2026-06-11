@@ -1,5 +1,29 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-06-11** - **[DSA-6339-1](https://security-tracker.debian.org/tracker/DSA-6339-1)** - libinput
+
+**CVE(s) :**
+- **[CVE-2026-50292](https://www.cve.org/CVERecord?id=CVE-2026-50292)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** libinput 1.22.1-1+deb12u1 	[trixie] - libinput 1.28.1-1+deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2026-06-11** - **[DSA-6338-1](https://security-tracker.debian.org/tracker/DSA-6338-1)** - libdbi-perl
+
+**CVE(s) :**
+- **[CVE-2026-9698](https://www.cve.org/CVERecord?id=CVE-2026-9698)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-10879](https://www.cve.org/CVERecord?id=CVE-2026-10879)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** libdbi-perl 1.643-4+deb12u1 	[trixie] - libdbi-perl 1.647-1+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-06-10** - **[DLA-4625-1](https://security-tracker.debian.org/tracker/DLA-4625-1)** - dnsmasq
 
 **CVE(s) :**
