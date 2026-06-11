@@ -1,5 +1,39 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-06-11** - **[DSA-6341-1](https://security-tracker.debian.org/tracker/DSA-6341-1)** - ironic
+
+**CVE(s) :**
+- **[CVE-2024-44082](https://www.cve.org/CVERecord?id=CVE-2024-44082)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-42997](https://www.cve.org/CVERecord?id=CVE-2026-42997)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-44916](https://www.cve.org/CVERecord?id=CVE-2026-44916)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-44917](https://www.cve.org/CVERecord?id=CVE-2026-44917)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-44919](https://www.cve.org/CVERecord?id=CVE-2026-44919)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-46447](https://www.cve.org/CVERecord?id=CVE-2026-46447)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-48681](https://www.cve.org/CVERecord?id=CVE-2026-48681)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** ironic 1:21.4.4-0+deb12u1 	[trixie] - ironic 1:29.0.5-0+deb13u2
+ **Type :** DSA
+
+------------------------------
+
+**2026-06-11** - **[DSA-6340-1](https://security-tracker.debian.org/tracker/DSA-6340-1)** - neutron
+
+**CVE(s) :**
+- **[CVE-2026-50266](https://www.cve.org/CVERecord?id=CVE-2026-50266)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** neutron 2:26.0.3-0+deb13u2
+ **Type :** DSA
+
+------------------------------
+
 **2026-06-11** - **[DSA-6339-1](https://security-tracker.debian.org/tracker/DSA-6339-1)** - libinput
 
 **CVE(s) :**
