@@ -1,5 +1,62 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-06-12** - **[DLA-4629-1](https://security-tracker.debian.org/tracker/DLA-4629-1)** - apache2
+
+**CVE(s) :**
+- **[CVE-2026-29167](https://www.cve.org/CVERecord?id=CVE-2026-29167)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-29170](https://www.cve.org/CVERecord?id=CVE-2026-29170)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-34355](https://www.cve.org/CVERecord?id=CVE-2026-34355)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-34356](https://www.cve.org/CVERecord?id=CVE-2026-34356)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-42535](https://www.cve.org/CVERecord?id=CVE-2026-42535)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-42536](https://www.cve.org/CVERecord?id=CVE-2026-42536)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-43951](https://www.cve.org/CVERecord?id=CVE-2026-43951)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-44119](https://www.cve.org/CVERecord?id=CVE-2026-44119)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-44185](https://www.cve.org/CVERecord?id=CVE-2026-44185)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-44186](https://www.cve.org/CVERecord?id=CVE-2026-44186)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-44631](https://www.cve.org/CVERecord?id=CVE-2026-44631)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-48913](https://www.cve.org/CVERecord?id=CVE-2026-48913)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** apache2 2.4.67-1~deb11u3
+ **Type :** DLA
+
+------------------------------
+
+**2026-06-12** - **[DSA-6343-1](https://security-tracker.debian.org/tracker/DSA-6343-1)** - librabbitmq
+
+**CVE(s) :**
+- **[CVE-2026-44235](https://www.cve.org/CVERecord?id=CVE-2026-44235)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-44236](https://www.cve.org/CVERecord?id=CVE-2026-44236)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** librabbitmq 0.15.0-1+deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2026-06-12** - **[DSA-6342-1](https://security-tracker.debian.org/tracker/DSA-6342-1)** - jpeg-xl
+
+**CVE(s) :**
+- **[CVE-2025-70103](https://www.cve.org/CVERecord?id=CVE-2025-70103)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** jpeg-xl 0.11.2-0.1~deb13u2
+ **Type :** DSA
+
+------------------------------
+
 **2026-06-11** - **[DLA-4626-1](https://security-tracker.debian.org/tracker/DLA-4626-1)** - libinput
 
 **CVE(s) :**
