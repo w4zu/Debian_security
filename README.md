@@ -19,6 +19,38 @@
 
 ------------------------------
 
+**2026-06-15** - **[DSA-6346-1](https://security-tracker.debian.org/tracker/DSA-6346-1)** - libreoffice
+
+**CVE(s) :**
+- **[CVE-2026-6039](https://www.cve.org/CVERecord?id=CVE-2026-6039)** : 🟠 **Severity: Medium** (Score: 5.4)
+
+- **[CVE-2026-6040](https://www.cve.org/CVERecord?id=CVE-2026-6040)** : 🟠 **Severity: Medium** (Score: 5.4)
+
+- **[CVE-2026-6045](https://www.cve.org/CVERecord?id=CVE-2026-6045)** : 🟠 **Severity: Medium** (Score: 5.4)
+
+- **[CVE-2026-8356](https://www.cve.org/CVERecord?id=CVE-2026-8356)** : 🟠 **Severity: Medium** (Score: 5.4)
+
+- **[CVE-2026-8357](https://www.cve.org/CVERecord?id=CVE-2026-8357)** : 🟠 **Severity: Medium** (Score: 5.4)
+
+- **[CVE-2026-8358](https://www.cve.org/CVERecord?id=CVE-2026-8358)** : 🟠 **Severity: Medium** (Score: 5.4)
+
+**Debian Version :** trixie
+ **Package Version :** libreoffice 4:25.2.3-2+deb13u5
+ **Type :** DSA
+
+------------------------------
+
+**2026-06-15** - **[DSA-6345-1](https://security-tracker.debian.org/tracker/DSA-6345-1)** - libgd-perl
+
+**CVE(s) :**
+- **[CVE-2026-11526](https://www.cve.org/CVERecord?id=CVE-2026-11526)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** libgd-perl 2.78-1+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-06-13** - **[DSA-6344-1](https://security-tracker.debian.org/tracker/DSA-6344-1)** - chromium
 
 **CVE(s) :**
