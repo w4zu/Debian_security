@@ -1,5 +1,51 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-06-16** - **[DLA-4632-1](https://security-tracker.debian.org/tracker/DLA-4632-1)** - atril
+
+**CVE(s) :**
+- **[CVE-2026-46529](https://www.cve.org/CVERecord?id=CVE-2026-46529)** : 🔥 **Severity: High** (Score: 8.4)
+
+**Debian Version :** bookworm
+ **Package Version :** atril 1.26.0-2+deb12u4
+ **Type :** DLA
+
+------------------------------
+
+**2026-06-16** - **[DLA-4631-1](https://security-tracker.debian.org/tracker/DLA-4631-1)** - asterisk
+
+**CVE(s) :**
+- **[CVE-2025-65102](https://www.cve.org/CVERecord?id=CVE-2025-65102)** : 🔥 **Severity: High** (Score: 8.7)
+
+- **[CVE-2026-25994](https://www.cve.org/CVERecord?id=CVE-2026-25994)** : 🔥 **Severity: High** (Score: 8.1)
+
+- **[CVE-2026-26203](https://www.cve.org/CVERecord?id=CVE-2026-26203)** : 🟠 **Severity: Medium** (Score: 5.1)
+
+- **[CVE-2026-26967](https://www.cve.org/CVERecord?id=CVE-2026-26967)** : 🔥 **Severity: High** (Score: 8.1)
+
+- **[CVE-2026-28799](https://www.cve.org/CVERecord?id=CVE-2026-28799)** : 🔥 **Severity: High** (Score: 8.7)
+
+- **[CVE-2026-29068](https://www.cve.org/CVERecord?id=CVE-2026-29068)** : 🔥 **Severity: High** (Score: 8.7)
+
+- **[CVE-2026-32942](https://www.cve.org/CVERecord?id=CVE-2026-32942)** : 🔥 **Severity: High** (Score: 8)
+
+- **[CVE-2026-32945](https://www.cve.org/CVERecord?id=CVE-2026-32945)** : 🔥 **Severity: High** (Score: 8.4)
+
+- **[CVE-2026-33069](https://www.cve.org/CVERecord?id=CVE-2026-33069)** : 🟠 **Severity: Medium** (Score: 6.9)
+
+- **[CVE-2026-34235](https://www.cve.org/CVERecord?id=CVE-2026-34235)** : 🟠 **Severity: Medium** (Score: 6.9)
+
+- **[CVE-2026-40614](https://www.cve.org/CVERecord?id=CVE-2026-40614)** : 🔥 **Severity: High** (Score: 8.5)
+
+- **[CVE-2026-41415](https://www.cve.org/CVERecord?id=CVE-2026-41415)** : 🟠 **Severity: Medium** (Score: 6.7)
+
+- **[CVE-2026-42225](https://www.cve.org/CVERecord?id=CVE-2026-42225)** : 🔥 **Severity: High** (Score: 8.2)
+
+**Debian Version :** bullseye
+ **Package Version :** asterisk 1:16.28.0~dfsg-0+deb11u10
+ **Type :** DLA
+
+------------------------------
+
 **2026-06-15** - **[DLA-4630-1](https://security-tracker.debian.org/tracker/DLA-4630-1)** - openssl
 
 **CVE(s) :**
