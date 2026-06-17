@@ -112,8 +112,6 @@
 
 - **[CVE-2026-12012](https://www.cve.org/CVERecord?id=CVE-2026-12012)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2026-12013](https://www.cve.org/CVERecord?id=CVE-2026-12013)** : **Severity: Unknown** (Score: N/A)
-
 - **[CVE-2026-12014](https://www.cve.org/CVERecord?id=CVE-2026-12014)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2026-12015](https://www.cve.org/CVERecord?id=CVE-2026-12015)** : **Severity: Unknown** (Score: N/A)
