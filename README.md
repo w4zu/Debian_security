@@ -1,5 +1,24 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-06-17** - **[DLA-4633-1](https://security-tracker.debian.org/tracker/DLA-4633-1)** - libreoffice
+
+**CVE(s) :**
+- **[CVE-2026-6039](https://www.cve.org/CVERecord?id=CVE-2026-6039)** : 🟠 **Severity: Medium** (Score: 5.4)
+
+- **[CVE-2026-6045](https://www.cve.org/CVERecord?id=CVE-2026-6045)** : 🟠 **Severity: Medium** (Score: 5.4)
+
+- **[CVE-2026-8356](https://www.cve.org/CVERecord?id=CVE-2026-8356)** : 🟠 **Severity: Medium** (Score: 5.4)
+
+- **[CVE-2026-8357](https://www.cve.org/CVERecord?id=CVE-2026-8357)** : 🟠 **Severity: Medium** (Score: 5.4)
+
+- **[CVE-2026-8358](https://www.cve.org/CVERecord?id=CVE-2026-8358)** : 🟠 **Severity: Medium** (Score: 5.4)
+
+**Debian Version :** bookworm
+ **Package Version :** libreoffice 4:7.4.7-1+deb12u13
+ **Type :** DLA
+
+------------------------------
+
 **2026-06-16** - **[DLA-4632-1](https://security-tracker.debian.org/tracker/DLA-4632-1)** - atril
 
 **CVE(s) :**
