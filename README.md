@@ -1793,16 +1793,3 @@
 
 ------------------------------
 
-**2026-06-03** - **[DSA-6321-1](https://security-tracker.debian.org/tracker/DSA-6321-1)** - ceph
-
-**CVE(s) :**
-- **[CVE-2024-31884](https://www.cve.org/CVERecord?id=CVE-2024-31884)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-47866](https://www.cve.org/CVERecord?id=CVE-2024-47866)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** ceph 16.2.15+ds-0+deb12u2 	[trixie] - ceph 18.2.7+ds-1+deb13u1
- **Type :** DSA
-
-------------------------------
-
