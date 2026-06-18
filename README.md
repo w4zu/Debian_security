@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-06-17** - **[DLA-4634-1](https://security-tracker.debian.org/tracker/DLA-4634-1)** - nginx
+
+**CVE(s) :**
+- **[CVE-2026-9256](https://www.cve.org/CVERecord?id=CVE-2026-9256)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** nginx 1.18.0-6.1+deb11u7
+ **Type :** DLA
+
+------------------------------
+
 **2026-06-17** - **[DLA-4633-1](https://security-tracker.debian.org/tracker/DLA-4633-1)** - libreoffice
 
 **CVE(s) :**
@@ -1874,17 +1885,6 @@
 **Debian Version :** bookworm
  **Package Version :** frr 8.4.4-1.1~deb12u2 	[trixie] - frr 10.3-3+deb13u1
  **Type :** DSA
-
-------------------------------
-
-**2026-06-04** - **[DLA-4614-1](https://security-tracker.debian.org/tracker/DLA-4614-1)** - sudo
-
-**CVE(s) :**
-- **[CVE-2026-35535](https://www.cve.org/CVERecord?id=CVE-2026-35535)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** sudo 1.9.5p2-3+deb11u4
- **Type :** DLA
 
 ------------------------------
 
