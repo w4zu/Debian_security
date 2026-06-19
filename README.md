@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-06-19** - **[DLA-4637-1](https://security-tracker.debian.org/tracker/DLA-4637-1)** - libconfig-inifiles-perl
+
+**CVE(s) :**
+- **[CVE-2026-11527](https://www.cve.org/CVERecord?id=CVE-2026-11527)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** libconfig-inifiles-perl 3.000003-1+deb11u1 	[bookworm] - libconfig-inifiles-perl 3.000003-2+deb12u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-06-19** - **[DLA-4636-1](https://security-tracker.debian.org/tracker/DLA-4636-1)** - thunderbird
 
 **CVE(s) :**
@@ -131,6 +142,28 @@
 **Debian Version :** bullseye
  **Package Version :** firefox-esr 140.12.0esr-1~deb11u1 	[bookworm] - firefox-esr 140.12.0esr-1~deb12u1
  **Type :** DLA
+
+------------------------------
+
+**2026-06-19** - **[DSA-6354-1](https://security-tracker.debian.org/tracker/DSA-6354-1)** - libconfig-inifiles-perl
+
+**CVE(s) :**
+- **[CVE-2026-11527](https://www.cve.org/CVERecord?id=CVE-2026-11527)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** libconfig-inifiles-perl 3.000003-3+deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2026-06-19** - **[DSA-6353-1](https://security-tracker.debian.org/tracker/DSA-6353-1)** - gst-libav1.0
+
+**CVE(s) :**
+- **[CVE-2026-52717](https://www.cve.org/CVERecord?id=CVE-2026-52717)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** gst-libav1.0 1.26.2-1+deb13u1
+ **Type :** DSA
 
 ------------------------------
 
