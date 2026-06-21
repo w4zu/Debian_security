@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-06-21** - **[DLA-4639-1](https://security-tracker.debian.org/tracker/DLA-4639-1)** - libhttp-daemon-perl
+
+**CVE(s) :**
+- **[CVE-2026-8450](https://www.cve.org/CVERecord?id=CVE-2026-8450)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** libhttp-daemon-perl 6.12-1+deb11u2 	[bookworm] - libhttp-daemon-perl 6.16-1+deb13u1~deb12u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-06-21** - **[DLA-4638-1](https://security-tracker.debian.org/tracker/DLA-4638-1)** - libgd-perl
 
 **CVE(s) :**
@@ -8,6 +19,68 @@
 **Debian Version :** bullseye
  **Package Version :** libgd-perl 2.73-1+deb11u1 	[bookworm] - libgd-perl 2.76-4+deb12u1
  **Type :** DLA
+
+------------------------------
+
+**2026-06-21** - **[DSA-6360-1](https://security-tracker.debian.org/tracker/DSA-6360-1)** - squid
+
+**CVE(s) :**
+- **[CVE-2026-33515](https://www.cve.org/CVERecord?id=CVE-2026-33515)** : 🟠 **Severity: Medium** (Score: 6.9)
+
+- **[CVE-2026-33526](https://www.cve.org/CVERecord?id=CVE-2026-33526)** : 🔥 **Severity: High** (Score: 9.2)
+
+- **[CVE-2026-47729](https://www.cve.org/CVERecord?id=CVE-2026-47729)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-50012](https://www.cve.org/CVERecord?id=CVE-2026-50012)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** squid 6.13-2+deb13u2
+ **Type :** DSA
+
+------------------------------
+
+**2026-06-21** - **[DSA-6359-1](https://security-tracker.debian.org/tracker/DSA-6359-1)** - gst-plugins-good1.0
+
+**CVE(s) :**
+- **[CVE-2026-1940](https://www.cve.org/CVERecord?id=CVE-2026-1940)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-3083](https://www.cve.org/CVERecord?id=CVE-2026-3083)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-3085](https://www.cve.org/CVERecord?id=CVE-2026-3085)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-39043](https://www.cve.org/CVERecord?id=CVE-2026-39043)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-39044](https://www.cve.org/CVERecord?id=CVE-2026-39044)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** gst-plugins-good1.0 1.26.2-1+deb13u2
+ **Type :** DSA
+
+------------------------------
+
+**2026-06-21** - **[DSA-6358-1](https://security-tracker.debian.org/tracker/DSA-6358-1)** - libhttp-daemon-perl
+
+**CVE(s) :**
+- **[CVE-2026-8450](https://www.cve.org/CVERecord?id=CVE-2026-8450)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** libhttp-daemon-perl 6.16-1+deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2026-06-21** - **[DSA-6357-1](https://security-tracker.debian.org/tracker/DSA-6357-1)** - pillow
+
+**CVE(s) :**
+- **[CVE-2026-42308](https://www.cve.org/CVERecord?id=CVE-2026-42308)** : 🟠 **Severity: Medium** (Score: 5.1)
+
+- **[CVE-2026-42310](https://www.cve.org/CVERecord?id=CVE-2026-42310)** : 🟠 **Severity: Medium** (Score: 5.1)
+
+- **[CVE-2026-42311](https://www.cve.org/CVERecord?id=CVE-2026-42311)** : 🔥 **Severity: High** (Score: 8.6)
+
+**Debian Version :** trixie
+ **Package Version :** pillow 11.1.0-5+deb13u3
+ **Type :** DSA
 
 ------------------------------
 
