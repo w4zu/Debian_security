@@ -17,6 +17,21 @@
 
 ------------------------------
 
+**2026-06-22** - **[DSA-6361-1](https://security-tracker.debian.org/tracker/DSA-6361-1)** - ffmpeg
+
+**CVE(s) :**
+- **[CVE-2025-22921](https://www.cve.org/CVERecord?id=CVE-2025-22921)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-8461](https://www.cve.org/CVERecord?id=CVE-2026-8461)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-30997](https://www.cve.org/CVERecord?id=CVE-2026-30997)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** ffmpeg 7:7.1.5-0+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-06-21** - **[DLA-4639-1](https://security-tracker.debian.org/tracker/DLA-4639-1)** - libhttp-daemon-perl
 
 **CVE(s) :**
