@@ -1,5 +1,42 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-06-23** - **[DLA-4641-1](https://security-tracker.debian.org/tracker/DLA-4641-1)** - beets
+
+**CVE(s) :**
+- **[CVE-2026-42052](https://www.cve.org/CVERecord?id=CVE-2026-42052)** : 🟠 **Severity: Medium** (Score: 6)
+
+**Debian Version :** bullseye
+ **Package Version :** beets 1.4.9-7+deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2026-06-23** - **[DSA-6363-1](https://security-tracker.debian.org/tracker/DSA-6363-1)** - python-urllib3
+
+**CVE(s) :**
+- **[CVE-2026-44431](https://www.cve.org/CVERecord?id=CVE-2026-44431)** : 🔥 **Severity: High** (Score: 8.2)
+
+**Debian Version :** trixie
+ **Package Version :** python-urllib3 2.3.0-3+deb13u2
+ **Type :** DSA
+
+------------------------------
+
+**2026-06-23** - **[DSA-6362-1](https://security-tracker.debian.org/tracker/DSA-6362-1)** - gst-plugins-bad1.0
+
+**CVE(s) :**
+- **[CVE-2026-52718](https://www.cve.org/CVERecord?id=CVE-2026-52718)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-52719](https://www.cve.org/CVERecord?id=CVE-2026-52719)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-53701](https://www.cve.org/CVERecord?id=CVE-2026-53701)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** gst-plugins-bad1.0 1.26.2-3+deb13u2
+ **Type :** DSA
+
+------------------------------
+
 **2026-06-22** - **[DLA-4640-1](https://security-tracker.debian.org/tracker/DLA-4640-1)** - mediawiki
 
 **CVE(s) :**
@@ -718,6 +755,17 @@
 **Debian Version :** bullseye
  **Package Version :** asterisk 1:16.28.0~dfsg-0+deb11u10
  **Type :** DLA
+
+------------------------------
+
+**2026-06-16** - **[DSA-6348-1](https://security-tracker.debian.org/tracker/DSA-6348-1)** - gsasl
+
+**CVE(s) :**
+- **[CVE-2026-56968](https://www.cve.org/CVERecord?id=CVE-2026-56968)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** gsasl 2.2.2-1.1+deb13u2
+ **Type :** DSA
 
 ------------------------------
 
