@@ -1,5 +1,28 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-06-24** - **[DLA-4646-1](https://security-tracker.debian.org/tracker/DLA-4646-1)** - postgresql-13
+
+**CVE(s) :**
+- **[CVE-2026-6473](https://www.cve.org/CVERecord?id=CVE-2026-6473)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-6474](https://www.cve.org/CVERecord?id=CVE-2026-6474)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-6475](https://www.cve.org/CVERecord?id=CVE-2026-6475)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-6477](https://www.cve.org/CVERecord?id=CVE-2026-6477)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-6478](https://www.cve.org/CVERecord?id=CVE-2026-6478)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-6479](https://www.cve.org/CVERecord?id=CVE-2026-6479)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-6637](https://www.cve.org/CVERecord?id=CVE-2026-6637)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** postgresql-13 13.23-0+deb11u4
+ **Type :** DLA
+
+------------------------------
+
 **2026-06-24** - **[DLA-4644-1](https://security-tracker.debian.org/tracker/DLA-4644-1)** - libmatio
 
 **CVE(s) :**
