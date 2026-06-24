@@ -1,5 +1,20 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-06-24** - **[DLA-4644-1](https://security-tracker.debian.org/tracker/DLA-4644-1)** - libmatio
+
+**CVE(s) :**
+- **[CVE-2025-2337](https://www.cve.org/CVERecord?id=CVE-2025-2337)** : 🟠 **Severity: Medium** (Score: 5.3)
+
+- **[CVE-2025-2338](https://www.cve.org/CVERecord?id=CVE-2025-2338)** : 🟠 **Severity: Medium** (Score: 5.3)
+
+- **[CVE-2025-50343](https://www.cve.org/CVERecord?id=CVE-2025-50343)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** libmatio 1.5.23-2+deb12u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-06-23** - **[DLA-4643-1](https://security-tracker.debian.org/tracker/DLA-4643-1)** - imagemagick
 
 **CVE(s) :**
