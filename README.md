@@ -1,5 +1,31 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-06-26** - **[DLA-4650-1](https://security-tracker.debian.org/tracker/DLA-4650-1)** - giflib
+
+**CVE(s) :**
+- **[CVE-2026-23868](https://www.cve.org/CVERecord?id=CVE-2026-23868)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-26740](https://www.cve.org/CVERecord?id=CVE-2026-26740)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** giflib 5.1.9-2+deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2026-06-26** - **[DLA-4649-1](https://security-tracker.debian.org/tracker/DLA-4649-1)** - libdbi-perl
+
+**CVE(s) :**
+- **[CVE-2026-9698](https://www.cve.org/CVERecord?id=CVE-2026-9698)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-10879](https://www.cve.org/CVERecord?id=CVE-2026-10879)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** libdbi-perl 1.643-3+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-06-25** - **[DLA-4648-1](https://security-tracker.debian.org/tracker/DLA-4648-1)** - libtext-csv-xs-perl
 
 **CVE(s) :**
