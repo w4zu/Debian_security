@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-06-26** - **[DLA-4651-1](https://security-tracker.debian.org/tracker/DLA-4651-1)** - python-urllib3
+
+**CVE(s) :**
+- **[CVE-2026-44431](https://www.cve.org/CVERecord?id=CVE-2026-44431)** : 🔥 **Severity: High** (Score: 8.2)
+
+**Debian Version :** bullseye
+ **Package Version :** python-urllib3 1.26.5-1~exp1+deb11u4 	[bookworm] - python-urllib3 1.26.12-1+deb12u4
+ **Type :** DLA
+
+------------------------------
+
 **2026-06-26** - **[DLA-4650-1](https://security-tracker.debian.org/tracker/DLA-4650-1)** - giflib
 
 **CVE(s) :**
