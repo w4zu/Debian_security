@@ -13,6 +13,33 @@
 
 ------------------------------
 
+**2026-06-27** - **[DSA-6371-1](https://security-tracker.debian.org/tracker/DSA-6371-1)** - xorg-server
+
+**CVE(s) :**
+- **[CVE-2026-50256](https://www.cve.org/CVERecord?id=CVE-2026-50256)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-50257](https://www.cve.org/CVERecord?id=CVE-2026-50257)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-50258](https://www.cve.org/CVERecord?id=CVE-2026-50258)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-50259](https://www.cve.org/CVERecord?id=CVE-2026-50259)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-50260](https://www.cve.org/CVERecord?id=CVE-2026-50260)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-50261](https://www.cve.org/CVERecord?id=CVE-2026-50261)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-50262](https://www.cve.org/CVERecord?id=CVE-2026-50262)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-50263](https://www.cve.org/CVERecord?id=CVE-2026-50263)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-50264](https://www.cve.org/CVERecord?id=CVE-2026-50264)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** xorg-server 2:21.1.16-1.3+deb13u3
+ **Type :** DSA
+
+------------------------------
+
 **2026-06-26** - **[DLA-4652-1](https://security-tracker.debian.org/tracker/DLA-4652-1)** - gdcm
 
 **CVE(s) :**
@@ -74,6 +101,33 @@
 **Debian Version :** bullseye
  **Package Version :** libdbi-perl 1.643-3+deb11u1
  **Type :** DLA
+
+------------------------------
+
+**2026-06-26** - **[DSA-6370-1](https://security-tracker.debian.org/tracker/DSA-6370-1)** - incus
+
+**CVE(s) :**
+- **[CVE-2026-48749](https://www.cve.org/CVERecord?id=CVE-2026-48749)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-48750](https://www.cve.org/CVERecord?id=CVE-2026-48750)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-48751](https://www.cve.org/CVERecord?id=CVE-2026-48751)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-48752](https://www.cve.org/CVERecord?id=CVE-2026-48752)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-48755](https://www.cve.org/CVERecord?id=CVE-2026-48755)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-48756](https://www.cve.org/CVERecord?id=CVE-2026-48756)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-48769](https://www.cve.org/CVERecord?id=CVE-2026-48769)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-55621](https://www.cve.org/CVERecord?id=CVE-2026-55621)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-55622](https://www.cve.org/CVERecord?id=CVE-2026-55622)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** incus 6.0.4-2+deb13u8
+ **Type :** DSA
 
 ------------------------------
 
