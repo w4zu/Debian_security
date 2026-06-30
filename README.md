@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-06-30** - **[DLA-4658-1](https://security-tracker.debian.org/tracker/DLA-4658-1)** - librabbitmq
+
+**CVE(s) :**
+- **[CVE-2026-44235](https://www.cve.org/CVERecord?id=CVE-2026-44235)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-44236](https://www.cve.org/CVERecord?id=CVE-2026-44236)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** librabbitmq 0.10.0-1+deb11u2 	[bookworm] - librabbitmq 0.11.0-1+deb12u2
+ **Type :** DLA
+
+------------------------------
+
 **2026-06-29** - **[DLA-4657-1](https://security-tracker.debian.org/tracker/DLA-4657-1)** - sogo
 
 **CVE(s) :**
