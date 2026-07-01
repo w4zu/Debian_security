@@ -1,5 +1,44 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-07-01** - **[DLA-4662-1](https://security-tracker.debian.org/tracker/DLA-4662-1)** - jq
+
+**CVE(s) :**
+- **[CVE-2026-32316](https://www.cve.org/CVERecord?id=CVE-2026-32316)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-33947](https://www.cve.org/CVERecord?id=CVE-2026-33947)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-33948](https://www.cve.org/CVERecord?id=CVE-2026-33948)** : 🟠 **Severity: Medium** (Score: 2.9)
+
+- **[CVE-2026-39956](https://www.cve.org/CVERecord?id=CVE-2026-39956)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-39979](https://www.cve.org/CVERecord?id=CVE-2026-39979)** : 🟠 **Severity: Medium** (Score: 6.9)
+
+- **[CVE-2026-40164](https://www.cve.org/CVERecord?id=CVE-2026-40164)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-41256](https://www.cve.org/CVERecord?id=CVE-2026-41256)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-41257](https://www.cve.org/CVERecord?id=CVE-2026-41257)** : 🟠 **Severity: Medium** (Score: 6.4)
+
+- **[CVE-2026-43894](https://www.cve.org/CVERecord?id=CVE-2026-43894)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-43895](https://www.cve.org/CVERecord?id=CVE-2026-43895)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-43896](https://www.cve.org/CVERecord?id=CVE-2026-43896)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-44777](https://www.cve.org/CVERecord?id=CVE-2026-44777)** : 🟠 **Severity: Medium** (Score: 5.4)
+
+- **[CVE-2026-47770](https://www.cve.org/CVERecord?id=CVE-2026-47770)** : 🟠 **Severity: Medium** (Score: 6.8)
+
+- **[CVE-2026-49839](https://www.cve.org/CVERecord?id=CVE-2026-49839)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-54679](https://www.cve.org/CVERecord?id=CVE-2026-54679)** : 🟠 **Severity: Medium** (Score: 6.9)
+
+**Debian Version :** bookworm
+ **Package Version :** jq 1.6-2.1+deb12u2
+ **Type :** DLA
+
+------------------------------
+
 **2026-07-01** - **[DLA-4661-1](https://security-tracker.debian.org/tracker/DLA-4661-1)** - jq
 
 **CVE(s) :**
