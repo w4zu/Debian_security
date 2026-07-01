@@ -1,5 +1,22 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-07-01** - **[DLA-4661-1](https://security-tracker.debian.org/tracker/DLA-4661-1)** - jq
+
+**CVE(s) :**
+- **[CVE-2026-43894](https://www.cve.org/CVERecord?id=CVE-2026-43894)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-47770](https://www.cve.org/CVERecord?id=CVE-2026-47770)** : 🟠 **Severity: Medium** (Score: 6.8)
+
+- **[CVE-2026-49839](https://www.cve.org/CVERecord?id=CVE-2026-49839)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-54679](https://www.cve.org/CVERecord?id=CVE-2026-54679)** : 🟠 **Severity: Medium** (Score: 6.9)
+
+**Debian Version :** bullseye
+ **Package Version :** jq 1.6-2.1+deb11u3
+ **Type :** DLA
+
+------------------------------
+
 **2026-06-30** - **[DLA-4660-1](https://security-tracker.debian.org/tracker/DLA-4660-1)** - nginx
 
 **CVE(s) :**
