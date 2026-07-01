@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-06-30** - **[DLA-4660-1](https://security-tracker.debian.org/tracker/DLA-4660-1)** - nginx
+
+**CVE(s) :**
+- **[CVE-2026-42055](https://www.cve.org/CVERecord?id=CVE-2026-42055)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-48142](https://www.cve.org/CVERecord?id=CVE-2026-48142)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** nginx 1.18.0-6.1+deb11u8
+ **Type :** DLA
+
+------------------------------
+
 **2026-06-30** - **[DLA-4658-1](https://security-tracker.debian.org/tracker/DLA-4658-1)** - librabbitmq
 
 **CVE(s) :**
@@ -10,6 +23,19 @@
 **Debian Version :** bullseye
  **Package Version :** librabbitmq 0.10.0-1+deb11u2 	[bookworm] - librabbitmq 0.11.0-1+deb12u2
  **Type :** DLA
+
+------------------------------
+
+**2026-06-30** - **[DSA-6374-1](https://security-tracker.debian.org/tracker/DSA-6374-1)** - nginx
+
+**CVE(s) :**
+- **[CVE-2026-42055](https://www.cve.org/CVERecord?id=CVE-2026-42055)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-48142](https://www.cve.org/CVERecord?id=CVE-2026-48142)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** nginx 1.26.3-3+deb13u7
+ **Type :** DSA
 
 ------------------------------
 
@@ -1086,114 +1112,6 @@
 
 **Debian Version :** trixie
  **Package Version :** thunderbird 1:140.12.0esr-1~deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2026-06-17** - **[DLA-4634-1](https://security-tracker.debian.org/tracker/DLA-4634-1)** - nginx
-
-**CVE(s) :**
-- **[CVE-2026-9256](https://www.cve.org/CVERecord?id=CVE-2026-9256)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** nginx 1.18.0-6.1+deb11u7
- **Type :** DLA
-
-------------------------------
-
-**2026-06-17** - **[DLA-4633-1](https://security-tracker.debian.org/tracker/DLA-4633-1)** - libreoffice
-
-**CVE(s) :**
-- **[CVE-2026-6039](https://www.cve.org/CVERecord?id=CVE-2026-6039)** : 🟠 **Severity: Medium** (Score: 5.4)
-
-- **[CVE-2026-6045](https://www.cve.org/CVERecord?id=CVE-2026-6045)** : 🟠 **Severity: Medium** (Score: 5.4)
-
-- **[CVE-2026-8356](https://www.cve.org/CVERecord?id=CVE-2026-8356)** : 🟠 **Severity: Medium** (Score: 5.4)
-
-- **[CVE-2026-8357](https://www.cve.org/CVERecord?id=CVE-2026-8357)** : 🟠 **Severity: Medium** (Score: 5.4)
-
-- **[CVE-2026-8358](https://www.cve.org/CVERecord?id=CVE-2026-8358)** : 🟠 **Severity: Medium** (Score: 5.4)
-
-**Debian Version :** bookworm
- **Package Version :** libreoffice 4:7.4.7-1+deb12u13
- **Type :** DLA
-
-------------------------------
-
-**2026-06-17** - **[DSA-6350-1](https://security-tracker.debian.org/tracker/DSA-6350-1)** - firefox-esr
-
-**CVE(s) :**
-- **[CVE-2026-12289](https://www.cve.org/CVERecord?id=CVE-2026-12289)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-12290](https://www.cve.org/CVERecord?id=CVE-2026-12290)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-12291](https://www.cve.org/CVERecord?id=CVE-2026-12291)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-12292](https://www.cve.org/CVERecord?id=CVE-2026-12292)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-12294](https://www.cve.org/CVERecord?id=CVE-2026-12294)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-12295](https://www.cve.org/CVERecord?id=CVE-2026-12295)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-12296](https://www.cve.org/CVERecord?id=CVE-2026-12296)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-12297](https://www.cve.org/CVERecord?id=CVE-2026-12297)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-12298](https://www.cve.org/CVERecord?id=CVE-2026-12298)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-12299](https://www.cve.org/CVERecord?id=CVE-2026-12299)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-12302](https://www.cve.org/CVERecord?id=CVE-2026-12302)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-12304](https://www.cve.org/CVERecord?id=CVE-2026-12304)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-12305](https://www.cve.org/CVERecord?id=CVE-2026-12305)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-12306](https://www.cve.org/CVERecord?id=CVE-2026-12306)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-12307](https://www.cve.org/CVERecord?id=CVE-2026-12307)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-12308](https://www.cve.org/CVERecord?id=CVE-2026-12308)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-12309](https://www.cve.org/CVERecord?id=CVE-2026-12309)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-12310](https://www.cve.org/CVERecord?id=CVE-2026-12310)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-12311](https://www.cve.org/CVERecord?id=CVE-2026-12311)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-12312](https://www.cve.org/CVERecord?id=CVE-2026-12312)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-12313](https://www.cve.org/CVERecord?id=CVE-2026-12313)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-12314](https://www.cve.org/CVERecord?id=CVE-2026-12314)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-12315](https://www.cve.org/CVERecord?id=CVE-2026-12315)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-12324](https://www.cve.org/CVERecord?id=CVE-2026-12324)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-12325](https://www.cve.org/CVERecord?id=CVE-2026-12325)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-12327](https://www.cve.org/CVERecord?id=CVE-2026-12327)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-12328](https://www.cve.org/CVERecord?id=CVE-2026-12328)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-12329](https://www.cve.org/CVERecord?id=CVE-2026-12329)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-12330](https://www.cve.org/CVERecord?id=CVE-2026-12330)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** trixie
- **Package Version :** firefox-esr 140.12.0esr-1~deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2026-06-17** - **[DSA-6349-1](https://security-tracker.debian.org/tracker/DSA-6349-1)** - atril
-
-**CVE(s) :**
-- **[CVE-2026-46529](https://www.cve.org/CVERecord?id=CVE-2026-46529)** : 🔥 **Severity: High** (Score: 8.4)
-
-**Debian Version :** trixie
- **Package Version :** atril 1.26.2-4+deb13u1
  **Type :** DSA
 
 ------------------------------
