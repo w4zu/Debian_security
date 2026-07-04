@@ -21,6 +21,30 @@
 
 ------------------------------
 
+**2026-07-04** - **[DSA-6377-1](https://security-tracker.debian.org/tracker/DSA-6377-1)** - php8.4
+
+**CVE(s) :**
+- **[CVE-2026-14355](https://www.cve.org/CVERecord?id=CVE-2026-14355)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** php8.4 8.4.23-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2026-07-03** - **[DLA-4667-1](https://security-tracker.debian.org/tracker/DLA-4667-1)** - nginx
+
+**CVE(s) :**
+- **[CVE-2026-42055](https://www.cve.org/CVERecord?id=CVE-2026-42055)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-48142](https://www.cve.org/CVERecord?id=CVE-2026-48142)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** nginx 1.22.1-9+deb12u9
+ **Type :** DLA
+
+------------------------------
+
 **2026-07-03** - **[DLA-4665-1](https://security-tracker.debian.org/tracker/DLA-4665-1)** - linux
 
 **CVE(s) :**
