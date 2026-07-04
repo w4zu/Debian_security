@@ -1,5 +1,26 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-07-04** - **[DLA-4666-1](https://security-tracker.debian.org/tracker/DLA-4666-1)** - openvpn
+
+**CVE(s) :**
+- **[CVE-2026-11771](https://www.cve.org/CVERecord?id=CVE-2026-11771)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-12932](https://www.cve.org/CVERecord?id=CVE-2026-12932)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-12996](https://www.cve.org/CVERecord?id=CVE-2026-12996)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-13117](https://www.cve.org/CVERecord?id=CVE-2026-13117)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-13122](https://www.cve.org/CVERecord?id=CVE-2026-13122)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-13698](https://www.cve.org/CVERecord?id=CVE-2026-13698)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** openvpn 2.6.14-0+deb12u2
+ **Type :** DLA
+
+------------------------------
+
 **2026-07-03** - **[DLA-4665-1](https://security-tracker.debian.org/tracker/DLA-4665-1)** - linux
 
 **CVE(s) :**
@@ -1727,6 +1748,27 @@
 **Debian Version :** bullseye
  **Package Version :** linux 5.10.259-1
  **Type :** DLA
+
+------------------------------
+
+**2026-07-03** - **[DSA-6376-1](https://security-tracker.debian.org/tracker/DSA-6376-1)** - openvpn
+
+**CVE(s) :**
+- **[CVE-2026-11771](https://www.cve.org/CVERecord?id=CVE-2026-11771)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-12932](https://www.cve.org/CVERecord?id=CVE-2026-12932)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-12996](https://www.cve.org/CVERecord?id=CVE-2026-12996)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-13117](https://www.cve.org/CVERecord?id=CVE-2026-13117)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-13122](https://www.cve.org/CVERecord?id=CVE-2026-13122)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-13698](https://www.cve.org/CVERecord?id=CVE-2026-13698)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** openvpn 2.6.14-1+deb13u3
+ **Type :** DSA
 
 ------------------------------
 
