@@ -1,5 +1,27 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-07-04** - **[DLA-4669-1](https://security-tracker.debian.org/tracker/DLA-4669-1)** - php8.2
+
+**CVE(s) :**
+- **[CVE-2026-14355](https://www.cve.org/CVERecord?id=CVE-2026-14355)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** php8.2 8.2.32-1~deb12u1
+ **Type :** DLA
+
+------------------------------
+
+**2026-07-04** - **[DLA-4668-1](https://security-tracker.debian.org/tracker/DLA-4668-1)** - sympa
+
+**CVE(s) :**
+- **[CVE-2024-55919](https://www.cve.org/CVERecord?id=CVE-2024-55919)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** sympa 6.2.70~dfsg-2+deb12u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-07-04** - **[DLA-4666-1](https://security-tracker.debian.org/tracker/DLA-4666-1)** - openvpn
 
 **CVE(s) :**
