@@ -2907,9 +2907,9 @@
 
 - **[CVE-2026-13117](https://www.cve.org/CVERecord?id=CVE-2026-13117)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2026-13122](https://www.cve.org/CVERecord?id=CVE-2026-13122)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2026-13122](https://www.cve.org/CVERecord?id=CVE-2026-13122)** : 🟠 **Severity: Medium** (Score: 5.9)
 
-- **[CVE-2026-13698](https://www.cve.org/CVERecord?id=CVE-2026-13698)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2026-13698](https://www.cve.org/CVERecord?id=CVE-2026-13698)** : 🟠 **Severity: Medium** (Score: 6)
 
 **Debian Version :** bookworm
  **Package Version :** openvpn 2.6.14-0+deb12u2
@@ -4682,9 +4682,9 @@
 
 - **[CVE-2026-13117](https://www.cve.org/CVERecord?id=CVE-2026-13117)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2026-13122](https://www.cve.org/CVERecord?id=CVE-2026-13122)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2026-13122](https://www.cve.org/CVERecord?id=CVE-2026-13122)** : 🟠 **Severity: Medium** (Score: 5.9)
 
-- **[CVE-2026-13698](https://www.cve.org/CVERecord?id=CVE-2026-13698)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2026-13698](https://www.cve.org/CVERecord?id=CVE-2026-13698)** : 🟠 **Severity: Medium** (Score: 6)
 
 **Debian Version :** trixie
  **Package Version :** openvpn 2.6.14-1+deb13u3
