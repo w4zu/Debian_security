@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-07-08** - **[DLA-4673-1](https://security-tracker.debian.org/tracker/DLA-4673-1)** - dpkg
+
+**CVE(s) :**
+- **[CVE-2025-6297](https://www.cve.org/CVERecord?id=CVE-2025-6297)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** dpkg 1.20.14
+ **Type :** DLA
+
+------------------------------
+
 **2026-07-07** - **[DSA-6383-1](https://security-tracker.debian.org/tracker/DSA-6383-1)** - imagemagick
 
 **CVE(s) :**
