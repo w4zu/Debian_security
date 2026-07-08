@@ -1,5 +1,48 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-07-07** - **[DSA-6383-1](https://security-tracker.debian.org/tracker/DSA-6383-1)** - imagemagick
+
+**CVE(s) :**
+- **[CVE-2026-53466](https://www.cve.org/CVERecord?id=CVE-2026-53466)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-53467](https://www.cve.org/CVERecord?id=CVE-2026-53467)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-55577](https://www.cve.org/CVERecord?id=CVE-2026-55577)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-55594](https://www.cve.org/CVERecord?id=CVE-2026-55594)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-55597](https://www.cve.org/CVERecord?id=CVE-2026-55597)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-55628](https://www.cve.org/CVERecord?id=CVE-2026-55628)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-56361](https://www.cve.org/CVERecord?id=CVE-2026-56361)** : 🟠 **Severity: Medium** (Score: 4.8)
+
+- **[CVE-2026-56363](https://www.cve.org/CVERecord?id=CVE-2026-56363)** : 🟠 **Severity: Medium** (Score: 4.8)
+
+- **[CVE-2026-56364](https://www.cve.org/CVERecord?id=CVE-2026-56364)** : 🟠 **Severity: Medium** (Score: 1.8)
+
+- **[CVE-2026-56365](https://www.cve.org/CVERecord?id=CVE-2026-56365)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+- **[CVE-2026-56367](https://www.cve.org/CVERecord?id=CVE-2026-56367)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+- **[CVE-2026-56368](https://www.cve.org/CVERecord?id=CVE-2026-56368)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+- **[CVE-2026-56370](https://www.cve.org/CVERecord?id=CVE-2026-56370)** : 🟠 **Severity: Medium** (Score: 4.8)
+
+- **[CVE-2026-56371](https://www.cve.org/CVERecord?id=CVE-2026-56371)** : 🟠 **Severity: Medium** (Score: 6.9)
+
+- **[CVE-2026-56376](https://www.cve.org/CVERecord?id=CVE-2026-56376)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+- **[CVE-2026-56377](https://www.cve.org/CVERecord?id=CVE-2026-56377)** : 🟠 **Severity: Medium** (Score: 4.8)
+
+- **[CVE-2026-56378](https://www.cve.org/CVERecord?id=CVE-2026-56378)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+**Debian Version :** trixie
+ **Package Version :** imagemagick 8:7.1.1.43+dfsg1-1+deb13u11
+ **Type :** DSA
+
+------------------------------
+
 **2026-07-06** - **[DLA-4672-1](https://security-tracker.debian.org/tracker/DLA-4672-1)** - chromium
 
 **CVE(s) :**
@@ -5233,44 +5276,6 @@
 **Debian Version :** trixie
  **Package Version :** chromium 149.0.7827.196-1~deb13u1
  **Type :** DSA
-
-------------------------------
-
-**2026-06-24** - **[DLA-4646-1](https://security-tracker.debian.org/tracker/DLA-4646-1)** - postgresql-13
-
-**CVE(s) :**
-- **[CVE-2026-6473](https://www.cve.org/CVERecord?id=CVE-2026-6473)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-6474](https://www.cve.org/CVERecord?id=CVE-2026-6474)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-6475](https://www.cve.org/CVERecord?id=CVE-2026-6475)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-6477](https://www.cve.org/CVERecord?id=CVE-2026-6477)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-6478](https://www.cve.org/CVERecord?id=CVE-2026-6478)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-6479](https://www.cve.org/CVERecord?id=CVE-2026-6479)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-6637](https://www.cve.org/CVERecord?id=CVE-2026-6637)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** postgresql-13 13.23-0+deb11u4
- **Type :** DLA
-
-------------------------------
-
-**2026-06-24** - **[DLA-4644-1](https://security-tracker.debian.org/tracker/DLA-4644-1)** - libmatio
-
-**CVE(s) :**
-- **[CVE-2025-2337](https://www.cve.org/CVERecord?id=CVE-2025-2337)** : 🟠 **Severity: Medium** (Score: 5.3)
-
-- **[CVE-2025-2338](https://www.cve.org/CVERecord?id=CVE-2025-2338)** : 🟠 **Severity: Medium** (Score: 5.3)
-
-- **[CVE-2025-50343](https://www.cve.org/CVERecord?id=CVE-2025-50343)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** libmatio 1.5.23-2+deb12u1
- **Type :** DLA
 
 ------------------------------
 
