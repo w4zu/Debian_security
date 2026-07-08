@@ -48,6 +48,8 @@
 
 - **[CVE-2026-56378](https://www.cve.org/CVERecord?id=CVE-2026-56378)** : 🟠 **Severity: Medium** (Score: 6.3)
 
+- **[CVE-2026-55595](https://www.cve.org/CVERecord?id=CVE-2026-55595)** : **Severity: Unknown** (Score: N/A)
+
 **Debian Version :** trixie
  **Package Version :** imagemagick 8:7.1.1.43+dfsg1-1+deb13u11
  **Type :** DSA
