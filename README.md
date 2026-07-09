@@ -1,5 +1,26 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-07-09** - **[DLA-4675-1](https://security-tracker.debian.org/tracker/DLA-4675-1)** - rlottie
+
+**CVE(s) :**
+- **[CVE-2026-8916](https://www.cve.org/CVERecord?id=CVE-2026-8916)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-10305](https://www.cve.org/CVERecord?id=CVE-2026-10305)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-47306](https://www.cve.org/CVERecord?id=CVE-2026-47306)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-47318](https://www.cve.org/CVERecord?id=CVE-2026-47318)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-47319](https://www.cve.org/CVERecord?id=CVE-2026-47319)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-47320](https://www.cve.org/CVERecord?id=CVE-2026-47320)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** rlottie 0.1+dfsg-2+deb11u2
+ **Type :** DLA
+
+------------------------------
+
 **2026-07-08** - **[DLA-4673-1](https://security-tracker.debian.org/tracker/DLA-4673-1)** - dpkg
 
 **CVE(s) :**
