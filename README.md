@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-07-10** - **[DSA-6386-1](https://security-tracker.debian.org/tracker/DSA-6386-1)** - opam
+
+**CVE(s) :**
+- **[CVE-2026-57825](https://www.cve.org/CVERecord?id=CVE-2026-57825)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** opam 2.3.0-1+deb13u2
+ **Type :** DSA
+
+------------------------------
+
 **2026-07-09** - **[DLA-4675-1](https://security-tracker.debian.org/tracker/DLA-4675-1)** - rlottie
 
 **CVE(s) :**
