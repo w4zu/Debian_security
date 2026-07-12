@@ -1,5 +1,20 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-07-12** - **[DLA-4678-1](https://security-tracker.debian.org/tracker/DLA-4678-1)** - libxfont
+
+**CVE(s) :**
+- **[CVE-2026-56001](https://www.cve.org/CVERecord?id=CVE-2026-56001)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-56002](https://www.cve.org/CVERecord?id=CVE-2026-56002)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-56003](https://www.cve.org/CVERecord?id=CVE-2026-56003)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** libxfont 1:2.0.4-1+deb11u1 	[bookworm] - libxfont 1:2.0.6-1+deb12u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-07-12** - **[DLA-4677-1](https://security-tracker.debian.org/tracker/DLA-4677-1)** - chromium
 
 **CVE(s) :**
