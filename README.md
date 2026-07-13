@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-07-13** - **[DLA-4679-1](https://security-tracker.debian.org/tracker/DLA-4679-1)** - mesa
+
+**CVE(s) :**
+- **[CVE-2026-40393](https://www.cve.org/CVERecord?id=CVE-2026-40393)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** mesa 20.3.5-1+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-07-12** - **[DLA-4678-1](https://security-tracker.debian.org/tracker/DLA-4678-1)** - libxfont
 
 **CVE(s) :**
