@@ -5075,24 +5075,3 @@
 
 ------------------------------
 
-**2026-06-29** - **[DLA-4657-1](https://security-tracker.debian.org/tracker/DLA-4657-1)** - sogo
-
-**CVE(s) :**
-- **[CVE-2025-71276](https://www.cve.org/CVERecord?id=CVE-2025-71276)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-8496](https://www.cve.org/CVERecord?id=CVE-2026-8496)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-8851](https://www.cve.org/CVERecord?id=CVE-2026-8851)** : 🔥 **Severity: High** (Score: 8.6)
-
-- **[CVE-2026-33550](https://www.cve.org/CVERecord?id=CVE-2026-33550)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-46445](https://www.cve.org/CVERecord?id=CVE-2026-46445)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-46446](https://www.cve.org/CVERecord?id=CVE-2026-46446)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** sogo 5.8.0-2+deb12u3
- **Type :** DLA
-
-------------------------------
-
