@@ -1,5 +1,77 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-07-13** - **[DLA-4681-1](https://security-tracker.debian.org/tracker/DLA-4681-1)** - p7zip
+
+**CVE(s) :**
+- **[CVE-2026-48092](https://www.cve.org/CVERecord?id=CVE-2026-48092)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-48095](https://www.cve.org/CVERecord?id=CVE-2026-48095)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-48101](https://www.cve.org/CVERecord?id=CVE-2026-48101)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-48102](https://www.cve.org/CVERecord?id=CVE-2026-48102)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-48103](https://www.cve.org/CVERecord?id=CVE-2026-48103)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-48104](https://www.cve.org/CVERecord?id=CVE-2026-48104)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-48111](https://www.cve.org/CVERecord?id=CVE-2026-48111)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-48112](https://www.cve.org/CVERecord?id=CVE-2026-48112)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** p7zip 16.02+really26.01+dfsg-0+deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2026-07-13** - **[DLA-4680-1](https://security-tracker.debian.org/tracker/DLA-4680-1)** - imagemagick
+
+**CVE(s) :**
+- **[CVE-2026-53466](https://www.cve.org/CVERecord?id=CVE-2026-53466)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-53467](https://www.cve.org/CVERecord?id=CVE-2026-53467)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-55577](https://www.cve.org/CVERecord?id=CVE-2026-55577)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-55594](https://www.cve.org/CVERecord?id=CVE-2026-55594)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-55595](https://www.cve.org/CVERecord?id=CVE-2026-55595)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-55597](https://www.cve.org/CVERecord?id=CVE-2026-55597)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-55628](https://www.cve.org/CVERecord?id=CVE-2026-55628)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-56361](https://www.cve.org/CVERecord?id=CVE-2026-56361)** : 🟠 **Severity: Medium** (Score: 4.8)
+
+- **[CVE-2026-56363](https://www.cve.org/CVERecord?id=CVE-2026-56363)** : 🟠 **Severity: Medium** (Score: 4.8)
+
+- **[CVE-2026-56365](https://www.cve.org/CVERecord?id=CVE-2026-56365)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+- **[CVE-2026-56366](https://www.cve.org/CVERecord?id=CVE-2026-56366)** : 🟠 **Severity: Medium** (Score: 4.8)
+
+- **[CVE-2026-56367](https://www.cve.org/CVERecord?id=CVE-2026-56367)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+- **[CVE-2026-56368](https://www.cve.org/CVERecord?id=CVE-2026-56368)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+- **[CVE-2026-56370](https://www.cve.org/CVERecord?id=CVE-2026-56370)** : 🟠 **Severity: Medium** (Score: 4.8)
+
+- **[CVE-2026-56371](https://www.cve.org/CVERecord?id=CVE-2026-56371)** : 🟠 **Severity: Medium** (Score: 6.9)
+
+- **[CVE-2026-56373](https://www.cve.org/CVERecord?id=CVE-2026-56373)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+- **[CVE-2026-56376](https://www.cve.org/CVERecord?id=CVE-2026-56376)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+- **[CVE-2026-56377](https://www.cve.org/CVERecord?id=CVE-2026-56377)** : 🟠 **Severity: Medium** (Score: 4.8)
+
+- **[CVE-2026-56378](https://www.cve.org/CVERecord?id=CVE-2026-56378)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+**Debian Version :** bullseye
+ **Package Version :** imagemagick 8:6.9.11.60+dfsg-1.3+deb11u15
+ **Type :** DLA
+
+------------------------------
+
 **2026-07-13** - **[DLA-4679-1](https://security-tracker.debian.org/tracker/DLA-4679-1)** - mesa
 
 **CVE(s) :**
