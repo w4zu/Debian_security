@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-07-13** - **[DLA-4682-1](https://security-tracker.debian.org/tracker/DLA-4682-1)** - redis
+
+**CVE(s) :**
+- **[CVE-2026-23631](https://www.cve.org/CVERecord?id=CVE-2026-23631)** : 🟠 **Severity: Medium** (Score: 6.1)
+
+- **[CVE-2026-25243](https://www.cve.org/CVERecord?id=CVE-2026-25243)** : 🔥 **Severity: High** (Score: 7.7)
+
+**Debian Version :** bookworm
+ **Package Version :** redis 5:7.0.15-1~deb12u8
+ **Type :** DLA
+
+------------------------------
+
 **2026-07-13** - **[DLA-4681-1](https://security-tracker.debian.org/tracker/DLA-4681-1)** - p7zip
 
 **CVE(s) :**
@@ -66,8 +79,8 @@
 
 - **[CVE-2026-56378](https://www.cve.org/CVERecord?id=CVE-2026-56378)** : 🟠 **Severity: Medium** (Score: 6.3)
 
-**Debian Version :** bullseye
- **Package Version :** imagemagick 8:6.9.11.60+dfsg-1.3+deb11u15
+**Debian Version :** bookworm
+ **Package Version :** imagemagick 8:6.9.11.60+dfsg-1.6+deb12u12 	[bullseye] - imagemagick 8:6.9.11.60+dfsg-1.3+deb11u15
  **Type :** DLA
 
 ------------------------------
@@ -5116,45 +5129,6 @@
 **Debian Version :** bullseye
  **Package Version :** jq 1.6-2.1+deb11u3
  **Type :** DLA
-
-------------------------------
-
-**2026-06-30** - **[DLA-4660-1](https://security-tracker.debian.org/tracker/DLA-4660-1)** - nginx
-
-**CVE(s) :**
-- **[CVE-2026-42055](https://www.cve.org/CVERecord?id=CVE-2026-42055)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-48142](https://www.cve.org/CVERecord?id=CVE-2026-48142)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** nginx 1.18.0-6.1+deb11u8
- **Type :** DLA
-
-------------------------------
-
-**2026-06-30** - **[DLA-4658-1](https://security-tracker.debian.org/tracker/DLA-4658-1)** - librabbitmq
-
-**CVE(s) :**
-- **[CVE-2026-44235](https://www.cve.org/CVERecord?id=CVE-2026-44235)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-44236](https://www.cve.org/CVERecord?id=CVE-2026-44236)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** librabbitmq 0.10.0-1+deb11u2 	[bookworm] - librabbitmq 0.11.0-1+deb12u2
- **Type :** DLA
-
-------------------------------
-
-**2026-06-30** - **[DSA-6374-1](https://security-tracker.debian.org/tracker/DSA-6374-1)** - nginx
-
-**CVE(s) :**
-- **[CVE-2026-42055](https://www.cve.org/CVERecord?id=CVE-2026-42055)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-48142](https://www.cve.org/CVERecord?id=CVE-2026-48142)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** trixie
- **Package Version :** nginx 1.26.3-3+deb13u7
- **Type :** DSA
 
 ------------------------------
 
