@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-07-15** - **[DLA-4686-1](https://security-tracker.debian.org/tracker/DLA-4686-1)** - dhcpcd5
+
+**CVE(s) :**
+- **[CVE-2025-70102](https://www.cve.org/CVERecord?id=CVE-2025-70102)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-56114](https://www.cve.org/CVERecord?id=CVE-2026-56114)** : 🟠 **Severity: Medium** (Score: 6)
+
+**Debian Version :** bullseye
+ **Package Version :** dhcpcd5 7.1.0-2+deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-07-15** - **[DLA-4685-1](https://security-tracker.debian.org/tracker/DLA-4685-1)** - grub2
 
 **CVE(s) :**
