@@ -48,6 +48,21 @@
 
 ------------------------------
 
+**2026-07-15** - **[DSA-6388-1](https://security-tracker.debian.org/tracker/DSA-6388-1)** - libxfont
+
+**CVE(s) :**
+- **[CVE-2026-56001](https://www.cve.org/CVERecord?id=CVE-2026-56001)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-56002](https://www.cve.org/CVERecord?id=CVE-2026-56002)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-56003](https://www.cve.org/CVERecord?id=CVE-2026-56003)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** libxfont 1:2.0.6-1+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-07-13** - **[DLA-4682-1](https://security-tracker.debian.org/tracker/DLA-4682-1)** - redis
 
 **CVE(s) :**
