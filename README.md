@@ -1,5 +1,56 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-07-15** - **[DLA-4685-1](https://security-tracker.debian.org/tracker/DLA-4685-1)** - grub2
+
+**CVE(s) :**
+- **[CVE-2024-45774](https://www.cve.org/CVERecord?id=CVE-2024-45774)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-45775](https://www.cve.org/CVERecord?id=CVE-2024-45775)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-45776](https://www.cve.org/CVERecord?id=CVE-2024-45776)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-45777](https://www.cve.org/CVERecord?id=CVE-2024-45777)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-45778](https://www.cve.org/CVERecord?id=CVE-2024-45778)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-45779](https://www.cve.org/CVERecord?id=CVE-2024-45779)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-45780](https://www.cve.org/CVERecord?id=CVE-2024-45780)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-45781](https://www.cve.org/CVERecord?id=CVE-2024-45781)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-45782](https://www.cve.org/CVERecord?id=CVE-2024-45782)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-45783](https://www.cve.org/CVERecord?id=CVE-2024-45783)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-0622](https://www.cve.org/CVERecord?id=CVE-2025-0622)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-0624](https://www.cve.org/CVERecord?id=CVE-2025-0624)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-0677](https://www.cve.org/CVERecord?id=CVE-2025-0677)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-0678](https://www.cve.org/CVERecord?id=CVE-2025-0678)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-0684](https://www.cve.org/CVERecord?id=CVE-2025-0684)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-0685](https://www.cve.org/CVERecord?id=CVE-2025-0685)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-0686](https://www.cve.org/CVERecord?id=CVE-2025-0686)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-0689](https://www.cve.org/CVERecord?id=CVE-2025-0689)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-0690](https://www.cve.org/CVERecord?id=CVE-2025-0690)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-1118](https://www.cve.org/CVERecord?id=CVE-2025-1118)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-1125](https://www.cve.org/CVERecord?id=CVE-2025-1125)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** grub2 2.06-3~deb11u7
+ **Type :** DLA
+
+------------------------------
+
 **2026-07-15** - **[DLA-4684-1](https://security-tracker.debian.org/tracker/DLA-4684-1)** - opam
 
 **CVE(s) :**
