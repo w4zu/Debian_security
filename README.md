@@ -1,5 +1,44 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-07-16** - **[DSA-6390-1](https://security-tracker.debian.org/tracker/DSA-6390-1)** - chromium
+
+**CVE(s) :**
+- **[CVE-2026-15764](https://www.cve.org/CVERecord?id=CVE-2026-15764)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-15765](https://www.cve.org/CVERecord?id=CVE-2026-15765)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-15766](https://www.cve.org/CVERecord?id=CVE-2026-15766)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-15767](https://www.cve.org/CVERecord?id=CVE-2026-15767)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-15768](https://www.cve.org/CVERecord?id=CVE-2026-15768)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-15769](https://www.cve.org/CVERecord?id=CVE-2026-15769)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-15770](https://www.cve.org/CVERecord?id=CVE-2026-15770)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-15771](https://www.cve.org/CVERecord?id=CVE-2026-15771)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-15772](https://www.cve.org/CVERecord?id=CVE-2026-15772)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-15773](https://www.cve.org/CVERecord?id=CVE-2026-15773)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-15774](https://www.cve.org/CVERecord?id=CVE-2026-15774)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-15775](https://www.cve.org/CVERecord?id=CVE-2026-15775)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-15776](https://www.cve.org/CVERecord?id=CVE-2026-15776)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-15777](https://www.cve.org/CVERecord?id=CVE-2026-15777)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-15778](https://www.cve.org/CVERecord?id=CVE-2026-15778)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** chromium 150.0.7871.124-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-07-15** - **[DLA-4686-1](https://security-tracker.debian.org/tracker/DLA-4686-1)** - dhcpcd5
 
 **CVE(s) :**
