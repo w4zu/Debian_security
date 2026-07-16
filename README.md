@@ -112,6 +112,33 @@
 
 ------------------------------
 
+**2026-07-15** - **[DSA-6389-1](https://security-tracker.debian.org/tracker/DSA-6389-1)** - ntfs-3g
+
+**CVE(s) :**
+- **[CVE-2026-42616](https://www.cve.org/CVERecord?id=CVE-2026-42616)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-42617](https://www.cve.org/CVERecord?id=CVE-2026-42617)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-42618](https://www.cve.org/CVERecord?id=CVE-2026-42618)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-46569](https://www.cve.org/CVERecord?id=CVE-2026-46569)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-46570](https://www.cve.org/CVERecord?id=CVE-2026-46570)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-46571](https://www.cve.org/CVERecord?id=CVE-2026-46571)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-46572](https://www.cve.org/CVERecord?id=CVE-2026-46572)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-56135](https://www.cve.org/CVERecord?id=CVE-2026-56135)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-56136](https://www.cve.org/CVERecord?id=CVE-2026-56136)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** ntfs-3g 1:2022.10.3-5+deb13u2
+ **Type :** DSA
+
+------------------------------
+
 **2026-07-15** - **[DSA-6388-1](https://security-tracker.debian.org/tracker/DSA-6388-1)** - libxfont
 
 **CVE(s) :**
@@ -5151,54 +5178,6 @@
 
 **Debian Version :** trixie
  **Package Version :** openvpn 2.6.14-1+deb13u3
- **Type :** DSA
-
-------------------------------
-
-**2026-07-02** - **[DLA-4663-1](https://security-tracker.debian.org/tracker/DLA-4663-1)** - node-lodash
-
-**CVE(s) :**
-- **[CVE-2025-13465](https://www.cve.org/CVERecord?id=CVE-2025-13465)** : 🟠 **Severity: Medium** (Score: 6.9)
-
-- **[CVE-2026-2950](https://www.cve.org/CVERecord?id=CVE-2026-2950)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-4800](https://www.cve.org/CVERecord?id=CVE-2026-4800)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** node-lodash 4.17.21+dfsg+~cs8.31.173-1+deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2026-07-02** - **[DSA-6375-1](https://security-tracker.debian.org/tracker/DSA-6375-1)** - fastnetmon
-
-**CVE(s) :**
-- **[CVE-2026-48683](https://www.cve.org/CVERecord?id=CVE-2026-48683)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-48684](https://www.cve.org/CVERecord?id=CVE-2026-48684)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-48685](https://www.cve.org/CVERecord?id=CVE-2026-48685)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-48686](https://www.cve.org/CVERecord?id=CVE-2026-48686)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-48687](https://www.cve.org/CVERecord?id=CVE-2026-48687)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-48688](https://www.cve.org/CVERecord?id=CVE-2026-48688)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-48689](https://www.cve.org/CVERecord?id=CVE-2026-48689)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-48690](https://www.cve.org/CVERecord?id=CVE-2026-48690)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-48691](https://www.cve.org/CVERecord?id=CVE-2026-48691)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-48694](https://www.cve.org/CVERecord?id=CVE-2026-48694)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-48695](https://www.cve.org/CVERecord?id=CVE-2026-48695)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-48696](https://www.cve.org/CVERecord?id=CVE-2026-48696)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** trixie
- **Package Version :** fastnetmon 1.2.9-0+deb13u1
  **Type :** DSA
 
 ------------------------------
