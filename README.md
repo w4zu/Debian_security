@@ -11,6 +11,38 @@
 
 ------------------------------
 
+**2026-07-19** - **[DSA-6392-1](https://security-tracker.debian.org/tracker/DSA-6392-1)** - tiff
+
+**CVE(s) :**
+- **[CVE-2026-12912](https://www.cve.org/CVERecord?id=CVE-2026-12912)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** tiff 4.7.0-3+deb13u3
+ **Type :** DSA
+
+------------------------------
+
+**2026-07-19** - **[DSA-6391-1](https://security-tracker.debian.org/tracker/DSA-6391-1)** - roundcube
+
+**CVE(s) :**
+- **[CVE-2026-54432](https://www.cve.org/CVERecord?id=CVE-2026-54432)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-54433](https://www.cve.org/CVERecord?id=CVE-2026-54433)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-62641](https://www.cve.org/CVERecord?id=CVE-2026-62641)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-62642](https://www.cve.org/CVERecord?id=CVE-2026-62642)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-62643](https://www.cve.org/CVERecord?id=CVE-2026-62643)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-62644](https://www.cve.org/CVERecord?id=CVE-2026-62644)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** roundcube 1.6.17+dfsg-0+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-07-18** - **[DLA-4688-1](https://security-tracker.debian.org/tracker/DLA-4688-1)** - linux
 
 **CVE(s) :**
