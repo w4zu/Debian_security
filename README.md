@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-07-19** - **[DLA-4689-1](https://security-tracker.debian.org/tracker/DLA-4689-1)** - libnfs
+
+**CVE(s) :**
+- **[CVE-2026-53689](https://www.cve.org/CVERecord?id=CVE-2026-53689)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** libnfs 4.0.0-1+deb11u1 	[bookworm] - libnfs 4.0.0-1+deb12u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-07-18** - **[DLA-4688-1](https://security-tracker.debian.org/tracker/DLA-4688-1)** - linux
 
 **CVE(s) :**
