@@ -1,5 +1,27 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-07-20** - **[DLA-4691-1](https://security-tracker.debian.org/tracker/DLA-4691-1)** - rtpengine
+
+**CVE(s) :**
+- **[CVE-2025-53399](https://www.cve.org/CVERecord?id=CVE-2025-53399)** : 🟠 **Severity: Medium** (Score: 6.9)
+
+**Debian Version :** bookworm
+ **Package Version :** rtpengine 10.5.3.5-1+deb12u1
+ **Type :** DLA
+
+------------------------------
+
+**2026-07-20** - **[DLA-4690-1](https://security-tracker.debian.org/tracker/DLA-4690-1)** - xz-utils
+
+**CVE(s) :**
+- **[CVE-2026-34743](https://www.cve.org/CVERecord?id=CVE-2026-34743)** : 🟠 **Severity: Medium** (Score: 1.7)
+
+**Debian Version :** bullseye
+ **Package Version :** xz-utils 5.2.5-2.1~deb11u2
+ **Type :** DLA
+
+------------------------------
+
 **2026-07-19** - **[DLA-4689-1](https://security-tracker.debian.org/tracker/DLA-4689-1)** - libnfs
 
 **CVE(s) :**
@@ -607,51 +629,6 @@
 
 **Debian Version :** trixie
  **Package Version :** pgextwlist 1.19-1+deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2026-07-07** - **[DSA-6383-1](https://security-tracker.debian.org/tracker/DSA-6383-1)** - imagemagick
-
-**CVE(s) :**
-- **[CVE-2026-53466](https://www.cve.org/CVERecord?id=CVE-2026-53466)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-53467](https://www.cve.org/CVERecord?id=CVE-2026-53467)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-55577](https://www.cve.org/CVERecord?id=CVE-2026-55577)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-55594](https://www.cve.org/CVERecord?id=CVE-2026-55594)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-55597](https://www.cve.org/CVERecord?id=CVE-2026-55597)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-55628](https://www.cve.org/CVERecord?id=CVE-2026-55628)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-56361](https://www.cve.org/CVERecord?id=CVE-2026-56361)** : 🟠 **Severity: Medium** (Score: 4.8)
-
-- **[CVE-2026-56363](https://www.cve.org/CVERecord?id=CVE-2026-56363)** : 🟠 **Severity: Medium** (Score: 4.8)
-
-- **[CVE-2026-56364](https://www.cve.org/CVERecord?id=CVE-2026-56364)** : 🟠 **Severity: Medium** (Score: 1.8)
-
-- **[CVE-2026-56365](https://www.cve.org/CVERecord?id=CVE-2026-56365)** : 🟠 **Severity: Medium** (Score: 6.3)
-
-- **[CVE-2026-56367](https://www.cve.org/CVERecord?id=CVE-2026-56367)** : 🟠 **Severity: Medium** (Score: 6.3)
-
-- **[CVE-2026-56368](https://www.cve.org/CVERecord?id=CVE-2026-56368)** : 🟠 **Severity: Medium** (Score: 6.3)
-
-- **[CVE-2026-56370](https://www.cve.org/CVERecord?id=CVE-2026-56370)** : 🟠 **Severity: Medium** (Score: 4.8)
-
-- **[CVE-2026-56371](https://www.cve.org/CVERecord?id=CVE-2026-56371)** : 🟠 **Severity: Medium** (Score: 6.9)
-
-- **[CVE-2026-56376](https://www.cve.org/CVERecord?id=CVE-2026-56376)** : 🟠 **Severity: Medium** (Score: 6.3)
-
-- **[CVE-2026-56377](https://www.cve.org/CVERecord?id=CVE-2026-56377)** : 🟠 **Severity: Medium** (Score: 4.8)
-
-- **[CVE-2026-56378](https://www.cve.org/CVERecord?id=CVE-2026-56378)** : 🟠 **Severity: Medium** (Score: 6.3)
-
-- **[CVE-2026-55595](https://www.cve.org/CVERecord?id=CVE-2026-55595)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** trixie
- **Package Version :** imagemagick 8:7.1.1.43+dfsg1-1+deb13u11
  **Type :** DSA
 
 ------------------------------
