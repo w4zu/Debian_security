@@ -1,5 +1,57 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-07-21** - **[DLA-4692-1](https://security-tracker.debian.org/tracker/DLA-4692-1)** - samba
+
+**CVE(s) :**
+- **[CVE-2026-2340](https://www.cve.org/CVERecord?id=CVE-2026-2340)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-3012](https://www.cve.org/CVERecord?id=CVE-2026-3012)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-3238](https://www.cve.org/CVERecord?id=CVE-2026-3238)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-4408](https://www.cve.org/CVERecord?id=CVE-2026-4408)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-4480](https://www.cve.org/CVERecord?id=CVE-2026-4480)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** samba 2:4.13.13+dfsg-1~deb11u8
+ **Type :** DLA
+
+------------------------------
+
+**2026-07-21** - **[DSA-6393-1](https://security-tracker.debian.org/tracker/DSA-6393-1)** - linux
+
+**CVE(s) :**
+- **[CVE-2025-21807](https://www.cve.org/CVERecord?id=CVE-2025-21807)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-46093](https://www.cve.org/CVERecord?id=CVE-2026-46093)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-53027](https://www.cve.org/CVERecord?id=CVE-2026-53027)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-53226](https://www.cve.org/CVERecord?id=CVE-2026-53226)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-53392](https://www.cve.org/CVERecord?id=CVE-2026-53392)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-53399](https://www.cve.org/CVERecord?id=CVE-2026-53399)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-53402](https://www.cve.org/CVERecord?id=CVE-2026-53402)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-63815](https://www.cve.org/CVERecord?id=CVE-2026-63815)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-63816](https://www.cve.org/CVERecord?id=CVE-2026-63816)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-63818](https://www.cve.org/CVERecord?id=CVE-2026-63818)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64187](https://www.cve.org/CVERecord?id=CVE-2026-64187)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64189](https://www.cve.org/CVERecord?id=CVE-2026-64189)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** linux 6.12.96-1
+ **Type :** DSA
+
+------------------------------
+
 **2026-07-20** - **[DLA-4691-1](https://security-tracker.debian.org/tracker/DLA-4691-1)** - rtpengine
 
 **CVE(s) :**
