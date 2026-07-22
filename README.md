@@ -1,5 +1,22 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-07-22** - **[DLA-4694-1](https://security-tracker.debian.org/tracker/DLA-4694-1)** - nss
+
+**CVE(s) :**
+- **[CVE-2026-6766](https://www.cve.org/CVERecord?id=CVE-2026-6766)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-6767](https://www.cve.org/CVERecord?id=CVE-2026-6767)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-6772](https://www.cve.org/CVERecord?id=CVE-2026-6772)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-12318](https://www.cve.org/CVERecord?id=CVE-2026-12318)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** nss 2:3.61-1+deb11u6 	[bookworm] - nss 2:3.87.1-1+deb12u3
+ **Type :** DLA
+
+------------------------------
+
 **2026-07-22** - **[DLA-4693-1](https://security-tracker.debian.org/tracker/DLA-4693-1)** - roundcube
 
 **CVE(s) :**
