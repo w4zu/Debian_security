@@ -1,5 +1,26 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-07-22** - **[DLA-4693-1](https://security-tracker.debian.org/tracker/DLA-4693-1)** - roundcube
+
+**CVE(s) :**
+- **[CVE-2026-54432](https://www.cve.org/CVERecord?id=CVE-2026-54432)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-54433](https://www.cve.org/CVERecord?id=CVE-2026-54433)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-62641](https://www.cve.org/CVERecord?id=CVE-2026-62641)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-62642](https://www.cve.org/CVERecord?id=CVE-2026-62642)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-62643](https://www.cve.org/CVERecord?id=CVE-2026-62643)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-62644](https://www.cve.org/CVERecord?id=CVE-2026-62644)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** roundcube 1.4.15+dfsg.1-1+deb11u10 	[bookworm] - roundcube 1.6.5+dfsg-1+deb12u10
+ **Type :** DLA
+
+------------------------------
+
 **2026-07-21** - **[DLA-4692-1](https://security-tracker.debian.org/tracker/DLA-4692-1)** - samba
 
 **CVE(s) :**
@@ -660,28 +681,6 @@
 **Debian Version :** bullseye
  **Package Version :** rlottie 0.1+dfsg-2+deb11u2
  **Type :** DLA
-
-------------------------------
-
-**2026-07-08** - **[DLA-4673-1](https://security-tracker.debian.org/tracker/DLA-4673-1)** - dpkg
-
-**CVE(s) :**
-- **[CVE-2025-6297](https://www.cve.org/CVERecord?id=CVE-2025-6297)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** dpkg 1.20.14
- **Type :** DLA
-
-------------------------------
-
-**2026-07-08** - **[DSA-6385-1](https://security-tracker.debian.org/tracker/DSA-6385-1)** - pgextwlist
-
-**CVE(s) :**
-- **[CVE-2023-39417](https://www.cve.org/CVERecord?id=CVE-2023-39417)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** trixie
- **Package Version :** pgextwlist 1.19-1+deb13u1
- **Type :** DSA
 
 ------------------------------
 
