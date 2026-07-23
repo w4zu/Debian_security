@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-07-23** - **[DSA-6397-1](https://security-tracker.debian.org/tracker/DSA-6397-1)** - pdns-recursor
+
+**CVE(s) :**
+- **[CVE-2026-52686](https://www.cve.org/CVERecord?id=CVE-2026-52686)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-52688](https://www.cve.org/CVERecord?id=CVE-2026-52688)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** pdns-recursor 5.2.12-0+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-07-22** - **[DLA-4695-1](https://security-tracker.debian.org/tracker/DLA-4695-1)** - firefox-esr
 
 **CVE(s) :**
