@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-07-24** - **[DLA-4698-1](https://security-tracker.debian.org/tracker/DLA-4698-1)** - spice-vdagent
+
+**CVE(s) :**
+- **[CVE-2026-57965](https://www.cve.org/CVERecord?id=CVE-2026-57965)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-57966](https://www.cve.org/CVERecord?id=CVE-2026-57966)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** spice-vdagent 0.20.0-2+deb11u1 	[bookworm] - spice-vdagent 0.22.1-3+deb12u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-07-24** - **[DLA-4697-1](https://security-tracker.debian.org/tracker/DLA-4697-1)** - squid
 
 **CVE(s) :**
