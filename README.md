@@ -1,5 +1,22 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-07-24** - **[DLA-4697-1](https://security-tracker.debian.org/tracker/DLA-4697-1)** - squid
+
+**CVE(s) :**
+- **[CVE-2026-33515](https://www.cve.org/CVERecord?id=CVE-2026-33515)** : 🟠 **Severity: Medium** (Score: 6.9)
+
+- **[CVE-2026-33526](https://www.cve.org/CVERecord?id=CVE-2026-33526)** : 🔥 **Severity: High** (Score: 9.2)
+
+- **[CVE-2026-47729](https://www.cve.org/CVERecord?id=CVE-2026-47729)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-50012](https://www.cve.org/CVERecord?id=CVE-2026-50012)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** squid 4.13-10+deb11u7 	[bookworm] - squid 5.7-2+deb12u6
+ **Type :** DLA
+
+------------------------------
+
 **2026-07-23** - **[DLA-4696-1](https://security-tracker.debian.org/tracker/DLA-4696-1)** - imagemagick
 
 **CVE(s) :**
@@ -36,6 +53,17 @@
 **Debian Version :** bullseye
  **Package Version :** imagemagick 8:6.9.11.60+dfsg-1.3+deb11u16 	[bookworm] - imagemagick 8:6.9.11.60+dfsg-1.6+deb12u13
  **Type :** DLA
+
+------------------------------
+
+**2026-07-23** - **[DSA-6399-1](https://security-tracker.debian.org/tracker/DSA-6399-1)** - wordpress
+
+**CVE(s) :**
+- **[CVE-2026-60137](https://www.cve.org/CVERecord?id=CVE-2026-60137)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** wordpress 6.8.6+dfsg1-0+deb13u1
+ **Type :** DSA
 
 ------------------------------
 
@@ -1024,17 +1052,6 @@
 
 **Debian Version :** trixie
  **Package Version :** chromium 150.0.7871.114-1~deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2026-07-10** - **[DSA-6386-1](https://security-tracker.debian.org/tracker/DSA-6386-1)** - opam
-
-**CVE(s) :**
-- **[CVE-2026-57825](https://www.cve.org/CVERecord?id=CVE-2026-57825)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** trixie
- **Package Version :** opam 2.3.0-1+deb13u2
  **Type :** DSA
 
 ------------------------------
