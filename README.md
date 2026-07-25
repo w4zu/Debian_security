@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-07-25** - **[DLA-4699-1](https://security-tracker.debian.org/tracker/DLA-4699-1)** - hplip
+
+**CVE(s) :**
+- **[CVE-2026-8631](https://www.cve.org/CVERecord?id=CVE-2026-8631)** : 🔥 **Severity: High** (Score: 9.3)
+
+- **[CVE-2026-8632](https://www.cve.org/CVERecord?id=CVE-2026-8632)** : 🔥 **Severity: High** (Score: 8.5)
+
+**Debian Version :** bullseye
+ **Package Version :** hplip 3.21.2+dfsg1-2+deb11u1 	[bookworm] - hplip 3.22.10+dfsg0-2+deb12u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-07-24** - **[DLA-4698-1](https://security-tracker.debian.org/tracker/DLA-4698-1)** - spice-vdagent
 
 **CVE(s) :**
