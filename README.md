@@ -1,5 +1,52 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-07-27** - **[DLA-4701-1](https://security-tracker.debian.org/tracker/DLA-4701-1)** - chromium
+
+**CVE(s) :**
+- **[CVE-2026-15899](https://www.cve.org/CVERecord?id=CVE-2026-15899)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-15900](https://www.cve.org/CVERecord?id=CVE-2026-15900)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-15901](https://www.cve.org/CVERecord?id=CVE-2026-15901)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-15902](https://www.cve.org/CVERecord?id=CVE-2026-15902)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-15903](https://www.cve.org/CVERecord?id=CVE-2026-15903)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-15904](https://www.cve.org/CVERecord?id=CVE-2026-15904)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-15905](https://www.cve.org/CVERecord?id=CVE-2026-15905)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-16413](https://www.cve.org/CVERecord?id=CVE-2026-16413)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-16414](https://www.cve.org/CVERecord?id=CVE-2026-16414)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-16415](https://www.cve.org/CVERecord?id=CVE-2026-16415)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-16416](https://www.cve.org/CVERecord?id=CVE-2026-16416)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-16417](https://www.cve.org/CVERecord?id=CVE-2026-16417)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-16418](https://www.cve.org/CVERecord?id=CVE-2026-16418)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-16419](https://www.cve.org/CVERecord?id=CVE-2026-16419)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-16420](https://www.cve.org/CVERecord?id=CVE-2026-16420)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-16421](https://www.cve.org/CVERecord?id=CVE-2026-16421)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-16422](https://www.cve.org/CVERecord?id=CVE-2026-16422)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-16423](https://www.cve.org/CVERecord?id=CVE-2026-16423)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-16424](https://www.cve.org/CVERecord?id=CVE-2026-16424)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** chromium 150.0.7871.181-1~deb12u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-07-26** - **[DLA-4700-1](https://security-tracker.debian.org/tracker/DLA-4700-1)** - linux-6.1
 
 **CVE(s) :**
