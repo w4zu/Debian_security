@@ -1,5 +1,63 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-07-28** - **[DLA-4703-1](https://security-tracker.debian.org/tracker/DLA-4703-1)** - openjdk-17
+
+**CVE(s) :**
+- **[CVE-2026-41254](https://www.cve.org/CVERecord?id=CVE-2026-41254)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-46917](https://www.cve.org/CVERecord?id=CVE-2026-46917)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-46968](https://www.cve.org/CVERecord?id=CVE-2026-46968)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-47010](https://www.cve.org/CVERecord?id=CVE-2026-47010)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-47021](https://www.cve.org/CVERecord?id=CVE-2026-47021)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-47027](https://www.cve.org/CVERecord?id=CVE-2026-47027)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-47059](https://www.cve.org/CVERecord?id=CVE-2026-47059)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-47063](https://www.cve.org/CVERecord?id=CVE-2026-47063)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-60147](https://www.cve.org/CVERecord?id=CVE-2026-60147)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** openjdk-17 17.0.20+8-1~deb11u1 	[bookworm] - openjdk-17 17.0.20+8-1~deb12u1
+ **Type :** DLA
+
+------------------------------
+
+**2026-07-28** - **[DLA-4702-1](https://security-tracker.debian.org/tracker/DLA-4702-1)** - openjdk-11
+
+**CVE(s) :**
+- **[CVE-2026-41254](https://www.cve.org/CVERecord?id=CVE-2026-41254)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-46917](https://www.cve.org/CVERecord?id=CVE-2026-46917)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-46968](https://www.cve.org/CVERecord?id=CVE-2026-46968)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-47010](https://www.cve.org/CVERecord?id=CVE-2026-47010)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-47021](https://www.cve.org/CVERecord?id=CVE-2026-47021)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-47027](https://www.cve.org/CVERecord?id=CVE-2026-47027)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-47057](https://www.cve.org/CVERecord?id=CVE-2026-47057)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-47058](https://www.cve.org/CVERecord?id=CVE-2026-47058)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-47059](https://www.cve.org/CVERecord?id=CVE-2026-47059)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-47063](https://www.cve.org/CVERecord?id=CVE-2026-47063)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-60147](https://www.cve.org/CVERecord?id=CVE-2026-60147)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** openjdk-11 11.0.32+9-2~deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-07-27** - **[DLA-4701-1](https://security-tracker.debian.org/tracker/DLA-4701-1)** - chromium
 
 **CVE(s) :**
