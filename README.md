@@ -58,6 +58,40 @@
 
 ------------------------------
 
+**2026-07-28** - **[DSA-6402-1](https://security-tracker.debian.org/tracker/DSA-6402-1)** - hplip
+
+**CVE(s) :**
+- **[CVE-2026-8631](https://www.cve.org/CVERecord?id=CVE-2026-8631)** : 🔥 **Severity: High** (Score: 9.3)
+
+- **[CVE-2026-8632](https://www.cve.org/CVERecord?id=CVE-2026-8632)** : 🔥 **Severity: High** (Score: 8.5)
+
+**Debian Version :** trixie
+ **Package Version :** hplip 3.22.10+dfsg0-8.1+deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2026-07-28** - **[DSA-6401-1](https://security-tracker.debian.org/tracker/DSA-6401-1)** - samba
+
+**CVE(s) :**
+- **[CVE-2026-6949](https://www.cve.org/CVERecord?id=CVE-2026-6949)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-58216](https://www.cve.org/CVERecord?id=CVE-2026-58216)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-58218](https://www.cve.org/CVERecord?id=CVE-2026-58218)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-58221](https://www.cve.org/CVERecord?id=CVE-2026-58221)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-58222](https://www.cve.org/CVERecord?id=CVE-2026-58222)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-58224](https://www.cve.org/CVERecord?id=CVE-2026-58224)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** samba 2:4.22.10+dfsg-0+deb13u2
+ **Type :** DSA
+
+------------------------------
+
 **2026-07-27** - **[DLA-4701-1](https://security-tracker.debian.org/tracker/DLA-4701-1)** - chromium
 
 **CVE(s) :**
