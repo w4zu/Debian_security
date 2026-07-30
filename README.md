@@ -1,5 +1,32 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-07-31** - **[DLA-4706-1](https://security-tracker.debian.org/tracker/DLA-4706-1)** - ruby-rack
+
+**CVE(s) :**
+- **[CVE-2026-26961](https://www.cve.org/CVERecord?id=CVE-2026-26961)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-34230](https://www.cve.org/CVERecord?id=CVE-2026-34230)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-34763](https://www.cve.org/CVERecord?id=CVE-2026-34763)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-34785](https://www.cve.org/CVERecord?id=CVE-2026-34785)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-34786](https://www.cve.org/CVERecord?id=CVE-2026-34786)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-34826](https://www.cve.org/CVERecord?id=CVE-2026-34826)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-34829](https://www.cve.org/CVERecord?id=CVE-2026-34829)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-34830](https://www.cve.org/CVERecord?id=CVE-2026-34830)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-34831](https://www.cve.org/CVERecord?id=CVE-2026-34831)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** ruby-rack 2.1.4-3+deb11u6 	[bookworm] - ruby-rack 2.2.22-0+deb12u2
+ **Type :** DLA
+
+------------------------------
+
 **2026-07-30** - **[DSA-6404-1](https://security-tracker.debian.org/tracker/DSA-6404-1)** - expat
 
 **CVE(s) :**
