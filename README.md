@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-07-31** - **[DLA-4708-1](https://security-tracker.debian.org/tracker/DLA-4708-1)** - python-authlib
+
+**CVE(s) :**
+- **[CVE-2026-44681](https://www.cve.org/CVERecord?id=CVE-2026-44681)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** python-authlib 0.15.4-1+deb11u4 	[bookworm] - python-authlib 1.2.0-1+deb12u2
+ **Type :** DLA
+
+------------------------------
+
 **2026-07-31** - **[DLA-4706-1](https://security-tracker.debian.org/tracker/DLA-4706-1)** - ruby-rack
 
 **CVE(s) :**
