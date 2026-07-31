@@ -27,6 +27,17 @@
 
 ------------------------------
 
+**2026-07-30** - **[DLA-4707-1](https://security-tracker.debian.org/tracker/DLA-4707-1)** - gsasl
+
+**CVE(s) :**
+- **[CVE-2026-56968](https://www.cve.org/CVERecord?id=CVE-2026-56968)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** gsasl 1.10.0-4+deb11u3 	[bookworm] - gsasl 2.2.0-1+deb12u2
+ **Type :** DLA
+
+------------------------------
+
 **2026-07-30** - **[DSA-6404-1](https://security-tracker.debian.org/tracker/DSA-6404-1)** - expat
 
 **CVE(s) :**
