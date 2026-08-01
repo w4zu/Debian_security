@@ -1,5 +1,59 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-08-01** - **[DLA-4714-1](https://security-tracker.debian.org/tracker/DLA-4714-1)** - libmodbus
+
+**CVE(s) :**
+- **[CVE-2024-10918](https://www.cve.org/CVERecord?id=CVE-2024-10918)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** libmodbus 3.1.6-2.1+deb12u1
+ **Type :** DLA
+
+------------------------------
+
+**2026-08-01** - **[DLA-4713-1](https://security-tracker.debian.org/tracker/DLA-4713-1)** - sslh
+
+**CVE(s) :**
+- **[CVE-2025-52936](https://www.cve.org/CVERecord?id=CVE-2025-52936)** : 🔥 **Severity: High** (Score: 9.3)
+
+**Debian Version :** bookworm
+ **Package Version :** sslh 1.20-1+deb12u1
+ **Type :** DLA
+
+------------------------------
+
+**2026-08-01** - **[DLA-4712-1](https://security-tracker.debian.org/tracker/DLA-4712-1)** - node-tar
+
+**CVE(s) :**
+- **[CVE-2024-28863](https://www.cve.org/CVERecord?id=CVE-2024-28863)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-23745](https://www.cve.org/CVERecord?id=CVE-2026-23745)** : 🔥 **Severity: High** (Score: 8.2)
+
+- **[CVE-2026-26960](https://www.cve.org/CVERecord?id=CVE-2026-26960)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-29786](https://www.cve.org/CVERecord?id=CVE-2026-29786)** : 🔥 **Severity: High** (Score: 8.2)
+
+**Debian Version :** bookworm
+ **Package Version :** node-tar 6.1.13+~cs7.0.5-1+deb12u1
+ **Type :** DLA
+
+------------------------------
+
+**2026-08-01** - **[DLA-4711-1](https://security-tracker.debian.org/tracker/DLA-4711-1)** - starlette
+
+**CVE(s) :**
+- **[CVE-2026-48817](https://www.cve.org/CVERecord?id=CVE-2026-48817)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-54282](https://www.cve.org/CVERecord?id=CVE-2026-54282)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-54283](https://www.cve.org/CVERecord?id=CVE-2026-54283)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** starlette 0.26.1-1+deb12u2
+ **Type :** DLA
+
+------------------------------
+
 **2026-08-01** - **[DLA-4710-1](https://security-tracker.debian.org/tracker/DLA-4710-1)** - chromium
 
 **CVE(s) :**
