@@ -1,5 +1,44 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-08-02** - **[DSA-6410-1](https://security-tracker.debian.org/tracker/DSA-6410-1)** - libssh
+
+**CVE(s) :**
+- **[CVE-2026-0964](https://www.cve.org/CVERecord?id=CVE-2026-0964)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0965](https://www.cve.org/CVERecord?id=CVE-2026-0965)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0966](https://www.cve.org/CVERecord?id=CVE-2026-0966)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0967](https://www.cve.org/CVERecord?id=CVE-2026-0967)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0968](https://www.cve.org/CVERecord?id=CVE-2026-0968)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-3731](https://www.cve.org/CVERecord?id=CVE-2026-3731)** : 🟠 **Severity: Medium** (Score: 6.9)
+
+- **[CVE-2026-15370](https://www.cve.org/CVERecord?id=CVE-2026-15370)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-59843](https://www.cve.org/CVERecord?id=CVE-2026-59843)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-59844](https://www.cve.org/CVERecord?id=CVE-2026-59844)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-59845](https://www.cve.org/CVERecord?id=CVE-2026-59845)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-59846](https://www.cve.org/CVERecord?id=CVE-2026-59846)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-59847](https://www.cve.org/CVERecord?id=CVE-2026-59847)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-59848](https://www.cve.org/CVERecord?id=CVE-2026-59848)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-59849](https://www.cve.org/CVERecord?id=CVE-2026-59849)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-59850](https://www.cve.org/CVERecord?id=CVE-2026-59850)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** libssh 0.11.5-0+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-08-01** - **[DLA-4714-1](https://security-tracker.debian.org/tracker/DLA-4714-1)** - libmodbus
 
 **CVE(s) :**
