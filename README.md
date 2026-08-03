@@ -2758,25 +2758,3 @@
 
 ------------------------------
 
-**2026-07-20** - **[DLA-4691-1](https://security-tracker.debian.org/tracker/DLA-4691-1)** - rtpengine
-
-**CVE(s) :**
-- **[CVE-2025-53399](https://www.cve.org/CVERecord?id=CVE-2025-53399)** : 🟠 **Severity: Medium** (Score: 6.9)
-
-**Debian Version :** bookworm
- **Package Version :** rtpengine 10.5.3.5-1+deb12u1
- **Type :** DLA
-
-------------------------------
-
-**2026-07-20** - **[DLA-4690-1](https://security-tracker.debian.org/tracker/DLA-4690-1)** - xz-utils
-
-**CVE(s) :**
-- **[CVE-2026-34743](https://www.cve.org/CVERecord?id=CVE-2026-34743)** : 🟠 **Severity: Medium** (Score: 1.7)
-
-**Debian Version :** bullseye
- **Package Version :** xz-utils 5.2.5-2.1~deb11u2
- **Type :** DLA
-
-------------------------------
-
