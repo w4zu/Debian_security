@@ -1,5 +1,22 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-08-04** - **[DLA-4716-1](https://security-tracker.debian.org/tracker/DLA-4716-1)** - ruby2.7
+
+**CVE(s) :**
+- **[CVE-2025-24294](https://www.cve.org/CVERecord?id=CVE-2025-24294)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-61594](https://www.cve.org/CVERecord?id=CVE-2025-61594)** : 🟠 **Severity: Medium** (Score: 2.1)
+
+- **[CVE-2026-27820](https://www.cve.org/CVERecord?id=CVE-2026-27820)** : 🟠 **Severity: Medium** (Score: 1.7)
+
+- **[CVE-2026-41316](https://www.cve.org/CVERecord?id=CVE-2026-41316)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** ruby2.7 2.7.4-1+deb11u6
+ **Type :** DLA
+
+------------------------------
+
 **2026-08-02** - **[DLA-4715-1](https://security-tracker.debian.org/tracker/DLA-4715-1)** - kissfft
 
 **CVE(s) :**
