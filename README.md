@@ -1,5 +1,31 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-08-05** - **[DLA-4719-1](https://security-tracker.debian.org/tracker/DLA-4719-1)** - p7zip
+
+**CVE(s) :**
+- **[CVE-2026-14266](https://www.cve.org/CVERecord?id=CVE-2026-14266)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-58052](https://www.cve.org/CVERecord?id=CVE-2026-58052)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** p7zip 16.02+really26.02+dfsg-0+deb11u1 	[bookworm] - p7zip 16.02+really26.02+dfsg-0+deb12u1
+ **Type :** DLA
+
+------------------------------
+
+**2026-08-05** - **[DLA-4718-1](https://security-tracker.debian.org/tracker/DLA-4718-1)** - 7zip
+
+**CVE(s) :**
+- **[CVE-2026-14266](https://www.cve.org/CVERecord?id=CVE-2026-14266)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-58052](https://www.cve.org/CVERecord?id=CVE-2026-58052)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** 7zip 22.01+really26.02+dfsg-0+deb12u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-08-05** - **[DLA-4717-1](https://security-tracker.debian.org/tracker/DLA-4717-1)** - linux
 
 **CVE(s) :**
