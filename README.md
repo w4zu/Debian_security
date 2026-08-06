@@ -1,5 +1,34 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-08-06** - **[DSA-6413-1](https://security-tracker.debian.org/tracker/DSA-6413-1)** - libde265
+
+**CVE(s) :**
+- **[CVE-2024-38949](https://www.cve.org/CVERecord?id=CVE-2024-38949)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-38950](https://www.cve.org/CVERecord?id=CVE-2024-38950)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-61147](https://www.cve.org/CVERecord?id=CVE-2025-61147)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-45382](https://www.cve.org/CVERecord?id=CVE-2026-45382)** : 🟠 **Severity: Medium** (Score: 6.9)
+
+- **[CVE-2026-45383](https://www.cve.org/CVERecord?id=CVE-2026-45383)** : 🟠 **Severity: Medium** (Score: 6.9)
+
+- **[CVE-2026-49295](https://www.cve.org/CVERecord?id=CVE-2026-49295)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-49337](https://www.cve.org/CVERecord?id=CVE-2026-49337)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-49346](https://www.cve.org/CVERecord?id=CVE-2026-49346)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-54240](https://www.cve.org/CVERecord?id=CVE-2026-54240)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-54241](https://www.cve.org/CVERecord?id=CVE-2026-54241)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** libde265 1.0.15-1+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-08-05** - **[DLA-4720-1](https://security-tracker.debian.org/tracker/DLA-4720-1)** - linux
 
 **CVE(s) :**
