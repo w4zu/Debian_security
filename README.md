@@ -1,5 +1,974 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-08-07** - **[DLA-4725-1](https://security-tracker.debian.org/tracker/DLA-4725-1)** - bind9
+
+**CVE(s) :**
+- **[CVE-2026-3039](https://www.cve.org/CVERecord?id=CVE-2026-3039)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-3592](https://www.cve.org/CVERecord?id=CVE-2026-3592)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-5946](https://www.cve.org/CVERecord?id=CVE-2026-5946)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-5950](https://www.cve.org/CVERecord?id=CVE-2026-5950)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-10723](https://www.cve.org/CVERecord?id=CVE-2026-10723)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-10822](https://www.cve.org/CVERecord?id=CVE-2026-10822)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-11331](https://www.cve.org/CVERecord?id=CVE-2026-11331)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-11605](https://www.cve.org/CVERecord?id=CVE-2026-11605)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-11622](https://www.cve.org/CVERecord?id=CVE-2026-11622)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-11721](https://www.cve.org/CVERecord?id=CVE-2026-11721)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-12617](https://www.cve.org/CVERecord?id=CVE-2026-12617)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-13204](https://www.cve.org/CVERecord?id=CVE-2026-13204)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-13321](https://www.cve.org/CVERecord?id=CVE-2026-13321)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** bind9 1:9.16.50-1~deb11u6 	[bookworm] - bind9 1:9.18.49-1~deb12u2
+ **Type :** DLA
+
+------------------------------
+
+**2026-08-07** - **[DLA-4724-1](https://security-tracker.debian.org/tracker/DLA-4724-1)** - linux-6.12
+
+**CVE(s) :**
+- **[CVE-2025-21807](https://www.cve.org/CVERecord?id=CVE-2025-21807)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-45944](https://www.cve.org/CVERecord?id=CVE-2026-45944)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-46093](https://www.cve.org/CVERecord?id=CVE-2026-46093)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-53005](https://www.cve.org/CVERecord?id=CVE-2026-53005)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-53027](https://www.cve.org/CVERecord?id=CVE-2026-53027)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-53226](https://www.cve.org/CVERecord?id=CVE-2026-53226)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-53260](https://www.cve.org/CVERecord?id=CVE-2026-53260)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-53365](https://www.cve.org/CVERecord?id=CVE-2026-53365)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-53392](https://www.cve.org/CVERecord?id=CVE-2026-53392)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-53399](https://www.cve.org/CVERecord?id=CVE-2026-53399)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-53402](https://www.cve.org/CVERecord?id=CVE-2026-53402)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-63815](https://www.cve.org/CVERecord?id=CVE-2026-63815)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-63816](https://www.cve.org/CVERecord?id=CVE-2026-63816)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-63818](https://www.cve.org/CVERecord?id=CVE-2026-63818)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-63970](https://www.cve.org/CVERecord?id=CVE-2026-63970)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64187](https://www.cve.org/CVERecord?id=CVE-2026-64187)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64189](https://www.cve.org/CVERecord?id=CVE-2026-64189)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64192](https://www.cve.org/CVERecord?id=CVE-2026-64192)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64206](https://www.cve.org/CVERecord?id=CVE-2026-64206)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64227](https://www.cve.org/CVERecord?id=CVE-2026-64227)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64241](https://www.cve.org/CVERecord?id=CVE-2026-64241)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64256](https://www.cve.org/CVERecord?id=CVE-2026-64256)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64265](https://www.cve.org/CVERecord?id=CVE-2026-64265)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64266](https://www.cve.org/CVERecord?id=CVE-2026-64266)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64268](https://www.cve.org/CVERecord?id=CVE-2026-64268)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64269](https://www.cve.org/CVERecord?id=CVE-2026-64269)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64270](https://www.cve.org/CVERecord?id=CVE-2026-64270)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64271](https://www.cve.org/CVERecord?id=CVE-2026-64271)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64272](https://www.cve.org/CVERecord?id=CVE-2026-64272)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64273](https://www.cve.org/CVERecord?id=CVE-2026-64273)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64274](https://www.cve.org/CVERecord?id=CVE-2026-64274)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64275](https://www.cve.org/CVERecord?id=CVE-2026-64275)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64276](https://www.cve.org/CVERecord?id=CVE-2026-64276)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64277](https://www.cve.org/CVERecord?id=CVE-2026-64277)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64279](https://www.cve.org/CVERecord?id=CVE-2026-64279)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64284](https://www.cve.org/CVERecord?id=CVE-2026-64284)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64286](https://www.cve.org/CVERecord?id=CVE-2026-64286)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64287](https://www.cve.org/CVERecord?id=CVE-2026-64287)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64289](https://www.cve.org/CVERecord?id=CVE-2026-64289)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64294](https://www.cve.org/CVERecord?id=CVE-2026-64294)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64296](https://www.cve.org/CVERecord?id=CVE-2026-64296)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64297](https://www.cve.org/CVERecord?id=CVE-2026-64297)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64298](https://www.cve.org/CVERecord?id=CVE-2026-64298)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64299](https://www.cve.org/CVERecord?id=CVE-2026-64299)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64301](https://www.cve.org/CVERecord?id=CVE-2026-64301)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64303](https://www.cve.org/CVERecord?id=CVE-2026-64303)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64304](https://www.cve.org/CVERecord?id=CVE-2026-64304)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64305](https://www.cve.org/CVERecord?id=CVE-2026-64305)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64306](https://www.cve.org/CVERecord?id=CVE-2026-64306)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64307](https://www.cve.org/CVERecord?id=CVE-2026-64307)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64308](https://www.cve.org/CVERecord?id=CVE-2026-64308)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64309](https://www.cve.org/CVERecord?id=CVE-2026-64309)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64310](https://www.cve.org/CVERecord?id=CVE-2026-64310)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64312](https://www.cve.org/CVERecord?id=CVE-2026-64312)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64313](https://www.cve.org/CVERecord?id=CVE-2026-64313)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64315](https://www.cve.org/CVERecord?id=CVE-2026-64315)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64316](https://www.cve.org/CVERecord?id=CVE-2026-64316)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64317](https://www.cve.org/CVERecord?id=CVE-2026-64317)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64318](https://www.cve.org/CVERecord?id=CVE-2026-64318)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64319](https://www.cve.org/CVERecord?id=CVE-2026-64319)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64320](https://www.cve.org/CVERecord?id=CVE-2026-64320)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64321](https://www.cve.org/CVERecord?id=CVE-2026-64321)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64322](https://www.cve.org/CVERecord?id=CVE-2026-64322)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64323](https://www.cve.org/CVERecord?id=CVE-2026-64323)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64324](https://www.cve.org/CVERecord?id=CVE-2026-64324)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64326](https://www.cve.org/CVERecord?id=CVE-2026-64326)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64327](https://www.cve.org/CVERecord?id=CVE-2026-64327)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64328](https://www.cve.org/CVERecord?id=CVE-2026-64328)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64329](https://www.cve.org/CVERecord?id=CVE-2026-64329)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64330](https://www.cve.org/CVERecord?id=CVE-2026-64330)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64331](https://www.cve.org/CVERecord?id=CVE-2026-64331)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64332](https://www.cve.org/CVERecord?id=CVE-2026-64332)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64333](https://www.cve.org/CVERecord?id=CVE-2026-64333)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64334](https://www.cve.org/CVERecord?id=CVE-2026-64334)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64335](https://www.cve.org/CVERecord?id=CVE-2026-64335)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64336](https://www.cve.org/CVERecord?id=CVE-2026-64336)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64337](https://www.cve.org/CVERecord?id=CVE-2026-64337)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64338](https://www.cve.org/CVERecord?id=CVE-2026-64338)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64340](https://www.cve.org/CVERecord?id=CVE-2026-64340)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64341](https://www.cve.org/CVERecord?id=CVE-2026-64341)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64342](https://www.cve.org/CVERecord?id=CVE-2026-64342)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64343](https://www.cve.org/CVERecord?id=CVE-2026-64343)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64344](https://www.cve.org/CVERecord?id=CVE-2026-64344)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64345](https://www.cve.org/CVERecord?id=CVE-2026-64345)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64346](https://www.cve.org/CVERecord?id=CVE-2026-64346)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64347](https://www.cve.org/CVERecord?id=CVE-2026-64347)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64348](https://www.cve.org/CVERecord?id=CVE-2026-64348)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64350](https://www.cve.org/CVERecord?id=CVE-2026-64350)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64351](https://www.cve.org/CVERecord?id=CVE-2026-64351)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64352](https://www.cve.org/CVERecord?id=CVE-2026-64352)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64354](https://www.cve.org/CVERecord?id=CVE-2026-64354)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64355](https://www.cve.org/CVERecord?id=CVE-2026-64355)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64357](https://www.cve.org/CVERecord?id=CVE-2026-64357)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64358](https://www.cve.org/CVERecord?id=CVE-2026-64358)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64359](https://www.cve.org/CVERecord?id=CVE-2026-64359)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64360](https://www.cve.org/CVERecord?id=CVE-2026-64360)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64361](https://www.cve.org/CVERecord?id=CVE-2026-64361)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64362](https://www.cve.org/CVERecord?id=CVE-2026-64362)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64363](https://www.cve.org/CVERecord?id=CVE-2026-64363)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64364](https://www.cve.org/CVERecord?id=CVE-2026-64364)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64365](https://www.cve.org/CVERecord?id=CVE-2026-64365)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64367](https://www.cve.org/CVERecord?id=CVE-2026-64367)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64368](https://www.cve.org/CVERecord?id=CVE-2026-64368)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64369](https://www.cve.org/CVERecord?id=CVE-2026-64369)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64370](https://www.cve.org/CVERecord?id=CVE-2026-64370)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64371](https://www.cve.org/CVERecord?id=CVE-2026-64371)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64372](https://www.cve.org/CVERecord?id=CVE-2026-64372)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64373](https://www.cve.org/CVERecord?id=CVE-2026-64373)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64374](https://www.cve.org/CVERecord?id=CVE-2026-64374)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64375](https://www.cve.org/CVERecord?id=CVE-2026-64375)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64376](https://www.cve.org/CVERecord?id=CVE-2026-64376)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64377](https://www.cve.org/CVERecord?id=CVE-2026-64377)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64378](https://www.cve.org/CVERecord?id=CVE-2026-64378)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64379](https://www.cve.org/CVERecord?id=CVE-2026-64379)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64380](https://www.cve.org/CVERecord?id=CVE-2026-64380)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64381](https://www.cve.org/CVERecord?id=CVE-2026-64381)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64382](https://www.cve.org/CVERecord?id=CVE-2026-64382)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64383](https://www.cve.org/CVERecord?id=CVE-2026-64383)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64384](https://www.cve.org/CVERecord?id=CVE-2026-64384)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64385](https://www.cve.org/CVERecord?id=CVE-2026-64385)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64386](https://www.cve.org/CVERecord?id=CVE-2026-64386)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64387](https://www.cve.org/CVERecord?id=CVE-2026-64387)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64390](https://www.cve.org/CVERecord?id=CVE-2026-64390)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64391](https://www.cve.org/CVERecord?id=CVE-2026-64391)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64392](https://www.cve.org/CVERecord?id=CVE-2026-64392)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64393](https://www.cve.org/CVERecord?id=CVE-2026-64393)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64394](https://www.cve.org/CVERecord?id=CVE-2026-64394)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64395](https://www.cve.org/CVERecord?id=CVE-2026-64395)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64396](https://www.cve.org/CVERecord?id=CVE-2026-64396)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64397](https://www.cve.org/CVERecord?id=CVE-2026-64397)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64398](https://www.cve.org/CVERecord?id=CVE-2026-64398)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64399](https://www.cve.org/CVERecord?id=CVE-2026-64399)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64401](https://www.cve.org/CVERecord?id=CVE-2026-64401)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64402](https://www.cve.org/CVERecord?id=CVE-2026-64402)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64403](https://www.cve.org/CVERecord?id=CVE-2026-64403)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64404](https://www.cve.org/CVERecord?id=CVE-2026-64404)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64405](https://www.cve.org/CVERecord?id=CVE-2026-64405)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64406](https://www.cve.org/CVERecord?id=CVE-2026-64406)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64407](https://www.cve.org/CVERecord?id=CVE-2026-64407)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64408](https://www.cve.org/CVERecord?id=CVE-2026-64408)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64409](https://www.cve.org/CVERecord?id=CVE-2026-64409)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64411](https://www.cve.org/CVERecord?id=CVE-2026-64411)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64412](https://www.cve.org/CVERecord?id=CVE-2026-64412)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64413](https://www.cve.org/CVERecord?id=CVE-2026-64413)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64414](https://www.cve.org/CVERecord?id=CVE-2026-64414)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64415](https://www.cve.org/CVERecord?id=CVE-2026-64415)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64416](https://www.cve.org/CVERecord?id=CVE-2026-64416)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64417](https://www.cve.org/CVERecord?id=CVE-2026-64417)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64418](https://www.cve.org/CVERecord?id=CVE-2026-64418)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64419](https://www.cve.org/CVERecord?id=CVE-2026-64419)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64420](https://www.cve.org/CVERecord?id=CVE-2026-64420)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64421](https://www.cve.org/CVERecord?id=CVE-2026-64421)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64422](https://www.cve.org/CVERecord?id=CVE-2026-64422)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64423](https://www.cve.org/CVERecord?id=CVE-2026-64423)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64424](https://www.cve.org/CVERecord?id=CVE-2026-64424)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64425](https://www.cve.org/CVERecord?id=CVE-2026-64425)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64428](https://www.cve.org/CVERecord?id=CVE-2026-64428)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64429](https://www.cve.org/CVERecord?id=CVE-2026-64429)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64430](https://www.cve.org/CVERecord?id=CVE-2026-64430)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64432](https://www.cve.org/CVERecord?id=CVE-2026-64432)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64433](https://www.cve.org/CVERecord?id=CVE-2026-64433)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64434](https://www.cve.org/CVERecord?id=CVE-2026-64434)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64435](https://www.cve.org/CVERecord?id=CVE-2026-64435)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64436](https://www.cve.org/CVERecord?id=CVE-2026-64436)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64437](https://www.cve.org/CVERecord?id=CVE-2026-64437)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64438](https://www.cve.org/CVERecord?id=CVE-2026-64438)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64440](https://www.cve.org/CVERecord?id=CVE-2026-64440)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64441](https://www.cve.org/CVERecord?id=CVE-2026-64441)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64442](https://www.cve.org/CVERecord?id=CVE-2026-64442)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64443](https://www.cve.org/CVERecord?id=CVE-2026-64443)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64444](https://www.cve.org/CVERecord?id=CVE-2026-64444)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64445](https://www.cve.org/CVERecord?id=CVE-2026-64445)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64446](https://www.cve.org/CVERecord?id=CVE-2026-64446)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64448](https://www.cve.org/CVERecord?id=CVE-2026-64448)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64449](https://www.cve.org/CVERecord?id=CVE-2026-64449)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64450](https://www.cve.org/CVERecord?id=CVE-2026-64450)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64452](https://www.cve.org/CVERecord?id=CVE-2026-64452)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64454](https://www.cve.org/CVERecord?id=CVE-2026-64454)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64455](https://www.cve.org/CVERecord?id=CVE-2026-64455)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64456](https://www.cve.org/CVERecord?id=CVE-2026-64456)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64457](https://www.cve.org/CVERecord?id=CVE-2026-64457)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64458](https://www.cve.org/CVERecord?id=CVE-2026-64458)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64461](https://www.cve.org/CVERecord?id=CVE-2026-64461)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64462](https://www.cve.org/CVERecord?id=CVE-2026-64462)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64463](https://www.cve.org/CVERecord?id=CVE-2026-64463)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64465](https://www.cve.org/CVERecord?id=CVE-2026-64465)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64468](https://www.cve.org/CVERecord?id=CVE-2026-64468)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64469](https://www.cve.org/CVERecord?id=CVE-2026-64469)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64470](https://www.cve.org/CVERecord?id=CVE-2026-64470)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64471](https://www.cve.org/CVERecord?id=CVE-2026-64471)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64472](https://www.cve.org/CVERecord?id=CVE-2026-64472)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64473](https://www.cve.org/CVERecord?id=CVE-2026-64473)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64474](https://www.cve.org/CVERecord?id=CVE-2026-64474)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64475](https://www.cve.org/CVERecord?id=CVE-2026-64475)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64476](https://www.cve.org/CVERecord?id=CVE-2026-64476)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64477](https://www.cve.org/CVERecord?id=CVE-2026-64477)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64478](https://www.cve.org/CVERecord?id=CVE-2026-64478)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64479](https://www.cve.org/CVERecord?id=CVE-2026-64479)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64480](https://www.cve.org/CVERecord?id=CVE-2026-64480)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64481](https://www.cve.org/CVERecord?id=CVE-2026-64481)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64482](https://www.cve.org/CVERecord?id=CVE-2026-64482)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64483](https://www.cve.org/CVERecord?id=CVE-2026-64483)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64484](https://www.cve.org/CVERecord?id=CVE-2026-64484)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64486](https://www.cve.org/CVERecord?id=CVE-2026-64486)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64487](https://www.cve.org/CVERecord?id=CVE-2026-64487)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64488](https://www.cve.org/CVERecord?id=CVE-2026-64488)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64489](https://www.cve.org/CVERecord?id=CVE-2026-64489)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64490](https://www.cve.org/CVERecord?id=CVE-2026-64490)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64493](https://www.cve.org/CVERecord?id=CVE-2026-64493)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64494](https://www.cve.org/CVERecord?id=CVE-2026-64494)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64495](https://www.cve.org/CVERecord?id=CVE-2026-64495)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64496](https://www.cve.org/CVERecord?id=CVE-2026-64496)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64497](https://www.cve.org/CVERecord?id=CVE-2026-64497)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64499](https://www.cve.org/CVERecord?id=CVE-2026-64499)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64500](https://www.cve.org/CVERecord?id=CVE-2026-64500)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64503](https://www.cve.org/CVERecord?id=CVE-2026-64503)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64504](https://www.cve.org/CVERecord?id=CVE-2026-64504)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64505](https://www.cve.org/CVERecord?id=CVE-2026-64505)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64507](https://www.cve.org/CVERecord?id=CVE-2026-64507)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64508](https://www.cve.org/CVERecord?id=CVE-2026-64508)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64509](https://www.cve.org/CVERecord?id=CVE-2026-64509)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64510](https://www.cve.org/CVERecord?id=CVE-2026-64510)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64511](https://www.cve.org/CVERecord?id=CVE-2026-64511)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64512](https://www.cve.org/CVERecord?id=CVE-2026-64512)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64514](https://www.cve.org/CVERecord?id=CVE-2026-64514)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64530](https://www.cve.org/CVERecord?id=CVE-2026-64530)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64531](https://www.cve.org/CVERecord?id=CVE-2026-64531)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64532](https://www.cve.org/CVERecord?id=CVE-2026-64532)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64533](https://www.cve.org/CVERecord?id=CVE-2026-64533)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64534](https://www.cve.org/CVERecord?id=CVE-2026-64534)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64535](https://www.cve.org/CVERecord?id=CVE-2026-64535)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64536](https://www.cve.org/CVERecord?id=CVE-2026-64536)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64537](https://www.cve.org/CVERecord?id=CVE-2026-64537)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64538](https://www.cve.org/CVERecord?id=CVE-2026-64538)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64539](https://www.cve.org/CVERecord?id=CVE-2026-64539)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64540](https://www.cve.org/CVERecord?id=CVE-2026-64540)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64541](https://www.cve.org/CVERecord?id=CVE-2026-64541)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64542](https://www.cve.org/CVERecord?id=CVE-2026-64542)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64543](https://www.cve.org/CVERecord?id=CVE-2026-64543)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64544](https://www.cve.org/CVERecord?id=CVE-2026-64544)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64545](https://www.cve.org/CVERecord?id=CVE-2026-64545)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64546](https://www.cve.org/CVERecord?id=CVE-2026-64546)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64547](https://www.cve.org/CVERecord?id=CVE-2026-64547)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64548](https://www.cve.org/CVERecord?id=CVE-2026-64548)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64549](https://www.cve.org/CVERecord?id=CVE-2026-64549)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64550](https://www.cve.org/CVERecord?id=CVE-2026-64550)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64551](https://www.cve.org/CVERecord?id=CVE-2026-64551)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64552](https://www.cve.org/CVERecord?id=CVE-2026-64552)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64553](https://www.cve.org/CVERecord?id=CVE-2026-64553)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64554](https://www.cve.org/CVERecord?id=CVE-2026-64554)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64555](https://www.cve.org/CVERecord?id=CVE-2026-64555)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64556](https://www.cve.org/CVERecord?id=CVE-2026-64556)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64557](https://www.cve.org/CVERecord?id=CVE-2026-64557)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64558](https://www.cve.org/CVERecord?id=CVE-2026-64558)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64559](https://www.cve.org/CVERecord?id=CVE-2026-64559)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64560](https://www.cve.org/CVERecord?id=CVE-2026-64560)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64582](https://www.cve.org/CVERecord?id=CVE-2026-64582)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64585](https://www.cve.org/CVERecord?id=CVE-2026-64585)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64589](https://www.cve.org/CVERecord?id=CVE-2026-64589)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64590](https://www.cve.org/CVERecord?id=CVE-2026-64590)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64592](https://www.cve.org/CVERecord?id=CVE-2026-64592)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64593](https://www.cve.org/CVERecord?id=CVE-2026-64593)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64594](https://www.cve.org/CVERecord?id=CVE-2026-64594)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64597](https://www.cve.org/CVERecord?id=CVE-2026-64597)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64598](https://www.cve.org/CVERecord?id=CVE-2026-64598)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64599](https://www.cve.org/CVERecord?id=CVE-2026-64599)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64600](https://www.cve.org/CVERecord?id=CVE-2026-64600)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64602](https://www.cve.org/CVERecord?id=CVE-2026-64602)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64603](https://www.cve.org/CVERecord?id=CVE-2026-64603)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64604](https://www.cve.org/CVERecord?id=CVE-2026-64604)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** linux-6.12 6.12.100-1~deb12u1
+ **Type :** DLA
+
+------------------------------
+
+**2026-08-07** - **[DLA-4723-1](https://security-tracker.debian.org/tracker/DLA-4723-1)** - linux-6.1
+
+**CVE(s) :**
+- **[CVE-2024-36013](https://www.cve.org/CVERecord?id=CVE-2024-36013)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-40196](https://www.cve.org/CVERecord?id=CVE-2025-40196)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-31610](https://www.cve.org/CVERecord?id=CVE-2026-31610)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-43216](https://www.cve.org/CVERecord?id=CVE-2026-43216)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-46135](https://www.cve.org/CVERecord?id=CVE-2026-46135)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-53332](https://www.cve.org/CVERecord?id=CVE-2026-53332)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-53392](https://www.cve.org/CVERecord?id=CVE-2026-53392)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-53393](https://www.cve.org/CVERecord?id=CVE-2026-53393)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-53399](https://www.cve.org/CVERecord?id=CVE-2026-53399)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-53400](https://www.cve.org/CVERecord?id=CVE-2026-53400)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-53402](https://www.cve.org/CVERecord?id=CVE-2026-53402)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-63797](https://www.cve.org/CVERecord?id=CVE-2026-63797)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-63806](https://www.cve.org/CVERecord?id=CVE-2026-63806)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-63810](https://www.cve.org/CVERecord?id=CVE-2026-63810)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-63815](https://www.cve.org/CVERecord?id=CVE-2026-63815)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-63818](https://www.cve.org/CVERecord?id=CVE-2026-63818)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-63829](https://www.cve.org/CVERecord?id=CVE-2026-63829)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64187](https://www.cve.org/CVERecord?id=CVE-2026-64187)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64189](https://www.cve.org/CVERecord?id=CVE-2026-64189)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64206](https://www.cve.org/CVERecord?id=CVE-2026-64206)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64248](https://www.cve.org/CVERecord?id=CVE-2026-64248)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64250](https://www.cve.org/CVERecord?id=CVE-2026-64250)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64266](https://www.cve.org/CVERecord?id=CVE-2026-64266)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64268](https://www.cve.org/CVERecord?id=CVE-2026-64268)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64269](https://www.cve.org/CVERecord?id=CVE-2026-64269)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64271](https://www.cve.org/CVERecord?id=CVE-2026-64271)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64273](https://www.cve.org/CVERecord?id=CVE-2026-64273)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64274](https://www.cve.org/CVERecord?id=CVE-2026-64274)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64275](https://www.cve.org/CVERecord?id=CVE-2026-64275)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64276](https://www.cve.org/CVERecord?id=CVE-2026-64276)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64277](https://www.cve.org/CVERecord?id=CVE-2026-64277)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64279](https://www.cve.org/CVERecord?id=CVE-2026-64279)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64296](https://www.cve.org/CVERecord?id=CVE-2026-64296)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64297](https://www.cve.org/CVERecord?id=CVE-2026-64297)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64298](https://www.cve.org/CVERecord?id=CVE-2026-64298)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64299](https://www.cve.org/CVERecord?id=CVE-2026-64299)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64301](https://www.cve.org/CVERecord?id=CVE-2026-64301)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64303](https://www.cve.org/CVERecord?id=CVE-2026-64303)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64304](https://www.cve.org/CVERecord?id=CVE-2026-64304)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64306](https://www.cve.org/CVERecord?id=CVE-2026-64306)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64312](https://www.cve.org/CVERecord?id=CVE-2026-64312)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64313](https://www.cve.org/CVERecord?id=CVE-2026-64313)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64315](https://www.cve.org/CVERecord?id=CVE-2026-64315)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64316](https://www.cve.org/CVERecord?id=CVE-2026-64316)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64317](https://www.cve.org/CVERecord?id=CVE-2026-64317)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64318](https://www.cve.org/CVERecord?id=CVE-2026-64318)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64322](https://www.cve.org/CVERecord?id=CVE-2026-64322)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64323](https://www.cve.org/CVERecord?id=CVE-2026-64323)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64324](https://www.cve.org/CVERecord?id=CVE-2026-64324)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64329](https://www.cve.org/CVERecord?id=CVE-2026-64329)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64330](https://www.cve.org/CVERecord?id=CVE-2026-64330)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64331](https://www.cve.org/CVERecord?id=CVE-2026-64331)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64332](https://www.cve.org/CVERecord?id=CVE-2026-64332)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64333](https://www.cve.org/CVERecord?id=CVE-2026-64333)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64334](https://www.cve.org/CVERecord?id=CVE-2026-64334)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64335](https://www.cve.org/CVERecord?id=CVE-2026-64335)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64336](https://www.cve.org/CVERecord?id=CVE-2026-64336)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64337](https://www.cve.org/CVERecord?id=CVE-2026-64337)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64338](https://www.cve.org/CVERecord?id=CVE-2026-64338)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64340](https://www.cve.org/CVERecord?id=CVE-2026-64340)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64342](https://www.cve.org/CVERecord?id=CVE-2026-64342)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64343](https://www.cve.org/CVERecord?id=CVE-2026-64343)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64344](https://www.cve.org/CVERecord?id=CVE-2026-64344)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64346](https://www.cve.org/CVERecord?id=CVE-2026-64346)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64347](https://www.cve.org/CVERecord?id=CVE-2026-64347)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64350](https://www.cve.org/CVERecord?id=CVE-2026-64350)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64351](https://www.cve.org/CVERecord?id=CVE-2026-64351)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64352](https://www.cve.org/CVERecord?id=CVE-2026-64352)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64355](https://www.cve.org/CVERecord?id=CVE-2026-64355)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64359](https://www.cve.org/CVERecord?id=CVE-2026-64359)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64360](https://www.cve.org/CVERecord?id=CVE-2026-64360)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64361](https://www.cve.org/CVERecord?id=CVE-2026-64361)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64362](https://www.cve.org/CVERecord?id=CVE-2026-64362)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64363](https://www.cve.org/CVERecord?id=CVE-2026-64363)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64364](https://www.cve.org/CVERecord?id=CVE-2026-64364)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64365](https://www.cve.org/CVERecord?id=CVE-2026-64365)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64370](https://www.cve.org/CVERecord?id=CVE-2026-64370)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64371](https://www.cve.org/CVERecord?id=CVE-2026-64371)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64372](https://www.cve.org/CVERecord?id=CVE-2026-64372)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64373](https://www.cve.org/CVERecord?id=CVE-2026-64373)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64374](https://www.cve.org/CVERecord?id=CVE-2026-64374)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64375](https://www.cve.org/CVERecord?id=CVE-2026-64375)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64376](https://www.cve.org/CVERecord?id=CVE-2026-64376)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64378](https://www.cve.org/CVERecord?id=CVE-2026-64378)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64379](https://www.cve.org/CVERecord?id=CVE-2026-64379)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64380](https://www.cve.org/CVERecord?id=CVE-2026-64380)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64381](https://www.cve.org/CVERecord?id=CVE-2026-64381)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64390](https://www.cve.org/CVERecord?id=CVE-2026-64390)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64393](https://www.cve.org/CVERecord?id=CVE-2026-64393)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64394](https://www.cve.org/CVERecord?id=CVE-2026-64394)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64395](https://www.cve.org/CVERecord?id=CVE-2026-64395)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64396](https://www.cve.org/CVERecord?id=CVE-2026-64396)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64397](https://www.cve.org/CVERecord?id=CVE-2026-64397)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64398](https://www.cve.org/CVERecord?id=CVE-2026-64398)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64399](https://www.cve.org/CVERecord?id=CVE-2026-64399)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64401](https://www.cve.org/CVERecord?id=CVE-2026-64401)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64403](https://www.cve.org/CVERecord?id=CVE-2026-64403)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64406](https://www.cve.org/CVERecord?id=CVE-2026-64406)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64408](https://www.cve.org/CVERecord?id=CVE-2026-64408)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64409](https://www.cve.org/CVERecord?id=CVE-2026-64409)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64411](https://www.cve.org/CVERecord?id=CVE-2026-64411)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64412](https://www.cve.org/CVERecord?id=CVE-2026-64412)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64413](https://www.cve.org/CVERecord?id=CVE-2026-64413)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64417](https://www.cve.org/CVERecord?id=CVE-2026-64417)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64419](https://www.cve.org/CVERecord?id=CVE-2026-64419)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64420](https://www.cve.org/CVERecord?id=CVE-2026-64420)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64422](https://www.cve.org/CVERecord?id=CVE-2026-64422)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64423](https://www.cve.org/CVERecord?id=CVE-2026-64423)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64425](https://www.cve.org/CVERecord?id=CVE-2026-64425)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64428](https://www.cve.org/CVERecord?id=CVE-2026-64428)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64429](https://www.cve.org/CVERecord?id=CVE-2026-64429)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64430](https://www.cve.org/CVERecord?id=CVE-2026-64430)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64432](https://www.cve.org/CVERecord?id=CVE-2026-64432)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64435](https://www.cve.org/CVERecord?id=CVE-2026-64435)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64436](https://www.cve.org/CVERecord?id=CVE-2026-64436)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64437](https://www.cve.org/CVERecord?id=CVE-2026-64437)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64438](https://www.cve.org/CVERecord?id=CVE-2026-64438)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64440](https://www.cve.org/CVERecord?id=CVE-2026-64440)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64441](https://www.cve.org/CVERecord?id=CVE-2026-64441)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64442](https://www.cve.org/CVERecord?id=CVE-2026-64442)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64443](https://www.cve.org/CVERecord?id=CVE-2026-64443)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64444](https://www.cve.org/CVERecord?id=CVE-2026-64444)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64445](https://www.cve.org/CVERecord?id=CVE-2026-64445)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64446](https://www.cve.org/CVERecord?id=CVE-2026-64446)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64448](https://www.cve.org/CVERecord?id=CVE-2026-64448)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64449](https://www.cve.org/CVERecord?id=CVE-2026-64449)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64450](https://www.cve.org/CVERecord?id=CVE-2026-64450)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64452](https://www.cve.org/CVERecord?id=CVE-2026-64452)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64454](https://www.cve.org/CVERecord?id=CVE-2026-64454)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64455](https://www.cve.org/CVERecord?id=CVE-2026-64455)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64456](https://www.cve.org/CVERecord?id=CVE-2026-64456)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64458](https://www.cve.org/CVERecord?id=CVE-2026-64458)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64461](https://www.cve.org/CVERecord?id=CVE-2026-64461)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64462](https://www.cve.org/CVERecord?id=CVE-2026-64462)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64465](https://www.cve.org/CVERecord?id=CVE-2026-64465)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64468](https://www.cve.org/CVERecord?id=CVE-2026-64468)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64469](https://www.cve.org/CVERecord?id=CVE-2026-64469)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64470](https://www.cve.org/CVERecord?id=CVE-2026-64470)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64471](https://www.cve.org/CVERecord?id=CVE-2026-64471)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64472](https://www.cve.org/CVERecord?id=CVE-2026-64472)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64475](https://www.cve.org/CVERecord?id=CVE-2026-64475)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64476](https://www.cve.org/CVERecord?id=CVE-2026-64476)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64478](https://www.cve.org/CVERecord?id=CVE-2026-64478)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64480](https://www.cve.org/CVERecord?id=CVE-2026-64480)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64482](https://www.cve.org/CVERecord?id=CVE-2026-64482)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64483](https://www.cve.org/CVERecord?id=CVE-2026-64483)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64484](https://www.cve.org/CVERecord?id=CVE-2026-64484)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64486](https://www.cve.org/CVERecord?id=CVE-2026-64486)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64487](https://www.cve.org/CVERecord?id=CVE-2026-64487)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64488](https://www.cve.org/CVERecord?id=CVE-2026-64488)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64489](https://www.cve.org/CVERecord?id=CVE-2026-64489)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64494](https://www.cve.org/CVERecord?id=CVE-2026-64494)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64495](https://www.cve.org/CVERecord?id=CVE-2026-64495)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64496](https://www.cve.org/CVERecord?id=CVE-2026-64496)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64497](https://www.cve.org/CVERecord?id=CVE-2026-64497)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64500](https://www.cve.org/CVERecord?id=CVE-2026-64500)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64503](https://www.cve.org/CVERecord?id=CVE-2026-64503)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64504](https://www.cve.org/CVERecord?id=CVE-2026-64504)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64505](https://www.cve.org/CVERecord?id=CVE-2026-64505)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64510](https://www.cve.org/CVERecord?id=CVE-2026-64510)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64512](https://www.cve.org/CVERecord?id=CVE-2026-64512)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64514](https://www.cve.org/CVERecord?id=CVE-2026-64514)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64530](https://www.cve.org/CVERecord?id=CVE-2026-64530)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64531](https://www.cve.org/CVERecord?id=CVE-2026-64531)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64532](https://www.cve.org/CVERecord?id=CVE-2026-64532)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64533](https://www.cve.org/CVERecord?id=CVE-2026-64533)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64534](https://www.cve.org/CVERecord?id=CVE-2026-64534)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64535](https://www.cve.org/CVERecord?id=CVE-2026-64535)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64536](https://www.cve.org/CVERecord?id=CVE-2026-64536)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64537](https://www.cve.org/CVERecord?id=CVE-2026-64537)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64538](https://www.cve.org/CVERecord?id=CVE-2026-64538)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64539](https://www.cve.org/CVERecord?id=CVE-2026-64539)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64540](https://www.cve.org/CVERecord?id=CVE-2026-64540)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64541](https://www.cve.org/CVERecord?id=CVE-2026-64541)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64544](https://www.cve.org/CVERecord?id=CVE-2026-64544)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64545](https://www.cve.org/CVERecord?id=CVE-2026-64545)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64546](https://www.cve.org/CVERecord?id=CVE-2026-64546)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64547](https://www.cve.org/CVERecord?id=CVE-2026-64547)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64548](https://www.cve.org/CVERecord?id=CVE-2026-64548)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64549](https://www.cve.org/CVERecord?id=CVE-2026-64549)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64550](https://www.cve.org/CVERecord?id=CVE-2026-64550)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64551](https://www.cve.org/CVERecord?id=CVE-2026-64551)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64552](https://www.cve.org/CVERecord?id=CVE-2026-64552)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64553](https://www.cve.org/CVERecord?id=CVE-2026-64553)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64554](https://www.cve.org/CVERecord?id=CVE-2026-64554)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64557](https://www.cve.org/CVERecord?id=CVE-2026-64557)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64560](https://www.cve.org/CVERecord?id=CVE-2026-64560)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-64600](https://www.cve.org/CVERecord?id=CVE-2026-64600)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** linux-6.1 6.1.180-1~deb11u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-08-07** - **[DSA-6416-1](https://security-tracker.debian.org/tracker/DSA-6416-1)** - jq
 
 **CVE(s) :**
