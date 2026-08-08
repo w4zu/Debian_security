@@ -1,5 +1,38 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-08-08** - **[DSA-6421-1](https://security-tracker.debian.org/tracker/DSA-6421-1)** - pdns-recursor
+
+**CVE(s) :**
+- **[CVE-2026-52682](https://www.cve.org/CVERecord?id=CVE-2026-52682)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** pdns-recursor 5.2.13-0+deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2026-08-08** - **[DSA-6420-1](https://security-tracker.debian.org/tracker/DSA-6420-1)** - pdns
+
+**CVE(s) :**
+- **[CVE-2026-52682](https://www.cve.org/CVERecord?id=CVE-2026-52682)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** pdns 4.9.17-0+deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2026-08-08** - **[DSA-6419-1](https://security-tracker.debian.org/tracker/DSA-6419-1)** - dnsdist
+
+**CVE(s) :**
+- **[CVE-2026-52682](https://www.cve.org/CVERecord?id=CVE-2026-52682)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** dnsdist 1.9.16-0+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-08-08** - **[DSA-6417-1](https://security-tracker.debian.org/tracker/DSA-6417-1)** - libheif
 
 **CVE(s) :**
