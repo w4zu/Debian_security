@@ -1,5 +1,22 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-08-09** - **[DSA-6423-1](https://security-tracker.debian.org/tracker/DSA-6423-1)** - kitty
+
+**CVE(s) :**
+- **[CVE-2026-42850](https://www.cve.org/CVERecord?id=CVE-2026-42850)** : 🔥 **Severity: High** (Score: 7.4)
+
+- **[CVE-2026-42851](https://www.cve.org/CVERecord?id=CVE-2026-42851)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-54055](https://www.cve.org/CVERecord?id=CVE-2026-54055)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-54057](https://www.cve.org/CVERecord?id=CVE-2026-54057)** : 🔥 **Severity: High** (Score: 7.3)
+
+**Debian Version :** trixie
+ **Package Version :** kitty 0.41.1-2+deb13u2
+ **Type :** DSA
+
+------------------------------
+
 **2026-08-08** - **[DSA-6422-1](https://security-tracker.debian.org/tracker/DSA-6422-1)** - chromium
 
 **CVE(s) :**
