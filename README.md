@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-08-10** - **[DLA-4729-1](https://security-tracker.debian.org/tracker/DLA-4729-1)** - nss
+
+**CVE(s) :**
+- **[CVE-2026-16389](https://www.cve.org/CVERecord?id=CVE-2026-16389)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** nss 3.61-1+deb11u7 	[bookworm] - nss 2:3.87.1-1+deb12u4
+ **Type :** DLA
+
+------------------------------
+
 **2026-08-10** - **[DLA-4728-1](https://security-tracker.debian.org/tracker/DLA-4728-1)** - chromium
 
 **CVE(s) :**
@@ -167,6 +178,17 @@
 **Debian Version :** bullseye
  **Package Version :** thunderbird 1:140.13.0esr-2~deb11u1 	[bookworm] - thunderbird 1:140.13.0esr-2~deb12u1
  **Type :** DLA
+
+------------------------------
+
+**2026-08-10** - **[DSA-6427-1](https://security-tracker.debian.org/tracker/DSA-6427-1)** - wordpress
+
+**CVE(s) :**
+- **[CVE-2026-64638](https://www.cve.org/CVERecord?id=CVE-2026-64638)** : 🔥 **Severity: High** (Score: 8.9)
+
+**Debian Version :** trixie
+ **Package Version :** wordpress 6.8.7+dfsg1-0+deb13u1
+ **Type :** DSA
 
 ------------------------------
 
