@@ -1,5 +1,30 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-08-11** - **[DSA-6429-1](https://security-tracker.debian.org/tracker/DSA-6429-1)** - caddy
+
+**CVE(s) :**
+- **[CVE-2026-27585](https://www.cve.org/CVERecord?id=CVE-2026-27585)** : 🟠 **Severity: Medium** (Score: 6.9)
+
+- **[CVE-2026-27587](https://www.cve.org/CVERecord?id=CVE-2026-27587)** : 🔥 **Severity: High** (Score: 7.7)
+
+- **[CVE-2026-27588](https://www.cve.org/CVERecord?id=CVE-2026-27588)** : 🔥 **Severity: High** (Score: 7.7)
+
+- **[CVE-2026-27589](https://www.cve.org/CVERecord?id=CVE-2026-27589)** : 🟠 **Severity: Medium** (Score: 6.9)
+
+- **[CVE-2026-27590](https://www.cve.org/CVERecord?id=CVE-2026-27590)** : 🔥 **Severity: High** (Score: 8.9)
+
+- **[CVE-2026-45692](https://www.cve.org/CVERecord?id=CVE-2026-45692)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-52845](https://www.cve.org/CVERecord?id=CVE-2026-52845)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-52846](https://www.cve.org/CVERecord?id=CVE-2026-52846)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** caddy 2.6.2-12+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-08-10** - **[DLA-4730-1](https://security-tracker.debian.org/tracker/DLA-4730-1)** - libyaml-syck-perl
 
 **CVE(s) :**
