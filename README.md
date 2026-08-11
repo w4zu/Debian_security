@@ -1,5 +1,24 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-08-10** - **[DLA-4730-1](https://security-tracker.debian.org/tracker/DLA-4730-1)** - libyaml-syck-perl
+
+**CVE(s) :**
+- **[CVE-2026-5089](https://www.cve.org/CVERecord?id=CVE-2026-5089)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-13713](https://www.cve.org/CVERecord?id=CVE-2026-13713)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-57075](https://www.cve.org/CVERecord?id=CVE-2026-57075)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-57076](https://www.cve.org/CVERecord?id=CVE-2026-57076)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-57077](https://www.cve.org/CVERecord?id=CVE-2026-57077)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** libyaml-syck-perl 1.34-1+deb11u2 	[bookworm] - libyaml-syck-perl 1.34-2+deb12u3
+ **Type :** DLA
+
+------------------------------
+
 **2026-08-10** - **[DLA-4729-1](https://security-tracker.debian.org/tracker/DLA-4729-1)** - nss
 
 **CVE(s) :**
@@ -178,6 +197,25 @@
 **Debian Version :** bullseye
  **Package Version :** thunderbird 1:140.13.0esr-2~deb11u1 	[bookworm] - thunderbird 1:140.13.0esr-2~deb12u1
  **Type :** DLA
+
+------------------------------
+
+**2026-08-10** - **[DSA-6428-1](https://security-tracker.debian.org/tracker/DSA-6428-1)** - libyaml-syck-perl
+
+**CVE(s) :**
+- **[CVE-2026-5089](https://www.cve.org/CVERecord?id=CVE-2026-5089)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-13713](https://www.cve.org/CVERecord?id=CVE-2026-13713)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-57075](https://www.cve.org/CVERecord?id=CVE-2026-57075)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-57076](https://www.cve.org/CVERecord?id=CVE-2026-57076)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-57077](https://www.cve.org/CVERecord?id=CVE-2026-57077)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** libyaml-syck-perl 1.34-2+deb13u3
+ **Type :** DSA
 
 ------------------------------
 
@@ -4486,98 +4524,6 @@
 
 **Debian Version :** trixie
  **Package Version :** nss 2:3.110-1+deb13u4
- **Type :** DSA
-
-------------------------------
-
-**2026-07-28** - **[DLA-4703-1](https://security-tracker.debian.org/tracker/DLA-4703-1)** - openjdk-17
-
-**CVE(s) :**
-- **[CVE-2026-41254](https://www.cve.org/CVERecord?id=CVE-2026-41254)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-46917](https://www.cve.org/CVERecord?id=CVE-2026-46917)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-46968](https://www.cve.org/CVERecord?id=CVE-2026-46968)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-47010](https://www.cve.org/CVERecord?id=CVE-2026-47010)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-47021](https://www.cve.org/CVERecord?id=CVE-2026-47021)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-47027](https://www.cve.org/CVERecord?id=CVE-2026-47027)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-47059](https://www.cve.org/CVERecord?id=CVE-2026-47059)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-47063](https://www.cve.org/CVERecord?id=CVE-2026-47063)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-60147](https://www.cve.org/CVERecord?id=CVE-2026-60147)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** openjdk-17 17.0.20+8-1~deb11u1 	[bookworm] - openjdk-17 17.0.20+8-1~deb12u1
- **Type :** DLA
-
-------------------------------
-
-**2026-07-28** - **[DLA-4702-1](https://security-tracker.debian.org/tracker/DLA-4702-1)** - openjdk-11
-
-**CVE(s) :**
-- **[CVE-2026-41254](https://www.cve.org/CVERecord?id=CVE-2026-41254)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-46917](https://www.cve.org/CVERecord?id=CVE-2026-46917)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-46968](https://www.cve.org/CVERecord?id=CVE-2026-46968)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-47010](https://www.cve.org/CVERecord?id=CVE-2026-47010)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-47021](https://www.cve.org/CVERecord?id=CVE-2026-47021)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-47027](https://www.cve.org/CVERecord?id=CVE-2026-47027)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-47057](https://www.cve.org/CVERecord?id=CVE-2026-47057)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-47058](https://www.cve.org/CVERecord?id=CVE-2026-47058)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-47059](https://www.cve.org/CVERecord?id=CVE-2026-47059)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-47063](https://www.cve.org/CVERecord?id=CVE-2026-47063)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-60147](https://www.cve.org/CVERecord?id=CVE-2026-60147)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** openjdk-11 11.0.32+9-2~deb11u1
- **Type :** DLA
-
-------------------------------
-
-**2026-07-28** - **[DSA-6402-1](https://security-tracker.debian.org/tracker/DSA-6402-1)** - hplip
-
-**CVE(s) :**
-- **[CVE-2026-8631](https://www.cve.org/CVERecord?id=CVE-2026-8631)** : 🔥 **Severity: High** (Score: 9.3)
-
-- **[CVE-2026-8632](https://www.cve.org/CVERecord?id=CVE-2026-8632)** : 🔥 **Severity: High** (Score: 8.5)
-
-**Debian Version :** trixie
- **Package Version :** hplip 3.22.10+dfsg0-8.1+deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2026-07-28** - **[DSA-6401-1](https://security-tracker.debian.org/tracker/DSA-6401-1)** - samba
-
-**CVE(s) :**
-- **[CVE-2026-6949](https://www.cve.org/CVERecord?id=CVE-2026-6949)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-58216](https://www.cve.org/CVERecord?id=CVE-2026-58216)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-58218](https://www.cve.org/CVERecord?id=CVE-2026-58218)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-58221](https://www.cve.org/CVERecord?id=CVE-2026-58221)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-58222](https://www.cve.org/CVERecord?id=CVE-2026-58222)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-58224](https://www.cve.org/CVERecord?id=CVE-2026-58224)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** trixie
- **Package Version :** samba 2:4.22.10+dfsg-0+deb13u2
  **Type :** DSA
 
 ------------------------------
