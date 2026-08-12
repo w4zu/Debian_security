@@ -1,5 +1,42 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-08-12** - **[DLA-4735-1](https://security-tracker.debian.org/tracker/DLA-4735-1)** - neutron
+
+**CVE(s) :**
+- **[CVE-2026-55707](https://www.cve.org/CVERecord?id=CVE-2026-55707)** : 🔥 **Severity: High** (Score: 7.1)
+
+**Debian Version :** bookworm
+ **Package Version :** neutron 2:21.0.0-7+deb12u1
+ **Type :** DLA
+
+------------------------------
+
+**2026-08-12** - **[DLA-4734-1](https://security-tracker.debian.org/tracker/DLA-4734-1)** - lemonldap-ng
+
+**CVE(s) :**
+- **[CVE-2026-12804](https://www.cve.org/CVERecord?id=CVE-2026-12804)** : 🟠 **Severity: Medium** (Score: 5.3)
+
+- **[CVE-2026-19349](https://www.cve.org/CVERecord?id=CVE-2026-19349)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** lemonldap-ng 2.0.11+ds-4+deb11u9 	[bookworm] - lemonldap-ng 2.16.1+ds-deb12u9
+ **Type :** DLA
+
+------------------------------
+
+**2026-08-12** - **[DSA-6434-1](https://security-tracker.debian.org/tracker/DSA-6434-1)** - lemonldap-ng
+
+**CVE(s) :**
+- **[CVE-2026-12804](https://www.cve.org/CVERecord?id=CVE-2026-12804)** : 🟠 **Severity: Medium** (Score: 5.3)
+
+- **[CVE-2026-19349](https://www.cve.org/CVERecord?id=CVE-2026-19349)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** lemonldap-ng 2.21.2+ds-1+deb13u3
+ **Type :** DSA
+
+------------------------------
+
 **2026-08-11** - **[DLA-4733-1](https://security-tracker.debian.org/tracker/DLA-4733-1)** - php7.4
 
 **CVE(s) :**
