@@ -68,6 +68,42 @@
 
 ------------------------------
 
+**2026-08-13** - **[DSA-6437-1](https://security-tracker.debian.org/tracker/DSA-6437-1)** - apr-util
+
+**CVE(s) :**
+- **[CVE-2025-49506](https://www.cve.org/CVERecord?id=CVE-2025-49506)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-32327](https://www.cve.org/CVERecord?id=CVE-2026-32327)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-34501](https://www.cve.org/CVERecord?id=CVE-2026-34501)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-34502](https://www.cve.org/CVERecord?id=CVE-2026-34502)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** apr-util 1.6.3-3+deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2026-08-13** - **[DSA-6436-1](https://security-tracker.debian.org/tracker/DSA-6436-1)** - chromium
+
+**CVE(s) :**
+- **[CVE-2026-19556](https://www.cve.org/CVERecord?id=CVE-2026-19556)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-19557](https://www.cve.org/CVERecord?id=CVE-2026-19557)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-19558](https://www.cve.org/CVERecord?id=CVE-2026-19558)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-19559](https://www.cve.org/CVERecord?id=CVE-2026-19559)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-19560](https://www.cve.org/CVERecord?id=CVE-2026-19560)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** chromium 151.0.7922.137-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-08-12** - **[DLA-4736-1](https://security-tracker.debian.org/tracker/DLA-4736-1)** - python-django
 
 **CVE(s) :**
