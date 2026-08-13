@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-08-12** - **[DLA-4736-1](https://security-tracker.debian.org/tracker/DLA-4736-1)** - python-django
+
+**CVE(s) :**
+- **[CVE-2026-15337](https://www.cve.org/CVERecord?id=CVE-2026-15337)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-15920](https://www.cve.org/CVERecord?id=CVE-2026-15920)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** python-django 2:2.2.28-1~deb11u13 	[bookworm] - python-django 3:3.2.25-0+deb12u4
+ **Type :** DLA
+
+------------------------------
+
 **2026-08-12** - **[DLA-4735-1](https://security-tracker.debian.org/tracker/DLA-4735-1)** - neutron
 
 **CVE(s) :**
@@ -21,6 +34,17 @@
 **Debian Version :** bullseye
  **Package Version :** lemonldap-ng 2.0.11+ds-4+deb11u9 	[bookworm] - lemonldap-ng 2.16.1+ds-deb12u9
  **Type :** DLA
+
+------------------------------
+
+**2026-08-12** - **[DSA-6435-1](https://security-tracker.debian.org/tracker/DSA-6435-1)** - spip
+
+**CVE(s) :**
+- **[CVE-2026-66738](https://www.cve.org/CVERecord?id=CVE-2026-66738)** : 🔥 **Severity: High** (Score: 7.7)
+
+**Debian Version :** trixie
+ **Package Version :** spip 4.4.19+dfsg-0+deb13u1
+ **Type :** DSA
 
 ------------------------------
 
@@ -4539,68 +4563,6 @@
 
 **Debian Version :** trixie
  **Package Version :** linux 6.12.100-1
- **Type :** DSA
-
-------------------------------
-
-**2026-07-30** - **[DLA-4707-1](https://security-tracker.debian.org/tracker/DLA-4707-1)** - gsasl
-
-**CVE(s) :**
-- **[CVE-2026-56968](https://www.cve.org/CVERecord?id=CVE-2026-56968)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** gsasl 1.10.0-4+deb11u3 	[bookworm] - gsasl 2.2.0-1+deb12u2
- **Type :** DLA
-
-------------------------------
-
-**2026-07-30** - **[DSA-6404-1](https://security-tracker.debian.org/tracker/DSA-6404-1)** - expat
-
-**CVE(s) :**
-- **[CVE-2025-59375](https://www.cve.org/CVERecord?id=CVE-2025-59375)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-24515](https://www.cve.org/CVERecord?id=CVE-2026-24515)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-25210](https://www.cve.org/CVERecord?id=CVE-2026-25210)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-32776](https://www.cve.org/CVERecord?id=CVE-2026-32776)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-32777](https://www.cve.org/CVERecord?id=CVE-2026-32777)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-32778](https://www.cve.org/CVERecord?id=CVE-2026-32778)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-41080](https://www.cve.org/CVERecord?id=CVE-2026-41080)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-45186](https://www.cve.org/CVERecord?id=CVE-2026-45186)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-50219](https://www.cve.org/CVERecord?id=CVE-2026-50219)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-56131](https://www.cve.org/CVERecord?id=CVE-2026-56131)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-56132](https://www.cve.org/CVERecord?id=CVE-2026-56132)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-56403](https://www.cve.org/CVERecord?id=CVE-2026-56403)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-56404](https://www.cve.org/CVERecord?id=CVE-2026-56404)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-56405](https://www.cve.org/CVERecord?id=CVE-2026-56405)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-56406](https://www.cve.org/CVERecord?id=CVE-2026-56406)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-56407](https://www.cve.org/CVERecord?id=CVE-2026-56407)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-56408](https://www.cve.org/CVERecord?id=CVE-2026-56408)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-56409](https://www.cve.org/CVERecord?id=CVE-2026-56409)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-56410](https://www.cve.org/CVERecord?id=CVE-2026-56410)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-56411](https://www.cve.org/CVERecord?id=CVE-2026-56411)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-56412](https://www.cve.org/CVERecord?id=CVE-2026-56412)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** trixie
- **Package Version :** expat 2.8.2-1~deb13u1
  **Type :** DSA
 
 ------------------------------
