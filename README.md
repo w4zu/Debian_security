@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-08-14** - **[DSA-6441-1](https://security-tracker.debian.org/tracker/DSA-6441-1)** - python-httplib2
+
+**CVE(s) :**
+- **[CVE-2026-59939](https://www.cve.org/CVERecord?id=CVE-2026-59939)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** python-httplib2 0.22.0-1+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-08-13** - **[DLA-4739-1](https://security-tracker.debian.org/tracker/DLA-4739-1)** - chromium
 
 **CVE(s) :**
