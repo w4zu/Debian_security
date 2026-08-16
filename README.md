@@ -1,5 +1,35 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-08-16** - **[DLA-4742-1](https://security-tracker.debian.org/tracker/DLA-4742-1)** - apr-util
+
+**CVE(s) :**
+- **[CVE-2025-49506](https://www.cve.org/CVERecord?id=CVE-2025-49506)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-32327](https://www.cve.org/CVERecord?id=CVE-2026-32327)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-34191](https://www.cve.org/CVERecord?id=CVE-2026-34191)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-34501](https://www.cve.org/CVERecord?id=CVE-2026-34501)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-34502](https://www.cve.org/CVERecord?id=CVE-2026-34502)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** apr-util 1.6.1-5+deb11u2 	[bookworm] - apr-util 1.6.3-1+deb12u1
+ **Type :** DLA
+
+------------------------------
+
+**2026-08-16** - **[DSA-6444-1](https://security-tracker.debian.org/tracker/DSA-6444-1)** - neutron
+
+**CVE(s) :**
+- **[CVE-2026-55707](https://www.cve.org/CVERecord?id=CVE-2026-55707)** : 🔥 **Severity: High** (Score: 7.1)
+
+**Debian Version :** trixie
+ **Package Version :** neutron 2:26.0.3-0+deb13u3
+ **Type :** DSA
+
+------------------------------
+
 **2026-08-16** - **[DSA-6443-1](https://security-tracker.debian.org/tracker/DSA-6443-1)** - docker.io
 
 **CVE(s) :**
