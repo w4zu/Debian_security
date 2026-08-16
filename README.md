@@ -1,5 +1,28 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-08-16** - **[DSA-6443-1](https://security-tracker.debian.org/tracker/DSA-6443-1)** - docker.io
+
+**CVE(s) :**
+- **[CVE-2026-33747](https://www.cve.org/CVERecord?id=CVE-2026-33747)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-33748](https://www.cve.org/CVERecord?id=CVE-2026-33748)** : 🔥 **Severity: High** (Score: 8.2)
+
+- **[CVE-2026-33997](https://www.cve.org/CVERecord?id=CVE-2026-33997)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-34040](https://www.cve.org/CVERecord?id=CVE-2026-34040)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-41567](https://www.cve.org/CVERecord?id=CVE-2026-41567)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-41568](https://www.cve.org/CVERecord?id=CVE-2026-41568)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-42306](https://www.cve.org/CVERecord?id=CVE-2026-42306)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** docker.io 26.1.5+dfsg1-9+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-08-14** - **[DLA-4740-1](https://security-tracker.debian.org/tracker/DLA-4740-1)** - postgresql-15
 
 **CVE(s) :**
