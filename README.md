@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-08-16** - **[DLA-4743-1](https://security-tracker.debian.org/tracker/DLA-4743-1)** - ironic
+
+**CVE(s) :**
+- **[CVE-2026-43003](https://www.cve.org/CVERecord?id=CVE-2026-43003)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-54421](https://www.cve.org/CVERecord?id=CVE-2026-54421)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** ironic 1:21.4.4-0+deb12u2
+ **Type :** DLA
+
+------------------------------
+
 **2026-08-16** - **[DLA-4742-1](https://security-tracker.debian.org/tracker/DLA-4742-1)** - apr-util
 
 **CVE(s) :**
