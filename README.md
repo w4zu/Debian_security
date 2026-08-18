@@ -1,5 +1,22 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-08-17** - **[DSA-6445-1](https://security-tracker.debian.org/tracker/DSA-6445-1)** - ironic
+
+**CVE(s) :**
+- **[CVE-2026-43003](https://www.cve.org/CVERecord?id=CVE-2026-43003)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-44918](https://www.cve.org/CVERecord?id=CVE-2026-44918)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-54421](https://www.cve.org/CVERecord?id=CVE-2026-54421)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-54423](https://www.cve.org/CVERecord?id=CVE-2026-54423)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** ironic 1:29.0.5-0+deb13u3
+ **Type :** DSA
+
+------------------------------
+
 **2026-08-16** - **[DLA-4743-1](https://security-tracker.debian.org/tracker/DLA-4743-1)** - ironic
 
 **CVE(s) :**
@@ -3025,23 +3042,6 @@
 **Debian Version :** trixie
  **Package Version :** aom 3.12.1-1+deb13u1
  **Type :** DSA
-
-------------------------------
-
-**2026-08-04** - **[DLA-4716-1](https://security-tracker.debian.org/tracker/DLA-4716-1)** - ruby2.7
-
-**CVE(s) :**
-- **[CVE-2025-24294](https://www.cve.org/CVERecord?id=CVE-2025-24294)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2025-61594](https://www.cve.org/CVERecord?id=CVE-2025-61594)** : 🟠 **Severity: Medium** (Score: 2.1)
-
-- **[CVE-2026-27820](https://www.cve.org/CVERecord?id=CVE-2026-27820)** : 🟠 **Severity: Medium** (Score: 1.7)
-
-- **[CVE-2026-41316](https://www.cve.org/CVERecord?id=CVE-2026-41316)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bullseye
- **Package Version :** ruby2.7 2.7.4-1+deb11u6
- **Type :** DLA
 
 ------------------------------
 
