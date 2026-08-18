@@ -1,5 +1,27 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-08-18** - **[DLA-4744-1](https://security-tracker.debian.org/tracker/DLA-4744-1)** - calibre
+
+**CVE(s) :**
+- **[CVE-2026-53511](https://www.cve.org/CVERecord?id=CVE-2026-53511)** : 🔥 **Severity: High** (Score: 8.5)
+
+**Debian Version :** bookworm
+ **Package Version :** calibre 6.13.0+repack-2+deb12u10
+ **Type :** DLA
+
+------------------------------
+
+**2026-08-18** - **[DSA-6446-1](https://security-tracker.debian.org/tracker/DSA-6446-1)** - expat
+
+**CVE(s) :**
+- **[CVE-2026-72522](https://www.cve.org/CVERecord?id=CVE-2026-72522)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** expat 2.8.3-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-08-17** - **[DSA-6445-1](https://security-tracker.debian.org/tracker/DSA-6445-1)** - ironic
 
 **CVE(s) :**
