@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-08-19** - **[DLA-4746-1](https://security-tracker.debian.org/tracker/DLA-4746-1)** - swift
+
+**CVE(s) :**
+- **[CVE-2026-50221](https://www.cve.org/CVERecord?id=CVE-2026-50221)** : 🟠 **Severity: Medium** (Score: 5.3)
+
+- **[CVE-2026-71190](https://www.cve.org/CVERecord?id=CVE-2026-71190)** : 🔥 **Severity: High** (Score: 8.7)
+
+**Debian Version :** bookworm
+ **Package Version :** swift 2.30.1-0+deb12u2
+ **Type :** DLA
+
+------------------------------
+
 **2026-08-19** - **[DSA-6452-1](https://security-tracker.debian.org/tracker/DSA-6452-1)** - designate
 
 **CVE(s) :**
