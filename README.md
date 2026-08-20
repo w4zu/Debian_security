@@ -1,5 +1,26 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-08-20** - **[DSA-6453-1](https://security-tracker.debian.org/tracker/DSA-6453-1)** - libgit2
+
+**CVE(s) :**
+- **[CVE-2026-5917](https://www.cve.org/CVERecord?id=CVE-2026-5917)** : 🔥 **Severity: High** (Score: 9.4)
+
+- **[CVE-2026-53583](https://www.cve.org/CVERecord?id=CVE-2026-53583)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-53584](https://www.cve.org/CVERecord?id=CVE-2026-53584)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-53585](https://www.cve.org/CVERecord?id=CVE-2026-53585)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-53586](https://www.cve.org/CVERecord?id=CVE-2026-53586)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-53587](https://www.cve.org/CVERecord?id=CVE-2026-53587)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** libgit2 1.9.0+ds-2+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-08-19** - **[DLA-4746-1](https://security-tracker.debian.org/tracker/DLA-4746-1)** - swift
 
 **CVE(s) :**
