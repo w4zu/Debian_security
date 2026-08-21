@@ -902,6 +902,17 @@
 
 ------------------------------
 
+**2026-08-18** - **[DSA-6448-1](https://security-tracker.debian.org/tracker/DSA-6448-1)** - spip
+
+**CVE(s) :**
+- **[CVE-2026-77647](https://www.cve.org/CVERecord?id=CVE-2026-77647)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** spip 4.4.20+dfsg-0+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-08-18** - **[DSA-6447-1](https://security-tracker.debian.org/tracker/DSA-6447-1)** - librabbitmq
 
 **CVE(s) :**
