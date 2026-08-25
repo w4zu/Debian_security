@@ -1,5 +1,22 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-08-25** - **[DLA-4755-1](https://security-tracker.debian.org/tracker/DLA-4755-1)** - libvncserver
+
+**CVE(s) :**
+- **[CVE-2026-32853](https://www.cve.org/CVERecord?id=CVE-2026-32853)** : 🟠 **Severity: Medium** (Score: 6.9)
+
+- **[CVE-2026-32854](https://www.cve.org/CVERecord?id=CVE-2026-32854)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+- **[CVE-2026-44988](https://www.cve.org/CVERecord?id=CVE-2026-44988)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-50538](https://www.cve.org/CVERecord?id=CVE-2026-50538)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** libvncserver 0.9.13+dfsg-2+deb11u2
+ **Type :** DLA
+
+------------------------------
+
 **2026-08-25** - **[DLA-4754-1](https://security-tracker.debian.org/tracker/DLA-4754-1)** - thunderbird
 
 **CVE(s) :**
