@@ -1,5 +1,68 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-08-25** - **[DSA-6464-1](https://security-tracker.debian.org/tracker/DSA-6464-1)** - erlang
+
+**CVE(s) :**
+- **[CVE-2026-28808](https://www.cve.org/CVERecord?id=CVE-2026-28808)** : 🔥 **Severity: High** (Score: 8.3)
+
+- **[CVE-2026-28810](https://www.cve.org/CVERecord?id=CVE-2026-28810)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+- **[CVE-2026-32144](https://www.cve.org/CVERecord?id=CVE-2026-32144)** : 🔥 **Severity: High** (Score: 7.6)
+
+- **[CVE-2026-32147](https://www.cve.org/CVERecord?id=CVE-2026-32147)** : 🟠 **Severity: Medium** (Score: 5.3)
+
+- **[CVE-2026-42789](https://www.cve.org/CVERecord?id=CVE-2026-42789)** : 🔥 **Severity: High** (Score: 7)
+
+- **[CVE-2026-42790](https://www.cve.org/CVERecord?id=CVE-2026-42790)** : 🔥 **Severity: High** (Score: 7.6)
+
+- **[CVE-2026-42791](https://www.cve.org/CVERecord?id=CVE-2026-42791)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+- **[CVE-2026-42792](https://www.cve.org/CVERecord?id=CVE-2026-42792)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+- **[CVE-2026-47078](https://www.cve.org/CVERecord?id=CVE-2026-47078)** : 🟠 **Severity: Medium** (Score: 4.8)
+
+- **[CVE-2026-48855](https://www.cve.org/CVERecord?id=CVE-2026-48855)** : 🟠 **Severity: Medium** (Score: 2.3)
+
+- **[CVE-2026-48856](https://www.cve.org/CVERecord?id=CVE-2026-48856)** : 🔥 **Severity: High** (Score: 7.1)
+
+- **[CVE-2026-48858](https://www.cve.org/CVERecord?id=CVE-2026-48858)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+- **[CVE-2026-48860](https://www.cve.org/CVERecord?id=CVE-2026-48860)** : 🔥 **Severity: High** (Score: 7.5)
+
+- **[CVE-2026-49759](https://www.cve.org/CVERecord?id=CVE-2026-49759)** : 🔥 **Severity: High** (Score: 8.8)
+
+- **[CVE-2026-49760](https://www.cve.org/CVERecord?id=CVE-2026-49760)** : 🟠 **Severity: Medium** (Score: 6.9)
+
+- **[CVE-2026-53422](https://www.cve.org/CVERecord?id=CVE-2026-53422)** : 🟠 **Severity: Medium** (Score: 2.3)
+
+- **[CVE-2026-54886](https://www.cve.org/CVERecord?id=CVE-2026-54886)** : 🟠 **Severity: Medium** (Score: 5.3)
+
+- **[CVE-2026-54887](https://www.cve.org/CVERecord?id=CVE-2026-54887)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+- **[CVE-2026-54890](https://www.cve.org/CVERecord?id=CVE-2026-54890)** : 🔥 **Severity: High** (Score: 8.2)
+
+- **[CVE-2026-54891](https://www.cve.org/CVERecord?id=CVE-2026-54891)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+- **[CVE-2026-55737](https://www.cve.org/CVERecord?id=CVE-2026-55737)** : 🟠 **Severity: Medium** (Score: 5.1)
+
+- **[CVE-2026-55950](https://www.cve.org/CVERecord?id=CVE-2026-55950)** : 🔥 **Severity: High** (Score: 8.7)
+
+- **[CVE-2026-55952](https://www.cve.org/CVERecord?id=CVE-2026-55952)** : 🔥 **Severity: High** (Score: 8.2)
+
+- **[CVE-2026-55953](https://www.cve.org/CVERecord?id=CVE-2026-55953)** : 🔥 **Severity: High** (Score: 9.1)
+
+- **[CVE-2026-58227](https://www.cve.org/CVERecord?id=CVE-2026-58227)** : 🔥 **Severity: High** (Score: 8.7)
+
+- **[CVE-2026-59250](https://www.cve.org/CVERecord?id=CVE-2026-59250)** : 🔥 **Severity: High** (Score: 8.3)
+
+- **[CVE-2026-59251](https://www.cve.org/CVERecord?id=CVE-2026-59251)** : 🔥 **Severity: High** (Score: 8.7)
+
+**Debian Version :** trixie
+ **Package Version :** erlang 1:27.3.4.1+dfsg-1+deb13u3
+ **Type :** DSA
+
+------------------------------
+
 **2026-08-24** - **[DLA-4753-1](https://security-tracker.debian.org/tracker/DLA-4753-1)** - nvidia-graphics-drivers
 
 **CVE(s) :**
