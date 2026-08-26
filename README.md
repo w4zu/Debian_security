@@ -1,5 +1,26 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-08-26** - **[DSA-6467-1](https://security-tracker.debian.org/tracker/DSA-6467-1)** - freecad
+
+**CVE(s) :**
+- **[CVE-2026-34398](https://www.cve.org/CVERecord?id=CVE-2026-34398)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-34399](https://www.cve.org/CVERecord?id=CVE-2026-34399)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-34789](https://www.cve.org/CVERecord?id=CVE-2026-34789)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-73233](https://www.cve.org/CVERecord?id=CVE-2026-73233)** : 🔥 **Severity: High** (Score: 8.5)
+
+- **[CVE-2026-73234](https://www.cve.org/CVERecord?id=CVE-2026-73234)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-73235](https://www.cve.org/CVERecord?id=CVE-2026-73235)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** freecad 1.0.0+dfsg-8+deb13u3
+ **Type :** DSA
+
+------------------------------
+
 **2026-08-25** - **[DLA-4755-1](https://security-tracker.debian.org/tracker/DLA-4755-1)** - libvncserver
 
 **CVE(s) :**
