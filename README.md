@@ -1,5 +1,46 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-08-26** - **[DLA-4757-1](https://security-tracker.debian.org/tracker/DLA-4757-1)** - openjdk-17
+
+**CVE(s) :**
+- **[CVE-2026-60589](https://www.cve.org/CVERecord?id=CVE-2026-60589)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-61308](https://www.cve.org/CVERecord?id=CVE-2026-61308)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-70907](https://www.cve.org/CVERecord?id=CVE-2026-70907)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** openjdk-17 17.0.20.1+1-1~deb11u1 	[bookworm] - openjdk-17 17.0.20.1+1-1~deb12u1
+ **Type :** DLA
+
+------------------------------
+
+**2026-08-26** - **[DLA-4756-1](https://security-tracker.debian.org/tracker/DLA-4756-1)** - openjdk-11
+
+**CVE(s) :**
+- **[CVE-2026-60589](https://www.cve.org/CVERecord?id=CVE-2026-60589)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-61308](https://www.cve.org/CVERecord?id=CVE-2026-61308)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-70907](https://www.cve.org/CVERecord?id=CVE-2026-70907)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** openjdk-11 11.0.32.1+1-1~deb11u1
+ **Type :** DLA
+
+------------------------------
+
+**2026-08-26** - **[DSA-6468-1](https://security-tracker.debian.org/tracker/DSA-6468-1)** - emacs
+
+**CVE(s) :**
+- **[CVE-2026-6861](https://www.cve.org/CVERecord?id=CVE-2026-6861)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** emacs 1:30.1+1-6+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-08-26** - **[DSA-6467-1](https://security-tracker.debian.org/tracker/DSA-6467-1)** - freecad
 
 **CVE(s) :**
@@ -1114,7 +1155,7 @@
 **2026-08-20** - **[DSA-6453-1](https://security-tracker.debian.org/tracker/DSA-6453-1)** - libgit2
 
 **CVE(s) :**
-- **[CVE-2026-5917](https://www.cve.org/CVERecord?id=CVE-2026-5917)** : 🔥 **Severity: High** (Score: 9.4)
+- **[CVE-2026-5917](https://www.cve.org/CVERecord?id=CVE-2026-5917)** : 🔥 **Severity: High** (Score: 8.6)
 
 - **[CVE-2026-53583](https://www.cve.org/CVERecord?id=CVE-2026-53583)** : **Severity: Unknown** (Score: N/A)
 
