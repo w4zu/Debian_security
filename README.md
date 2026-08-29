@@ -1,5 +1,34 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-08-29** - **[DLA-4760-1](https://security-tracker.debian.org/tracker/DLA-4760-1)** - roundcube
+
+**CVE(s) :**
+- **[CVE-2026-74997](https://www.cve.org/CVERecord?id=CVE-2026-74997)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-74998](https://www.cve.org/CVERecord?id=CVE-2026-74998)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-74999](https://www.cve.org/CVERecord?id=CVE-2026-74999)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-75000](https://www.cve.org/CVERecord?id=CVE-2026-75000)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-75002](https://www.cve.org/CVERecord?id=CVE-2026-75002)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-75003](https://www.cve.org/CVERecord?id=CVE-2026-75003)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-75004](https://www.cve.org/CVERecord?id=CVE-2026-75004)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-75006](https://www.cve.org/CVERecord?id=CVE-2026-75006)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-75007](https://www.cve.org/CVERecord?id=CVE-2026-75007)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-75010](https://www.cve.org/CVERecord?id=CVE-2026-75010)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** roundcube 1.4.15+dfsg.1-1+deb11u11 	[bookworm] - roundcube 1.6.5+dfsg-1+deb12u11
+ **Type :** DLA
+
+------------------------------
+
 **2026-08-29** - **[DLA-4759-1](https://security-tracker.debian.org/tracker/DLA-4759-1)** - xrdp
 
 **CVE(s) :**
