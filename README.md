@@ -1,5 +1,42 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-08-29** - **[DLA-4759-1](https://security-tracker.debian.org/tracker/DLA-4759-1)** - xrdp
+
+**CVE(s) :**
+- **[CVE-2026-32105](https://www.cve.org/CVERecord?id=CVE-2026-32105)** : 🔥 **Severity: High** (Score: 9.3)
+
+- **[CVE-2026-32107](https://www.cve.org/CVERecord?id=CVE-2026-32107)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-32623](https://www.cve.org/CVERecord?id=CVE-2026-32623)** : 🔥 **Severity: High** (Score: 7.7)
+
+- **[CVE-2026-32624](https://www.cve.org/CVERecord?id=CVE-2026-32624)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+- **[CVE-2026-33516](https://www.cve.org/CVERecord?id=CVE-2026-33516)** : 🔥 **Severity: High** (Score: 7.7)
+
+- **[CVE-2026-33689](https://www.cve.org/CVERecord?id=CVE-2026-33689)** : 🔥 **Severity: High** (Score: 8.7)
+
+- **[CVE-2026-41252](https://www.cve.org/CVERecord?id=CVE-2026-41252)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-41521](https://www.cve.org/CVERecord?id=CVE-2026-41521)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-44178](https://www.cve.org/CVERecord?id=CVE-2026-44178)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-44978](https://www.cve.org/CVERecord?id=CVE-2026-44978)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-54538](https://www.cve.org/CVERecord?id=CVE-2026-54538)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-55238](https://www.cve.org/CVERecord?id=CVE-2026-55238)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-55639](https://www.cve.org/CVERecord?id=CVE-2026-55639)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-55645](https://www.cve.org/CVERecord?id=CVE-2026-55645)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** xrdp 0.9.21.1-1~deb11u4 	[bookworm] - xrdp 0.9.21.1-1+deb12u3
+ **Type :** DLA
+
+------------------------------
+
 **2026-08-27** - **[DLA-4758-1](https://security-tracker.debian.org/tracker/DLA-4758-1)** - chromium
 
 **CVE(s) :**
