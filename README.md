@@ -1,5 +1,60 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-08-30** - **[DLA-4761-1](https://security-tracker.debian.org/tracker/DLA-4761-1)** - libnet-dns-perl
+
+**CVE(s) :**
+- **[CVE-2026-64194](https://www.cve.org/CVERecord?id=CVE-2026-64194)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** libnet-dns-perl 1.29-1+deb11u1 	[bookworm] - libnet-dns-perl 1.36-1+deb12u1
+ **Type :** DLA
+
+------------------------------
+
+**2026-08-30** - **[DSA-6479-1](https://security-tracker.debian.org/tracker/DSA-6479-1)** - roundcube
+
+**CVE(s) :**
+- **[CVE-2026-74997](https://www.cve.org/CVERecord?id=CVE-2026-74997)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-74998](https://www.cve.org/CVERecord?id=CVE-2026-74998)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-74999](https://www.cve.org/CVERecord?id=CVE-2026-74999)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-75000](https://www.cve.org/CVERecord?id=CVE-2026-75000)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-75002](https://www.cve.org/CVERecord?id=CVE-2026-75002)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-75003](https://www.cve.org/CVERecord?id=CVE-2026-75003)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-75004](https://www.cve.org/CVERecord?id=CVE-2026-75004)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-75006](https://www.cve.org/CVERecord?id=CVE-2026-75006)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-75007](https://www.cve.org/CVERecord?id=CVE-2026-75007)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-75010](https://www.cve.org/CVERecord?id=CVE-2026-75010)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** roundcube 1.6.18+dfsg-0+deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2026-08-30** - **[DSA-6478-1](https://security-tracker.debian.org/tracker/DSA-6478-1)** - starlette
+
+**CVE(s) :**
+- **[CVE-2026-48817](https://www.cve.org/CVERecord?id=CVE-2026-48817)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-54282](https://www.cve.org/CVERecord?id=CVE-2026-54282)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-54283](https://www.cve.org/CVERecord?id=CVE-2026-54283)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** starlette 0.46.1-3+deb13u3
+ **Type :** DSA
+
+------------------------------
+
 **2026-08-29** - **[DLA-4760-1](https://security-tracker.debian.org/tracker/DLA-4760-1)** - roundcube
 
 **CVE(s) :**
