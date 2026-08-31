@@ -1,5 +1,60 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-08-31** - **[DLA-4764-1](https://security-tracker.debian.org/tracker/DLA-4764-1)** - libdbi-perl
+
+**CVE(s) :**
+- **[CVE-2026-14380](https://www.cve.org/CVERecord?id=CVE-2026-14380)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-14739](https://www.cve.org/CVERecord?id=CVE-2026-14739)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-14740](https://www.cve.org/CVERecord?id=CVE-2026-14740)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-15043](https://www.cve.org/CVERecord?id=CVE-2026-15043)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-15392](https://www.cve.org/CVERecord?id=CVE-2026-15392)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-60081](https://www.cve.org/CVERecord?id=CVE-2026-60081)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-60082](https://www.cve.org/CVERecord?id=CVE-2026-60082)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-73193](https://www.cve.org/CVERecord?id=CVE-2026-73193)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-73194](https://www.cve.org/CVERecord?id=CVE-2026-73194)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** libdbi-perl 1.643-3+deb11u2 	[bookworm] - libdbi-perl 1.643-4+deb12u2
+ **Type :** DLA
+
+------------------------------
+
+**2026-08-31** - **[DLA-4763-1](https://security-tracker.debian.org/tracker/DLA-4763-1)** - librabbitmq
+
+**CVE(s) :**
+- **[CVE-2026-59986](https://www.cve.org/CVERecord?id=CVE-2026-59986)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-61547](https://www.cve.org/CVERecord?id=CVE-2026-61547)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** librabbitmq 0.10.0-1+deb11u3 	[bookworm] - librabbitmq 0.11.0-1+deb12u3
+ **Type :** DLA
+
+------------------------------
+
+**2026-08-31** - **[DLA-4762-1](https://security-tracker.debian.org/tracker/DLA-4762-1)** - libarchive
+
+**CVE(s) :**
+- **[CVE-2026-14164](https://www.cve.org/CVERecord?id=CVE-2026-14164)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-15028](https://www.cve.org/CVERecord?id=CVE-2026-15028)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-16517](https://www.cve.org/CVERecord?id=CVE-2026-16517)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bullseye
+ **Package Version :** libarchive 3.4.3-2+deb11u5 	[bookworm] - libarchive 3.6.2-1+deb12u5
+ **Type :** DLA
+
+------------------------------
+
 **2026-08-30** - **[DLA-4761-1](https://security-tracker.debian.org/tracker/DLA-4761-1)** - libnet-dns-perl
 
 **CVE(s) :**
