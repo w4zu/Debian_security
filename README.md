@@ -2416,20 +2416,3 @@
 
 ------------------------------
 
-**2026-08-17** - **[DSA-6445-1](https://security-tracker.debian.org/tracker/DSA-6445-1)** - ironic
-
-**CVE(s) :**
-- **[CVE-2026-43003](https://www.cve.org/CVERecord?id=CVE-2026-43003)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-44918](https://www.cve.org/CVERecord?id=CVE-2026-44918)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-54421](https://www.cve.org/CVERecord?id=CVE-2026-54421)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-54423](https://www.cve.org/CVERecord?id=CVE-2026-54423)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** trixie
- **Package Version :** ironic 1:29.0.5-0+deb13u3
- **Type :** DSA
-
-------------------------------
-
