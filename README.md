@@ -1,5 +1,42 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-08-31** - **[DLA-4765-1](https://security-tracker.debian.org/tracker/DLA-4765-1)** - expat
+
+**CVE(s) :**
+- **[CVE-2026-50219](https://www.cve.org/CVERecord?id=CVE-2026-50219)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-56131](https://www.cve.org/CVERecord?id=CVE-2026-56131)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-56403](https://www.cve.org/CVERecord?id=CVE-2026-56403)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-56404](https://www.cve.org/CVERecord?id=CVE-2026-56404)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-56405](https://www.cve.org/CVERecord?id=CVE-2026-56405)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-56406](https://www.cve.org/CVERecord?id=CVE-2026-56406)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-56407](https://www.cve.org/CVERecord?id=CVE-2026-56407)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-56408](https://www.cve.org/CVERecord?id=CVE-2026-56408)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-56409](https://www.cve.org/CVERecord?id=CVE-2026-56409)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-56410](https://www.cve.org/CVERecord?id=CVE-2026-56410)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-56411](https://www.cve.org/CVERecord?id=CVE-2026-56411)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-56412](https://www.cve.org/CVERecord?id=CVE-2026-56412)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-72522](https://www.cve.org/CVERecord?id=CVE-2026-72522)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-76957](https://www.cve.org/CVERecord?id=CVE-2026-76957)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** expat 2.5.0-1+deb12u3
+ **Type :** DLA
+
+------------------------------
+
 **2026-08-31** - **[DLA-4764-1](https://security-tracker.debian.org/tracker/DLA-4764-1)** - libdbi-perl
 
 **CVE(s) :**
