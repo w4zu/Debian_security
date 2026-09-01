@@ -1,5 +1,30 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-09-01** - **[DLA-4766-1](https://security-tracker.debian.org/tracker/DLA-4766-1)** - cyrus-imapd
+
+**CVE(s) :**
+- **[CVE-2026-47081](https://www.cve.org/CVERecord?id=CVE-2026-47081)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-47082](https://www.cve.org/CVERecord?id=CVE-2026-47082)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-47084](https://www.cve.org/CVERecord?id=CVE-2026-47084)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-47085](https://www.cve.org/CVERecord?id=CVE-2026-47085)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-47086](https://www.cve.org/CVERecord?id=CVE-2026-47086)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-47087](https://www.cve.org/CVERecord?id=CVE-2026-47087)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-47088](https://www.cve.org/CVERecord?id=CVE-2026-47088)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-47089](https://www.cve.org/CVERecord?id=CVE-2026-47089)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** cyrus-imapd 3.6.1-4+deb12u5
+ **Type :** DLA
+
+------------------------------
+
 **2026-08-31** - **[DLA-4765-1](https://security-tracker.debian.org/tracker/DLA-4765-1)** - expat
 
 **CVE(s) :**
