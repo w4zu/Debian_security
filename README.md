@@ -25,6 +25,21 @@
 
 ------------------------------
 
+**2026-09-01** - **[DSA-6480-1](https://security-tracker.debian.org/tracker/DSA-6480-1)** - keystone
+
+**CVE(s) :**
+- **[CVE-2026-80182](https://www.cve.org/CVERecord?id=CVE-2026-80182)** : 🔥 **Severity: High** (Score: 7.6)
+
+- **[CVE-2026-80183](https://www.cve.org/CVERecord?id=CVE-2026-80183)** : 🔥 **Severity: High** (Score: 7.1)
+
+- **[CVE-2026-80184](https://www.cve.org/CVERecord?id=CVE-2026-80184)** : 🔥 **Severity: High** (Score: 7.6)
+
+**Debian Version :** trixie
+ **Package Version :** keystone 2:27.0.0-3+deb13u5
+ **Type :** DSA
+
+------------------------------
+
 **2026-08-31** - **[DLA-4765-1](https://security-tracker.debian.org/tracker/DLA-4765-1)** - expat
 
 **CVE(s) :**
