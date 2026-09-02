@@ -1,5 +1,27 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-09-02** - **[DLA-4769-1](https://security-tracker.debian.org/tracker/DLA-4769-1)** - libass
+
+**CVE(s) :**
+- **[CVE-2026-61627](https://www.cve.org/CVERecord?id=CVE-2026-61627)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** libass 1:0.17.1-1+deb12u1
+ **Type :** DLA
+
+------------------------------
+
+**2026-09-02** - **[DLA-4768-1](https://security-tracker.debian.org/tracker/DLA-4768-1)** - libapache2-mod-auth-openidc
+
+**CVE(s) :**
+- **[CVE-2026-54789](https://www.cve.org/CVERecord?id=CVE-2026-54789)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** libapache2-mod-auth-openidc 2.4.12.3-2+deb12u5
+ **Type :** DLA
+
+------------------------------
+
 **2026-09-02** - **[DLA-4767-1](https://security-tracker.debian.org/tracker/DLA-4767-1)** - keystone
 
 **CVE(s) :**
