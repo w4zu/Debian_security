@@ -1,5 +1,20 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-09-02** - **[DLA-4767-1](https://security-tracker.debian.org/tracker/DLA-4767-1)** - keystone
+
+**CVE(s) :**
+- **[CVE-2026-80182](https://www.cve.org/CVERecord?id=CVE-2026-80182)** : 🔥 **Severity: High** (Score: 7.6)
+
+- **[CVE-2026-80183](https://www.cve.org/CVERecord?id=CVE-2026-80183)** : 🔥 **Severity: High** (Score: 7.1)
+
+- **[CVE-2026-80184](https://www.cve.org/CVERecord?id=CVE-2026-80184)** : 🔥 **Severity: High** (Score: 7.6)
+
+**Debian Version :** bookworm
+ **Package Version :** keystone 2:22.0.2-0+deb12u4
+ **Type :** DLA
+
+------------------------------
+
 **2026-09-01** - **[DLA-4766-1](https://security-tracker.debian.org/tracker/DLA-4766-1)** - cyrus-imapd
 
 **CVE(s) :**
