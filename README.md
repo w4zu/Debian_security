@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-09-04** - **[DLA-4772-1](https://security-tracker.debian.org/tracker/DLA-4772-1)** - pcre2
+
+**CVE(s) :**
+- **[CVE-2026-86145](https://www.cve.org/CVERecord?id=CVE-2026-86145)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** pcre2 10.42-1+deb12u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-09-04** - **[DLA-4771-1](https://security-tracker.debian.org/tracker/DLA-4771-1)** - chromium
 
 **CVE(s) :**
