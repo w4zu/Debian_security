@@ -1,5 +1,26 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-09-05** - **[DLA-4773-1](https://security-tracker.debian.org/tracker/DLA-4773-1)** - libssh2
+
+**CVE(s) :**
+- **[CVE-2025-15661](https://www.cve.org/CVERecord?id=CVE-2025-15661)** : 🔥 **Severity: High** (Score: 8.3)
+
+- **[CVE-2026-7598](https://www.cve.org/CVERecord?id=CVE-2026-7598)** : 🟠 **Severity: Medium** (Score: 6.9)
+
+- **[CVE-2026-58050](https://www.cve.org/CVERecord?id=CVE-2026-58050)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-58051](https://www.cve.org/CVERecord?id=CVE-2026-58051)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-66032](https://www.cve.org/CVERecord?id=CVE-2026-66032)** : 🔥 **Severity: High** (Score: 8.7)
+
+- **[CVE-2026-66034](https://www.cve.org/CVERecord?id=CVE-2026-66034)** : 🔥 **Severity: High** (Score: 7.7)
+
+**Debian Version :** bookworm
+ **Package Version :** libssh2 1.10.0-3+deb12u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-09-04** - **[DLA-4772-1](https://security-tracker.debian.org/tracker/DLA-4772-1)** - pcre2
 
 **CVE(s) :**
