@@ -3048,16 +3048,3 @@
 
 ------------------------------
 
-**2026-08-22** - **[DSA-6459-1](https://security-tracker.debian.org/tracker/DSA-6459-1)** - libnet-dns-perl
-
-**CVE(s) :**
-- **[CVE-2026-64193](https://www.cve.org/CVERecord?id=CVE-2026-64193)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-64194](https://www.cve.org/CVERecord?id=CVE-2026-64194)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** trixie
- **Package Version :** libnet-dns-perl 1.56-0+deb13u1
- **Type :** DSA
-
-------------------------------
-
