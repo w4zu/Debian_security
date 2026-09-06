@@ -17,6 +17,19 @@
 
 ------------------------------
 
+**2026-09-06** - **[DSA-6486-1](https://security-tracker.debian.org/tracker/DSA-6486-1)** - libde265
+
+**CVE(s) :**
+- **[CVE-2026-33164](https://www.cve.org/CVERecord?id=CVE-2026-33164)** : 🔥 **Severity: High** (Score: 8.7)
+
+- **[CVE-2026-33165](https://www.cve.org/CVERecord?id=CVE-2026-33165)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** libde265 1.0.15-1+deb13u2
+ **Type :** DSA
+
+------------------------------
+
 **2026-09-05** - **[DLA-4773-1](https://security-tracker.debian.org/tracker/DLA-4773-1)** - libssh2
 
 **CVE(s) :**
