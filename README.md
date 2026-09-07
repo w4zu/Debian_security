@@ -70,6 +70,17 @@
 
 ------------------------------
 
+**2026-09-07** - **[DSA-6488-1](https://security-tracker.debian.org/tracker/DSA-6488-1)** - jbig2dec
+
+**CVE(s) :**
+- **[CVE-2026-38076](https://www.cve.org/CVERecord?id=CVE-2026-38076)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** jbig2dec 0.20-1+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-09-07** - **[DSA-6487-1](https://security-tracker.debian.org/tracker/DSA-6487-1)** - strongswan
 
 **CVE(s) :**
