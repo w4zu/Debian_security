@@ -1211,6 +1211,28 @@
 
 ------------------------------
 
+**2026-09-08** - **[DSA-6490-1](https://security-tracker.debian.org/tracker/DSA-6490-1)** - fort-validator
+
+**CVE(s) :**
+- **[CVE-2026-53499](https://www.cve.org/CVERecord?id=CVE-2026-53499)** : 🔥 **Severity: High** (Score: 7.2)
+
+**Debian Version :** trixie
+ **Package Version :** fort-validator 1.6.8-0+deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2026-09-08** - **[DSA-6489-1](https://security-tracker.debian.org/tracker/DSA-6489-1)** - gst-plugins-base1.0
+
+**CVE(s) :**
+- **[CVE-2026-18297](https://www.cve.org/CVERecord?id=CVE-2026-18297)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** gst-plugins-base1.0 1.26.2-1+deb13u2
+ **Type :** DSA
+
+------------------------------
+
 **2026-09-07** - **[DLA-4776-1](https://security-tracker.debian.org/tracker/DLA-4776-1)** - chromium
 
 **CVE(s) :**
