@@ -1,5 +1,28 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-09-09** - **[DSA-6491-1](https://security-tracker.debian.org/tracker/DSA-6491-1)** - slurm-wlm
+
+**CVE(s) :**
+- **[CVE-2026-65107](https://www.cve.org/CVERecord?id=CVE-2026-65107)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-65108](https://www.cve.org/CVERecord?id=CVE-2026-65108)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-65109](https://www.cve.org/CVERecord?id=CVE-2026-65109)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-65138](https://www.cve.org/CVERecord?id=CVE-2026-65138)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-65139](https://www.cve.org/CVERecord?id=CVE-2026-65139)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-65140](https://www.cve.org/CVERecord?id=CVE-2026-65140)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-65165](https://www.cve.org/CVERecord?id=CVE-2026-65165)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** slurm-wlm 24.11.5-4+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-09-08** - **[DLA-4777-1](https://security-tracker.debian.org/tracker/DLA-4777-1)** - linux
 
 **CVE(s) :**
@@ -3387,6 +3410,17 @@
 
 **Debian Version :** trixie
  **Package Version :** libdbi-perl 1.652-2~deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2026-08-27** - **[DSA-6472-1](https://security-tracker.debian.org/tracker/DSA-6472-1)** - bubblewrap
+
+**CVE(s) :**
+- **[CVE-2026-87766](https://www.cve.org/CVERecord?id=CVE-2026-87766)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** bubblewrap 0.12.0-1~deb13u1
  **Type :** DSA
 
 ------------------------------
