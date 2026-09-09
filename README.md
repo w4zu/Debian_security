@@ -1,5 +1,20 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-09-09** - **[DLA-4778-1](https://security-tracker.debian.org/tracker/DLA-4778-1)** - pyasn1
+
+**CVE(s) :**
+- **[CVE-2026-59884](https://www.cve.org/CVERecord?id=CVE-2026-59884)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-59885](https://www.cve.org/CVERecord?id=CVE-2026-59885)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-59886](https://www.cve.org/CVERecord?id=CVE-2026-59886)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** pyasn1 0.4.8-3+deb12u3
+ **Type :** DLA
+
+------------------------------
+
 **2026-09-09** - **[DSA-6491-1](https://security-tracker.debian.org/tracker/DSA-6491-1)** - slurm-wlm
 
 **CVE(s) :**
