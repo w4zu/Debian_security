@@ -1254,6 +1254,10 @@
 **CVE(s) :**
 - **[CVE-2026-53499](https://www.cve.org/CVERecord?id=CVE-2026-53499)** : 🔥 **Severity: High** (Score: 7.2)
 
+- **[CVE-2024-56169](https://www.cve.org/CVERecord?id=CVE-2024-56169)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2024-56170](https://www.cve.org/CVERecord?id=CVE-2024-56170)** : **Severity: Unknown** (Score: N/A)
+
 **Debian Version :** trixie
  **Package Version :** fort-validator 1.6.8-0+deb13u1
  **Type :** DSA
