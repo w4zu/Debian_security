@@ -1,5 +1,30 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-09-11** - **[DSA-6493-1](https://security-tracker.debian.org/tracker/DSA-6493-1)** - libevent
+
+**CVE(s) :**
+- **[CVE-2026-63379](https://www.cve.org/CVERecord?id=CVE-2026-63379)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+- **[CVE-2026-63381](https://www.cve.org/CVERecord?id=CVE-2026-63381)** : 🟠 **Severity: Medium** (Score: 5.8)
+
+- **[CVE-2026-63382](https://www.cve.org/CVERecord?id=CVE-2026-63382)** : 🔥 **Severity: High** (Score: 9.2)
+
+- **[CVE-2026-63383](https://www.cve.org/CVERecord?id=CVE-2026-63383)** : 🔥 **Severity: High** (Score: 8.7)
+
+- **[CVE-2026-63384](https://www.cve.org/CVERecord?id=CVE-2026-63384)** : 🔥 **Severity: High** (Score: 8.7)
+
+- **[CVE-2026-63385](https://www.cve.org/CVERecord?id=CVE-2026-63385)** : 🔥 **Severity: High** (Score: 9.2)
+
+- **[CVE-2026-63387](https://www.cve.org/CVERecord?id=CVE-2026-63387)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-63388](https://www.cve.org/CVERecord?id=CVE-2026-63388)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** libevent 2.1.13-stable-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-09-10** - **[DSA-6492-1](https://security-tracker.debian.org/tracker/DSA-6492-1)** - ruby-rack
 
 **CVE(s) :**
@@ -1289,10 +1314,6 @@
 **CVE(s) :**
 - **[CVE-2026-53499](https://www.cve.org/CVERecord?id=CVE-2026-53499)** : 🔥 **Severity: High** (Score: 7.2)
 
-- **[CVE-2024-56169](https://www.cve.org/CVERecord?id=CVE-2024-56169)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-56170](https://www.cve.org/CVERecord?id=CVE-2024-56170)** : **Severity: Unknown** (Score: N/A)
-
 **Debian Version :** trixie
  **Package Version :** fort-validator 1.6.8-0+deb13u1
  **Type :** DSA
@@ -1510,6 +1531,14 @@
 
 **CVE(s) :**
 - **[CVE-2026-86145](https://www.cve.org/CVERecord?id=CVE-2026-86145)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-89156](https://www.cve.org/CVERecord?id=CVE-2026-89156)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-89157](https://www.cve.org/CVERecord?id=CVE-2026-89157)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-89158](https://www.cve.org/CVERecord?id=CVE-2026-89158)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-89160](https://www.cve.org/CVERecord?id=CVE-2026-89160)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** pcre2 10.42-1+deb12u1
