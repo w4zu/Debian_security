@@ -1559,6 +1559,8 @@
 
 - **[CVE-2026-89160](https://www.cve.org/CVERecord?id=CVE-2026-89160)** : **Severity: Unknown** (Score: N/A)
 
+- **[CVE-2026-89161](https://www.cve.org/CVERecord?id=CVE-2026-89161)** : **Severity: Unknown** (Score: N/A)
+
 **Debian Version :** bookworm
  **Package Version :** pcre2 10.42-1+deb12u1
  **Type :** DLA
