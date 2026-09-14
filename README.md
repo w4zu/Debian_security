@@ -11,6 +11,21 @@
 
 ------------------------------
 
+**2026-09-14** - **[DSA-6498-1](https://security-tracker.debian.org/tracker/DSA-6498-1)** - network-manager-l2tp
+
+**CVE(s) :**
+- **[CVE-2026-19624](https://www.cve.org/CVERecord?id=CVE-2026-19624)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-75131](https://www.cve.org/CVERecord?id=CVE-2026-75131)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-75883](https://www.cve.org/CVERecord?id=CVE-2026-75883)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** network-manager-l2tp 1.20.20-2+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-09-12** - **[DSA-6497-1](https://security-tracker.debian.org/tracker/DSA-6497-1)** - xorg-server
 
 **CVE(s) :**
