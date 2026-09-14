@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-09-14** - **[DLA-4779-1](https://security-tracker.debian.org/tracker/DLA-4779-1)** - jbig2dec
+
+**CVE(s) :**
+- **[CVE-2026-38076](https://www.cve.org/CVERecord?id=CVE-2026-38076)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** jbig2dec 0.19-3+deb12u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-09-12** - **[DSA-6497-1](https://security-tracker.debian.org/tracker/DSA-6497-1)** - xorg-server
 
 **CVE(s) :**
