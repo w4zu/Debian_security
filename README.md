@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-09-15** - **[DLA-4780-1](https://security-tracker.debian.org/tracker/DLA-4780-1)** - urwid
+
+**CVE(s) :**
+- **[CVE-2026-9323](https://www.cve.org/CVERecord?id=CVE-2026-9323)** : 🔥 **Severity: High** (Score: 9.2)
+
+**Debian Version :** bookworm
+ **Package Version :** urwid 2.1.2-4+deb12u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-09-14** - **[DLA-4779-1](https://security-tracker.debian.org/tracker/DLA-4779-1)** - jbig2dec
 
 **CVE(s) :**
