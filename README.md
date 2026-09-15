@@ -11,6 +11,19 @@
 
 ------------------------------
 
+**2026-09-15** - **[DSA-6499-1](https://security-tracker.debian.org/tracker/DSA-6499-1)** - cjose
+
+**CVE(s) :**
+- **[CVE-2026-53938](https://www.cve.org/CVERecord?id=CVE-2026-53938)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-53939](https://www.cve.org/CVERecord?id=CVE-2026-53939)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** cjose 0.6.2.3-1+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-09-14** - **[DLA-4779-1](https://security-tracker.debian.org/tracker/DLA-4779-1)** - jbig2dec
 
 **CVE(s) :**
