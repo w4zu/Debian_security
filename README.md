@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-09-18** - **[DLA-4785-1](https://security-tracker.debian.org/tracker/DLA-4785-1)** - zip
+
+**CVE(s) :**
+- **[CVE-2018-13410](https://www.cve.org/CVERecord?id=CVE-2018-13410)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** zip 3.0-13+deb12u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-09-17** - **[DLA-4784-1](https://security-tracker.debian.org/tracker/DLA-4784-1)** - nginx
 
 **CVE(s) :**
