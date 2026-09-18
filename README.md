@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-09-18** - **[DLA-4787-1](https://security-tracker.debian.org/tracker/DLA-4787-1)** - ruby-jwt
+
+**CVE(s) :**
+- **[CVE-2026-45363](https://www.cve.org/CVERecord?id=CVE-2026-45363)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** ruby-jwt 2.5.0-1+deb12u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-09-18** - **[DLA-4786-1](https://security-tracker.debian.org/tracker/DLA-4786-1)** - libevent
 
 **CVE(s) :**
