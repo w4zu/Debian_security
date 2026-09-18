@@ -1,5 +1,30 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-09-18** - **[DLA-4786-1](https://security-tracker.debian.org/tracker/DLA-4786-1)** - libevent
+
+**CVE(s) :**
+- **[CVE-2026-63379](https://www.cve.org/CVERecord?id=CVE-2026-63379)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+- **[CVE-2026-63381](https://www.cve.org/CVERecord?id=CVE-2026-63381)** : 🟠 **Severity: Medium** (Score: 5.8)
+
+- **[CVE-2026-63382](https://www.cve.org/CVERecord?id=CVE-2026-63382)** : 🔥 **Severity: High** (Score: 9.2)
+
+- **[CVE-2026-63383](https://www.cve.org/CVERecord?id=CVE-2026-63383)** : 🔥 **Severity: High** (Score: 8.7)
+
+- **[CVE-2026-63384](https://www.cve.org/CVERecord?id=CVE-2026-63384)** : 🔥 **Severity: High** (Score: 8.7)
+
+- **[CVE-2026-63385](https://www.cve.org/CVERecord?id=CVE-2026-63385)** : 🔥 **Severity: High** (Score: 9.2)
+
+- **[CVE-2026-63387](https://www.cve.org/CVERecord?id=CVE-2026-63387)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-63388](https://www.cve.org/CVERecord?id=CVE-2026-63388)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** libevent 2.1.12-stable-8+deb12u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-09-18** - **[DLA-4785-1](https://security-tracker.debian.org/tracker/DLA-4785-1)** - zip
 
 **CVE(s) :**
