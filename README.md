@@ -855,6 +855,10 @@
 
 - **[CVE-2026-81736](https://www.cve.org/CVERecord?id=CVE-2026-81736)** : **Severity: Unknown** (Score: N/A)
 
+- **[CVE-2026-78301](https://www.cve.org/CVERecord?id=CVE-2026-78301)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-19941](https://www.cve.org/CVERecord?id=CVE-2026-19941)** : **Severity: Unknown** (Score: N/A)
+
 **Debian Version :** trixie
  **Package Version :** bind9 1:9.20.29-1~deb13u1
  **Type :** DSA
