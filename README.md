@@ -33,6 +33,27 @@
 
 ------------------------------
 
+**2026-09-20** - **[DSA-6509-1](https://security-tracker.debian.org/tracker/DSA-6509-1)** - gimp
+
+**CVE(s) :**
+- **[CVE-2026-78465](https://www.cve.org/CVERecord?id=CVE-2026-78465)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-78475](https://www.cve.org/CVERecord?id=CVE-2026-78475)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-82328](https://www.cve.org/CVERecord?id=CVE-2026-82328)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-90947](https://www.cve.org/CVERecord?id=CVE-2026-90947)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-90948](https://www.cve.org/CVERecord?id=CVE-2026-90948)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-92248](https://www.cve.org/CVERecord?id=CVE-2026-92248)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** gimp 3.0.4-3+deb13u11
+ **Type :** DSA
+
+------------------------------
+
 **2026-09-19** - **[DLA-4788-1](https://security-tracker.debian.org/tracker/DLA-4788-1)** - linux-6.12
 
 **CVE(s) :**
