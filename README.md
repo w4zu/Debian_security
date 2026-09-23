@@ -17,6 +17,17 @@
 
 ------------------------------
 
+**2026-09-23** - **[DSA-6510-1](https://security-tracker.debian.org/tracker/DSA-6510-1)** - xdg-dbus-proxy
+
+**CVE(s) :**
+- **[CVE-2026-94422](https://www.cve.org/CVERecord?id=CVE-2026-94422)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** xdg-dbus-proxy 0.1.6-1+deb13u3
+ **Type :** DSA
+
+------------------------------
+
 **2026-09-21** - **[DLA-4790-1](https://security-tracker.debian.org/tracker/DLA-4790-1)** - chromium
 
 **CVE(s) :**
