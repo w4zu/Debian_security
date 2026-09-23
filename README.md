@@ -2619,7 +2619,7 @@
 **CVE(s) :**
 - **[CVE-2026-19624](https://www.cve.org/CVERecord?id=CVE-2026-19624)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2026-75131](https://www.cve.org/CVERecord?id=CVE-2026-75131)** : **Severity: Unknown** (Score: N/A)
+- **[CVE-2026-75131](https://www.cve.org/CVERecord?id=CVE-2026-75131)** : 🔥 **Severity: High** (Score: 8.5)
 
 - **[CVE-2026-93337](https://www.cve.org/CVERecord?id=CVE-2026-93337)** : 🔥 **Severity: High** (Score: 8.5)
 
