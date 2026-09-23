@@ -1,5 +1,22 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-09-23** - **[DLA-4791-1](https://security-tracker.debian.org/tracker/DLA-4791-1)** - memcached
+
+**CVE(s) :**
+- **[CVE-2023-46852](https://www.cve.org/CVERecord?id=CVE-2023-46852)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2023-46853](https://www.cve.org/CVERecord?id=CVE-2023-46853)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-47783](https://www.cve.org/CVERecord?id=CVE-2026-47783)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-47784](https://www.cve.org/CVERecord?id=CVE-2026-47784)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** memcached 1.6.18-1+deb12u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-09-21** - **[DLA-4790-1](https://security-tracker.debian.org/tracker/DLA-4790-1)** - chromium
 
 **CVE(s) :**
