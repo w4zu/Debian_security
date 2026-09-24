@@ -17,6 +17,19 @@
 
 ------------------------------
 
+**2026-09-23** - **[DSA-6511-1](https://security-tracker.debian.org/tracker/DSA-6511-1)** - znc
+
+**CVE(s) :**
+- **[CVE-2026-82373](https://www.cve.org/CVERecord?id=CVE-2026-82373)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-82374](https://www.cve.org/CVERecord?id=CVE-2026-82374)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** znc 1.9.1-2+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-09-23** - **[DSA-6510-1](https://security-tracker.debian.org/tracker/DSA-6510-1)** - xdg-dbus-proxy
 
 **CVE(s) :**
@@ -2697,41 +2710,6 @@
 
 **Debian Version :** trixie
  **Package Version :** libevent 2.1.13-stable-1~deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2026-09-10** - **[DSA-6492-1](https://security-tracker.debian.org/tracker/DSA-6492-1)** - ruby-rack
-
-**CVE(s) :**
-- **[CVE-2026-26961](https://www.cve.org/CVERecord?id=CVE-2026-26961)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-26962](https://www.cve.org/CVERecord?id=CVE-2026-26962)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-32762](https://www.cve.org/CVERecord?id=CVE-2026-32762)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-34230](https://www.cve.org/CVERecord?id=CVE-2026-34230)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-34763](https://www.cve.org/CVERecord?id=CVE-2026-34763)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-34785](https://www.cve.org/CVERecord?id=CVE-2026-34785)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-34786](https://www.cve.org/CVERecord?id=CVE-2026-34786)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-34826](https://www.cve.org/CVERecord?id=CVE-2026-34826)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-34827](https://www.cve.org/CVERecord?id=CVE-2026-34827)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-34829](https://www.cve.org/CVERecord?id=CVE-2026-34829)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-34830](https://www.cve.org/CVERecord?id=CVE-2026-34830)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-34831](https://www.cve.org/CVERecord?id=CVE-2026-34831)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-34835](https://www.cve.org/CVERecord?id=CVE-2026-34835)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** trixie
- **Package Version :** ruby-rack 3.1.20-0+deb13u2
  **Type :** DSA
 
 ------------------------------
