@@ -1,5 +1,43 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-09-24** - **[DLA-4794-1](https://security-tracker.debian.org/tracker/DLA-4794-1)** - redis
+
+**CVE(s) :**
+- **[CVE-2026-81934](https://www.cve.org/CVERecord?id=CVE-2026-81934)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-92925](https://www.cve.org/CVERecord?id=CVE-2026-92925)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** redis 5:7.0.15-1~deb12u10
+ **Type :** DLA
+
+------------------------------
+
+**2026-09-24** - **[DSA-6512-1](https://security-tracker.debian.org/tracker/DSA-6512-1)** - libreoffice
+
+**CVE(s) :**
+- **[CVE-2024-12426](https://www.cve.org/CVERecord?id=CVE-2024-12426)** : 🟠 **Severity: Medium** (Score: 6.7)
+
+- **[CVE-2026-63272](https://www.cve.org/CVERecord?id=CVE-2026-63272)** : 🟠 **Severity: Medium** (Score: 5.4)
+
+- **[CVE-2026-63273](https://www.cve.org/CVERecord?id=CVE-2026-63273)** : 🟠 **Severity: Medium** (Score: 5.4)
+
+- **[CVE-2026-63274](https://www.cve.org/CVERecord?id=CVE-2026-63274)** : 🟠 **Severity: Medium** (Score: 5.4)
+
+- **[CVE-2026-63275](https://www.cve.org/CVERecord?id=CVE-2026-63275)** : 🟠 **Severity: Medium** (Score: 5.4)
+
+- **[CVE-2026-63276](https://www.cve.org/CVERecord?id=CVE-2026-63276)** : 🟠 **Severity: Medium** (Score: 5.4)
+
+- **[CVE-2026-63278](https://www.cve.org/CVERecord?id=CVE-2026-63278)** : 🟠 **Severity: Medium** (Score: 6.7)
+
+- **[CVE-2026-63279](https://www.cve.org/CVERecord?id=CVE-2026-63279)** : 🟠 **Severity: Medium** (Score: 5.4)
+
+**Debian Version :** trixie
+ **Package Version :** libreoffice 4:25.2.3-2+deb13u7
+ **Type :** DSA
+
+------------------------------
+
 **2026-09-23** - **[DLA-4791-1](https://security-tracker.debian.org/tracker/DLA-4791-1)** - memcached
 
 **CVE(s) :**
