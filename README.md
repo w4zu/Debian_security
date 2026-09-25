@@ -1,5 +1,26 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-09-25** - **[DLA-4795-1](https://security-tracker.debian.org/tracker/DLA-4795-1)** - openssl
+
+**CVE(s) :**
+- **[CVE-2026-42767](https://www.cve.org/CVERecord?id=CVE-2026-42767)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-54874](https://www.cve.org/CVERecord?id=CVE-2026-54874)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-63072](https://www.cve.org/CVERecord?id=CVE-2026-63072)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-63074](https://www.cve.org/CVERecord?id=CVE-2026-63074)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-63076](https://www.cve.org/CVERecord?id=CVE-2026-63076)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-75803](https://www.cve.org/CVERecord?id=CVE-2026-75803)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** openssl 3.0.22-1~deb12u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-09-24** - **[DLA-4794-1](https://security-tracker.debian.org/tracker/DLA-4794-1)** - redis
 
 **CVE(s) :**
@@ -2704,50 +2725,6 @@
 
 **Debian Version :** trixie
  **Package Version :** nginx 1.26.3-3+deb13u8
- **Type :** DSA
-
-------------------------------
-
-**2026-09-11** - **[DSA-6494-1](https://security-tracker.debian.org/tracker/DSA-6494-1)** - kamailio
-
-**CVE(s) :**
-- **[CVE-2026-39863](https://www.cve.org/CVERecord?id=CVE-2026-39863)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-39864](https://www.cve.org/CVERecord?id=CVE-2026-39864)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-52022](https://www.cve.org/CVERecord?id=CVE-2026-52022)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-52023](https://www.cve.org/CVERecord?id=CVE-2026-52023)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-82608](https://www.cve.org/CVERecord?id=CVE-2026-82608)** : 🟠 **Severity: Medium** (Score: 5.3)
-
-**Debian Version :** trixie
- **Package Version :** kamailio 6.0.1-1+deb13u2
- **Type :** DSA
-
-------------------------------
-
-**2026-09-11** - **[DSA-6493-1](https://security-tracker.debian.org/tracker/DSA-6493-1)** - libevent
-
-**CVE(s) :**
-- **[CVE-2026-63379](https://www.cve.org/CVERecord?id=CVE-2026-63379)** : 🟠 **Severity: Medium** (Score: 6.3)
-
-- **[CVE-2026-63381](https://www.cve.org/CVERecord?id=CVE-2026-63381)** : 🟠 **Severity: Medium** (Score: 5.8)
-
-- **[CVE-2026-63382](https://www.cve.org/CVERecord?id=CVE-2026-63382)** : 🔥 **Severity: High** (Score: 9.2)
-
-- **[CVE-2026-63383](https://www.cve.org/CVERecord?id=CVE-2026-63383)** : 🔥 **Severity: High** (Score: 8.7)
-
-- **[CVE-2026-63384](https://www.cve.org/CVERecord?id=CVE-2026-63384)** : 🔥 **Severity: High** (Score: 8.7)
-
-- **[CVE-2026-63385](https://www.cve.org/CVERecord?id=CVE-2026-63385)** : 🔥 **Severity: High** (Score: 9.2)
-
-- **[CVE-2026-63387](https://www.cve.org/CVERecord?id=CVE-2026-63387)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-63388](https://www.cve.org/CVERecord?id=CVE-2026-63388)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** trixie
- **Package Version :** libevent 2.1.13-stable-1~deb13u1
  **Type :** DSA
 
 ------------------------------
