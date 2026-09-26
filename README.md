@@ -1,5 +1,55 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-09-26** - **[DLA-4797-1](https://security-tracker.debian.org/tracker/DLA-4797-1)** - lemonldap-ng
+
+**CVE(s) :**
+- **[CVE-2026-95811](https://www.cve.org/CVERecord?id=CVE-2026-95811)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** lemonldap-ng 2.16.1+ds-deb12u10
+ **Type :** DLA
+
+------------------------------
+
+**2026-09-26** - **[DSA-6517-1](https://security-tracker.debian.org/tracker/DSA-6517-1)** - nodejs
+
+**CVE(s) :**
+- **[CVE-2026-48617](https://www.cve.org/CVERecord?id=CVE-2026-48617)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-48618](https://www.cve.org/CVERecord?id=CVE-2026-48618)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-48619](https://www.cve.org/CVERecord?id=CVE-2026-48619)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-48928](https://www.cve.org/CVERecord?id=CVE-2026-48928)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-48930](https://www.cve.org/CVERecord?id=CVE-2026-48930)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-48931](https://www.cve.org/CVERecord?id=CVE-2026-48931)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-48933](https://www.cve.org/CVERecord?id=CVE-2026-48933)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-48934](https://www.cve.org/CVERecord?id=CVE-2026-48934)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-48935](https://www.cve.org/CVERecord?id=CVE-2026-48935)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-48937](https://www.cve.org/CVERecord?id=CVE-2026-48937)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-56846](https://www.cve.org/CVERecord?id=CVE-2026-56846)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-56847](https://www.cve.org/CVERecord?id=CVE-2026-56847)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-56848](https://www.cve.org/CVERecord?id=CVE-2026-56848)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-56850](https://www.cve.org/CVERecord?id=CVE-2026-56850)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-58039](https://www.cve.org/CVERecord?id=CVE-2026-58039)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** nodejs 20.19.2+dfsg-1+deb13u3
+ **Type :** DSA
+
+------------------------------
+
 **2026-09-25** - **[DLA-4796-1](https://security-tracker.debian.org/tracker/DLA-4796-1)** - evolution-data-server
 
 **CVE(s) :**
