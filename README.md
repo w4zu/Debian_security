@@ -11,6 +11,17 @@
 
 ------------------------------
 
+**2026-09-26** - **[DSA-6519-1](https://security-tracker.debian.org/tracker/DSA-6519-1)** - swift
+
+**CVE(s) :**
+- **[CVE-2026-97149](https://www.cve.org/CVERecord?id=CVE-2026-97149)** : 🟠 **Severity: Medium** (Score: 5.3)
+
+**Debian Version :** trixie
+ **Package Version :** swift 2.35.1-0+deb13u4
+ **Type :** DSA
+
+------------------------------
+
 **2026-09-26** - **[DSA-6517-1](https://security-tracker.debian.org/tracker/DSA-6517-1)** - nodejs
 
 **CVE(s) :**
