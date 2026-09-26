@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-09-25** - **[DLA-4796-1](https://security-tracker.debian.org/tracker/DLA-4796-1)** - evolution-data-server
+
+**CVE(s) :**
+- **[CVE-2026-2604](https://www.cve.org/CVERecord?id=CVE-2026-2604)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** evolution-data-server 3.46.4-2+deb12u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-09-25** - **[DLA-4795-1](https://security-tracker.debian.org/tracker/DLA-4795-1)** - openssl
 
 **CVE(s) :**
@@ -18,6 +29,17 @@
 **Debian Version :** bookworm
  **Package Version :** openssl 3.0.22-1~deb12u1
  **Type :** DLA
+
+------------------------------
+
+**2026-09-25** - **[DSA-6516-1](https://security-tracker.debian.org/tracker/DSA-6516-1)** - ghostscript
+
+**CVE(s) :**
+- **[CVE-2026-39919](https://www.cve.org/CVERecord?id=CVE-2026-39919)** : 🔥 **Severity: High** (Score: 9.3)
+
+**Debian Version :** trixie
+ **Package Version :** ghostscript 10.05.1~dfsg-1+deb13u2
+ **Type :** DSA
 
 ------------------------------
 
@@ -2964,34 +2986,6 @@
 
 **Debian Version :** trixie
  **Package Version :** network-manager-l2tp 1.20.20-2+deb13u1
- **Type :** DSA
-
-------------------------------
-
-**2026-09-12** - **[DSA-6497-1](https://security-tracker.debian.org/tracker/DSA-6497-1)** - xorg-server
-
-**CVE(s) :**
-- **[CVE-2026-55999](https://www.cve.org/CVERecord?id=CVE-2026-55999)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-56000](https://www.cve.org/CVERecord?id=CVE-2026-56000)** : 🔥 **Severity: High** (Score: 9)
-
-**Debian Version :** trixie
- **Package Version :** xorg-server 2:21.1.16-1.3+deb13u4
- **Type :** DSA
-
-------------------------------
-
-**2026-09-12** - **[DSA-6496-1](https://security-tracker.debian.org/tracker/DSA-6496-1)** - nginx
-
-**CVE(s) :**
-- **[CVE-2026-42533](https://www.cve.org/CVERecord?id=CVE-2026-42533)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-56434](https://www.cve.org/CVERecord?id=CVE-2026-56434)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-60005](https://www.cve.org/CVERecord?id=CVE-2026-60005)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** trixie
- **Package Version :** nginx 1.26.3-3+deb13u8
  **Type :** DSA
 
 ------------------------------
