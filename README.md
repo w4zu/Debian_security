@@ -1,5 +1,66 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-09-27** - **[DSA-6522-1](https://security-tracker.debian.org/tracker/DSA-6522-1)** - exim4
+
+**CVE(s) :**
+- **[CVE-2026-94054](https://www.cve.org/CVERecord?id=CVE-2026-94054)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-94056](https://www.cve.org/CVERecord?id=CVE-2026-94056)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-94057](https://www.cve.org/CVERecord?id=CVE-2026-94057)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** exim4 4.98.2-1+deb13u5
+ **Type :** DSA
+
+------------------------------
+
+**2026-09-27** - **[DSA-6521-1](https://security-tracker.debian.org/tracker/DSA-6521-1)** - ruby-oj
+
+**CVE(s) :**
+- **[CVE-2026-54500](https://www.cve.org/CVERecord?id=CVE-2026-54500)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-54502](https://www.cve.org/CVERecord?id=CVE-2026-54502)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+- **[CVE-2026-54592](https://www.cve.org/CVERecord?id=CVE-2026-54592)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-54896](https://www.cve.org/CVERecord?id=CVE-2026-54896)** : 🟠 **Severity: Medium** (Score: 2.1)
+
+- **[CVE-2026-54897](https://www.cve.org/CVERecord?id=CVE-2026-54897)** : 🟠 **Severity: Medium** (Score: 2.1)
+
+- **[CVE-2026-54898](https://www.cve.org/CVERecord?id=CVE-2026-54898)** : 🟠 **Severity: Medium** (Score: 2.1)
+
+- **[CVE-2026-54899](https://www.cve.org/CVERecord?id=CVE-2026-54899)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+- **[CVE-2026-54900](https://www.cve.org/CVERecord?id=CVE-2026-54900)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+- **[CVE-2026-54901](https://www.cve.org/CVERecord?id=CVE-2026-54901)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+- **[CVE-2026-54902](https://www.cve.org/CVERecord?id=CVE-2026-54902)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+- **[CVE-2026-54903](https://www.cve.org/CVERecord?id=CVE-2026-54903)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+**Debian Version :** trixie
+ **Package Version :** ruby-oj 3.16.3-1+deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2026-09-27** - **[DSA-6520-1](https://security-tracker.debian.org/tracker/DSA-6520-1)** - lemonldap-ng
+
+**CVE(s) :**
+- **[CVE-2026-92288](https://www.cve.org/CVERecord?id=CVE-2026-92288)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-92289](https://www.cve.org/CVERecord?id=CVE-2026-92289)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-95811](https://www.cve.org/CVERecord?id=CVE-2026-95811)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** lemonldap-ng 2.21.2+ds-1+deb13u4
+ **Type :** DSA
+
+------------------------------
+
 **2026-09-26** - **[DLA-4797-1](https://security-tracker.debian.org/tracker/DLA-4797-1)** - lemonldap-ng
 
 **CVE(s) :**
