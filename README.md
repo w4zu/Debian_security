@@ -55,6 +55,10 @@
 
 - **[CVE-2026-58039](https://www.cve.org/CVERecord?id=CVE-2026-58039)** : **Severity: Unknown** (Score: N/A)
 
+- **[CVE-2026-58042](https://www.cve.org/CVERecord?id=CVE-2026-58042)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-58043](https://www.cve.org/CVERecord?id=CVE-2026-58043)** : **Severity: Unknown** (Score: N/A)
+
 **Debian Version :** trixie
  **Package Version :** nodejs 20.19.2+dfsg-1+deb13u3
  **Type :** DSA
