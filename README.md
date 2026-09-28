@@ -1,5 +1,28 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-09-28** - **[DSA-6523-1](https://security-tracker.debian.org/tracker/DSA-6523-1)** - libheif
+
+**CVE(s) :**
+- **[CVE-2026-84384](https://www.cve.org/CVERecord?id=CVE-2026-84384)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-84444](https://www.cve.org/CVERecord?id=CVE-2026-84444)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-84446](https://www.cve.org/CVERecord?id=CVE-2026-84446)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-84447](https://www.cve.org/CVERecord?id=CVE-2026-84447)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-84448](https://www.cve.org/CVERecord?id=CVE-2026-84448)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-84450](https://www.cve.org/CVERecord?id=CVE-2026-84450)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-84451](https://www.cve.org/CVERecord?id=CVE-2026-84451)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** libheif 1.23.4-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-09-27** - **[DSA-6522-1](https://security-tracker.debian.org/tracker/DSA-6522-1)** - exim4
 
 **CVE(s) :**
