@@ -1,5 +1,35 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-09-29** - **[DLA-4801-1](https://security-tracker.debian.org/tracker/DLA-4801-1)** - swift
+
+**CVE(s) :**
+- **[CVE-2026-71191](https://www.cve.org/CVERecord?id=CVE-2026-71191)** : 🟠 **Severity: Medium** (Score: 6)
+
+- **[CVE-2026-97149](https://www.cve.org/CVERecord?id=CVE-2026-97149)** : 🟠 **Severity: Medium** (Score: 5.3)
+
+**Debian Version :** bookworm
+ **Package Version :** swift 2.30.1-0+deb12u3
+ **Type :** DLA
+
+------------------------------
+
+**2026-09-29** - **[DLA-4800-1](https://security-tracker.debian.org/tracker/DLA-4800-1)** - glance
+
+**CVE(s) :**
+- **[CVE-2026-71196](https://www.cve.org/CVERecord?id=CVE-2026-71196)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-71197](https://www.cve.org/CVERecord?id=CVE-2026-71197)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-71198](https://www.cve.org/CVERecord?id=CVE-2026-71198)** : 🔥 **Severity: High** (Score: 7)
+
+- **[CVE-2026-77648](https://www.cve.org/CVERecord?id=CVE-2026-77648)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** glance 2:25.1.0-2+deb12u5
+ **Type :** DLA
+
+------------------------------
+
 **2026-09-28** - **[DLA-4799-1](https://security-tracker.debian.org/tracker/DLA-4799-1)** - lxml
 
 **CVE(s) :**
@@ -3291,30 +3321,6 @@
 
 **Debian Version :** trixie
  **Package Version :** tor 0.4.9.12-0+deb13u2
- **Type :** DSA
-
-------------------------------
-
-**2026-09-15** - **[DLA-4780-1](https://security-tracker.debian.org/tracker/DLA-4780-1)** - urwid
-
-**CVE(s) :**
-- **[CVE-2026-9323](https://www.cve.org/CVERecord?id=CVE-2026-9323)** : 🔥 **Severity: High** (Score: 9.2)
-
-**Debian Version :** bookworm
- **Package Version :** urwid 2.1.2-4+deb12u1
- **Type :** DLA
-
-------------------------------
-
-**2026-09-15** - **[DSA-6499-1](https://security-tracker.debian.org/tracker/DSA-6499-1)** - cjose
-
-**CVE(s) :**
-- **[CVE-2026-53938](https://www.cve.org/CVERecord?id=CVE-2026-53938)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-53939](https://www.cve.org/CVERecord?id=CVE-2026-53939)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** trixie
- **Package Version :** cjose 0.6.2.3-1+deb13u1
  **Type :** DSA
 
 ------------------------------
