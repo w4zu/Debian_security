@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-09-29** - **[DLA-4802-1](https://security-tracker.debian.org/tracker/DLA-4802-1)** - python-django
+
+**CVE(s) :**
+- **[CVE-2026-48587](https://www.cve.org/CVERecord?id=CVE-2026-48587)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-48588](https://www.cve.org/CVERecord?id=CVE-2026-48588)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** python-django 3:3.2.25-0+deb12u5
+ **Type :** DLA
+
+------------------------------
+
 **2026-09-29** - **[DLA-4801-1](https://security-tracker.debian.org/tracker/DLA-4801-1)** - swift
 
 **CVE(s) :**
@@ -27,6 +40,17 @@
 **Debian Version :** bookworm
  **Package Version :** glance 2:25.1.0-2+deb12u5
  **Type :** DLA
+
+------------------------------
+
+**2026-09-29** - **[DSA-6529-1](https://security-tracker.debian.org/tracker/DSA-6529-1)** - libwebsockets
+
+**CVE(s) :**
+- **[CVE-2026-19773](https://www.cve.org/CVERecord?id=CVE-2026-19773)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** libwebsockets 4.3.5-1+deb13u3
+ **Type :** DSA
 
 ------------------------------
 
@@ -4538,8 +4562,6 @@
 - **[CVE-2026-74726](https://www.cve.org/CVERecord?id=CVE-2026-74726)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2026-74730](https://www.cve.org/CVERecord?id=CVE-2026-74730)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-74732](https://www.cve.org/CVERecord?id=CVE-2026-74732)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2026-74736](https://www.cve.org/CVERecord?id=CVE-2026-74736)** : **Severity: Unknown** (Score: N/A)
 
