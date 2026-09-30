@@ -1,5 +1,47 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-09-30** - **[DLA-4804-1](https://security-tracker.debian.org/tracker/DLA-4804-1)** - libsmpp34
+
+**CVE(s) :**
+- **[CVE-2026-75895](https://www.cve.org/CVERecord?id=CVE-2026-75895)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** libsmpp34 1.14.1-3+deb12u1
+ **Type :** DLA
+
+------------------------------
+
+**2026-09-30** - **[DLA-4803-1](https://security-tracker.debian.org/tracker/DLA-4803-1)** - ruby-oj
+
+**CVE(s) :**
+- **[CVE-2026-54500](https://www.cve.org/CVERecord?id=CVE-2026-54500)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-54502](https://www.cve.org/CVERecord?id=CVE-2026-54502)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+- **[CVE-2026-54592](https://www.cve.org/CVERecord?id=CVE-2026-54592)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-54896](https://www.cve.org/CVERecord?id=CVE-2026-54896)** : 🟠 **Severity: Medium** (Score: 2.1)
+
+- **[CVE-2026-54897](https://www.cve.org/CVERecord?id=CVE-2026-54897)** : 🟠 **Severity: Medium** (Score: 2.1)
+
+- **[CVE-2026-54898](https://www.cve.org/CVERecord?id=CVE-2026-54898)** : 🟠 **Severity: Medium** (Score: 2.1)
+
+- **[CVE-2026-54899](https://www.cve.org/CVERecord?id=CVE-2026-54899)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+- **[CVE-2026-54900](https://www.cve.org/CVERecord?id=CVE-2026-54900)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+- **[CVE-2026-54901](https://www.cve.org/CVERecord?id=CVE-2026-54901)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+- **[CVE-2026-54902](https://www.cve.org/CVERecord?id=CVE-2026-54902)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+- **[CVE-2026-54903](https://www.cve.org/CVERecord?id=CVE-2026-54903)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+**Debian Version :** bookworm
+ **Package Version :** ruby-oj 3.14.2-1+deb12u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-09-30** - **[DSA-6531-1](https://security-tracker.debian.org/tracker/DSA-6531-1)** - openssl
 
 **CVE(s) :**
@@ -3128,6 +3170,8 @@
 - **[CVE-2026-56711](https://www.cve.org/CVERecord?id=CVE-2026-56711)** : 🔥 **Severity: High** (Score: 7.3)
 
 - **[CVE-2026-73324](https://www.cve.org/CVERecord?id=CVE-2026-73324)** : 🟠 **Severity: Medium** (Score: 5.3)
+
+- **[CVE-2026-102875](https://www.cve.org/CVERecord?id=CVE-2026-102875)** : 🔥 **Severity: High** (Score: 8.5)
 
 **Debian Version :** trixie
  **Package Version :** vlc 3.0.24-0+deb13u1
