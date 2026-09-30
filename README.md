@@ -1,5 +1,40 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-09-30** - **[DSA-6531-1](https://security-tracker.debian.org/tracker/DSA-6531-1)** - openssl
+
+**CVE(s) :**
+- **[CVE-2026-35189](https://www.cve.org/CVERecord?id=CVE-2026-35189)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-35191](https://www.cve.org/CVERecord?id=CVE-2026-35191)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-42772](https://www.cve.org/CVERecord?id=CVE-2026-42772)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-54872](https://www.cve.org/CVERecord?id=CVE-2026-54872)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-54873](https://www.cve.org/CVERecord?id=CVE-2026-54873)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-54875](https://www.cve.org/CVERecord?id=CVE-2026-54875)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-72897](https://www.cve.org/CVERecord?id=CVE-2026-72897)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-75804](https://www.cve.org/CVERecord?id=CVE-2026-75804)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-75805](https://www.cve.org/CVERecord?id=CVE-2026-75805)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-75806](https://www.cve.org/CVERecord?id=CVE-2026-75806)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-77696](https://www.cve.org/CVERecord?id=CVE-2026-77696)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-84782](https://www.cve.org/CVERecord?id=CVE-2026-84782)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-84784](https://www.cve.org/CVERecord?id=CVE-2026-84784)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** openssl 3.5.7-1~deb13u3
+ **Type :** DSA
+
+------------------------------
+
 **2026-09-29** - **[DLA-4802-1](https://security-tracker.debian.org/tracker/DLA-4802-1)** - python-django
 
 **CVE(s) :**
