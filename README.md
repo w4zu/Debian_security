@@ -1,5 +1,22 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-10-01** - **[DLA-4808-1](https://security-tracker.debian.org/tracker/DLA-4808-1)** - network-manager-l2tp
+
+**CVE(s) :**
+- **[CVE-2026-19624](https://www.cve.org/CVERecord?id=CVE-2026-19624)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-75131](https://www.cve.org/CVERecord?id=CVE-2026-75131)** : 🔥 **Severity: High** (Score: 8.5)
+
+- **[CVE-2026-75883](https://www.cve.org/CVERecord?id=CVE-2026-75883)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-93337](https://www.cve.org/CVERecord?id=CVE-2026-93337)** : 🔥 **Severity: High** (Score: 8.5)
+
+**Debian Version :** bookworm
+ **Package Version :** network-manager-l2tp 1.20.8-1+deb12u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-10-01** - **[DLA-4807-1](https://security-tracker.debian.org/tracker/DLA-4807-1)** - expat
 
 **CVE(s) :**
