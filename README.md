@@ -341,6 +341,32 @@
 
 ------------------------------
 
+**2026-10-02** - **[DSA-6540-1](https://security-tracker.debian.org/tracker/DSA-6540-1)** - radsecproxy
+
+**CVE(s) :**
+- **[CVE-2026-104201](https://www.cve.org/CVERecord?id=CVE-2026-104201)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** radsecproxy 1.11.2-1+deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2026-10-02** - **[DSA-6539-1](https://security-tracker.debian.org/tracker/DSA-6539-1)** - php-mongodb
+
+**CVE(s) :**
+- **[CVE-2026-6811](https://www.cve.org/CVERecord?id=CVE-2026-6811)** : 🟠 **Severity: Medium** (Score: 6)
+
+- **[CVE-2026-84968](https://www.cve.org/CVERecord?id=CVE-2026-84968)** : 🟠 **Severity: Medium** (Score: 6.9)
+
+- **[CVE-2026-96745](https://www.cve.org/CVERecord?id=CVE-2026-96745)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+**Debian Version :** trixie
+ **Package Version :** php-mongodb 2.0.0-1+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-10-02** - **[DSA-6538-1](https://security-tracker.debian.org/tracker/DSA-6538-1)** - redis
 
 **CVE(s) :**
@@ -1082,6 +1108,10 @@
 - **[CVE-2026-84635](https://www.cve.org/CVERecord?id=CVE-2026-84635)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2026-86898](https://www.cve.org/CVERecord?id=CVE-2026-86898)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-83596](https://www.cve.org/CVERecord?id=CVE-2026-83596)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-78376](https://www.cve.org/CVERecord?id=CVE-2026-78376)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** trixie
  **Package Version :** webkit2gtk 2.54.0-1~deb13u1
