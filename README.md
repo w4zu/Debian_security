@@ -1,5 +1,20 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-10-03** - **[DLA-4815-1](https://security-tracker.debian.org/tracker/DLA-4815-1)** - freecad
+
+**CVE(s) :**
+- **[CVE-2026-34789](https://www.cve.org/CVERecord?id=CVE-2026-34789)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-73234](https://www.cve.org/CVERecord?id=CVE-2026-73234)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-73235](https://www.cve.org/CVERecord?id=CVE-2026-73235)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** freecad 0.20.2+dfsg1-4+deb12u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-10-02** - **[DLA-4814-1](https://security-tracker.debian.org/tracker/DLA-4814-1)** - firefox-esr
 
 **CVE(s) :**
