@@ -1,5 +1,74 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-10-04** - **[DLA-4818-1](https://security-tracker.debian.org/tracker/DLA-4818-1)** - xen
+
+**CVE(s) :**
+- **[CVE-2025-10263](https://www.cve.org/CVERecord?id=CVE-2025-10263)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-54505](https://www.cve.org/CVERecord?id=CVE-2025-54505)** : 🟠 **Severity: Medium** (Score: 2)
+
+- **[CVE-2025-54518](https://www.cve.org/CVERecord?id=CVE-2025-54518)** : 🔥 **Severity: High** (Score: 7.3)
+
+- **[CVE-2025-58150](https://www.cve.org/CVERecord?id=CVE-2025-58150)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-23553](https://www.cve.org/CVERecord?id=CVE-2026-23553)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-23554](https://www.cve.org/CVERecord?id=CVE-2026-23554)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-23556](https://www.cve.org/CVERecord?id=CVE-2026-23556)** : 🔥 **Severity: High** (Score: 9.4)
+
+- **[CVE-2026-23557](https://www.cve.org/CVERecord?id=CVE-2026-23557)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-23558](https://www.cve.org/CVERecord?id=CVE-2026-23558)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-42487](https://www.cve.org/CVERecord?id=CVE-2026-42487)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-42488](https://www.cve.org/CVERecord?id=CVE-2026-42488)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-42489](https://www.cve.org/CVERecord?id=CVE-2026-42489)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-42490](https://www.cve.org/CVERecord?id=CVE-2026-42490)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-42493](https://www.cve.org/CVERecord?id=CVE-2026-42493)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-42494](https://www.cve.org/CVERecord?id=CVE-2026-42494)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-42495](https://www.cve.org/CVERecord?id=CVE-2026-42495)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-62423](https://www.cve.org/CVERecord?id=CVE-2026-62423)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-62424](https://www.cve.org/CVERecord?id=CVE-2026-62424)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-62425](https://www.cve.org/CVERecord?id=CVE-2026-62425)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-62426](https://www.cve.org/CVERecord?id=CVE-2026-62426)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-62427](https://www.cve.org/CVERecord?id=CVE-2026-62427)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-62428](https://www.cve.org/CVERecord?id=CVE-2026-62428)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-62429](https://www.cve.org/CVERecord?id=CVE-2026-62429)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-62430](https://www.cve.org/CVERecord?id=CVE-2026-62430)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-62431](https://www.cve.org/CVERecord?id=CVE-2026-62431)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-62432](https://www.cve.org/CVERecord?id=CVE-2026-62432)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-62433](https://www.cve.org/CVERecord?id=CVE-2026-62433)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-62434](https://www.cve.org/CVERecord?id=CVE-2026-62434)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-62435](https://www.cve.org/CVERecord?id=CVE-2026-62435)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-62436](https://www.cve.org/CVERecord?id=CVE-2026-62436)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** xen 4.17.7-0+deb12u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-10-04** - **[DLA-4817-1](https://security-tracker.debian.org/tracker/DLA-4817-1)** - linux-6.12
 
 **CVE(s) :**
@@ -2634,6 +2703,17 @@
 **Debian Version :** bookworm
  **Package Version :** linux-6.12 6.12.111-1~deb12u1
  **Type :** DLA
+
+------------------------------
+
+**2026-10-04** - **[DSA-6542-1](https://security-tracker.debian.org/tracker/DSA-6542-1)** - ruby-rack-session
+
+**CVE(s) :**
+- **[CVE-2026-39324](https://www.cve.org/CVERecord?id=CVE-2026-39324)** : 🔥 **Severity: High** (Score: 9.3)
+
+**Debian Version :** trixie
+ **Package Version :** ruby-rack-session 2.1.1-0.1+deb13u1
+ **Type :** DSA
 
 ------------------------------
 
