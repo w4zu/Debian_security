@@ -2637,6 +2637,47 @@
 
 ------------------------------
 
+**2026-10-04** - **[DSA-6541-1](https://security-tracker.debian.org/tracker/DSA-6541-1)** - wireshark
+
+**CVE(s) :**
+- **[CVE-2026-95387](https://www.cve.org/CVERecord?id=CVE-2026-95387)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-95388](https://www.cve.org/CVERecord?id=CVE-2026-95388)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-95389](https://www.cve.org/CVERecord?id=CVE-2026-95389)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-95392](https://www.cve.org/CVERecord?id=CVE-2026-95392)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-95393](https://www.cve.org/CVERecord?id=CVE-2026-95393)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-95394](https://www.cve.org/CVERecord?id=CVE-2026-95394)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-95395](https://www.cve.org/CVERecord?id=CVE-2026-95395)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-96415](https://www.cve.org/CVERecord?id=CVE-2026-96415)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-96416](https://www.cve.org/CVERecord?id=CVE-2026-96416)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-96417](https://www.cve.org/CVERecord?id=CVE-2026-96417)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-96418](https://www.cve.org/CVERecord?id=CVE-2026-96418)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-96419](https://www.cve.org/CVERecord?id=CVE-2026-96419)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-96420](https://www.cve.org/CVERecord?id=CVE-2026-96420)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-96421](https://www.cve.org/CVERecord?id=CVE-2026-96421)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-96422](https://www.cve.org/CVERecord?id=CVE-2026-96422)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-96423](https://www.cve.org/CVERecord?id=CVE-2026-96423)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** wireshark 4.4.19-0+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-10-03** - **[DLA-4816-1](https://security-tracker.debian.org/tracker/DLA-4816-1)** - pcre2
 
 **CVE(s) :**
