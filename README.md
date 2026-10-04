@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-10-03** - **[DLA-4816-1](https://security-tracker.debian.org/tracker/DLA-4816-1)** - pcre2
+
+**CVE(s) :**
+- **[CVE-2026-103111](https://www.cve.org/CVERecord?id=CVE-2026-103111)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** pcre2 10.42-1+deb12u2
+ **Type :** DLA
+
+------------------------------
+
 **2026-10-03** - **[DLA-4815-1](https://security-tracker.debian.org/tracker/DLA-4815-1)** - freecad
 
 **CVE(s) :**
@@ -5396,60 +5407,6 @@
 **Debian Version :** bookworm
  **Package Version :** chromium 153.0.8010.52-1~deb12u1
  **Type :** DLA
-
-------------------------------
-
-**2026-09-20** - **[DLA-4789-1](https://security-tracker.debian.org/tracker/DLA-4789-1)** - libde265
-
-**CVE(s) :**
-- **[CVE-2023-51792](https://www.cve.org/CVERecord?id=CVE-2023-51792)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-38949](https://www.cve.org/CVERecord?id=CVE-2024-38949)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2024-38950](https://www.cve.org/CVERecord?id=CVE-2024-38950)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-33164](https://www.cve.org/CVERecord?id=CVE-2026-33164)** : 🔥 **Severity: High** (Score: 8.7)
-
-- **[CVE-2026-33165](https://www.cve.org/CVERecord?id=CVE-2026-33165)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-45382](https://www.cve.org/CVERecord?id=CVE-2026-45382)** : 🟠 **Severity: Medium** (Score: 6.9)
-
-- **[CVE-2026-45383](https://www.cve.org/CVERecord?id=CVE-2026-45383)** : 🟠 **Severity: Medium** (Score: 6.9)
-
-- **[CVE-2026-49295](https://www.cve.org/CVERecord?id=CVE-2026-49295)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-49337](https://www.cve.org/CVERecord?id=CVE-2026-49337)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-49346](https://www.cve.org/CVERecord?id=CVE-2026-49346)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-54240](https://www.cve.org/CVERecord?id=CVE-2026-54240)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-54241](https://www.cve.org/CVERecord?id=CVE-2026-54241)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** libde265 1.0.11-1+deb12u3
- **Type :** DLA
-
-------------------------------
-
-**2026-09-20** - **[DSA-6509-1](https://security-tracker.debian.org/tracker/DSA-6509-1)** - gimp
-
-**CVE(s) :**
-- **[CVE-2026-78465](https://www.cve.org/CVERecord?id=CVE-2026-78465)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-78475](https://www.cve.org/CVERecord?id=CVE-2026-78475)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-82328](https://www.cve.org/CVERecord?id=CVE-2026-82328)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-90947](https://www.cve.org/CVERecord?id=CVE-2026-90947)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-90948](https://www.cve.org/CVERecord?id=CVE-2026-90948)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-92248](https://www.cve.org/CVERecord?id=CVE-2026-92248)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** trixie
- **Package Version :** gimp 3.0.4-3+deb13u11
- **Type :** DSA
 
 ------------------------------
 
