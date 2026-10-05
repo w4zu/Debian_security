@@ -1,5 +1,27 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-10-06** - **[DLA-4824-1](https://security-tracker.debian.org/tracker/DLA-4824-1)** - libpng1.6
+
+**CVE(s) :**
+- **[CVE-2026-46675](https://www.cve.org/CVERecord?id=CVE-2026-46675)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** libpng1.6 1.6.39-2+deb12u6
+ **Type :** DLA
+
+------------------------------
+
+**2026-10-05** - **[DLA-4822-1](https://security-tracker.debian.org/tracker/DLA-4822-1)** - ruby-oauth2
+
+**CVE(s) :**
+- **[CVE-2026-54603](https://www.cve.org/CVERecord?id=CVE-2026-54603)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** ruby-oauth2 1.4.4-1+deb12u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-10-05** - **[DLA-4821-1](https://security-tracker.debian.org/tracker/DLA-4821-1)** - perl
 
 **CVE(s) :**
@@ -76,6 +98,27 @@
 **Debian Version :** bookworm
  **Package Version :** php8.2 8.2.34-1~deb12u1
  **Type :** DLA
+
+------------------------------
+
+**2026-10-05** - **[DSA-6543-1](https://security-tracker.debian.org/tracker/DSA-6543-1)** - libreoffice
+
+**CVE(s) :**
+- **[CVE-2026-63266](https://www.cve.org/CVERecord?id=CVE-2026-63266)** : 🟠 **Severity: Medium** (Score: 6.8)
+
+- **[CVE-2026-63267](https://www.cve.org/CVERecord?id=CVE-2026-63267)** : 🟠 **Severity: Medium** (Score: 6.7)
+
+- **[CVE-2026-63268](https://www.cve.org/CVERecord?id=CVE-2026-63268)** : 🟠 **Severity: Medium** (Score: 6.7)
+
+- **[CVE-2026-63269](https://www.cve.org/CVERecord?id=CVE-2026-63269)** : 🟠 **Severity: Medium** (Score: 6.7)
+
+- **[CVE-2026-63270](https://www.cve.org/CVERecord?id=CVE-2026-63270)** : 🟠 **Severity: Medium** (Score: 6.7)
+
+- **[CVE-2026-63277](https://www.cve.org/CVERecord?id=CVE-2026-63277)** : 🔥 **Severity: High** (Score: 8.5)
+
+**Debian Version :** trixie
+ **Package Version :** libreoffice 4:25.2.3-2+deb13u8
+ **Type :** DSA
 
 ------------------------------
 
@@ -3284,8 +3327,6 @@
 - **[CVE-2026-19624](https://www.cve.org/CVERecord?id=CVE-2026-19624)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2026-75131](https://www.cve.org/CVERecord?id=CVE-2026-75131)** : 🔥 **Severity: High** (Score: 8.5)
-
-- **[CVE-2026-75883](https://www.cve.org/CVERecord?id=CVE-2026-75883)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2026-93337](https://www.cve.org/CVERecord?id=CVE-2026-93337)** : 🔥 **Severity: High** (Score: 8.5)
 
