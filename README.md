@@ -22,6 +22,59 @@
 
 ------------------------------
 
+**2026-10-06** - **[DSA-6548-1](https://security-tracker.debian.org/tracker/DSA-6548-1)** - node-shell-quote
+
+**CVE(s) :**
+- **[CVE-2026-13311](https://www.cve.org/CVERecord?id=CVE-2026-13311)** : 🔥 **Severity: High** (Score: 8.7)
+
+- **[CVE-2026-102422](https://www.cve.org/CVERecord?id=CVE-2026-102422)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** node-shell-quote 1.7.4+~1.7.1-1+deb13u2
+ **Type :** DSA
+
+------------------------------
+
+**2026-10-06** - **[DSA-6547-1](https://security-tracker.debian.org/tracker/DSA-6547-1)** - ruby-jwt
+
+**CVE(s) :**
+- **[CVE-2026-45363](https://www.cve.org/CVERecord?id=CVE-2026-45363)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** ruby-jwt 2.7.1-1+deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2026-10-06** - **[DSA-6546-1](https://security-tracker.debian.org/tracker/DSA-6546-1)** - rails
+
+**CVE(s) :**
+- **[CVE-2026-33168](https://www.cve.org/CVERecord?id=CVE-2026-33168)** : 🟠 **Severity: Medium** (Score: 2.3)
+
+- **[CVE-2026-33169](https://www.cve.org/CVERecord?id=CVE-2026-33169)** : 🟠 **Severity: Medium** (Score: 6.9)
+
+- **[CVE-2026-33170](https://www.cve.org/CVERecord?id=CVE-2026-33170)** : 🟠 **Severity: Medium** (Score: 5.3)
+
+- **[CVE-2026-33173](https://www.cve.org/CVERecord?id=CVE-2026-33173)** : 🟠 **Severity: Medium** (Score: 5.3)
+
+- **[CVE-2026-33174](https://www.cve.org/CVERecord?id=CVE-2026-33174)** : 🟠 **Severity: Medium** (Score: 6.6)
+
+- **[CVE-2026-33176](https://www.cve.org/CVERecord?id=CVE-2026-33176)** : 🟠 **Severity: Medium** (Score: 6.6)
+
+- **[CVE-2026-33195](https://www.cve.org/CVERecord?id=CVE-2026-33195)** : 🔥 **Severity: High** (Score: 8)
+
+- **[CVE-2026-33202](https://www.cve.org/CVERecord?id=CVE-2026-33202)** : 🟠 **Severity: Medium** (Score: 6.6)
+
+- **[CVE-2026-33658](https://www.cve.org/CVERecord?id=CVE-2026-33658)** : 🟠 **Severity: Medium** (Score: 2.3)
+
+- **[CVE-2026-66066](https://www.cve.org/CVERecord?id=CVE-2026-66066)** : 🔥 **Severity: High** (Score: 9.5)
+
+**Debian Version :** trixie
+ **Package Version :** rails 2:7.2.2.2+dfsg-2~deb13u2
+ **Type :** DSA
+
+------------------------------
+
 **2026-10-05** - **[DLA-4822-1](https://security-tracker.debian.org/tracker/DLA-4822-1)** - ruby-oauth2
 
 **CVE(s) :**
