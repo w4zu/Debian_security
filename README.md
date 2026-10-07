@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-10-07** - **[DLA-4826-1](https://security-tracker.debian.org/tracker/DLA-4826-1)** - puma
+
+**CVE(s) :**
+- **[CVE-2026-47736](https://www.cve.org/CVERecord?id=CVE-2026-47736)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-47737](https://www.cve.org/CVERecord?id=CVE-2026-47737)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** puma 5.6.5-3+deb12u2
+ **Type :** DLA
+
+------------------------------
+
 **2026-10-06** - **[DLA-4825-1](https://security-tracker.debian.org/tracker/DLA-4825-1)** - suricata-update
 
 **CVE(s) :**
