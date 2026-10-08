@@ -1,5 +1,53 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-10-08** - **[DLA-4828-1](https://security-tracker.debian.org/tracker/DLA-4828-1)** - gst-plugins-base1.0
+
+**CVE(s) :**
+- **[CVE-2026-18297](https://www.cve.org/CVERecord?id=CVE-2026-18297)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-85150](https://www.cve.org/CVERecord?id=CVE-2026-85150)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** gst-plugins-base1.0 1.22.0-3+deb12u7
+ **Type :** DLA
+
+------------------------------
+
+**2026-10-08** - **[DLA-4827-1](https://security-tracker.debian.org/tracker/DLA-4827-1)** - python3.11
+
+**CVE(s) :**
+- **[CVE-2025-69534](https://www.cve.org/CVERecord?id=CVE-2025-69534)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-1502](https://www.cve.org/CVERecord?id=CVE-2026-1502)** : 🟠 **Severity: Medium** (Score: 5.7)
+
+- **[CVE-2026-3276](https://www.cve.org/CVERecord?id=CVE-2026-3276)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+- **[CVE-2026-6019](https://www.cve.org/CVERecord?id=CVE-2026-6019)** : 🟠 **Severity: Medium** (Score: 2.1)
+
+- **[CVE-2026-8328](https://www.cve.org/CVERecord?id=CVE-2026-8328)** : 🟠 **Severity: Medium** (Score: 5.9)
+
+- **[CVE-2026-9669](https://www.cve.org/CVERecord?id=CVE-2026-9669)** : 🔥 **Severity: High** (Score: 8.2)
+
+- **[CVE-2026-15308](https://www.cve.org/CVERecord?id=CVE-2026-15308)** : 🔥 **Severity: High** (Score: 8.7)
+
+- **[CVE-2026-15310](https://www.cve.org/CVERecord?id=CVE-2026-15310)** : 🟠 **Severity: Medium** (Score: 2.1)
+
+- **[CVE-2026-15806](https://www.cve.org/CVERecord?id=CVE-2026-15806)** : 🟠 **Severity: Medium** (Score: 6)
+
+- **[CVE-2026-17084](https://www.cve.org/CVERecord?id=CVE-2026-17084)** : 🟠 **Severity: Medium** (Score: 6)
+
+- **[CVE-2026-18503](https://www.cve.org/CVERecord?id=CVE-2026-18503)** : 🟠 **Severity: Medium** (Score: 2.4)
+
+- **[CVE-2026-19445](https://www.cve.org/CVERecord?id=CVE-2026-19445)** : 🔥 **Severity: High** (Score: 9.2)
+
+- **[CVE-2026-19553](https://www.cve.org/CVERecord?id=CVE-2026-19553)** : 🔥 **Severity: High** (Score: 7.6)
+
+**Debian Version :** bookworm
+ **Package Version :** python3.11 3.11.2-6+deb12u9
+ **Type :** DLA
+
+------------------------------
+
 **2026-10-07** - **[DLA-4826-1](https://security-tracker.debian.org/tracker/DLA-4826-1)** - puma
 
 **CVE(s) :**
