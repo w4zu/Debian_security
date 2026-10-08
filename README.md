@@ -1,5 +1,41 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-10-08** - **[DLA-4830-1](https://security-tracker.debian.org/tracker/DLA-4830-1)** - twitter-bootstrap3
+
+**CVE(s) :**
+- **[CVE-2025-1647](https://www.cve.org/CVERecord?id=CVE-2025-1647)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** twitter-bootstrap3 3.4.1+dfsg-3+deb12u2
+ **Type :** DLA
+
+------------------------------
+
+**2026-10-08** - **[DLA-4829-1](https://security-tracker.debian.org/tracker/DLA-4829-1)** - rails
+
+**CVE(s) :**
+- **[CVE-2026-33168](https://www.cve.org/CVERecord?id=CVE-2026-33168)** : 🟠 **Severity: Medium** (Score: 2.3)
+
+- **[CVE-2026-33169](https://www.cve.org/CVERecord?id=CVE-2026-33169)** : 🟠 **Severity: Medium** (Score: 6.9)
+
+- **[CVE-2026-33170](https://www.cve.org/CVERecord?id=CVE-2026-33170)** : 🟠 **Severity: Medium** (Score: 5.3)
+
+- **[CVE-2026-33173](https://www.cve.org/CVERecord?id=CVE-2026-33173)** : 🟠 **Severity: Medium** (Score: 5.3)
+
+- **[CVE-2026-33176](https://www.cve.org/CVERecord?id=CVE-2026-33176)** : 🟠 **Severity: Medium** (Score: 6.6)
+
+- **[CVE-2026-33195](https://www.cve.org/CVERecord?id=CVE-2026-33195)** : 🔥 **Severity: High** (Score: 8)
+
+- **[CVE-2026-33202](https://www.cve.org/CVERecord?id=CVE-2026-33202)** : 🟠 **Severity: Medium** (Score: 6.6)
+
+- **[CVE-2026-66066](https://www.cve.org/CVERecord?id=CVE-2026-66066)** : 🔥 **Severity: High** (Score: 9.5)
+
+**Debian Version :** bookworm
+ **Package Version :** rails 2:6.1.7.10+dfsg-1~deb12u3
+ **Type :** DLA
+
+------------------------------
+
 **2026-10-08** - **[DLA-4828-1](https://security-tracker.debian.org/tracker/DLA-4828-1)** - gst-plugins-base1.0
 
 **CVE(s) :**
