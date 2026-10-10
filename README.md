@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-10-10** - **[DSA-6550-1](https://security-tracker.debian.org/tracker/DSA-6550-1)** - ghostscript
+
+**CVE(s) :**
+- **[CVE-2026-101258](https://www.cve.org/CVERecord?id=CVE-2026-101258)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-103226](https://www.cve.org/CVERecord?id=CVE-2026-103226)** : 🟠 **Severity: Medium** (Score: 5.3)
+
+**Debian Version :** trixie
+ **Package Version :** ghostscript 10.05.1~dfsg-1+deb13u3
+ **Type :** DSA
+
+------------------------------
+
 **2026-10-08** - **[DLA-4830-1](https://security-tracker.debian.org/tracker/DLA-4830-1)** - twitter-bootstrap3
 
 **CVE(s) :**
