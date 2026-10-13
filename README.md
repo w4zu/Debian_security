@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-10-13** - **[DLA-4834-1](https://security-tracker.debian.org/tracker/DLA-4834-1)** - keystone
+
+**CVE(s) :**
+- **[CVE-2026-90460](https://www.cve.org/CVERecord?id=CVE-2026-90460)** : 🔥 **Severity: High** (Score: 7.6)
+
+**Debian Version :** bookworm
+ **Package Version :** keystone 2:22.0.2-0+deb12u5
+ **Type :** DLA
+
+------------------------------
+
 **2026-10-13** - **[DLA-4833-1](https://security-tracker.debian.org/tracker/DLA-4833-1)** - chromium
 
 **CVE(s) :**
@@ -3453,8 +3464,6 @@
 - **[CVE-2026-93273](https://www.cve.org/CVERecord?id=CVE-2026-93273)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2026-93274](https://www.cve.org/CVERecord?id=CVE-2026-93274)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-93275](https://www.cve.org/CVERecord?id=CVE-2026-93275)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2026-93278](https://www.cve.org/CVERecord?id=CVE-2026-93278)** : **Severity: Unknown** (Score: N/A)
 
