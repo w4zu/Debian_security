@@ -1,5 +1,22 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-10-14** - **[DSA-6558-1](https://security-tracker.debian.org/tracker/DSA-6558-1)** - curl
+
+**CVE(s) :**
+- **[CVE-2026-8286](https://www.cve.org/CVERecord?id=CVE-2026-8286)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-8924](https://www.cve.org/CVERecord?id=CVE-2026-8924)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-8927](https://www.cve.org/CVERecord?id=CVE-2026-8927)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-92392](https://www.cve.org/CVERecord?id=CVE-2026-92392)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** curl 8.14.1-2+deb13u7
+ **Type :** DSA
+
+------------------------------
+
 **2026-10-13** - **[DLA-4834-1](https://security-tracker.debian.org/tracker/DLA-4834-1)** - keystone
 
 **CVE(s) :**
