@@ -1,5 +1,40 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-10-15** - **[DLA-4837-1](https://security-tracker.debian.org/tracker/DLA-4837-1)** - gst-plugins-good1.0
+
+**CVE(s) :**
+- **[CVE-2025-47183](https://www.cve.org/CVERecord?id=CVE-2025-47183)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-1940](https://www.cve.org/CVERecord?id=CVE-2026-1940)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-3083](https://www.cve.org/CVERecord?id=CVE-2026-3083)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-3085](https://www.cve.org/CVERecord?id=CVE-2026-3085)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-17072](https://www.cve.org/CVERecord?id=CVE-2026-17072)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-18298](https://www.cve.org/CVERecord?id=CVE-2026-18298)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-18299](https://www.cve.org/CVERecord?id=CVE-2026-18299)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-39043](https://www.cve.org/CVERecord?id=CVE-2026-39043)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-39044](https://www.cve.org/CVERecord?id=CVE-2026-39044)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-53705](https://www.cve.org/CVERecord?id=CVE-2026-53705)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-73433](https://www.cve.org/CVERecord?id=CVE-2026-73433)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-73434](https://www.cve.org/CVERecord?id=CVE-2026-73434)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-88914](https://www.cve.org/CVERecord?id=CVE-2026-88914)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** gst-plugins-good1.0 1.22.0-5+deb12u4
+ **Type :** DLA
+
+------------------------------
+
 **2026-10-15** - **[DLA-4836-1](https://security-tracker.debian.org/tracker/DLA-4836-1)** - firefox-esr
 
 **CVE(s) :**
