@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-10-16** - **[DLA-4840-1](https://security-tracker.debian.org/tracker/DLA-4840-1)** - jq
+
+**CVE(s) :**
+- **[CVE-2026-32316](https://www.cve.org/CVERecord?id=CVE-2026-32316)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** jq 1.6-2.1+deb12u3
+ **Type :** DLA
+
+------------------------------
+
 **2026-10-16** - **[DLA-4839-1](https://security-tracker.debian.org/tracker/DLA-4839-1)** - gst-plugins-bad1.0
 
 **CVE(s) :**
