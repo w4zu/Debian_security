@@ -11,6 +11,37 @@
 
 ------------------------------
 
+**2026-10-18** - **[DSA-6571-1](https://security-tracker.debian.org/tracker/DSA-6571-1)** - xen
+
+**CVE(s) :**
+- **[CVE-2026-62437](https://www.cve.org/CVERecord?id=CVE-2026-62437)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-79602](https://www.cve.org/CVERecord?id=CVE-2026-79602)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-79603](https://www.cve.org/CVERecord?id=CVE-2026-79603)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-79604](https://www.cve.org/CVERecord?id=CVE-2026-79604)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-79608](https://www.cve.org/CVERecord?id=CVE-2026-79608)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-79609](https://www.cve.org/CVERecord?id=CVE-2026-79609)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-79610](https://www.cve.org/CVERecord?id=CVE-2026-79610)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-79611](https://www.cve.org/CVERecord?id=CVE-2026-79611)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-102699](https://www.cve.org/CVERecord?id=CVE-2026-102699)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-102700](https://www.cve.org/CVERecord?id=CVE-2026-102700)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-102702](https://www.cve.org/CVERecord?id=CVE-2026-102702)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** xen 4.20.4+39-gf1e1321c87-0+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-10-17** - **[DLA-4841-1](https://security-tracker.debian.org/tracker/DLA-4841-1)** - linux
 
 **CVE(s) :**
