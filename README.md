@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-10-18** - **[DLA-4842-1](https://security-tracker.debian.org/tracker/DLA-4842-1)** - haproxy
+
+**CVE(s) :**
+- **[CVE-2026-33555](https://www.cve.org/CVERecord?id=CVE-2026-33555)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** haproxy 2.6.12-1+deb12u4
+ **Type :** DLA
+
+------------------------------
+
 **2026-10-17** - **[DLA-4841-1](https://security-tracker.debian.org/tracker/DLA-4841-1)** - linux
 
 **CVE(s) :**
