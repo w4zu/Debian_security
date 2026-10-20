@@ -1,5 +1,40 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-10-20** - **[DLA-4844-1](https://security-tracker.debian.org/tracker/DLA-4844-1)** - libssh
+
+**CVE(s) :**
+- **[CVE-2026-0964](https://www.cve.org/CVERecord?id=CVE-2026-0964)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0965](https://www.cve.org/CVERecord?id=CVE-2026-0965)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0966](https://www.cve.org/CVERecord?id=CVE-2026-0966)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0967](https://www.cve.org/CVERecord?id=CVE-2026-0967)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-0968](https://www.cve.org/CVERecord?id=CVE-2026-0968)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-3731](https://www.cve.org/CVERecord?id=CVE-2026-3731)** : 🟠 **Severity: Medium** (Score: 6.9)
+
+- **[CVE-2026-59843](https://www.cve.org/CVERecord?id=CVE-2026-59843)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-59844](https://www.cve.org/CVERecord?id=CVE-2026-59844)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-59845](https://www.cve.org/CVERecord?id=CVE-2026-59845)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-59846](https://www.cve.org/CVERecord?id=CVE-2026-59846)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-59847](https://www.cve.org/CVERecord?id=CVE-2026-59847)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-59848](https://www.cve.org/CVERecord?id=CVE-2026-59848)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-59850](https://www.cve.org/CVERecord?id=CVE-2026-59850)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** libssh 0.10.6-0+deb12u3
+ **Type :** DLA
+
+------------------------------
+
 **2026-10-19** - **[DLA-4843-1](https://security-tracker.debian.org/tracker/DLA-4843-1)** - python-django
 
 **CVE(s) :**
