@@ -35,6 +35,23 @@
 
 ------------------------------
 
+**2026-10-21** - **[DSA-6576-1](https://security-tracker.debian.org/tracker/DSA-6576-1)** - bind9
+
+**CVE(s) :**
+- **[CVE-2026-19630](https://www.cve.org/CVERecord?id=CVE-2026-19630)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-94300](https://www.cve.org/CVERecord?id=CVE-2026-94300)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-96888](https://www.cve.org/CVERecord?id=CVE-2026-96888)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-97313](https://www.cve.org/CVERecord?id=CVE-2026-97313)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** bind9 1:9.20.30-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-10-21** - **[DSA-6575-1](https://security-tracker.debian.org/tracker/DSA-6575-1)** - nginx
 
 **CVE(s) :**
