@@ -1,5 +1,29 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-10-21** - **[DLA-4848-1](https://security-tracker.debian.org/tracker/DLA-4848-1)** - php8.2
+
+**CVE(s) :**
+- **[CVE-2026-109618](https://www.cve.org/CVERecord?id=CVE-2026-109618)** : 🔥 **Severity: High** (Score: 9.2)
+
+- **[CVE-2026-109619](https://www.cve.org/CVERecord?id=CVE-2026-109619)** : 🔥 **Severity: High** (Score: 9.2)
+
+**Debian Version :** bookworm
+ **Package Version :** php8.2 8.2.35-1~deb12u1
+ **Type :** DLA
+
+------------------------------
+
+**2026-10-21** - **[DLA-4847-1](https://security-tracker.debian.org/tracker/DLA-4847-1)** - firefox-esr
+
+**CVE(s) :**
+- **[CVE-2026-113470](https://www.cve.org/CVERecord?id=CVE-2026-113470)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** firefox-esr 153.5.1esr-1~deb12u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-10-21** - **[DLA-4846-1](https://security-tracker.debian.org/tracker/DLA-4846-1)** - git-lfs
 
 **CVE(s) :**
@@ -8,6 +32,49 @@
 **Debian Version :** bookworm
  **Package Version :** git-lfs 3.3.0-1+deb12u2
  **Type :** DLA
+
+------------------------------
+
+**2026-10-21** - **[DSA-6575-1](https://security-tracker.debian.org/tracker/DSA-6575-1)** - nginx
+
+**CVE(s) :**
+- **[CVE-2026-15176](https://www.cve.org/CVERecord?id=CVE-2026-15176)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-93479](https://www.cve.org/CVERecord?id=CVE-2026-93479)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-95101](https://www.cve.org/CVERecord?id=CVE-2026-95101)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-97205](https://www.cve.org/CVERecord?id=CVE-2026-97205)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-97629](https://www.cve.org/CVERecord?id=CVE-2026-97629)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** nginx 1.26.3-3+deb13u10
+ **Type :** DSA
+
+------------------------------
+
+**2026-10-21** - **[DSA-6574-1](https://security-tracker.debian.org/tracker/DSA-6574-1)** - php8.4
+
+**CVE(s) :**
+- **[CVE-2026-109618](https://www.cve.org/CVERecord?id=CVE-2026-109618)** : 🔥 **Severity: High** (Score: 9.2)
+
+- **[CVE-2026-109619](https://www.cve.org/CVERecord?id=CVE-2026-109619)** : 🔥 **Severity: High** (Score: 9.2)
+
+**Debian Version :** trixie
+ **Package Version :** php8.4 8.4.27-1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2026-10-21** - **[DSA-6573-1](https://security-tracker.debian.org/tracker/DSA-6573-1)** - firefox-esr
+
+**CVE(s) :**
+- **[CVE-2026-113470](https://www.cve.org/CVERecord?id=CVE-2026-113470)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** firefox-esr 153.5.1esr-1~deb13u1
+ **Type :** DSA
 
 ------------------------------
 
