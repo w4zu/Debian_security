@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-10-21** - **[DLA-4846-1](https://security-tracker.debian.org/tracker/DLA-4846-1)** - git-lfs
+
+**CVE(s) :**
+- **[CVE-2025-26625](https://www.cve.org/CVERecord?id=CVE-2025-26625)** : 🔥 **Severity: High** (Score: 8.6)
+
+**Debian Version :** bookworm
+ **Package Version :** git-lfs 3.3.0-1+deb12u2
+ **Type :** DLA
+
+------------------------------
+
 **2026-10-20** - **[DLA-4844-1](https://security-tracker.debian.org/tracker/DLA-4844-1)** - libssh
 
 **CVE(s) :**
