@@ -1,5 +1,22 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-10-22** - **[DLA-4849-1](https://security-tracker.debian.org/tracker/DLA-4849-1)** - expat
+
+**CVE(s) :**
+- **[CVE-2025-59375](https://www.cve.org/CVERecord?id=CVE-2025-59375)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-56132](https://www.cve.org/CVERecord?id=CVE-2026-56132)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-77214](https://www.cve.org/CVERecord?id=CVE-2026-77214)** : 🔥 **Severity: High** (Score: 8.3)
+
+- **[CVE-2026-102633](https://www.cve.org/CVERecord?id=CVE-2026-102633)** : 🔥 **Severity: High** (Score: 8.2)
+
+**Debian Version :** bookworm
+ **Package Version :** expat 2.5.0-1+deb12u5
+ **Type :** DLA
+
+------------------------------
+
 **2026-10-21** - **[DLA-4848-1](https://security-tracker.debian.org/tracker/DLA-4848-1)** - php8.2
 
 **CVE(s) :**
