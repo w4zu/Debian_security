@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-10-23** - **[DLA-4855-1](https://security-tracker.debian.org/tracker/DLA-4855-1)** - brotli
+
+**CVE(s) :**
+- **[CVE-2026-111497](https://www.cve.org/CVERecord?id=CVE-2026-111497)** : 🔥 **Severity: High** (Score: 9.2)
+
+**Debian Version :** bookworm
+ **Package Version :** brotli 1.0.9-2+deb12u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-10-23** - **[DLA-4853-1](https://security-tracker.debian.org/tracker/DLA-4853-1)** - chromium
 
 **CVE(s) :**
