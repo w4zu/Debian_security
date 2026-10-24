@@ -1,5 +1,32 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-10-24** - **[DLA-4857-1](https://security-tracker.debian.org/tracker/DLA-4857-1)** - caddy
+
+**CVE(s) :**
+- **[CVE-2026-27585](https://www.cve.org/CVERecord?id=CVE-2026-27585)** : 🟠 **Severity: Medium** (Score: 6.9)
+
+- **[CVE-2026-27587](https://www.cve.org/CVERecord?id=CVE-2026-27587)** : 🔥 **Severity: High** (Score: 7.7)
+
+- **[CVE-2026-27588](https://www.cve.org/CVERecord?id=CVE-2026-27588)** : 🔥 **Severity: High** (Score: 7.7)
+
+- **[CVE-2026-27589](https://www.cve.org/CVERecord?id=CVE-2026-27589)** : 🟠 **Severity: Medium** (Score: 6.9)
+
+- **[CVE-2026-27590](https://www.cve.org/CVERecord?id=CVE-2026-27590)** : 🔥 **Severity: High** (Score: 8.9)
+
+- **[CVE-2026-45692](https://www.cve.org/CVERecord?id=CVE-2026-45692)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-52845](https://www.cve.org/CVERecord?id=CVE-2026-52845)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-52846](https://www.cve.org/CVERecord?id=CVE-2026-52846)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-77281](https://www.cve.org/CVERecord?id=CVE-2026-77281)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** caddy 2.6.2-5+deb12u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-10-23** - **[DLA-4856-1](https://security-tracker.debian.org/tracker/DLA-4856-1)** - xdg-dbus-proxy
 
 **CVE(s) :**
