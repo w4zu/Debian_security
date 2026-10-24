@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-10-23** - **[DLA-4856-1](https://security-tracker.debian.org/tracker/DLA-4856-1)** - xdg-dbus-proxy
+
+**CVE(s) :**
+- **[CVE-2026-94422](https://www.cve.org/CVERecord?id=CVE-2026-94422)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** xdg-dbus-proxy 0.1.4-3+deb12u2
+ **Type :** DLA
+
+------------------------------
+
 **2026-10-23** - **[DLA-4855-1](https://security-tracker.debian.org/tracker/DLA-4855-1)** - brotli
 
 **CVE(s) :**
@@ -778,6 +789,17 @@
 **Debian Version :** bookworm
  **Package Version :** clamav 1.4.6+dfsg-0+deb12u1
  **Type :** DLA
+
+------------------------------
+
+**2026-10-23** - **[DSA-6582-1](https://security-tracker.debian.org/tracker/DSA-6582-1)** - brotli
+
+**CVE(s) :**
+- **[CVE-2026-111497](https://www.cve.org/CVERecord?id=CVE-2026-111497)** : 🔥 **Severity: High** (Score: 9.2)
+
+**Debian Version :** trixie
+ **Package Version :** brotli 1.1.0-2+deb13u1
+ **Type :** DSA
 
 ------------------------------
 
@@ -7223,19 +7245,6 @@
 
 **Debian Version :** trixie
  **Package Version :** vips 8.16.1-1+deb13u2
- **Type :** DSA
-
-------------------------------
-
-**2026-10-10** - **[DSA-6550-1](https://security-tracker.debian.org/tracker/DSA-6550-1)** - ghostscript
-
-**CVE(s) :**
-- **[CVE-2026-101258](https://www.cve.org/CVERecord?id=CVE-2026-101258)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-103226](https://www.cve.org/CVERecord?id=CVE-2026-103226)** : 🟠 **Severity: Medium** (Score: 5.3)
-
-**Debian Version :** trixie
- **Package Version :** ghostscript 10.05.1~dfsg-1+deb13u3
  **Type :** DSA
 
 ------------------------------
