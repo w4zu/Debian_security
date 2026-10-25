@@ -1,5 +1,18 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-10-25** - **[DSA-6584-1](https://security-tracker.debian.org/tracker/DSA-6584-1)** - varnish
+
+**CVE(s) :**
+- **[CVE-2026-34475](https://www.cve.org/CVERecord?id=CVE-2026-34475)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-93894](https://www.cve.org/CVERecord?id=CVE-2026-93894)** : 🟠 **Severity: Medium** (Score: 2.3)
+
+**Debian Version :** trixie
+ **Package Version :** varnish 7.7.0-3+deb13u2
+ **Type :** DSA
+
+------------------------------
+
 **2026-10-24** - **[DLA-4857-1](https://security-tracker.debian.org/tracker/DLA-4857-1)** - caddy
 
 **CVE(s) :**
