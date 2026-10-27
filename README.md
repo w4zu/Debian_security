@@ -1,5 +1,120 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-10-27** - **[DSA-6589-1](https://security-tracker.debian.org/tracker/DSA-6589-1)** - php-mongodb
+
+**CVE(s) :**
+- **[CVE-2026-106432](https://www.cve.org/CVERecord?id=CVE-2026-106432)** : 🟠 **Severity: Medium** (Score: 2)
+
+- **[CVE-2026-106436](https://www.cve.org/CVERecord?id=CVE-2026-106436)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+- **[CVE-2026-112368](https://www.cve.org/CVERecord?id=CVE-2026-112368)** : 🔥 **Severity: High** (Score: 8.2)
+
+**Debian Version :** trixie
+ **Package Version :** php-mongodb 2.0.0-1+deb13u2
+ **Type :** DSA
+
+------------------------------
+
+**2026-10-27** - **[DSA-6588-1](https://security-tracker.debian.org/tracker/DSA-6588-1)** - openjdk-21
+
+**CVE(s) :**
+- **[CVE-2026-83374](https://www.cve.org/CVERecord?id=CVE-2026-83374)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-83376](https://www.cve.org/CVERecord?id=CVE-2026-83376)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-83378](https://www.cve.org/CVERecord?id=CVE-2026-83378)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-83380](https://www.cve.org/CVERecord?id=CVE-2026-83380)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-83381](https://www.cve.org/CVERecord?id=CVE-2026-83381)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-83387](https://www.cve.org/CVERecord?id=CVE-2026-83387)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-83395](https://www.cve.org/CVERecord?id=CVE-2026-83395)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-83400](https://www.cve.org/CVERecord?id=CVE-2026-83400)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-87290](https://www.cve.org/CVERecord?id=CVE-2026-87290)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-87291](https://www.cve.org/CVERecord?id=CVE-2026-87291)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-87292](https://www.cve.org/CVERecord?id=CVE-2026-87292)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-87294](https://www.cve.org/CVERecord?id=CVE-2026-87294)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-87367](https://www.cve.org/CVERecord?id=CVE-2026-87367)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-91332](https://www.cve.org/CVERecord?id=CVE-2026-91332)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-91333](https://www.cve.org/CVERecord?id=CVE-2026-91333)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-91334](https://www.cve.org/CVERecord?id=CVE-2026-91334)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-91335](https://www.cve.org/CVERecord?id=CVE-2026-91335)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-91373](https://www.cve.org/CVERecord?id=CVE-2026-91373)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-91374](https://www.cve.org/CVERecord?id=CVE-2026-91374)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-91375](https://www.cve.org/CVERecord?id=CVE-2026-91375)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-91379](https://www.cve.org/CVERecord?id=CVE-2026-91379)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-91380](https://www.cve.org/CVERecord?id=CVE-2026-91380)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-91382](https://www.cve.org/CVERecord?id=CVE-2026-91382)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-91394](https://www.cve.org/CVERecord?id=CVE-2026-91394)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-91397](https://www.cve.org/CVERecord?id=CVE-2026-91397)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-91398](https://www.cve.org/CVERecord?id=CVE-2026-91398)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-91400](https://www.cve.org/CVERecord?id=CVE-2026-91400)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-91403](https://www.cve.org/CVERecord?id=CVE-2026-91403)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-91410](https://www.cve.org/CVERecord?id=CVE-2026-91410)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-91411](https://www.cve.org/CVERecord?id=CVE-2026-91411)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-91415](https://www.cve.org/CVERecord?id=CVE-2026-91415)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-91418](https://www.cve.org/CVERecord?id=CVE-2026-91418)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-91451](https://www.cve.org/CVERecord?id=CVE-2026-91451)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-91452](https://www.cve.org/CVERecord?id=CVE-2026-91452)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-91453](https://www.cve.org/CVERecord?id=CVE-2026-91453)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-91461](https://www.cve.org/CVERecord?id=CVE-2026-91461)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-91462](https://www.cve.org/CVERecord?id=CVE-2026-91462)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-91463](https://www.cve.org/CVERecord?id=CVE-2026-91463)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-91464](https://www.cve.org/CVERecord?id=CVE-2026-91464)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-91487](https://www.cve.org/CVERecord?id=CVE-2026-91487)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** openjdk-21 21.0.13+9-1~deb13u2
+ **Type :** DSA
+
+------------------------------
+
+**2026-10-27** - **[DSA-6587-1](https://security-tracker.debian.org/tracker/DSA-6587-1)** - pdns
+
+**CVE(s) :**
+- **[CVE-2026-73206](https://www.cve.org/CVERecord?id=CVE-2026-73206)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** pdns 4.9.18-0+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-10-27** - **[DSA-6586-1](https://security-tracker.debian.org/tracker/DSA-6586-1)** - valkey
 
 **CVE(s) :**
