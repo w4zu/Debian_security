@@ -1,5 +1,62 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-10-31** - **[DLA-4873-1](https://security-tracker.debian.org/tracker/DLA-4873-1)** - dovecot
+
+**CVE(s) :**
+- **[CVE-2026-27852](https://www.cve.org/CVERecord?id=CVE-2026-27852)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-33263](https://www.cve.org/CVERecord?id=CVE-2026-33263)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-33604](https://www.cve.org/CVERecord?id=CVE-2026-33604)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-33605](https://www.cve.org/CVERecord?id=CVE-2026-33605)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-33606](https://www.cve.org/CVERecord?id=CVE-2026-33606)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-33607](https://www.cve.org/CVERecord?id=CVE-2026-33607)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-40013](https://www.cve.org/CVERecord?id=CVE-2026-40013)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-40014](https://www.cve.org/CVERecord?id=CVE-2026-40014)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-40015](https://www.cve.org/CVERecord?id=CVE-2026-40015)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-40017](https://www.cve.org/CVERecord?id=CVE-2026-40017)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-40018](https://www.cve.org/CVERecord?id=CVE-2026-40018)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-40203](https://www.cve.org/CVERecord?id=CVE-2026-40203)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-40204](https://www.cve.org/CVERecord?id=CVE-2026-40204)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-40205](https://www.cve.org/CVERecord?id=CVE-2026-40205)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-42007](https://www.cve.org/CVERecord?id=CVE-2026-42007)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-42008](https://www.cve.org/CVERecord?id=CVE-2026-42008)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-42391](https://www.cve.org/CVERecord?id=CVE-2026-42391)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-42393](https://www.cve.org/CVERecord?id=CVE-2026-42393)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-42394](https://www.cve.org/CVERecord?id=CVE-2026-42394)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-42395](https://www.cve.org/CVERecord?id=CVE-2026-42395)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-52681](https://www.cve.org/CVERecord?id=CVE-2026-52681)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-52687](https://www.cve.org/CVERecord?id=CVE-2026-52687)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-73208](https://www.cve.org/CVERecord?id=CVE-2026-73208)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-73209](https://www.cve.org/CVERecord?id=CVE-2026-73209)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** dovecot 1:2.3.19.1+dfsg1-2.1+deb12u7
+ **Type :** DLA
+
+------------------------------
+
 **2026-10-31** - **[DSA-6597-1](https://security-tracker.debian.org/tracker/DSA-6597-1)** - dpdk
 
 **CVE(s) :**
