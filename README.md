@@ -5373,16 +5373,3 @@
 
 ------------------------------
 
-**2026-10-19** - **[DLA-4843-1](https://security-tracker.debian.org/tracker/DLA-4843-1)** - python-django
-
-**CVE(s) :**
-- **[CVE-2026-77050](https://www.cve.org/CVERecord?id=CVE-2026-77050)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-87975](https://www.cve.org/CVERecord?id=CVE-2026-87975)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** bookworm
- **Package Version :** python-django 3:3.2.25-0+deb12u6
- **Type :** DLA
-
-------------------------------
-
