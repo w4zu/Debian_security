@@ -1,5 +1,20 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-11-03** - **[DSA-6606-1](https://security-tracker.debian.org/tracker/DSA-6606-1)** - squid
+
+**CVE(s) :**
+- **[CVE-2026-61642](https://www.cve.org/CVERecord?id=CVE-2026-61642)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-62846](https://www.cve.org/CVERecord?id=CVE-2026-62846)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-104786](https://www.cve.org/CVERecord?id=CVE-2026-104786)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** squid 6.13-2+deb13u4
+ **Type :** DSA
+
+------------------------------
+
 **2026-11-02** - **[DLA-4879-1](https://security-tracker.debian.org/tracker/DLA-4879-1)** - strongswan
 
 **CVE(s) :**
