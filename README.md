@@ -1,5 +1,27 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-11-04** - **[DLA-4880-1](https://security-tracker.debian.org/tracker/DLA-4880-1)** - apt
+
+**CVE(s) :**
+- **[CVE-2026-109518](https://www.cve.org/CVERecord?id=CVE-2026-109518)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** apt 2.6.2
+ **Type :** DLA
+
+------------------------------
+
+**2026-11-04** - **[DSA-6607-1](https://security-tracker.debian.org/tracker/DSA-6607-1)** - apt
+
+**CVE(s) :**
+- **[CVE-2026-109518](https://www.cve.org/CVERecord?id=CVE-2026-109518)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** apt 3.0.4
+ **Type :** DSA
+
+------------------------------
+
 **2026-11-03** - **[DSA-6606-1](https://security-tracker.debian.org/tracker/DSA-6606-1)** - squid
 
 **CVE(s) :**
