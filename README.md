@@ -1,5 +1,83 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-11-05** - **[DLA-4883-1](https://security-tracker.debian.org/tracker/DLA-4883-1)** - ntfs-3g
+
+**CVE(s) :**
+- **[CVE-2026-42616](https://www.cve.org/CVERecord?id=CVE-2026-42616)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-42617](https://www.cve.org/CVERecord?id=CVE-2026-42617)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-42618](https://www.cve.org/CVERecord?id=CVE-2026-42618)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-46569](https://www.cve.org/CVERecord?id=CVE-2026-46569)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-46570](https://www.cve.org/CVERecord?id=CVE-2026-46570)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-46571](https://www.cve.org/CVERecord?id=CVE-2026-46571)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-46572](https://www.cve.org/CVERecord?id=CVE-2026-46572)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-56135](https://www.cve.org/CVERecord?id=CVE-2026-56135)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-56136](https://www.cve.org/CVERecord?id=CVE-2026-56136)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** ntfs-3g 1:2022.10.3-1+deb12u4
+ **Type :** DLA
+
+------------------------------
+
+**2026-11-05** - **[DLA-4882-1](https://security-tracker.debian.org/tracker/DLA-4882-1)** - chromium
+
+**CVE(s) :**
+- **[CVE-2026-76024](https://www.cve.org/CVERecord?id=CVE-2026-76024)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-76025](https://www.cve.org/CVERecord?id=CVE-2026-76025)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-76026](https://www.cve.org/CVERecord?id=CVE-2026-76026)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-76027](https://www.cve.org/CVERecord?id=CVE-2026-76027)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-76028](https://www.cve.org/CVERecord?id=CVE-2026-76028)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-76029](https://www.cve.org/CVERecord?id=CVE-2026-76029)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-76030](https://www.cve.org/CVERecord?id=CVE-2026-76030)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-76031](https://www.cve.org/CVERecord?id=CVE-2026-76031)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-119260](https://www.cve.org/CVERecord?id=CVE-2026-119260)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-119261](https://www.cve.org/CVERecord?id=CVE-2026-119261)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-119262](https://www.cve.org/CVERecord?id=CVE-2026-119262)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-119263](https://www.cve.org/CVERecord?id=CVE-2026-119263)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-119264](https://www.cve.org/CVERecord?id=CVE-2026-119264)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-119265](https://www.cve.org/CVERecord?id=CVE-2026-119265)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-119266](https://www.cve.org/CVERecord?id=CVE-2026-119266)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-119267](https://www.cve.org/CVERecord?id=CVE-2026-119267)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-119268](https://www.cve.org/CVERecord?id=CVE-2026-119268)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-119269](https://www.cve.org/CVERecord?id=CVE-2026-119269)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-119270](https://www.cve.org/CVERecord?id=CVE-2026-119270)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-119271](https://www.cve.org/CVERecord?id=CVE-2026-119271)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-119272](https://www.cve.org/CVERecord?id=CVE-2026-119272)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** chromium 156.0.8078.79-1~deb12u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-11-04** - **[DLA-4881-1](https://security-tracker.debian.org/tracker/DLA-4881-1)** - xen
 
 **CVE(s) :**
