@@ -1,5 +1,27 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-11-06** - **[DLA-4886-1](https://security-tracker.debian.org/tracker/DLA-4886-1)** - telegram-desktop
+
+**CVE(s) :**
+- **[CVE-2026-107181](https://www.cve.org/CVERecord?id=CVE-2026-107181)** : 🔥 **Severity: High** (Score: 8.6)
+
+**Debian Version :** bookworm
+ **Package Version :** telegram-desktop 4.6.5+ds-2+deb12u1
+ **Type :** DLA
+
+------------------------------
+
+**2026-11-05** - **[DLA-4884-1](https://security-tracker.debian.org/tracker/DLA-4884-1)** - puppet-agent
+
+**CVE(s) :**
+- **[CVE-2026-115731](https://www.cve.org/CVERecord?id=CVE-2026-115731)** : 🔥 **Severity: High** (Score: 9.4)
+
+**Debian Version :** bookworm
+ **Package Version :** puppet-agent 7.23.0-1+deb12u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-11-05** - **[DLA-4883-1](https://security-tracker.debian.org/tracker/DLA-4883-1)** - ntfs-3g
 
 **CVE(s) :**
@@ -249,6 +271,17 @@
 
 **Debian Version :** trixie
  **Package Version :** xen 4.20.4+63-g7abfd2bce2-0+deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2026-11-04** - **[DSA-6608-1](https://security-tracker.debian.org/tracker/DSA-6608-1)** - puppet-agent
+
+**CVE(s) :**
+- **[CVE-2026-115731](https://www.cve.org/CVERecord?id=CVE-2026-115731)** : 🔥 **Severity: High** (Score: 9.4)
+
+**Debian Version :** trixie
+ **Package Version :** puppet-agent 8.10.0-5+deb13u1
  **Type :** DSA
 
 ------------------------------
