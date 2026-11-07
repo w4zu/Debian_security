@@ -1,5 +1,20 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-11-07** - **[DSA-6613-1](https://security-tracker.debian.org/tracker/DSA-6613-1)** - zlib
+
+**CVE(s) :**
+- **[CVE-2026-27171](https://www.cve.org/CVERecord?id=CVE-2026-27171)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-76844](https://www.cve.org/CVERecord?id=CVE-2026-76844)** : 🔥 **Severity: High** (Score: 8.3)
+
+- **[CVE-2026-85091](https://www.cve.org/CVERecord?id=CVE-2026-85091)** : 🔥 **Severity: High** (Score: 8.3)
+
+**Debian Version :** trixie
+ **Package Version :** zlib 1:1.3.dfsg+really1.3.1-1+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-11-06** - **[DLA-4886-1](https://security-tracker.debian.org/tracker/DLA-4886-1)** - telegram-desktop
 
 **CVE(s) :**
