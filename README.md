@@ -1,5 +1,76 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-11-07** - **[DLA-4887-1](https://security-tracker.debian.org/tracker/DLA-4887-1)** - cjose
+
+**CVE(s) :**
+- **[CVE-2026-53938](https://www.cve.org/CVERecord?id=CVE-2026-53938)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-53939](https://www.cve.org/CVERecord?id=CVE-2026-53939)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** cjose 0.6.2.1-1+deb12u2
+ **Type :** DLA
+
+------------------------------
+
+**2026-11-07** - **[DSA-6615-1](https://security-tracker.debian.org/tracker/DSA-6615-1)** - libreoffice
+
+**CVE(s) :**
+- **[CVE-2026-76181](https://www.cve.org/CVERecord?id=CVE-2026-76181)** : 🟠 **Severity: Medium** (Score: 5.4)
+
+**Debian Version :** trixie
+ **Package Version :** libreoffice 4:25.2.3-2+deb13u9
+ **Type :** DSA
+
+------------------------------
+
+**2026-11-07** - **[DSA-6614-1](https://security-tracker.debian.org/tracker/DSA-6614-1)** - ruby3.3
+
+**CVE(s) :**
+- **[CVE-2025-24294](https://www.cve.org/CVERecord?id=CVE-2025-24294)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2025-58767](https://www.cve.org/CVERecord?id=CVE-2025-58767)** : 🟠 **Severity: Medium** (Score: 1.2)
+
+- **[CVE-2025-61594](https://www.cve.org/CVERecord?id=CVE-2025-61594)** : 🟠 **Severity: Medium** (Score: 2.1)
+
+- **[CVE-2026-27820](https://www.cve.org/CVERecord?id=CVE-2026-27820)** : 🟠 **Severity: Medium** (Score: 1.7)
+
+- **[CVE-2026-41316](https://www.cve.org/CVERecord?id=CVE-2026-41316)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-42245](https://www.cve.org/CVERecord?id=CVE-2026-42245)** : 🟠 **Severity: Medium** (Score: 2.3)
+
+- **[CVE-2026-42246](https://www.cve.org/CVERecord?id=CVE-2026-42246)** : 🔥 **Severity: High** (Score: 7.6)
+
+- **[CVE-2026-42256](https://www.cve.org/CVERecord?id=CVE-2026-42256)** : 🟠 **Severity: Medium** (Score: 6)
+
+- **[CVE-2026-42257](https://www.cve.org/CVERecord?id=CVE-2026-42257)** : 🟠 **Severity: Medium** (Score: 5.8)
+
+- **[CVE-2026-42258](https://www.cve.org/CVERecord?id=CVE-2026-42258)** : 🟠 **Severity: Medium** (Score: 5.8)
+
+- **[CVE-2026-47240](https://www.cve.org/CVERecord?id=CVE-2026-47240)** : 🟠 **Severity: Medium** (Score: 5.8)
+
+- **[CVE-2026-47241](https://www.cve.org/CVERecord?id=CVE-2026-47241)** : 🟠 **Severity: Medium** (Score: 2.1)
+
+- **[CVE-2026-47242](https://www.cve.org/CVERecord?id=CVE-2026-47242)** : 🟠 **Severity: Medium** (Score: 5.8)
+
+- **[CVE-2026-80212](https://www.cve.org/CVERecord?id=CVE-2026-80212)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-80213](https://www.cve.org/CVERecord?id=CVE-2026-80213)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-89078](https://www.cve.org/CVERecord?id=CVE-2026-89078)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-93577](https://www.cve.org/CVERecord?id=CVE-2026-93577)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-97229](https://www.cve.org/CVERecord?id=CVE-2026-97229)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-110264](https://www.cve.org/CVERecord?id=CVE-2026-110264)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** ruby3.3 3.3.13-0+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-11-07** - **[DSA-6613-1](https://security-tracker.debian.org/tracker/DSA-6613-1)** - zlib
 
 **CVE(s) :**
@@ -22,6 +93,17 @@
 
 **Debian Version :** bookworm
  **Package Version :** telegram-desktop 4.6.5+ds-2+deb12u1
+ **Type :** DLA
+
+------------------------------
+
+**2026-11-05** - **[DLA-4885-1](https://security-tracker.debian.org/tracker/DLA-4885-1)** - trapperkeeper-authorization-clojure
+
+**CVE(s) :**
+- **[CVE-2026-115732](https://www.cve.org/CVERecord?id=CVE-2026-115732)** : 🔥 **Severity: High** (Score: 9)
+
+**Debian Version :** bookworm
+ **Package Version :** trapperkeeper-authorization-clojure 1.0.0-4+deb12u1
  **Type :** DLA
 
 ------------------------------
@@ -286,6 +368,17 @@
 
 **Debian Version :** trixie
  **Package Version :** xen 4.20.4+63-g7abfd2bce2-0+deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2026-11-04** - **[DSA-6609-1](https://security-tracker.debian.org/tracker/DSA-6609-1)** - trapperkeeper-authorization-clojure
+
+**CVE(s) :**
+- **[CVE-2026-115732](https://www.cve.org/CVERecord?id=CVE-2026-115732)** : 🔥 **Severity: High** (Score: 9)
+
+**Debian Version :** trixie
+ **Package Version :** trapperkeeper-authorization-clojure 2.0.1-2+deb13u1
  **Type :** DSA
 
 ------------------------------
