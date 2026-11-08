@@ -1,5 +1,20 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-11-08** - **[DSA-6616-1](https://security-tracker.debian.org/tracker/DSA-6616-1)** - linux
+
+**CVE(s) :**
+- **[CVE-2026-100080](https://www.cve.org/CVERecord?id=CVE-2026-100080)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-100081](https://www.cve.org/CVERecord?id=CVE-2026-100081)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-100082](https://www.cve.org/CVERecord?id=CVE-2026-100082)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** linux 6.12.116-1
+ **Type :** DSA
+
+------------------------------
+
 **2026-11-07** - **[DLA-4887-1](https://security-tracker.debian.org/tracker/DLA-4887-1)** - cjose
 
 **CVE(s) :**
