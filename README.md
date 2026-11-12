@@ -1,5 +1,53 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-11-11** - **[DLA-4895-1](https://security-tracker.debian.org/tracker/DLA-4895-1)** - aodh
+
+**CVE(s) :**
+- **[CVE-2026-76878](https://www.cve.org/CVERecord?id=CVE-2026-76878)** : 🔥 **Severity: High** (Score: 8.4)
+
+**Debian Version :** bookworm
+ **Package Version :** aodh 15.0.0-3+deb12u1
+ **Type :** DLA
+
+------------------------------
+
+**2026-11-11** - **[DLA-4894-1](https://security-tracker.debian.org/tracker/DLA-4894-1)** - watcher
+
+**CVE(s) :**
+- **[CVE-2026-76878](https://www.cve.org/CVERecord?id=CVE-2026-76878)** : 🔥 **Severity: High** (Score: 8.4)
+
+**Debian Version :** bookworm
+ **Package Version :** watcher 9.0.0-2+deb12u1
+ **Type :** DLA
+
+------------------------------
+
+**2026-11-11** - **[DLA-4893-1](https://security-tracker.debian.org/tracker/DLA-4893-1)** - octavia
+
+**CVE(s) :**
+- **[CVE-2026-74248](https://www.cve.org/CVERecord?id=CVE-2026-74248)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-94571](https://www.cve.org/CVERecord?id=CVE-2026-94571)** : 🔥 **Severity: High** (Score: 9.4)
+
+- **[CVE-2026-94572](https://www.cve.org/CVERecord?id=CVE-2026-94572)** : 🔥 **Severity: High** (Score: 9.4)
+
+**Debian Version :** bookworm
+ **Package Version :** octavia 11.0.0-2+deb12u1
+ **Type :** DLA
+
+------------------------------
+
+**2026-11-11** - **[DLA-4892-1](https://security-tracker.debian.org/tracker/DLA-4892-1)** - dnspython
+
+**CVE(s) :**
+- **[CVE-2026-114605](https://www.cve.org/CVERecord?id=CVE-2026-114605)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** dnspython 2.3.0-1+deb12u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-11-11** - **[DLA-4891-1](https://security-tracker.debian.org/tracker/DLA-4891-1)** - rsyslog
 
 **CVE(s) :**
