@@ -1,5 +1,16 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-11-15** - **[DSA-6629-1](https://security-tracker.debian.org/tracker/DSA-6629-1)** - network-manager-iodine
+
+**CVE(s) :**
+- **[CVE-2026-91837](https://www.cve.org/CVERecord?id=CVE-2026-91837)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** network-manager-iodine 1.2.0-3.3+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-11-14** - **[DLA-4905-1](https://security-tracker.debian.org/tracker/DLA-4905-1)** - postgresql-15
 
 **CVE(s) :**
@@ -90,6 +101,29 @@
 **Debian Version :** bookworm
  **Package Version :** postgresql-15 15.20-0+deb12u1
  **Type :** DLA
+
+------------------------------
+
+**2026-11-14** - **[DSA-6630-1](https://security-tracker.debian.org/tracker/DSA-6630-1)** - pdns-recursor
+
+**CVE(s) :**
+- **[CVE-2026-73205](https://www.cve.org/CVERecord?id=CVE-2026-73205)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-73206](https://www.cve.org/CVERecord?id=CVE-2026-73206)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-85555](https://www.cve.org/CVERecord?id=CVE-2026-85555)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-85556](https://www.cve.org/CVERecord?id=CVE-2026-85556)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-85557](https://www.cve.org/CVERecord?id=CVE-2026-85557)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-85558](https://www.cve.org/CVERecord?id=CVE-2026-85558)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-85559](https://www.cve.org/CVERecord?id=CVE-2026-85559)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** pdns-recursor 5.4.9-1~deb13u1
+ **Type :** DSA
 
 ------------------------------
 
