@@ -3396,8 +3396,6 @@
 
 - **[CVE-2026-80905](https://www.cve.org/CVERecord?id=CVE-2026-80905)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2026-80920](https://www.cve.org/CVERecord?id=CVE-2026-80920)** : **Severity: Unknown** (Score: N/A)
-
 - **[CVE-2026-80948](https://www.cve.org/CVERecord?id=CVE-2026-80948)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2026-89528](https://www.cve.org/CVERecord?id=CVE-2026-89528)** : **Severity: Unknown** (Score: N/A)
