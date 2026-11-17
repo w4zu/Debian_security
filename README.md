@@ -1,5 +1,33 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-11-17** - **[DLA-4913-1](https://security-tracker.debian.org/tracker/DLA-4913-1)** - znc
+
+**CVE(s) :**
+- **[CVE-2026-82373](https://www.cve.org/CVERecord?id=CVE-2026-82373)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-82374](https://www.cve.org/CVERecord?id=CVE-2026-82374)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** znc 1.8.2-3.1+deb12u2
+ **Type :** DLA
+
+------------------------------
+
+**2026-11-16** - **[DLA-4912-1](https://security-tracker.debian.org/tracker/DLA-4912-1)** - zaqar
+
+**CVE(s) :**
+- **[CVE-2026-66139](https://www.cve.org/CVERecord?id=CVE-2026-66139)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-97404](https://www.cve.org/CVERecord?id=CVE-2026-97404)** : 🔥 **Severity: High** (Score: 9.2)
+
+- **[CVE-2026-107363](https://www.cve.org/CVERecord?id=CVE-2026-107363)** : 🟠 **Severity: Medium** (Score: 6.1)
+
+**Debian Version :** bookworm
+ **Package Version :** zaqar 15.0.0-1+deb12u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-11-16** - **[DLA-4910-1](https://security-tracker.debian.org/tracker/DLA-4910-1)** - roundcube
 
 **CVE(s) :**
