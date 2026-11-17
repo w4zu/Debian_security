@@ -1,5 +1,78 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-11-16** - **[DLA-4910-1](https://security-tracker.debian.org/tracker/DLA-4910-1)** - roundcube
+
+**CVE(s) :**
+- **[CVE-2026-113386](https://www.cve.org/CVERecord?id=CVE-2026-113386)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-114714](https://www.cve.org/CVERecord?id=CVE-2026-114714)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-114715](https://www.cve.org/CVERecord?id=CVE-2026-114715)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-114716](https://www.cve.org/CVERecord?id=CVE-2026-114716)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-114717](https://www.cve.org/CVERecord?id=CVE-2026-114717)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-114718](https://www.cve.org/CVERecord?id=CVE-2026-114718)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-114719](https://www.cve.org/CVERecord?id=CVE-2026-114719)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-114720](https://www.cve.org/CVERecord?id=CVE-2026-114720)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-114721](https://www.cve.org/CVERecord?id=CVE-2026-114721)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-114722](https://www.cve.org/CVERecord?id=CVE-2026-114722)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-114723](https://www.cve.org/CVERecord?id=CVE-2026-114723)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-114724](https://www.cve.org/CVERecord?id=CVE-2026-114724)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-114725](https://www.cve.org/CVERecord?id=CVE-2026-114725)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-114726](https://www.cve.org/CVERecord?id=CVE-2026-114726)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-114727](https://www.cve.org/CVERecord?id=CVE-2026-114727)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-114728](https://www.cve.org/CVERecord?id=CVE-2026-114728)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-114729](https://www.cve.org/CVERecord?id=CVE-2026-114729)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-114730](https://www.cve.org/CVERecord?id=CVE-2026-114730)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-114731](https://www.cve.org/CVERecord?id=CVE-2026-114731)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-114732](https://www.cve.org/CVERecord?id=CVE-2026-114732)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-126813](https://www.cve.org/CVERecord?id=CVE-2026-126813)** : 🔥 **Severity: High** (Score: 7.4)
+
+**Debian Version :** bookworm
+ **Package Version :** roundcube 1.6.5+dfsg-1+deb12u13
+ **Type :** DLA
+
+------------------------------
+
+**2026-11-16** - **[DLA-4909-1](https://security-tracker.debian.org/tracker/DLA-4909-1)** - lightdm
+
+**CVE(s) :**
+- **[CVE-2026-129246](https://www.cve.org/CVERecord?id=CVE-2026-129246)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** lightdm 1.26.0-8+deb12u1
+ **Type :** DLA
+
+------------------------------
+
+**2026-11-16** - **[DSA-6633-1](https://security-tracker.debian.org/tracker/DSA-6633-1)** - lightdm
+
+**CVE(s) :**
+- **[CVE-2026-129246](https://www.cve.org/CVERecord?id=CVE-2026-129246)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** lightdm 1.32.0-6+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-11-15** - **[DLA-4908-1](https://security-tracker.debian.org/tracker/DLA-4908-1)** - sogo
 
 **CVE(s) :**
@@ -5532,8 +5605,6 @@
 **CVE(s) :**
 - **[CVE-2026-27171](https://www.cve.org/CVERecord?id=CVE-2026-27171)** : **Severity: Unknown** (Score: N/A)
 
-- **[CVE-2026-76844](https://www.cve.org/CVERecord?id=CVE-2026-76844)** : 🔥 **Severity: High** (Score: 8.3)
-
 - **[CVE-2026-85091](https://www.cve.org/CVERecord?id=CVE-2026-85091)** : 🔥 **Severity: High** (Score: 8.3)
 
 **Debian Version :** trixie
@@ -5857,21 +5928,6 @@
 
 **Debian Version :** trixie
  **Package Version :** apt 3.0.4
- **Type :** DSA
-
-------------------------------
-
-**2026-11-03** - **[DSA-6606-1](https://security-tracker.debian.org/tracker/DSA-6606-1)** - squid
-
-**CVE(s) :**
-- **[CVE-2026-61642](https://www.cve.org/CVERecord?id=CVE-2026-61642)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-62846](https://www.cve.org/CVERecord?id=CVE-2026-62846)** : **Severity: Unknown** (Score: N/A)
-
-- **[CVE-2026-104786](https://www.cve.org/CVERecord?id=CVE-2026-104786)** : **Severity: Unknown** (Score: N/A)
-
-**Debian Version :** trixie
- **Package Version :** squid 6.13-2+deb13u4
  **Type :** DSA
 
 ------------------------------
