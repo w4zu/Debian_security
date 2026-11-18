@@ -1,5 +1,99 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-11-18** - **[DSA-6638-1](https://security-tracker.debian.org/tracker/DSA-6638-1)** - haproxy
+
+**CVE(s) :**
+- **[CVE-2026-55203](https://www.cve.org/CVERecord?id=CVE-2026-55203)** : 🔥 **Severity: High** (Score: 9)
+
+- **[CVE-2026-55204](https://www.cve.org/CVERecord?id=CVE-2026-55204)** : 🔥 **Severity: High** (Score: 8.7)
+
+- **[CVE-2026-110353](https://www.cve.org/CVERecord?id=CVE-2026-110353)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** haproxy 3.0.11-1+deb13u5
+ **Type :** DSA
+
+------------------------------
+
+**2026-11-18** - **[DSA-6637-1](https://security-tracker.debian.org/tracker/DSA-6637-1)** - needrestart
+
+**CVE(s) :**
+- **[CVE-2026-124757](https://www.cve.org/CVERecord?id=CVE-2026-124757)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** needrestart 3.11-1.1~deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2026-11-18** - **[DSA-6636-1](https://security-tracker.debian.org/tracker/DSA-6636-1)** - libvisio
+
+**CVE(s) :**
+- **[CVE-2026-106535](https://www.cve.org/CVERecord?id=CVE-2026-106535)** : 🟠 **Severity: Medium** (Score: 5.4)
+
+**Debian Version :** trixie
+ **Package Version :** libvisio 0.1.7-1+deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2026-11-18** - **[DSA-6635-1](https://security-tracker.debian.org/tracker/DSA-6635-1)** - libreoffice
+
+**CVE(s) :**
+- **[CVE-2026-18563](https://www.cve.org/CVERecord?id=CVE-2026-18563)** : 🟠 **Severity: Medium** (Score: 5.4)
+
+- **[CVE-2026-18564](https://www.cve.org/CVERecord?id=CVE-2026-18564)** : 🟠 **Severity: Medium** (Score: 6.9)
+
+- **[CVE-2026-18565](https://www.cve.org/CVERecord?id=CVE-2026-18565)** : 🟠 **Severity: Medium** (Score: 1.1)
+
+- **[CVE-2026-18566](https://www.cve.org/CVERecord?id=CVE-2026-18566)** : 🟠 **Severity: Medium** (Score: 5.4)
+
+- **[CVE-2026-63277](https://www.cve.org/CVERecord?id=CVE-2026-63277)** : 🔥 **Severity: High** (Score: 8.5)
+
+- **[CVE-2026-84234](https://www.cve.org/CVERecord?id=CVE-2026-84234)** : 🟠 **Severity: Medium** (Score: 5.4)
+
+- **[CVE-2026-84443](https://www.cve.org/CVERecord?id=CVE-2026-84443)** : 🔥 **Severity: High** (Score: 8.5)
+
+- **[CVE-2026-87932](https://www.cve.org/CVERecord?id=CVE-2026-87932)** : 🟠 **Severity: Medium** (Score: 6.8)
+
+- **[CVE-2026-97892](https://www.cve.org/CVERecord?id=CVE-2026-97892)** : 🟠 **Severity: Medium** (Score: 5.4)
+
+- **[CVE-2026-97894](https://www.cve.org/CVERecord?id=CVE-2026-97894)** : 🟠 **Severity: Medium** (Score: 5.4)
+
+- **[CVE-2026-97999](https://www.cve.org/CVERecord?id=CVE-2026-97999)** : 🟠 **Severity: Medium** (Score: 5.4)
+
+- **[CVE-2026-98100](https://www.cve.org/CVERecord?id=CVE-2026-98100)** : 🟠 **Severity: Medium** (Score: 5.4)
+
+- **[CVE-2026-101351](https://www.cve.org/CVERecord?id=CVE-2026-101351)** : 🟠 **Severity: Medium** (Score: 1.9)
+
+- **[CVE-2026-101352](https://www.cve.org/CVERecord?id=CVE-2026-101352)** : 🔥 **Severity: High** (Score: 8.5)
+
+- **[CVE-2026-101353](https://www.cve.org/CVERecord?id=CVE-2026-101353)** : 🟠 **Severity: Medium** (Score: 6.8)
+
+- **[CVE-2026-101892](https://www.cve.org/CVERecord?id=CVE-2026-101892)** : 🔥 **Severity: High** (Score: 8.5)
+
+- **[CVE-2026-101929](https://www.cve.org/CVERecord?id=CVE-2026-101929)** : 🟠 **Severity: Medium** (Score: 5.4)
+
+- **[CVE-2026-101930](https://www.cve.org/CVERecord?id=CVE-2026-101930)** : 🔥 **Severity: High** (Score: 8.5)
+
+- **[CVE-2026-101933](https://www.cve.org/CVERecord?id=CVE-2026-101933)** : 🟠 **Severity: Medium** (Score: 5.4)
+
+- **[CVE-2026-104007](https://www.cve.org/CVERecord?id=CVE-2026-104007)** : 🔥 **Severity: High** (Score: 8.5)
+
+- **[CVE-2026-104692](https://www.cve.org/CVERecord?id=CVE-2026-104692)** : 🔥 **Severity: High** (Score: 8.5)
+
+- **[CVE-2026-104920](https://www.cve.org/CVERecord?id=CVE-2026-104920)** : 🔥 **Severity: High** (Score: 8.5)
+
+- **[CVE-2026-104933](https://www.cve.org/CVERecord?id=CVE-2026-104933)** : 🟠 **Severity: Medium** (Score: 6.7)
+
+- **[CVE-2026-108169](https://www.cve.org/CVERecord?id=CVE-2026-108169)** : 🔥 **Severity: High** (Score: 7.3)
+
+**Debian Version :** trixie
+ **Package Version :** libreoffice 4:25.2.3-2+deb13u12
+ **Type :** DSA
+
+------------------------------
+
 **2026-11-17** - **[DLA-4915-1](https://security-tracker.debian.org/tracker/DLA-4915-1)** - librest
 
 **CVE(s) :**
