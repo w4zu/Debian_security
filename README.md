@@ -1,5 +1,118 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-11-19** - **[DLA-4919-1](https://security-tracker.debian.org/tracker/DLA-4919-1)** - pam-mysql
+
+**CVE(s) :**
+- **[CVE-2026-124749](https://www.cve.org/CVERecord?id=CVE-2026-124749)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** pam-mysql 0.8.2-2+deb12u1
+ **Type :** DLA
+
+------------------------------
+
+**2026-11-19** - **[DLA-4918-1](https://security-tracker.debian.org/tracker/DLA-4918-1)** - nginx
+
+**CVE(s) :**
+- **[CVE-2023-44487](https://www.cve.org/CVERecord?id=CVE-2023-44487)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-15176](https://www.cve.org/CVERecord?id=CVE-2026-15176)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-93479](https://www.cve.org/CVERecord?id=CVE-2026-93479)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-97205](https://www.cve.org/CVERecord?id=CVE-2026-97205)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-113425](https://www.cve.org/CVERecord?id=CVE-2026-113425)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-118899](https://www.cve.org/CVERecord?id=CVE-2026-118899)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-123007](https://www.cve.org/CVERecord?id=CVE-2026-123007)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-123633](https://www.cve.org/CVERecord?id=CVE-2026-123633)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-123634](https://www.cve.org/CVERecord?id=CVE-2026-123634)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-123640](https://www.cve.org/CVERecord?id=CVE-2026-123640)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-125283](https://www.cve.org/CVERecord?id=CVE-2026-125283)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** nginx 1.22.1-9+deb12u11
+ **Type :** DLA
+
+------------------------------
+
+**2026-11-19** - **[DLA-4917-1](https://security-tracker.debian.org/tracker/DLA-4917-1)** - openjdk-17
+
+**CVE(s) :**
+- **[CVE-2026-91403](https://www.cve.org/CVERecord?id=CVE-2026-91403)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-114938](https://www.cve.org/CVERecord?id=CVE-2026-114938)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-114939](https://www.cve.org/CVERecord?id=CVE-2026-114939)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-114940](https://www.cve.org/CVERecord?id=CVE-2026-114940)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-114942](https://www.cve.org/CVERecord?id=CVE-2026-114942)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-114943](https://www.cve.org/CVERecord?id=CVE-2026-114943)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-114944](https://www.cve.org/CVERecord?id=CVE-2026-114944)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-114945](https://www.cve.org/CVERecord?id=CVE-2026-114945)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-114946](https://www.cve.org/CVERecord?id=CVE-2026-114946)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** openjdk-17 17.0.21.1+2-1~deb12u1
+ **Type :** DLA
+
+------------------------------
+
+**2026-11-19** - **[DLA-4916-1](https://security-tracker.debian.org/tracker/DLA-4916-1)** - php8.2
+
+**CVE(s) :**
+- **[CVE-2026-15353](https://www.cve.org/CVERecord?id=CVE-2026-15353)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+- **[CVE-2026-115560](https://www.cve.org/CVERecord?id=CVE-2026-115560)** : 🔥 **Severity: High** (Score: 9.2)
+
+- **[CVE-2026-126714](https://www.cve.org/CVERecord?id=CVE-2026-126714)** : 🔥 **Severity: High** (Score: 9.2)
+
+- **[CVE-2026-127960](https://www.cve.org/CVERecord?id=CVE-2026-127960)** : 🔥 **Severity: High** (Score: 8.7)
+
+- **[CVE-2026-128064](https://www.cve.org/CVERecord?id=CVE-2026-128064)** : 🔥 **Severity: High** (Score: 8.2)
+
+- **[CVE-2026-128090](https://www.cve.org/CVERecord?id=CVE-2026-128090)** : 🔥 **Severity: High** (Score: 7.7)
+
+- **[CVE-2026-129289](https://www.cve.org/CVERecord?id=CVE-2026-129289)** : 🔥 **Severity: High** (Score: 9.2)
+
+- **[CVE-2026-129291](https://www.cve.org/CVERecord?id=CVE-2026-129291)** : 🔥 **Severity: High** (Score: 8.8)
+
+- **[CVE-2026-129292](https://www.cve.org/CVERecord?id=CVE-2026-129292)** : 🟠 **Severity: Medium** (Score: 5.3)
+
+- **[CVE-2026-129496](https://www.cve.org/CVERecord?id=CVE-2026-129496)** : 🔥 **Severity: High** (Score: 9.2)
+
+- **[CVE-2026-129506](https://www.cve.org/CVERecord?id=CVE-2026-129506)** : 🟠 **Severity: Medium** (Score: 6.3)
+
+- **[CVE-2026-129538](https://www.cve.org/CVERecord?id=CVE-2026-129538)** : 🟠 **Severity: Medium** (Score: 6.9)
+
+**Debian Version :** bookworm
+ **Package Version :** php8.2 8.2.36-1~deb12u1
+ **Type :** DLA
+
+------------------------------
+
+**2026-11-19** - **[DSA-6643-1](https://security-tracker.debian.org/tracker/DSA-6643-1)** - pam-mysql
+
+**CVE(s) :**
+- **[CVE-2026-124749](https://www.cve.org/CVERecord?id=CVE-2026-124749)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** pam-mysql 0.8.2-2.1+deb13u1
+ **Type :** DSA
+
+------------------------------
+
 **2026-11-19** - **[DSA-6642-1](https://security-tracker.debian.org/tracker/DSA-6642-1)** - nginx
 
 **CVE(s) :**
@@ -48,7 +161,11 @@
 
 - **[CVE-2026-129292](https://www.cve.org/CVERecord?id=CVE-2026-129292)** : 🟠 **Severity: Medium** (Score: 5.3)
 
+- **[CVE-2026-129481](https://www.cve.org/CVERecord?id=CVE-2026-129481)** : 🔥 **Severity: High** (Score: 9.2)
+
 - **[CVE-2026-129496](https://www.cve.org/CVERecord?id=CVE-2026-129496)** : 🔥 **Severity: High** (Score: 9.2)
+
+- **[CVE-2026-129501](https://www.cve.org/CVERecord?id=CVE-2026-129501)** : 🟠 **Severity: Medium** (Score: 6.3)
 
 - **[CVE-2026-129506](https://www.cve.org/CVERecord?id=CVE-2026-129506)** : 🟠 **Severity: Medium** (Score: 6.3)
 
@@ -5891,17 +6008,6 @@
 **Debian Version :** trixie
  **Package Version :** zlib 1:1.3.dfsg+really1.3.1-1+deb13u1
  **Type :** DSA
-
-------------------------------
-
-**2026-11-06** - **[DLA-4886-1](https://security-tracker.debian.org/tracker/DLA-4886-1)** - telegram-desktop
-
-**CVE(s) :**
-- **[CVE-2026-107181](https://www.cve.org/CVERecord?id=CVE-2026-107181)** : 🔥 **Severity: High** (Score: 8.6)
-
-**Debian Version :** bookworm
- **Package Version :** telegram-desktop 4.6.5+ds-2+deb12u1
- **Type :** DLA
 
 ------------------------------
 
