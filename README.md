@@ -1,5 +1,27 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-11-20** - **[DLA-4921-1](https://security-tracker.debian.org/tracker/DLA-4921-1)** - needrestart
+
+**CVE(s) :**
+- **[CVE-2026-124757](https://www.cve.org/CVERecord?id=CVE-2026-124757)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** needrestart 3.6-4+deb12u4
+ **Type :** DLA
+
+------------------------------
+
+**2026-11-19** - **[DLA-4920-1](https://security-tracker.debian.org/tracker/DLA-4920-1)** - electrum
+
+**CVE(s) :**
+- **[CVE-2026-117601](https://www.cve.org/CVERecord?id=CVE-2026-117601)** : 🔥 **Severity: High** (Score: 9.3)
+
+**Debian Version :** bookworm
+ **Package Version :** electrum 4.3.4+dfsg1-1+deb12u2
+ **Type :** DLA
+
+------------------------------
+
 **2026-11-19** - **[DLA-4919-1](https://security-tracker.debian.org/tracker/DLA-4919-1)** - pam-mysql
 
 **CVE(s) :**
