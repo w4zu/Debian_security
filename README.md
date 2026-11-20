@@ -1,5 +1,27 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-11-20** - **[DLA-4924-1](https://security-tracker.debian.org/tracker/DLA-4924-1)** - gpgme1.0
+
+**CVE(s) :**
+- **[CVE-2026-129975](https://www.cve.org/CVERecord?id=CVE-2026-129975)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** gpgme1.0 1.18.0-3+deb12u1
+ **Type :** DLA
+
+------------------------------
+
+**2026-11-20** - **[DLA-4922-1](https://security-tracker.debian.org/tracker/DLA-4922-1)** - network-manager-iodine
+
+**CVE(s) :**
+- **[CVE-2026-91837](https://www.cve.org/CVERecord?id=CVE-2026-91837)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** network-manager-iodine 1.2.0-3.2+deb12u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-11-20** - **[DLA-4921-1](https://security-tracker.debian.org/tracker/DLA-4921-1)** - needrestart
 
 **CVE(s) :**
@@ -8,6 +30,28 @@
 **Debian Version :** bookworm
  **Package Version :** needrestart 3.6-4+deb12u4
  **Type :** DLA
+
+------------------------------
+
+**2026-11-20** - **[DSA-6646-1](https://security-tracker.debian.org/tracker/DSA-6646-1)** - gpgme1.0
+
+**CVE(s) :**
+- **[CVE-2026-129975](https://www.cve.org/CVERecord?id=CVE-2026-129975)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** gpgme1.0 1.24.2-3+deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2026-11-20** - **[DSA-6644-1](https://security-tracker.debian.org/tracker/DSA-6644-1)** - ruby3.3
+
+**CVE(s) :**
+- **[CVE-2026-132825](https://www.cve.org/CVERecord?id=CVE-2026-132825)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** ruby3.3 3.3.14-0+deb13u1
+ **Type :** DSA
 
 ------------------------------
 
