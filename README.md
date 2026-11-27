@@ -1,5 +1,27 @@
 # Debian Security Advisories (DSA & DLA) - for the last 14 days
 
+**2026-11-27** - **[DLA-4943-1](https://security-tracker.debian.org/tracker/DLA-4943-1)** - node-dompurify
+
+**CVE(s) :**
+- **[CVE-2024-45801](https://www.cve.org/CVERecord?id=CVE-2024-45801)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** node-dompurify 2.4.1+dfsg+~2.4.0-2+deb12u2
+ **Type :** DLA
+
+------------------------------
+
+**2026-11-27** - **[DLA-4942-1](https://security-tracker.debian.org/tracker/DLA-4942-1)** - linux
+
+**CVE(s) :**
+- **[CVE-2026-99362](https://www.cve.org/CVERecord?id=CVE-2026-99362)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** bookworm
+ **Package Version :** linux 6.1.192-3
+ **Type :** DLA
+
+------------------------------
+
 **2026-11-27** - **[DLA-4941-1](https://security-tracker.debian.org/tracker/DLA-4941-1)** - pam
 
 **CVE(s) :**
@@ -25,6 +47,8 @@
 - **[CVE-2026-94056](https://www.cve.org/CVERecord?id=CVE-2026-94056)** : **Severity: Unknown** (Score: N/A)
 
 - **[CVE-2026-94057](https://www.cve.org/CVERecord?id=CVE-2026-94057)** : **Severity: Unknown** (Score: N/A)
+
+- **[CVE-2026-137702](https://www.cve.org/CVERecord?id=CVE-2026-137702)** : **Severity: Unknown** (Score: N/A)
 
 **Debian Version :** bookworm
  **Package Version :** exim4 4.96-15+deb12u11
@@ -830,6 +854,17 @@
 
 **Debian Version :** trixie
  **Package Version :** shadow 1:4.17.4-2+deb13u1
+ **Type :** DSA
+
+------------------------------
+
+**2026-11-25** - **[DSA-6659-1](https://security-tracker.debian.org/tracker/DSA-6659-1)** - exim4
+
+**CVE(s) :**
+- **[CVE-2026-137702](https://www.cve.org/CVERecord?id=CVE-2026-137702)** : **Severity: Unknown** (Score: N/A)
+
+**Debian Version :** trixie
+ **Package Version :** exim4 4.98.2-1+deb13u6
  **Type :** DSA
 
 ------------------------------
