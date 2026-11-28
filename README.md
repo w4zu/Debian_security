@@ -11,6 +11,17 @@
 
 ------------------------------
 
+**2026-11-27** - **[DLA-4947-1](https://security-tracker.debian.org/tracker/DLA-4947-1)** - poetry
+
+**CVE(s) :**
+- **[CVE-2026-41140](https://www.cve.org/CVERecord?id=CVE-2026-41140)** : 🟠 **Severity: Medium** (Score: 0.6)
+
+**Debian Version :** bookworm
+ **Package Version :** poetry 1.3.2+dfsg-3+deb12u1
+ **Type :** DLA
+
+------------------------------
+
 **2026-11-27** - **[DLA-4945-1](https://security-tracker.debian.org/tracker/DLA-4945-1)** - patch
 
 **CVE(s) :**
